@@ -8,8 +8,10 @@ permalink:           pretty
 title:               'weletranslations'
 tagline:             'Translating since 1917'
 description:         'A blog focused on the translation of Xianxia novels'
-url:                 http://neogranular.github.io
-baseurl:             'http://neogranular.github.io'
+#url:                 http://neogranular.github.io
+#baseurl:             'http://neogranular.github.io'
+url:                 http://weletranslation.com
+baseurl:             'http://weletranslation.com'
 paginate:            5
 
 # About/contact
