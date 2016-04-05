@@ -9,7 +9,7 @@ title:               'weletranslations'
 tagline:             'Translating since 1917'
 description:         'A blog focused on the translation of Xianxia novels'
 url:                 http://weletranslation.com
-baseurl:             'http://weletranslation.com'
+baseurl:             'http://neogranular.github.io'
 paginate:            5
 
 # About/contact
