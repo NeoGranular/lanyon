@@ -14,9 +14,11 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              NG
+  url:               http://weletranslation.com/
+  email:             none@localhost
+
+# Website layout designed by Mark Otto
 
 # Custom vars
 version:             1.0.0
