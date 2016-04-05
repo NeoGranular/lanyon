@@ -5,6 +5,8 @@ published: true
 ---
 
 
-<p class="message">
-  Some random About message! Include later!
-</p>
+### About us
+
+Just two guys (+1 editor) who love Xianxia trying to give back to the community. Right now we are quite busy but soon will catch speed.
+
+Template designed by [Mark Otto](https://github.com/poole/lanyon)
