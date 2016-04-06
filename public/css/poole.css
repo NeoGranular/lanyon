@@ -61,7 +61,8 @@ html {
 /* background-color: #fff; */
 
 body {
-  color: #515151;
+  color: #c1c1c1;
+/* color: #515151; */
   background-color: #808080;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -86,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
-  color: #d1d1d1;
+  color: #e1e1e1;
   text-rendering: optimizeLegibility;
 }
 h1 {
