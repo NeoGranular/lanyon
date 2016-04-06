@@ -10,6 +10,7 @@ This time no longer were there vast stretches of medicines, but rather just a fe
 
 These herbs, although they were few in number, just by a glance, Yang Chen could determine, that there were, at least, three six-leaves-ginseng. Although they only revealed the top of their surface so that only six leaves and the roots underneath were visible, Yang Chen using his years of experience could swiftly determine that the ginseng beneath that had, at least, surpassed two thousand years of age.
 <!--more-->
+
 At the time when these three ginsengs were transplanted into this medicine garden, they were already thousand year ginsengs. After passing a thousand years more in the medicine garden, these ginsengs already had an almost perfect essence.
 
 To step into the ranks of the gold pellet sect at foundation stage is a great accomplishment, refining the thousand year ginseng into a nature oil, such an opportunity could increase his chances by at least three times. These three ginsengs were enough for Yang Chen to make three nature pills. At that time, whether it is the teachers or the seniors who desire to breakthrough, all could be used to increase his chances.
