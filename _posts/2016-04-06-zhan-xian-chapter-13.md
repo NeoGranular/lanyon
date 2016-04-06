@@ -9,7 +9,7 @@ published: true
 Seven by seven, forty nine raised flying swords made people in Yang Chen's previous life terror-stricken at the news of the seven steps enchanting deadly array. This place was left behind by the mountain god for later generations before ascending to heaven, but due to some unknown reason, it couldn't be passed on. Not to mention that Yang Chen at present had cultivated only to the first qi layer, even for Yuanying Beginning Stage experts, one wrong step and they would also be killed by those forty nine flying swords. In his previous life, the sect which discovered and occupied the Yang Mountain medicinal garden paid the price with several Yuanying experts.
 
 At this moment, Yang Chen was confronting such a frighteningly great enchantment. However, Yang Chen knew the key to entering the spell, thus in his opinion it wasn't the least bit dangerous.
-
+<!--more-->
 Within the enormous palace hall, there was not a single object or soul apart from Yang Chen present. The floor beneath his feet was made up of uniformly patterned square tiles, as smooth as a mirror. However, it gave off a kind of warm feeling as it was being stepped on. Here the spirit power was pretty close to ordinary, no longer resembling the thin spirit power outside.
 
 Yang Chen was exactly in the middle of palace hall. Passing through it, he came across that camouflaged large tree which spread up until here. This exact piece of the slab under his foot should be the starting point of the seven steps enchanting deadly array.
