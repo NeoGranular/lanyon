@@ -1,7 +1,7 @@
 ---
-published: true
 layout: post
 title: "Chapter 13 - Peeled Fruits Best For Consumption"
+published: true
 ---
 
 
@@ -110,6 +110,6 @@ When one Profound Yang Fruit’s core was exhausted, Yang Chen also stopped his 
 
 A fragrant smell was coming from his mouth. The profound yang fruit’s core still left an aftertaste in Yang Chen’s mind. This one core had increased his cultivation. Even lightly drawing air, the sweet fragrance entered his mouth, piercing through to his abdomen. Unable to contain his emotions, he continued to linger on enjoying such a rare delicacy, feeling as if he had become tipsy due to wine.
 
-“It seems this fruit tastes delicious after peeling! Ah!”
+"It seems this fruit tastes delicious after peeling! Ah!"
 
 Yang Chen, who gazed towards the profound yang fruit, couldn’t help but say this loudly a countless number of times, pausing only to sigh.
