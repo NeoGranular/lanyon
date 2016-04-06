@@ -1,7 +1,9 @@
 ---
-published: false
+published: true
 layout: post
+title: "Chapter 13 - Peeled Fruits Best For Consumption"
 ---
+
 
 Seven by seven, forty nine raised flying swords made people in Yang Chen’s previous life terror-stricken at the news of the seven steps enchanting deadly array. This place was left behind by the mountain god for later generations before ascending to heaven, but due to some unknown reason, it couldn’t be passed on. Not to mention that Yang Chen at present had cultivated only to the first qi layer, even for Yuanying Beginning Stage experts, one wrong step and they would also be killed by those forty nine flying swords. In his previous life, the sect which discovered and occupied the Yang Mountain medicinal garden paid the price with several Yuanying experts.
 
