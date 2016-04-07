@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+title: "Chapter 15 - First Temper Yourself"
 ---
 
 “An executioner who kills will receive the wrath of the heavens?”
@@ -7,7 +9,8 @@ Yang Chen replied, looking at the person who would speak these kinds of words wh
  
 Yang Chen recognized him, his name was Sun Hai Jing. He was a disciple of the Pure Yang Palace, belonging to the Luminous Moon Hall. In his previous life, this Luminous Moon Hall and the Fierce Yang Hall to which Yang Chen belonged, were secretly clashing with one another. Yang Chen’s master was the head of the Fierce Yang Hall. 
 Yang Chen had a fire attributed spirit root, if he joined the Pure Yang Palace, if not for some strange accident, he would surely enter the Fierce Yang Hall. Sun Hai Jing suddenly appearing and blaming him without any cause would then again be only natural. But Yang Chen was baffled, when did he become so well known? Even in the Pure Yang Palace, which could only be considered a third rate sect in the field of cultivation, someone unexpectedly knew his great name and status.
-  
+<!--more-->
+
 “Murder is murder, don’t tell me it is different based on status?”
 Sun Hai Jing looked at Yang Chen’s guiltless face and loudly snorted.
 “What’s more, you have killed so many, even the Pure Yang Palace won’t accept this kind of a monster.”
