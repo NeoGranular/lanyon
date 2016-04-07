@@ -3,6 +3,7 @@ published: true
 layout: post
 title: "Chapter 15 - First Temper Yourself"
 category: zhan_xian
+chapter: 15
 ---
 
 “An executioner who kills will receive the wrath of the heavens?”
