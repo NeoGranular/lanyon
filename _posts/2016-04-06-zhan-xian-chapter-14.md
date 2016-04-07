@@ -2,7 +2,9 @@
 published: true
 layout: post
 title: "Chapter 14 - Executioners Also Desire Immortality"
-category: zhan_xian
+category: zhan-xian
+previous_chapter: 13
+next_chapter: 15
 ---
 
 While passing through the fields of Profound Yang Fruit, Yang Chen came across another scene.
