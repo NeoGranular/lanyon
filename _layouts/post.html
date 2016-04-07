@@ -9,12 +9,12 @@ layout: default
 </div>
 
 <div class="PageNavigation">
-  {% if page.previous_chapter %}
+  {% if page.previous_chapter != blank %}
   <a class="prev" href="{{site.baseurl}}/{{page.category}}/{{page.category}}-chapter-{{page.previous_chapter}}.html">&laquo; Previous Chapter</a>
   {% else %}
   <a class="prev"></a>
   {% endif %}
-  { if page.next_chapter %}
+  { if page.next_chapter != blank %}
   <a class="next" href="{{site.baseurl}}/{{page.category}}/{{page.category}}-chapter-{{page.next_chapter}}.html">&raquo; Next Chapter</a>
   {% endif %}
 </div>
