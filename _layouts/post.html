@@ -15,7 +15,7 @@ layout: default
   {% else %}
   <a class="prev"></a>
   {% endif %}
-  { if page.next_chapter != blank %}
+  {% if page.next_chapter != blank %}
   <a class="next" href="{{site.baseurl}}/{{page.category}}/{{page.category}}-chapter-{{page.next_chapter}}.html">&raquo; Next Chapter</a>
   {% endif %}
 </div>
