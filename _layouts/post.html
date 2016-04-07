@@ -8,6 +8,10 @@ layout: default
   {{ content }}
 </div>
 
+<div>
+  <p>{{ chapter }}</p>
+</div>
+
 <div class="PageNavigation">
   {% if page.previous.url %}
     <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
