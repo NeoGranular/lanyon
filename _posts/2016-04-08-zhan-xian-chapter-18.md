@@ -8,7 +8,7 @@ previous_chapter: 17
 This explanation from Shangguan Feng made Yang Chen understand everything in the end. Why Chu Heng had asked for his status to be raised this high, when originally he was filled with malicious thoughts.
 
 Since Yang Chen had already received the status of a third qi layer outer disciple, the people responsible of guiding new disciples in the Ye Xiu manor would not provide any guidance to Yang Chen. He was at the third qi layer but still wanted to learn these unpopular mediocre introductory subjects just to amuse himself? 
- 
+<!--more-->
 If Yang Chen had been as ordinary as he was in his previous life, then that would have been the end of the story for him, he would have no means to learn to read and write. As he wouldn’t have any knowledge of letters, then the rare books about cultivation methods would have made no sense to him and he wouldn’t have known about the five phases of Yin and Yang. Wanting to cultivate to immortality like that? Let alone three years, even if he had thirty, he would still have remained a mediocre person and nothing more.
 
 Chu Heng had a definite goal, if Yang Chen was incapable of getting out of this predicament at the Ye Xiu manor, he would be unable to move even one step further on the road to immortal cultivation. In this way, he not only entrusted this task to someone else, but also after Sun Hai Jing’s condition would improve and he was able to cultivate for a few years, he could easily take Yang Chen’s life in an oppressive way.
