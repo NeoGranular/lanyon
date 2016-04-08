@@ -4,6 +4,7 @@ layout: post
 title: "Chapter 16 - Promises Must Be Kept"
 category: zhan-xian
 previous_chapter: 15
+next_chapter: 17
 ---
 
 Rather than saying that this offer was for the benefit of Yang Chen, so that he could start cultivating earlier, it would be better to say, that this was an opportunity for Sun Hai Jing to use right and proper reasons to abuse Yang Chen. It’s important to know, that Sun Hai Jing had already cultivated for several years and at that time he had already reached the qi refining realm. Although reaching the third qi layer was not any frightening talent to be envied, for dealing with an ordinary person this was more than enough.
