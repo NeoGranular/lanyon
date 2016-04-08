@@ -37,14 +37,14 @@
       if ($(this).prop('checked'))
       {
           $('body').addClass('light-mode');
-          $('dsq-app2').contents().find('body').removeClass('dark serif');
-          $('dsq-app2').contents().find('body').addClass('light serif');
+          $('dsq-app2').contents().find('body').removeClass('serif dark');
+          $('dsq-app2').contents().find('body').addClass('serif light');
       }
       else
       {
           $('body').removeClass('light-mode');
-          $('dsq-app2').contents().find('body').removeClass('light serif');
-          $('dsq-app2').contents().find('body').addClass('dark serif');
+          $('dsq-app2').contents().find('body').removeClass('serif light');
+          $('dsq-app2').contents().find('body').addClass('serif dark');
       }
     
     });
