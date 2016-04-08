@@ -1,0 +1,38 @@
+body.light-mode{
+  color: #515151;
+  background-color: #fff;
+}
+
+.light-mode a {
+  color: #268bd2;
+  text-decoration: none;
+}
+
+.light-mode strong {
+  color: #d0d0d0;
+}
+
+.light-mode h1, h2, h3, h4, h5, h6 {
+  color: #313131;
+}
+
+.light-mode.masthead {
+  border-bottom: 1px solid #eee;
+}
+
+.light-mode.masthead-title {
+  color: #505050;
+}
+
+.light-mode.sidebar-toggle:active,
+#sidebar-checkbox:focus ~ .light-mode.sidebar-toggle,
+#sidebar-checkbox:checked ~ .light-mode.sidebar-toggle {
+  color: #fff;
+  background-color: #555;
+}
+
+.light-mode.page-title,
+.light-mode.post-title,
+.light-mode.post-title a {
+  color: #303030;
+}
