@@ -33,7 +33,7 @@
   <!-- Light-Mode script -->
   <script>
   $(document).ready(function () {
-    if(Cookie.get('mode')=="light"){
+    if(Cookies.get('mode')=="light"){
       $('#mode').prop('checked', true);
     } else {
       $('#mode').prop('checked', false);
@@ -53,7 +53,7 @@
               }
             });
           }
-          Cookie.set('mode','light');
+          Cookies.set('mode','light');
       }
       else
       {
@@ -67,7 +67,7 @@
               }
             });
           }
-          Cookie.set('mode','dark');
+          Cookies.set('mode','dark');
       }
     
     });
