@@ -8,7 +8,8 @@
   
   <!-- jquery -->
   <script   src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
-
+  <script src="{{site.baseurl}}/public/js.cookie-2.1.0.min.js"></script>
+  
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
@@ -32,6 +33,12 @@
   <!-- Light-Mode script -->
   <script>
   $(document).ready(function () {
+    if(Cookie.get('mode')=="light"){
+      $('#mode').prop('checked', true);
+    } else {
+      $('#mode').prop('checked', false);
+    }
+    
     $('#mode').change(function(){   
     
       if ($(this).prop('checked'))
@@ -46,6 +53,7 @@
               }
             });
           }
+          Cookie.set('mode','light');
       }
       else
       {
@@ -59,6 +67,7 @@
               }
             });
           }
+          Cookie.set('mode','dark');
       }
     
     });
