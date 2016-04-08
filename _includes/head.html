@@ -38,7 +38,10 @@
       {
           $('body').addClass('light-mode');
           if (typeof disqus_config == 'function') { 
-            disqus_config();
+            disqus_config(){
+              this.page.url = '{{ site.baseurl }}{{ page.url }}';
+              this.page.identifier = '{{ page.id }}';
+            };
           }
           //$('dsq-app2').attr('src', $('dsq-app2').attr('src'));
           //$('dsq-app2').contents().find('body').removeClass('serif dark');
@@ -48,7 +51,10 @@
       {
           $('body').removeClass('light-mode');
           if (typeof disqus_config == 'function') { 
-            disqus_config();
+            disqus_config(){
+              this.page.url = '{{ site.baseurl }}{{ page.url }}';
+              this.page.identifier = '{{ page.id }}';
+            };
           }
           //$('dsq-app2').attr('src', $('dsq-app2').attr('src'));
           //$('dsq-app2').contents().find('body').removeClass('serif light');
