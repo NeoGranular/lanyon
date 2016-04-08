@@ -8,6 +8,11 @@ body.light-mode{
   text-decoration: none;
 }
 
+.light-mode a:hover,
+.light-mode a:focus {
+  text-decoration: underline;
+}
+
 .light-mode strong {
   color: #d0d0d0;
 }
