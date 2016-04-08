@@ -4,6 +4,7 @@ layout: post
 title: "Chapter 19 - The Strength to Subdue A Group Of Ten"
 category: zhan-xian
 previous_chapter: 18
+next_chapter: 20
 ---
 Yang Chen was not even a little bit surprised at Shangguan Feng’s appearance. The spiritual awareness of an expert at the peak of the qi realm was enough to cover the entire Ye Xiu Manor, even if a blade of grass moved inside of the Ye Xiu Manor because of some wind, it would still not escape his spiritual awareness, much less Yang Chen who had been the focus of his attention, thus not watching him attentively at all times would be terrible.
 
