@@ -37,7 +37,7 @@
       if ($(this).prop('checked'))
       {
           $('body').addClass('light-mode');
-          if(DISQUS != null){
+          if(typeof DISQUS != 'undefined'){
             DISQUS.reset({
               reload: true,
               config: function () {  
@@ -50,7 +50,7 @@
       else
       {
           $('body').removeClass('light-mode');
-          if(DISQUS != null){
+          if(typeof DISQUS != 'undefined'){
             DISQUS.reset({
               reload: true,
               config: function () {  
