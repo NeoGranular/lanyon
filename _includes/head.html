@@ -37,10 +37,14 @@
       if ($(this).prop('checked'))
       {
           $('body').addClass('light-mode');
+          $('iframe').$('body').removeClass('dark serif');
+          $('iframe').$('body').addClass('light serif');
       }
       else
       {
           $('body').removeClass('light-mode');
+          $('iframe').$('body').removeClass('light serif');
+          $('iframe').$('body').addClass('dark serif');
       }
     
     });
