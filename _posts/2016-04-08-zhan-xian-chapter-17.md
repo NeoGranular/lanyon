@@ -4,6 +4,7 @@ layout: post
 title: "Chapter 17 - Who Would Still Dare Instruct You"
 category: zhan-xian
 previous_chapter: 16
+next_chapter: 18
 ---
 Chu Heng looked utterly flustered and exasperated, but since Law Enforcement Hall’s Du Qian was present right now, even if Chu Heng had enormous guts, he still did not dare to hit Yang Chen in front of Du Qian. Thus, with a loud groan he didn’t pay any more attention to Yang Chen and directly rushed to his disciple to examine his injuries.
 
