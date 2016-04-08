@@ -35,6 +35,16 @@
   $(document).ready(function () {
     if(Cookies.get('mode')=="light"){
       $('#mode').prop('checked', true);
+      $('body').addClass('light-mode');
+          if(typeof DISQUS != 'undefined'){
+            DISQUS.reset({
+              reload: true,
+              config: function () {  
+                this.page.url = '{{ site.baseurl }}{{ page.url }}';
+                this.page.identifier = '{{ page.id }}';
+              }
+            });
+          }
     } else {
       $('#mode').prop('checked', false);
     }
