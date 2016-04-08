@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: commented_page
 title: Suggestions
 published: true
 ---
