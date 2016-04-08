@@ -37,10 +37,28 @@
       if ($(this).prop('checked'))
       {
           $('body').addClass('light-mode');
+          if(DISQUS != null){
+            DISQUS.reset({
+              reload: true,
+              config: function () {  
+                this.page.url = '{{ site.baseurl }}{{ page.url }}';
+                this.page.identifier = '{{ page.id }}';
+              }
+            });
+          }
       }
       else
       {
           $('body').removeClass('light-mode');
+          if(DISQUS != null){
+            DISQUS.reset({
+              reload: true,
+              config: function () {  
+                this.page.url = '{{ site.baseurl }}{{ page.url }}';
+                this.page.identifier = '{{ page.id }}';
+              }
+            });
+          }
       }
     
     });
