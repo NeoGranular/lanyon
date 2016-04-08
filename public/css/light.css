@@ -16,27 +16,27 @@ body.light-mode{
   color: #313131;
 }
 
-.light-mode.masthead {
+.light-mode .masthead {
   border-bottom: 1px solid #eee !important;
 }
 
-.light-mode.masthead-title {
+.light-mode .masthead-title {
   color: #505050 !important;
 }
 
-.light-mode.masthead-title a {
+.light-mode .masthead-title a {
   color: #505050 !important;
 }
 
-.light-mode.sidebar-toggle:active,
-#sidebar-checkbox:focus ~ .light-mode.sidebar-toggle,
-#sidebar-checkbox:checked ~ .light-mode.sidebar-toggle {
+.light-mode .sidebar-toggle:active,
+#sidebar-checkbox:focus ~ .light-mode .sidebar-toggle,
+#sidebar-checkbox:checked ~ .light-mode .sidebar-toggle {
   color: #fff;
   background-color: #555;
 }
 
-.light-mode.page-title,
-.light-mode.post-title,
-.light-mode.post-title a {
+.light-mode .page-title,
+.light-mode .post-title,
+.light-mode .post-title a {
   color: #303030;
 }
