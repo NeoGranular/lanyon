@@ -24,6 +24,10 @@ body.light-mode{
   color: #505050;
 }
 
+.light-mode.masthead-title a {
+  color: #505050;
+}
+
 .light-mode.sidebar-toggle:active,
 #sidebar-checkbox:focus ~ .light-mode.sidebar-toggle,
 #sidebar-checkbox:checked ~ .light-mode.sidebar-toggle {
