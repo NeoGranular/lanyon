@@ -17,15 +17,19 @@ body.light-mode{
 }
 
 .light-mode .masthead {
-  border-bottom: 1px solid #eee !important;
+  border-bottom: 1px solid #eee;
 }
 
 .light-mode .masthead-title {
-  color: #505050 !important;
+  color: #505050;
 }
 
 .light-mode .masthead-title a {
-  color: #505050 !important;
+  color: #505050;
+}
+
+.light-mode .sidebar a {
+  color: #fff;
 }
 
 .light-mode .sidebar-toggle:active,
