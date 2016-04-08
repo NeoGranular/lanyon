@@ -4,6 +4,7 @@ layout: post
 title: "Chapter 18 - Explaining The Rules"
 category: zhan-xian
 previous_chapter: 17
+next_chapter: 19
 ---
 This explanation from Shangguan Feng made Yang Chen understand everything in the end. Why Chu Heng had asked for his status to be raised this high, when originally he was filled with malicious thoughts.
 
