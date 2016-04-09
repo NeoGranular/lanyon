@@ -617,6 +617,14 @@ a.pagination-item:hover {
   top:290px;
 }
 
+@media(max-width: 895px) {
+  .PageNavigation { overflow:initial; }
+}
+
+@media(min-width: 896px) {
+  .PageNavigation { overflow:hidden; width:740px;}
+}
+
 @media(max-width: 1500px) { 
   .upper_rect, .lower_rect { position:static; }
   .PageNavigation { overflow:initial; }
