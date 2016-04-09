@@ -593,7 +593,6 @@ a.pagination-item:hover {
   text-align: right;
 }
 
-
 /* AdSense Styles */
 .upper_rect {
   float:left;
@@ -619,6 +618,7 @@ a.pagination-item:hover {
 
 @media(max-width: 895px) {
   .PageNavigation { overflow:initial; }
+  .ad_space { height: 560px; }
 }
 
 @media(min-width: 896px) {
@@ -628,4 +628,5 @@ a.pagination-item:hover {
 @media(max-width: 1500px) { 
   .upper_rect, .lower_rect { position:static; }
   .PageNavigation { overflow:initial; }
+  .ad_space { height: 290px; }
 }
