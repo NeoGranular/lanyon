@@ -605,7 +605,6 @@ a.pagination-item:hover {
   top:0px;
   margin-right:10px;
   margin-bottom:10px;
-  background-color:red;
 }
 
 .lower_rect {
@@ -616,7 +615,6 @@ a.pagination-item:hover {
   position:absolute;
   left:750px;
   top:290px;
-  background-color:green;
 }
 
 @media(max-width: 1500px) { .upper_rect, .lower_rect { position:static; } }
