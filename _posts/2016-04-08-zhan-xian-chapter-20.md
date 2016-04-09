@@ -4,6 +4,7 @@ layout: post
 title: "Chapter 20 - I Can Guide You"
 category: zhan-xian
 previous_chapter: 19
+next_chapter: 21
 ---
 The speed of the rod was very fast, and it’s power quite pressing, but it was unable to endanger Shangguan Feng in any way. Even if he lightly dodged he could immediately get out of the way.
 
