@@ -611,3 +611,5 @@ a.pagination-item:hover {
   top:280px;
   background-color:green;
 }
+
+@media(max-width: 480px) { .upper_rect, .lower_rect { display: none; } }
