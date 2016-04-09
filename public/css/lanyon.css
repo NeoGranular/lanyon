@@ -617,8 +617,8 @@ a.pagination-item:hover {
 }
 
 @media(max-width: 895px) {
-  .PageNavigation { overflow:initial; }
-  .ad_space { height: 560px; }
+  .PageNavigation { overflow:initial !important ; }
+  .ad_space { height: 560px !important; }
 }
 
 @media(min-width: 896px) {
