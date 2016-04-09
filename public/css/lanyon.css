@@ -604,6 +604,7 @@ a.pagination-item:hover {
   left:750px;
   top:0px;
   margin-right:10px;
+  margin-botton:10px
   background-color:red;
 }
 
@@ -615,7 +616,6 @@ a.pagination-item:hover {
   position:absolute;
   left:750px;
   top:290px;
-  margin-top:10px;
   background-color:green;
 }
 
