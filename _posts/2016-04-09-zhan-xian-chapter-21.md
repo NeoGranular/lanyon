@@ -4,6 +4,7 @@ layout: post
 title: "Chapter 21 - If You Can’t Guide Me, Then I Will Test You"
 category: zhan-xian
 previous_chapter: 20
+next_chapter: 22
 ---
 After listening to Yang Chen’s words, Shangguan Feng felt as if he had gained enlightenment. Several years of doubt had apparently dispersed. For many years he had listened to the experiences of many experts at the foundation stage and all of them had said that the final juncture was the most difficult. Most of them had to use every method available to be able to break through.
 
