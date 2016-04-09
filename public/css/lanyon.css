@@ -629,5 +629,5 @@ a.pagination-item:hover {
   .upper_rect, .lower_rect { position:static; }
   .PageNavigation { overflow:initial; }
   .ad_space { height: 290px; }
-  #disqus_thread { margin-top: 60px; }
+  #bot_banner { margin-top: 50px; padding-bottom: 10px;}
 }
