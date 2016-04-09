@@ -579,7 +579,7 @@ a.pagination-item:hover {
   font-size: 14px;
   display: block;
   width: auto;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .PageNavigation a {
