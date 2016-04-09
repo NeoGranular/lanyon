@@ -588,3 +588,26 @@ a.pagination-item:hover {
 .PageNavigation .next {
   text-align: right;
 }
+
+
+/* AdSense Styles */
+.upper_rect {
+  float:left;
+  display:inline-block;
+  width:336px;
+  height:280px;
+  position:relative;
+  left:336px;
+  background-color:red;
+}
+
+.lower_rect {
+  float:left;
+  display:inline-block;
+  width:336px;
+  height:280px;
+  position:relative;
+  left:336px;
+  top:280px;
+  background-color:green;
+}
