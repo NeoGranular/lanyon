@@ -13,6 +13,7 @@ description:         'A blog focused on the translation of Xianxia novels'
 url:                 http://weletranslation.com
 baseurl:             'http://weletranslation.com'
 paginate:            5
+timezone:            'Europe/Berlin'
 
 # About/contact
 author:
