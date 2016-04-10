@@ -5,10 +5,13 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
+  <script>
+    console.log("{{ post.category }}");
+  </script>
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        {% if post.category == 'zhan-xian' %}Immortal Executioner {% elseif post.category == 'heaven-awakening' %}Heaven Awakening {% else %}Test {% endif %}{{ post.title }}
+        {{ post.title }}
       </a>
     </h1>
 
