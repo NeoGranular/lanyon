@@ -9,6 +9,7 @@ next_chapter: 24
 After deciding on his plans, just as Yang Chen was about to rest and order Shen Da to prepare food, suddenly something disturbed his thoughts. Letting his spiritual awareness drift, he quickly discovered someone hurriedly flying towards the Profound Palace, and his cultivation was at least at the eight qi layer or above.
 
 To be able to fly over the Ye Xiu Manor and have such a high cultivation, his identity was clear. This was surely the new manager of the Ye Xiu Manor. At this moment he was hastily flying there, obviously he had been informed that Yang Chen had finally come out of seclusion.
+<!--more-->
 
 There was a rule that when cultivating in the cultivation room, if not for a very urgent matter, no one was allowed to disturb the cultivation of that person. Since the new senior disciple took his post, Yang Chen had never visited him. Clearly this new manager wanted to show his anger and that was the only reason why he would rush to come here so fast at this time to meet him, or maybe he wanted to use Yang Chen as an example to show his strength.
 
