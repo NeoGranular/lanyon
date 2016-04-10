@@ -4,6 +4,7 @@ layout: post
 title: "Chapter 22 - Yin Five Phases Complete"
 category: zhan-xian
 previous_chapter: 21
+next_chapter: 23
 ---
 
 Ye Xiu Manor was the most outer layer of the Pure Yang Palace and it was also the region where all of the new disciples with spirit roots began to build their foundations. Some distance apart from there, the outer disciples resided in the Nine Earth Manor. But suddenly someone had succeeded in building their foundation here, this was simply impossible in the eyes of those outer disciples. Someone who had such a cultivation had still not become an outer disciple?
