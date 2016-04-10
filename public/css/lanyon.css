@@ -631,3 +631,8 @@ a.pagination-item:hover {
   .ad_space { height: 290px; }
   #bot_banner { margin-top: 50px; padding-bottom: 10px;}
 }
+
+.book-title {
+  display: block;
+  color: #9a9a9a;
+}
