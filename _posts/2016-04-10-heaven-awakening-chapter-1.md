@@ -1,17 +1,16 @@
-
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 1 - Talented and Useless"
 category: heaven-awakening
 previous_chapter:
 next_chapter:
 ---
- “Lu Ping, Get off the bed and go to the class.”
+“Lu Ping, Get off the bed and go to the class.”
 
 “Sleep, five more minutes.”
 
-“ Let me help you up!”
+“Let me help you up!”
 
 Along with a crashing sound, sunshine illuminated the entire body of Lu Ping.
 
@@ -25,7 +24,7 @@ Creak, creak….. the smashed door was tremblingly swaying. Lu Ping unbearably c
 
 Eventually, the door dropped down and pathetically leaned against the wall
 
-“ Truly a monstrous woman.” Although Lu Ping lamented in his heart, he absolutely didn’t go towards the door. He loosely draped the jacket over his shoulders, pushed open the window and jumped out just like that, being half naked.
+“Truly a monstrous woman.” Although Lu Ping lamented in his heart, he absolutely didn’t go towards the door. He loosely draped the jacket over his shoulders, pushed open the window and jumped out just like that, being half naked.
 
 Sky was blue and sunshine was glittering. Outside the cottage, there was a Flower Garden. It was emitting a peculiar kind of fragrance. Lu Ping walked inside the flower garden and looked in all directions. Eventually, his eyes shined.
 
@@ -41,19 +40,19 @@ Lu Ping happily walked forward, bent down, picked up the Flower Garden’s irrig
 
 However, Lu Ping was assuming an appearance as if he was completely unaware of it. With astonishment written on all over his face, he asked: “ Where?”
 
-“ Under your foot….”
+“Under your foot….”
 
 “Eh?” Lu Ping bowed his head and shifted his leg. Sure enough, there was a budding of Dormant Fire Lotus stepped on by him. The root of the Dormant Fire Lotus is a rare variety, and transplanting it from inside the water to the dry land is very difficult. However, at this moment, it was completely turned into a steamed bun by Lu Ping.
 
-“ Get lost.”  As Mo Sen looked at that steamed bun kind of Dormant Fire Lotus, his heart ached deeply. He couldn’t even get angry. He hurriedly charged into the Flower Garden and knelt in front of the Lotus. Then, with great caution, he began to examine its stem.
+“Get lost.”  As Mo Sen looked at that steamed bun kind of Dormant Fire Lotus, his heart ached deeply. He couldn’t even get angry. He hurriedly charged into the Flower Garden and knelt in front of the Lotus. Then, with great caution, he began to examine its stem.
 
-“ It’s not important. Right?” Lu Ping crouched his body and brought his head close. He seemed very focused.
+“It’s not important. Right?” Lu Ping crouched his body and brought his head close. He seemed very focused.
 
-“ Disappear or die!” Mo Sen’s desire to kill was already at the limit.
+“Disappear or die!” Mo Sen’s desire to kill was already at the limit.
 
-“ I will disappear.” Lu Ping immediately retreated. His vision fell upon the fumingly walking Su Tang who was walking straight in his direction. Lu Ping raised his hand to make a greeting.
+“I will disappear.” Lu Ping immediately retreated. His vision fell upon the fumingly walking Su Tang who was walking straight in his direction. Lu Ping raised his hand to make a greeting.
 
-“ You….” Su Tang stared at him blankly. She couldn’t figure out, why would Lu Ping come in front of her against all the exceptions. But as her vision flew towards Quarter’s side and she looked at the wretched appearance of Mo Sen leaning on the ground with buttocks out, she instantly made the connection.
+“You….” Su Tang stared at him blankly. She couldn’t figure out, why would Lu Ping come in front of her against all the exceptions. But as her vision flew towards Quarter’s side and she looked at the wretched appearance of Mo Sen leaning on the ground with buttocks out, she instantly made the connection.
 
 After firmly glaring Lu Ping for a moment, she quickly walked beside Mo Sen.
 
@@ -79,19 +78,19 @@ Sixth Heavenly Layer, this is the peak of a single soul’s cultivation. Su Tang
 
  
 
-“ Unbelievable! Strength’s soul sixth Heavenly Layer. You have unexpectedly attained it so fast.” After he watched Su Tang nod to confirm it, Mo Sen recovered his spirit from shock. At this very instant, he decided in his heart; This kind of outstanding natural aptitude and talent, he wouldn’t let it squander in front of his eyes.
+“Unbelievable! Strength’s soul sixth Heavenly Layer. You have unexpectedly attained it so fast.” After he watched Su Tang nod to confirm it, Mo Sen recovered his spirit from shock. At this very instant, he decided in his heart; This kind of outstanding natural aptitude and talent, he wouldn’t let it squander in front of his eyes.
 
-“ Su Tang, answer a question of mine.” Mo Sen’s expression suddenly turned very serious.
+“Su Tang, answer a question of mine.” Mo Sen’s expression suddenly turned very serious.
 
-“ Yes.” Su Tang was a little baffled looking at Mo Sen’s serious expression, but she didn’t let it show on her face and only showed her approval.
+“Yes.” Su Tang was a little baffled looking at Mo Sen’s serious expression, but she didn’t let it show on her face and only showed her approval.
 
-“ If there was a day, your father and mother fell into water at the same time. You can only choose one, who would you chose?’ Mo Sen said.
+“If there was a day, your father and mother fell into water at the same time. You can only choose one, who would you chose?’ Mo Sen said.
 
 Su Tang was surprised.
 
 “I know you are an orphan. It’s only a conjecture.” Mo Sen said
 
-“ Can this question……”
+“Can this question……”
 
 “This question is very shameful, is it not?” Mo Sen stated. His vision turned and intentionally lingered on Lu Ping. “However did you ever think that in our lives, sometimes, we are subjected to such cruel alternatives. You don’t have a way out. You have to give up something. Hesitating or being ambiguous will only result in a much more unfortunate outcome.”
 
@@ -135,12 +134,12 @@ A little bit of killing intent that had leaked out was immediately suppressed. T
 
 Because this time, Mo Sen was truly determined. He was not just showing momentary anger. The killing intent was very quickly concealed by him. He didn’t intend to immediately set things in motion. For Su Tang, he was determined to cause Lu Ping to die in rather a credible way.
 
-“ All right, you go.”  Mo Sen waved his hands, indicating two of them to leave.
+“All right, you go.”  Mo Sen waved his hands, indicating two of them to leave.
 
-“ Mo Sen laoshi, from the window up to here, Lu…” Su Tang once again raised this issue.
+“Mo Sen laoshi, from the window up to here, Lu…” Su Tang once again raised this issue.
 
-“ It can be discussed again after he is able to pass this year’s Major Assessment.” Mo Sen stated.
+“It can be discussed again after he is able to pass this year’s Major Assessment.” Mo Sen stated.
 
-“ OK. Thank you, Mo Sen Laoshi.”
+“OK. Thank you, Mo Sen Laoshi.”
 
 Su Tang happily jumped out of the Flower Garden. Mo Sen watched her walking away up to a certain distance together with Lu Ping. Then, he turned around and looked at the Lotus which was now turned into a Steamed Bun by being stepped upon. He pointed towards it with his finger. The flower bud boiled from above the stalk. It only left behind an incision which was oozing out a fire like red-colored stalk juice. It felt like blood, soaking through the mud.
