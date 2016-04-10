@@ -6,9 +6,12 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
+    
+    <span class="post-date">{% if post.category == "zhan-xian" %}Immortal Executioner &middot; {% elsif post.category == "heaven-awakening" %}Heaven Awakening Path &middot; {% endif %}</span>
+    
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        {% if post.category == "zhan-xian" %}Immortal Executioner &middot; {% elsif post.category == "heaven-awakening" %}Heaven Awakening Path &middot; {% endif %}{{ post.title }}
+        {{ post.title }}
       </a>
     </h1>
 
