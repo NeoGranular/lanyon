@@ -11,7 +11,7 @@ title: Home
   <div class="post">
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
+        {% if post.category == "zhan-xian" %}Immortal Executioner {% endif %}{{ post.title }}
       </a>
     </h1>
 
