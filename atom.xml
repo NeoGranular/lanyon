@@ -17,7 +17,7 @@ layout: null
 
  {% for post in site.posts %}
  <entry>
-   <title>{% if post.category == 'zhan-xian' %}Immortal Executioner {% elseif post.category == 'heaven-awakening' %}Heaven Awakening {% endif %}{{ post.title }}</title>
+   <title>{{ post.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ post.id }}</id>
