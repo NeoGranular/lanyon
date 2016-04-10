@@ -9,3 +9,7 @@ The soul’s seven forces.
 The cultivation of these seven souls has produced countless numbers of strong people.
 
 But, in an ordinary courtyard, a youngster was facing the crisis of his banishment.
+
+{% for post in site.categories.heaven-awakening reversed %}
+* [{{ post.title }}]({{site.baseurl}}{{post.url}})
+{% endfor %}
