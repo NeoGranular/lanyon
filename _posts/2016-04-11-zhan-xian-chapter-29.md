@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 29 - The Useless Pill Turns Out To Be Significant"
 category: zhan-xian
