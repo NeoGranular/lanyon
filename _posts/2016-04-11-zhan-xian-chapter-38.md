@@ -10,6 +10,7 @@ Currently, Chu Heng was facing very embarrassing and dangerous circumstances, if
 
 In addition to that, Du Qian had admired Yang Chen from the beginning, as for those guys at the Law Enforcement Hall, Yang Chen, who had the background of an executioner, gave them a familiar feeling, which made them identify with him. In case they were to investigate and find that he had been the cause of this, then the only way, apart from admitting guilt and being executed, would be to desert the sect and flee.
 <!--more-->
+
 What made Chu Heng most furious, was that it was all due to a minor outer disciple, furthermore just a first qi layer disciple. If he had been the disciple of another school, even if he was a member of the sect, he wouldn’t even have the qualifications to go out and train. Not to mention his fighting strength, at this point, most of the disciples with similar cultivation  would have at most learned how to draw some talisman papers. Even the lowest levelled magic requires the strength of the second qi layer, then how was Yang Chen able to defeat people many layers above him?
 
 Could it be that a foundation stage disciple was with him? Du Qian had pretty good relations with Yang Chen. Could it be that Du Qian had appeared at that time? Chu Heng did not doubt this much, if Du Qian had really appeared, then Yang Chen would definitely not have carried their heads to the Thousand Autumn Pavilion afterward, they would have been directly taken to the Law Enforcement Hall’s disciples.
