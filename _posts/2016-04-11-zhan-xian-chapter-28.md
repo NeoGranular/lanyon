@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 28 - Useless Pill"
 category: zhan-xian
