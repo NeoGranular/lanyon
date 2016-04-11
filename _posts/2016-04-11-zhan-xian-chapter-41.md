@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 41 - The Fraud Of Pure Yang Palace"
 category: zhan-xian
