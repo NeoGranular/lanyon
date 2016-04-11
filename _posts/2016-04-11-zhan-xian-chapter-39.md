@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 39 - Just Comparing Notes Won't Do"
 category: zhan-xian
