@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 49 - Why Should I Hand It Over?"
 category: zhan-xian
