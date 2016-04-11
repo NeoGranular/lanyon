@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 36 - I Give You The Opportunity To Speak"
 category: zhan-xian
