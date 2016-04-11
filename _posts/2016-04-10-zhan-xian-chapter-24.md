@@ -4,6 +4,7 @@ layout: post
 title: "Chapter 24 - Outer Disciple"
 category: zhan-xian
 previous_chapter: 23
+next_chapter: 25
 ---
 When Yang Chen finally emerged from the cultivation room after completing his training, he had already spent one year and four months at the Ye Xiu Manor, including the number of days he had spent in the room. This whole time Yang Chen stayed in the room to train and only came out for little things, like eating and resting and afterwards he went into the room again to cultivate.
 
