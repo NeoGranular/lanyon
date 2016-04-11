@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 37 - Killed Instead"
 category: zhan-xian
