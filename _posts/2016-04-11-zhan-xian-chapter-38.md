@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 38 - Spreading His Reputation"
 category: zhan-xian
