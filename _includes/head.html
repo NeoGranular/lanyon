@@ -2,6 +2,7 @@
   <link href="http://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="description" content="A blog focussed on the translation of Xianxia novels, like Immortal Executioner and Heaven Awakening Path">
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
@@ -14,7 +15,7 @@
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {% if page.category == "zhan-xian" %}Immortal Executioner &middot; {% elsif page.category == "heaven-awakening" %}Heaven Awakening Path &middot; {% endif %}{{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
 
