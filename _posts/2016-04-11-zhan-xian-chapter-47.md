@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 47 - How Do You Want To Die?"
 category: zhan-xian
