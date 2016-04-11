@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 34 - The Ancestor's Heritage"
 category: zhan-xian
