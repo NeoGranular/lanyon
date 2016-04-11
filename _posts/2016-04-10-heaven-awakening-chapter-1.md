@@ -3,8 +3,8 @@ published: true
 layout: post
 title: "Chapter 1 - Talented and Useless"
 category: heaven-awakening
-previous_chapter:
-next_chapter:
+previous_chapter: 0
+next_chapter: 2
 ---
 “Lu Ping, Get off the bed and go to the class.”
 
