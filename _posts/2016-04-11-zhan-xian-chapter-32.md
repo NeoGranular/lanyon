@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 32 - Pill Furnace Magical Tool"
 category: zhan-xian
