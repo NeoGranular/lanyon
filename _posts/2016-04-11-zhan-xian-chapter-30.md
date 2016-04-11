@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 30 - Shocking a JieDan Expert"
 category: zhan-xian
