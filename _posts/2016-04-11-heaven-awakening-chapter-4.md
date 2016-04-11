@@ -9,11 +9,11 @@ next_chapter: 5
 Mo Sen was carefully controlling his steps. He was trying his best to not walk too quick, looking straight ahead and not even sparing a single glance to his left or right.
 
 It was truly a humiliation for him to be discovered previously. However at present, Mo Sen felt that his calm appearance could, at least, score ninety points. But a part of him was aware that this ‘ninety point’ appearance of him was instead causing his walking to appear very unnatural. It even caused Lu Ping to let out a laugh which later on sparked a crisis in the classroom. .
+<!--more-->
 
 Mo Sen never anticipated that he was about to see the individual who was supposed to be left far behind. As soon as he turned his body and began to think about what to do next, he saw Lu Ping coming out from the classroom’s window.
 
 Loathsome brat, he is escaping in the middle of a lecture!
-<!--more-->
 
 Mo Sen was furious, he completely ignored the fact Lu Ping actually never even go to the class in the first place. In these three years, it was already an extremely rare occasion.
 
