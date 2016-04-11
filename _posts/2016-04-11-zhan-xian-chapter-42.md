@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 42 - Let's See How Many Can You Execute"
 category: zhan-xian
