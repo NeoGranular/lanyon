@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 44 - Surely He Cheated"
 category: zhan-xian
