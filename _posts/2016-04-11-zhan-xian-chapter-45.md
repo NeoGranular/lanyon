@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 45 - So Let's Repeat It"
 category: zhan-xian
