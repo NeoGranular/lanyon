@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 50 - Heavenly Stars Treasure Refining Secrets"
 category: zhan-xian
