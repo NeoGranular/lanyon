@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 40 - You Won't Do In A Life And Death Duel"
 category: zhan-xian
