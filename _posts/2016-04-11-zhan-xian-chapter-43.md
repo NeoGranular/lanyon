@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 43 - Setting Foot On The Peak"
 category: zhan-xian
