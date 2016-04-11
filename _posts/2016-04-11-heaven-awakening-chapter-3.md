@@ -13,9 +13,10 @@ Mo Sen’s whole face was covered with shame and anger. Not too long after Lu Pi
 However, he had been unexpectedly discovered before being able to hear anything, and moreover, was actually discovered by such a garbage.
 
 Mo Sen’s old face turned thoroughly red. Previously, he believed that even though he is a gardener, taking care of this garbage won’t consume any of his energy. Now it seems that in this kind of shady work such as following and eavesdropping, he is a bit too amateur.
+<!--more-->
 
 He truly wanted to do it!
-<!--more-->
+
 As he looked at that smiling face exploring out through the window’s opening, he truly wished to just do it straight away.
 
 However, he was unable to do so.
