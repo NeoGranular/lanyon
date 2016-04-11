@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 35 - Breakthrough And Binding The Sword Box"
 category: zhan-xian
