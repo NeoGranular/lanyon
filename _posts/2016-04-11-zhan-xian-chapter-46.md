@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 46 - Setting Foot On The Peak Again"
 category: zhan-xian
