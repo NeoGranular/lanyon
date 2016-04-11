@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 33 - Finally Finished With The Hidden Pavilion"
 category: zhan-xian
