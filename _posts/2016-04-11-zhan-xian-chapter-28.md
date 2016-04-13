@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 28 - Useless Pill"
 category: zhan-xian
 previous_chapter: 27
-next_chapter: 28
+next_chapter: 29
 ---
 A recently promoted outer disciple in the Nine Earth Manor, a person with the cultivation of first qi layer had surprisingly started a furnace to concoct pills. This news spread like wildfire in the Nine Earth Manor.
 
