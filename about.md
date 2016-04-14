@@ -17,4 +17,13 @@ Currently active on this site are *NG* (*NeoGranular*) and *wele's editor*. The 
 
 #### The site is currently in an experimental stage. Once we have finalized the website, we will make an announcement post on weletranslation.com as well as our [Wordpress](http://weletranslation.wordpress.com).
 
-Template designed by [Mark Otto](https://github.com/poole/lanyon)
+##### About Cookie usage on weletranslation.com
+We are currently using Google Analytics while the site is still under construction. We will most likely remove it once our website is finalized, we will make it very clear if we decide to continue to use Analytics. Google Analytics will use a cookie that can track your activity across *our* website. This cookie is a session cookie, which means as soon as you close your browser, this cookie will be deleted.
+
+We are also using a session cookie to save which theme (dark or light) you have set. That cookie is also deleted as soon as you close your browser. This theme cookie is *only* set, if you are actually changing the default theme.
+
+All of our cookies are set exclusively with JavaScript.
+
+
+
+Original template designed by [Mark Otto](https://github.com/poole/lanyon)
