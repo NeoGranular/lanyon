@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 50 - Heavenly Stars Treasure Refining Secrets"
 category: zhan-xian
 previous_chapter: 49
-next_chapter:
+next_chapter: 51
 ---
 Strictly speaking, Liang Meng Shao’s punishment could be considered fair, since he hadn’t raised the any accusation against Yang Chen nor raised his punishment, as the punishment for closed door training was decided by Xu Cheng Xin, which also could not be considered to be on Liang Meng Shao’s head. Regarding Chu Heng’s case, although there was a small suspicion of favoritism, Chu Heng’s temperament was certainly a problem and everyone present could see this point. And the best way to transform one’s nature was to go out to train to temper it, so he couldn’t be held accountable for this.
 <!--more-->
