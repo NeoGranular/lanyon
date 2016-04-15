@@ -3,7 +3,7 @@ published: true
 layout: post
 title: "Welcome to the new site!"
 category: announcements
-is_active_announcement: true
+is_active_announcement: false
 ---
 Here are a few tips for using our site:
 
