@@ -49,3 +49,8 @@ body.light-mode{
 .light-mode .post-title a {
   color: #303030;
 }
+
+.light-mode hr {
+  border-top: 1px solid #eaeaea;
+  border-bottom: 1px solid #fff;
+}
