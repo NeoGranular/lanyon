@@ -636,3 +636,8 @@ a.pagination-item:hover {
   display: block;
   color: #9a9a9a;
 }
+
+hr {
+  border-top: 1px solid #525252;
+  border-bottom: 1px solid #232323;
+}
