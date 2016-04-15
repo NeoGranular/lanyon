@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Welcome to the new site!"
 category: announcements
