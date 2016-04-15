@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 51 - Read The Warning Before Cultivating"
 category: zhan-xian
 previous_chapter: 50
-next_chapter:
+next_chapter: 52
 ---
 When coming out of the room after his closed door training, the instant he saw the sunshine again, Yang Chen had a sudden urge to jump, as if it was an instinct of his body, but also because of his excitement for the Sect’s Martial Arts Competition starting from tomorrow.   
 
