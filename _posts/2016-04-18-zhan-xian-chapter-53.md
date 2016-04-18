@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 53 - Request To Leave For The Immortal Falling Well"
 category: zhan-xian
 previous_chapter: 52
-next_chapter:
+next_chapter: 54
 ---
 Being affected by the five phases of Yin and Yang secrets, the spirit power leaving Yang Chen’s body, almost immediately began to rise dramatically under the effect of the five phases rousing each other. Although his cultivation was merely at the third qi layer, because of his vigorous and extremely pure spirit power, he was not that much weaker than peak qi layer cultivators.
 
