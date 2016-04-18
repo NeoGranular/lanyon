@@ -13,7 +13,7 @@ Raising this question, was Du Qian, who had always been considerate towards Yang
 “Naturally!”
 <!--more-->
 
-Yang Chen smiled, holding out his hand in inviting position to ask Du Qian to sit opposite to him and at the same time he smilingly said:
+Yang Chen smiled, holding out his hand in an inviting position to ask Du Qian to sit down in front of him and at the same time he smilingly said:
 
 “After asking for a request from the Palace Master, I cannot go back on it, right?”
 
