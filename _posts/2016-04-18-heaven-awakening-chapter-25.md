@@ -13,6 +13,7 @@ next_chapter: 26
 "Then what?"
 
 "Then? Let him perform a proper inspection!?" Baliyan blurted out without thinking. 'Then what' was truly somewhat sarcastic.
+<!--more-->
 
 "Then what?" His answer resulted in Lu Ping repeating the same question all over again.
 
