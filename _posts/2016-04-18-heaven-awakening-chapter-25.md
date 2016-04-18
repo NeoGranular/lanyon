@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 25 - Bring Him Back"
 category: heaven-awakening
