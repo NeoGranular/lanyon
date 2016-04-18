@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 52 - I Don't Need A Magic Weapon To Beat You To Death"
 category: zhan-xian
 previous_chapter: 51
-next_chapter:
+next_chapter: 53
 ---
 Yang Chen had looked at the jade slips in the Hidden Pavilion for more than half a year, this was not a secret at Nine Earth Manor. Sun Hai Jing did not find it strange at all, that Yang Chen knew the cultivation method in which he trained, but he had said something about an explanatory jade slip on the side, but Sun Hai Jing had never seen it, he basically wasn’t even aware of any explanatory jade slip.
 
