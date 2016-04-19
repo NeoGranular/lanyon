@@ -23,9 +23,7 @@ title: Home
   {% for post in paginator.posts %}
   {% if post.category != "announcements" %}
   <div class="post">
-
     {% include post-category.html %}
-
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
