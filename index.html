@@ -19,13 +19,13 @@ title: Home
   {% endif %}
   {% endif %}
   {% endfor %}
-  
+
   {% for post in paginator.posts %}
   {% if post.category != "announcements" %}
   <div class="post">
-    
-    <span class="book-title">{% if post.category == "zhan-xian" %}Immortal Executioner {% elsif post.category == "heaven-awakening" %}Heaven Awakening Path {% endif %}</span>
-    
+
+    {% include post-category.html %}
+
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title }}
@@ -59,4 +59,3 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-

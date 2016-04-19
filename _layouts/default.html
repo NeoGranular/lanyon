@@ -22,34 +22,20 @@
       <div class="container content">
         {% if page.layout == "post" %}
         <div class="banner_ad">
-          <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-          <!-- ng_leaderboard -->
-          <ins class="adsbygoogle"
-          style="display:block"
-          data-ad-client="ca-pub-4313498266876631"
-          data-ad-slot="9212345709"
-          data-ad-format="auto"></ins>
-          <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
+          {% if page.category == "zhan-xian" %}
+            {% include _ads/zhan_xian/zx_top_leaderboard.html %}
+          {% elsif page.category == "heaven-awakening" %}
+            {% include _ads/heaven_awakening/ha_top_leaderboard.html %}
+          {% endif %}
         </div>
         {% elsif page.title == "Home" %}
         <div class="banner_ad">
-          <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-          <!-- home_page_top_leaderboard -->
-          <ins class="adsbygoogle"
-            style="display:block"
-            data-ad-client="ca-pub-4313498266876631"
-            data-ad-slot="3165812103"
-            data-ad-format="auto"></ins>
-          <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-          </script>
+          {% include _ads/home_page/home_page_top_leaderboard.html %}
         </div>
         {% endif %}
 
         {{ content }}
-        
+
       </div>
     </div>
 
