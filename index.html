@@ -24,7 +24,7 @@ title: Home
   {% if post.category != "announcements" %}
   <div class="post">
     
-    <span class="book-title">{% if post.category == "zhan-xian" %}Immortal Executioner {% elsif post.category == "heaven-awakening" %}Heaven Awakening Path {% endif %}</span>
+    {% include post-category.html %}
     
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
