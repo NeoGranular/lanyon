@@ -1,0 +1,56 @@
+{% if page.category == "zhan-xian" or true %}
+<p>
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9Y2D3EZ6RTAPS">
+    <img src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png"/>
+    Donate for Immortal Executioner!
+  </a>
+</p>
+
+<div class="donationbar">
+  <div class="donationbar_front">
+    ${{ site.data.donationvars.zx_cur }}
+  </div>
+  <div id="progressbar">
+    {% assign intermediate = site.data.donationvars.zx_cur | times: 100 %}
+    {% if site.data.donationvars.zx_max != 0 %}
+    <div style="width:{{ intermediate | divided_by: site.data.donationvars.zx_max }}%; max-width:100%;"></div>
+    {% else %}
+    <div style="width:0%"></div>
+    {% endif %}
+  </div>
+  <div class="donationbar_back">
+    ${{ site.data.donationvars.zx_max }}
+  </div>
+</div>
+{% elsif page.category == "heaven-awakening" and false %}
+<p>
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9Y2D3EZ6RTAPS">
+    <img src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png"/>
+    Donate for Heaven Awakening Path!
+  </a>
+</p>
+
+<div class="donationbar">
+  <div class="donationbar_front">
+    ${{ site.data.donationvars.ha_cur }}
+  </div>
+  <div id="progressbar">
+    {% assign intermediate = site.data.donationvars.ha_cur | times: 100 %}
+    {% if site.data.donationvars.ha_max != 0 %}
+    <div style="width:{{ intermediate | divided_by: site.data.donationvars.ha_max }}%; max-width:100%;"></div>
+    {% else %}
+    <div style="width:0%"></div>
+    {% endif %}
+  </div>
+  <div class="donationbar_back">
+    ${{ site.data.donationvars.ha_max }}
+  </div>
+</div>
+{% else %}
+<p>
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9Y2D3EZ6RTAPS">
+    <img src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_pp_142x27.png"/>
+    Donate to Weletranslations!
+  </a>
+</p>
+{% endif %}

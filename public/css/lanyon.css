@@ -616,6 +616,53 @@ a.pagination-item:hover {
   top:290px;
 }
 
+.sub_rect {
+  flex:1;
+  width:49%;
+  height:auto;
+  overflow:hidden;
+  position:relative;
+  float:left;
+  margin-right:2%;
+  border:1px solid #ccc;
+}
+.sub_rect p{
+  margin-top:0;
+  margin-bottom:0;
+}
+
+.don_rect {
+  flex:1;
+  width:49%;
+  height:auto;
+  overflow:hidden;
+  position:relative;
+  float:left;
+  padding:3px;
+  text-align: center;
+  border:1px solid #ccc;
+}
+
+.don_rect img {
+  margin:0;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.don_rect p{
+  padding-top: 4px;
+  margin-bottom: 5px;
+}
+
+.don_sub_rect {
+  display:flex;
+  width:100%;
+  position:relative;
+  float:left;
+  overflow:hidden;
+  padding-top: 10px;
+}
+
 @media(max-width: 895px) {
   .PageNavigation { overflow:initial !important ; }
   .ad_space { height: 560px !important; }
@@ -625,7 +672,7 @@ a.pagination-item:hover {
   .PageNavigation { overflow:hidden; width:740px;}
 }
 
-@media(max-width: 1500px) { 
+@media(max-width: 1500px) {
   .upper_rect, .lower_rect { position:static; }
 /*  .PageNavigation { overflow:initial; } */
   .ad_space { height: 290px; }
@@ -640,4 +687,36 @@ a.pagination-item:hover {
 hr {
   border-top: 1px solid #444444;
   border-bottom: 0px solid #000;
+}
+
+#progressbar {
+  display:inline-block;
+  background-color: black;
+  border-radius: 7px; /* (height of inner div) / 2 + padding */
+  padding: 3px;
+  width:60%;
+}
+
+#progressbar > div {
+  background-color: orange;
+  height: 10px;
+  border-radius: 10px;
+}
+
+#subscriber_email {
+  width:140px;
+}
+
+@media(max-width: 450px){
+  #subscriber_email {
+    width:70%;
+  }
+  #progressbar {
+    width:55%;
+  }
+}
+
+.donationbar_front, .donationbar_back {
+  display:inline-block;
+  vertical-align: 2px;
 }
