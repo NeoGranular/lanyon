@@ -54,3 +54,7 @@ body.light-mode{
   border-top: 1px solid #eaeaea;
   border-bottom: 1px solid #fff;
 }
+
+.light-mode #progressbar > div {
+  background-color: #268bd2;
+}
