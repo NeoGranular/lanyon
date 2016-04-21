@@ -12,7 +12,7 @@ Just two guys (+1 editor) who love Xianxia trying to give back to the community.
 ## Follow Us
 You can subscribe to the blog with [Atom/RSS](http://weletranslation.com/atom.xml). You can follow this blog with WordPress, simply by adding weletranslation.com to your feed, WordPress will automatically detect our atom.xml (WordPress E-Mails are unavailable for this method). We will continue to maintain our WordPress announcement posts, which will link to this new site, so you can also follow us on [our old WordPress blog](https://weletranslation.wordpress.com), but that is not recommended. You can also subscribe to our e-mail notifications with [FeedBurner](https://feedburner.google.com/fb/a/mailverify?uri=Weletranslations/main&amp;loc=en_US)!
 
-Immortal Executioner is translated almost entirely by hand, aside from the occasional glance into a dictionary ;) .
+Immortal Executioner is translated almost entirely by hand, aside from the occasional glance into a dictionary 😉.
 
 Currently active on this site are *NG* (*NeoGranular*) and *wele's editor*. If you want to contact us, simply leave a comment on our [Suggestions](http://weletranslation.com/suggestions.html) page, we will reply to all comments there. We are constructing a 'Contact Us' site at the moment, on which you will be able to get in contact with us privately.
 
