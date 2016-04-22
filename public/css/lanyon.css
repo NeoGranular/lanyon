@@ -720,3 +720,7 @@ hr {
   display:inline-block;
   vertical-align: 2px;
 }
+
+hr {
+ margin:0; 
+}
