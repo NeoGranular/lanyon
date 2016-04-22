@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 54 - Second Grade Pill Concocting Master"
 category: zhan-xian
 previous_chapter: 53
-next_chapter:
+next_chapter: 55
 ---
 “Do you really have to go to the Immortal Falling Well?” 
 
