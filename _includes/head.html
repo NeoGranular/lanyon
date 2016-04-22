@@ -26,9 +26,9 @@ ga('send', 'pageview');
   
   <title>
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }} | {{ site.tagline }}
     {% else %}
-      {% if page.category == "zhan-xian" %}Immortal Executioner &middot; {% elsif page.category == "heaven-awakening" %}Heaven Awakening Path &middot; {% endif %}{{ page.title }} &middot; {{ site.title }}
+      {% if page.category == "zhan-xian" %}Immortal Executioner | {% elsif page.category == "heaven-awakening" %}Heaven Awakening Path | {% endif %}{{ page.title }} | {{ site.title }}
     {% endif %}
   </title>
 
