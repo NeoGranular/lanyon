@@ -1,1 +1,11 @@
-<span class="book-title">{% if post.category == "zhan-xian" %}Immortal Executioner {% elsif post.category == "heaven-awakening" %}Heaven Awakening Path {% elsif post.category == "sin-city" %}Sin City Teaser {% endif %}</span>
+<span class="book-title">
+  {% case post.category %}
+    {% when "zhan-xian" %}
+    Immortal Executioner 
+    {% when "heaven-awakening" %}
+    Heaven Awakening Path 
+    {% when "sin-city" %}
+    Sin City Teaser 
+    {% else %}
+  {% endcase %}
+</span>
