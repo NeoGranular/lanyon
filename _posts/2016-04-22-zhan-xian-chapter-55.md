@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 55 - I Will Follow Only You"
 category: zhan-xian
 previous_chapter: 54
-next_chapter:
+next_chapter: 56
 ---
 On the surface the tone of the Palace Master’s voice was absolutely normal, as if nothing happened, but within his heart, the Palace Master was cursing Chu Heng with a torrent of abuses.
 
