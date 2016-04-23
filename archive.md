@@ -26,9 +26,17 @@ title: Archive
 {% endif %}
 {% endfor %}
 
+## Sin City Teaser
+{% for post in site.posts %}
+{% if post.category == "sin-city" %}
+
+* [{{post.title}}]({{site.baseurl}}{{post.url}})
+{% endif %}
+{% endfor %}
+
 ## Other
 {% for post in site.posts %}
-{% if post.category != "announcements" and post.category != "zhan-xian" and post.category != "heaven-awakening" %}
+{% if post.category != "announcements" and post.category != "zhan-xian" and post.category != "heaven-awakening" and post.category != "sin-city" %}
 * [{{post.title}}]({{site.baseurl}}{{post.url}})
 {% endif %}
 {% endfor %}
