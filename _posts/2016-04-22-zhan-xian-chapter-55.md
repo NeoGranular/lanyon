@@ -6,7 +6,7 @@ category: zhan-xian
 previous_chapter: 54
 next_chapter: 56
 ---
-On the surface the tone of the Palace Master’s voice was absolutely normal, as if nothing happened, but within his heart, the Palace Master was cursing Chu Heng with a torrent of abuses.
+On the surface, the tone of the Palace Master’s voice was absolutely normal, as if nothing happened, but within his heart, the Palace Master was cursing Chu Heng with a torrent of abuses.
 
 Du Qian had reported Chu Heng’s attitude towards Yang Chen some time ago already, but in the Palace Master’s eyes, an inner disciple of the mid foundation stage was far more valuable than someone who had just recently become an outer disciple and joined the Pure Yang Palace only two years ago. If Yang Chen was not able to persevere through this minor issue, that would only illustrate the fact that Yang Chen was a lump of rotten wood, which could not be carved.
 <!--more-->
