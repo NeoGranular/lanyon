@@ -1,11 +1,3 @@
 <span class="book-title">
-  {% case post.category %}
-    {% when "zhan-xian" %}
-    Immortal Executioner 
-    {% when "heaven-awakening" %}
-    Heaven Awakening Path 
-    {% when "sin-city" %}
-    Sin City Teaser 
-    {% else %}
-  {% endcase %}
+  {{ include category.html }}
 </span>
