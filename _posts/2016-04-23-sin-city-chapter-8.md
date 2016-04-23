@@ -7,6 +7,7 @@ previous_chapter: 7
 next_chapter: 9
 ---
 Shen Lan is definitely not a magical tower constructed by ordinary methods. In addition of being higher than generally seen towers by three times, it also doubles them in terms of diameter. This implies that the total surface area of Shen Lan magical tower is more than ten times as compared with normal magical towers. Moreover, this is without including the huge subsidiary building complex. It’s hard to imagine the cost of such a gigantic tower. The amount of people involved directly or indirectly with the affairs of Shen Lan tower amounts to more than ten thousand. It is simply on a scale of small town. Shen Lan is basically a huge monster, it’s daily trade of goods is ten times more than that of a town of the same scale. Huge upto this extent, just the establishment of Shen Lan in itself has already surpassed ‘just an outstanding art’.
+<!--more-->
 
 For the distribution of goods, Shen Lan relies on the it’s proximity with the sea. It has it’s own sea port. More than ten docks capable of anchoring huge ships were brought into existence from within the hard coral reefs solely through the use of magic. On the dry land, three major public roads from three different directions unite at Shen Lan. There are at least five-six towns along the highways because of the trade.          
 
