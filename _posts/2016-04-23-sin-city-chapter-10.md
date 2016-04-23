@@ -4,7 +4,8 @@ layout: post
 title: "Chapter 10 - Top To Bottom"
 category: sin-city
 previous_chapter: 9
-next_chapter:
+next_chapter: 11
+date: 2016-04-23 01:00:00 +0100
 ---
 Just a short duration after Li Cha sat down, door of classroom opened and a short-fat magician entered. Bob Witz, sixteen level senior magician, his power within the Shen Lan definitely can’t be considered as outstanding, and can barely be considered to enter the ranks of strong among the continent. However Bob Witz is not known for his strength, rather is world famous for his contribution towards the world through theories.
 
