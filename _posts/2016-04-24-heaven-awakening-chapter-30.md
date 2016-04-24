@@ -5,7 +5,7 @@ title: "Chapter 30 - Infinitesimal Separation"
 category: heaven-awakening
 previous_chapter: 29
 next_chapter:
-date: 2016-04-24 23:29:00 +0200
+date: 2016-04-24 23:30:00 +0200
 ---
 City Master Wei Zhong values the efficiency highly, so the City Master's Mansion had naturally been brought up in an atmosphere that corresponds to it. Just a few moments since the entrance guard had gone inside the Mansion to notify, Protector Wei Ling had already appeared outside the mansion, but due to the appearance of this strange guy, he didn't rush forward and act without caution.
 
