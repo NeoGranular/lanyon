@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 27 - Reasonable Lu Ping"
 category: heaven-awakening
 previous_chapter: 26
-next_chapter:
+next_chapter: 28
 ---
 This whole scene was very amusing from the perspectives of Xi Fan and Mo Lin.
 
