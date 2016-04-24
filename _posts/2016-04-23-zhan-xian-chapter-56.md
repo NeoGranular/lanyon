@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 56 - Is This A Place For You To Play Around?"
 category: zhan-xian
 previous_chapter: 55
-next_chapter:
+next_chapter: 57
 ---
 The spiritual awareness of the person who was following Yang Chen was focused on tracking Yang Chen’s figure, so he hadn’t discovered that within the water, a very long ribbon was floating silently. When he had discovered that there was something strange about the surrounding water, it was already too late.
 
