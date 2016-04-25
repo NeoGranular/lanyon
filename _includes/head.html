@@ -6,11 +6,11 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  
+
   <!-- jquery -->
   <script   src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
   <script src="{{site.baseurl}}/public/js.cookie-2.1.0.min.js"></script>
-  
+
   <!-- Google Analytics -->
 <script>
 window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -23,7 +23,7 @@ ga('send', 'pageview');
 </script>
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 <!-- End Google Analytics -->
-  
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} | {{ site.tagline }}
@@ -48,10 +48,10 @@ ga('send', 'pageview');
   {% endif %}
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/public/apple-touch-icon-precomposed.png">
-  
+
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-  
+
   <!-- Light-Mode script -->
   <script>
   $(document).ready(function () {
@@ -61,7 +61,7 @@ ga('send', 'pageview');
           if(typeof DISQUS != 'undefined'){
             DISQUS.reset({
               reload: true,
-              config: function () {  
+              config: function () {
                 this.page.url = '{{ site.baseurl }}{{ page.url }}';
                 this.page.identifier = '{{ page.id }}';
               }
@@ -70,22 +70,22 @@ ga('send', 'pageview');
     } else {
       $('#mode').prop('checked', false);
     }
-    
-    $('#mode').change(function(){   
-    
+
+    $('#mode').change(function(){
+
       if ($(this).prop('checked'))
       {
           $('body').addClass('light-mode');
           if(typeof DISQUS != 'undefined'){
             DISQUS.reset({
               reload: true,
-              config: function () {  
+              config: function () {
                 this.page.url = '{{ site.baseurl }}{{ page.url }}';
                 this.page.identifier = '{{ page.id }}';
               }
             });
           }
-          Cookies.set('mode','light');
+          Cookies.set('mode', 'light', { expires: 365 });
       }
       else
       {
@@ -93,22 +93,30 @@ ga('send', 'pageview');
           if(typeof DISQUS != 'undefined'){
             DISQUS.reset({
               reload: true,
-              config: function () {  
+              config: function () {
                 this.page.url = '{{ site.baseurl }}{{ page.url }}';
                 this.page.identifier = '{{ page.id }}';
               }
             });
           }
-          Cookies.set('mode','dark');
+          Cookies.remove('mode');
       }
-    
+
     });
-    
-    $('#go-to-top').click(function(){ 
+
+    $('#go-to-top').click(function(){
       $('html,body').animate({ scrollTop: 0 }, 'fast');
-      return false; 
+      return false;
   });
-    
+
   });
   </script>
+  <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":"","theme":"dark-bottom"};
+</script>
+
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+<!-- End Cookie Consent plugin -->
+
 </head>

@@ -8,8 +8,6 @@ permalink:           none
 title:               'weletranslations'
 tagline:             'Translating since 1917'
 description:         'A blog focused on the translation of Xianxia novels'
-#url:                 http://neogranular.github.io
-#baseurl:             'http://neogranular.github.io'
 url:                 http://weletranslation.com
 baseurl:             'http://weletranslation.com'
 paginate:            5
@@ -26,3 +24,11 @@ author:
 # Custom vars
 version:             1.0.0
 excerpt_separator: <!--more-->
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: all
+
+gems: [jekyll-paginate]
