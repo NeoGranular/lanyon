@@ -8,7 +8,7 @@
 
 <div class="donationbar">
   <div class="donationbar_front">
-    ${{ site.data.donationvars.zx_cur }}
+    ${{ site.data.donationvars.zx_cur }}&nbsp;
   </div>
   <div id="progressbar">
     {% assign intermediate = site.data.donationvars.zx_cur | times: 100 %}
@@ -19,7 +19,7 @@
     {% endif %}
   </div>
   <div class="donationbar_back">
-    ${{ site.data.donationvars.zx_max }}
+    &nbsp;${{ site.data.donationvars.zx_max }}
   </div>
 </div>
 {% elsif page.category == "heaven-awakening" %}
@@ -32,7 +32,7 @@
 
 <div class="donationbar">
   <div class="donationbar_front">
-    ${{ site.data.donationvars.ha_cur }}
+    ${{ site.data.donationvars.ha_cur }}&nbsp;
   </div>
   <div id="progressbar">
     {% assign intermediate = site.data.donationvars.ha_cur | times: 100 %}
@@ -43,7 +43,7 @@
     {% endif %}
   </div>
   <div class="donationbar_back">
-    ${{ site.data.donationvars.ha_max }}
+    &nbsp;${{ site.data.donationvars.ha_max }}
   </div>
 </div>
 {% else %}
