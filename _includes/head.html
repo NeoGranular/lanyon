@@ -19,7 +19,20 @@
 
   <!-- CSS -->
 
-  
+  <!--min.css-->
+  <style type="text/css">
+  {% include min.css %}
+  </style>
+
+  <style type="text/css">
+    .show-comments {
+      height: 50px;
+      width: 100%;
+      overflow:hidden;
+      text-align:center;
+      margin-top:10px;
+    }
+  </style>
 
   {% if page.layout != "post" %}
   <style type="text/css">
@@ -41,7 +54,9 @@
     window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience.","dismiss":"Got it!","learnMore":"More info","link":"{{ site.baseurl}}/about.html","theme":"dark-bottom"};
 </script>
 
-<script async type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>
+{% include min.js.html %}
+
+<!--<script async type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.9/cookieconsent.min.js"></script>-->
 <!-- End Cookie Consent plugin -->
 
 <style type="text/css">
@@ -58,5 +73,76 @@
   color: #000 !important;
 }
 </style>
+
+<!-- start light-mode script -->
+<script>
+$(document).ready(function () {
+  if(Cookies.get('mode')=="light"){
+    $('#mode').prop('checked', true);
+    $('body').addClass('light-mode');
+        if(typeof DISQUS != 'undefined'){
+          DISQUS.reset({
+            reload: true,
+            config: function () {
+              this.page.url = '{{ site.baseurl }}{{ page.url }}';
+              this.page.identifier = '{{ page.id }}';
+            }
+          });
+        }
+  } else {
+    $('#mode').prop('checked', false);
+  }
+
+  $('#mode').change(function(){
+
+    if ($(this).prop('checked'))
+    {
+        $('body').addClass('light-mode');
+        if(typeof DISQUS != 'undefined'){
+          DISQUS.reset({
+            reload: true,
+            config: function () {
+              this.page.url = '{{ site.baseurl }}{{ page.url }}';
+              this.page.identifier = '{{ page.id }}';
+            }
+          });
+        }
+        Cookies.set('mode', 'light', { expires: 365 });
+    }
+    else
+    {
+        $('body').removeClass('light-mode');
+        if(typeof DISQUS != 'undefined'){
+          DISQUS.reset({
+            reload: true,
+            config: function () {
+              this.page.url = '{{ site.baseurl }}{{ page.url }}';
+              this.page.identifier = '{{ page.id }}';
+            }
+          });
+        }
+        Cookies.remove('mode');
+    }
+  });
+
+
+  $('#go-to-top').click(function(){
+    $('html,body').animate({ scrollTop: 0 }, 'fast');
+    return false;
+});
+
+$('.show-comments').on('click', function(){
+      $.ajax({
+              type: "GET",
+              url: "http://weletranslations.disqus.com/embed.js",
+              dataType: "script",
+              cache: true
+      });
+      $(this).fadeOut();
+});
+
+});
+</script>
+<!--end light-mode script-->
 
 </head>

@@ -49,25 +49,17 @@ layout: compress
     <!-- low priority css -->
     <!--<link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/public/css/lanyon.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/public/css/light.css">-->
-    <link rel="stylesheet" href="{{ site.baseurl }}/public/css/min.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/public/css/light.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/public/css/min.css">-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400">
 
 
 
-    <style type="text/css">
-      .show-comments {
-        height: 50px;
-        width: 100%;
-        overflow:hidden;
-        text-align:center;
-        margin-top:10px;
-      }
-    </style>
+
 
     <!-- jquery -->
-    <script   src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
-    <script src="{{site.baseurl}}/public/js.cookie-2.1.0.min.js"></script>
+    <!--<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
+    <script src="{{site.baseurl}}/public/js.cookie-2.1.0.min.js"></script>-->
 
     <!-- Google Analytics -->
   <script>
@@ -82,80 +74,6 @@ layout: compress
   <script async src='https://www.google-analytics.com/analytics.js'></script>
   <!-- End Google Analytics -->
 
-  <!-- Light-Mode script -->
-  <script>
-  $(document).ready(function () {
-    if(Cookies.get('mode')=="light"){
-      $('#mode').prop('checked', true);
-      $('body').addClass('light-mode');
-          if(typeof DISQUS != 'undefined'){
-            DISQUS.reset({
-              reload: true,
-              config: function () {
-                this.page.url = '{{ site.baseurl }}{{ page.url }}';
-                this.page.identifier = '{{ page.id }}';
-              }
-            });
-          }
-    } else {
-      $('#mode').prop('checked', false);
-    }
-
-    $('#mode').change(function(){
-
-      if ($(this).prop('checked'))
-      {
-          $('body').addClass('light-mode');
-          if(typeof DISQUS != 'undefined'){
-            DISQUS.reset({
-              reload: true,
-              config: function () {
-                this.page.url = '{{ site.baseurl }}{{ page.url }}';
-                this.page.identifier = '{{ page.id }}';
-              }
-            });
-          }
-          Cookies.set('mode', 'light', { expires: 365 });
-      }
-      else
-      {
-          $('body').removeClass('light-mode');
-          if(typeof DISQUS != 'undefined'){
-            DISQUS.reset({
-              reload: true,
-              config: function () {
-                this.page.url = '{{ site.baseurl }}{{ page.url }}';
-                this.page.identifier = '{{ page.id }}';
-              }
-            });
-          }
-          Cookies.remove('mode');
-      }
-    });
-
-
-    $('#go-to-top').click(function(){
-      $('html,body').animate({ scrollTop: 0 }, 'fast');
-      return false;
-  });
-
-  $('.show-comments').on('click', function(){
-        var disqus_shortname = 'weletranslations'; /* Replace this value with *your* username. */
-
-        /* ajax request to load the disqus javascript */
-        $.ajax({
-                type: "GET",
-                url: "http://" + disqus_shortname + ".disqus.com/embed.js",
-                dataType: "script",
-                cache: true
-        });
-        /* hide the button once comments load */
-        $(this).fadeOut();
-  });
-
-  });
-  </script>
-<!--End light-mode script-->
 <!--sidebar-toggle script-->
     <script>
       (function(document) {
