@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 57 - If You Speak False Words, You Must Pay The Price"
 category: zhan-xian
 previous_chapter: 56
-next_chapter:
+next_chapter: 57
 date: 2016-04-25 01:58:00 +0200
 ---
 “This Yang Chen requests to see the great master!”
@@ -24,7 +24,7 @@ Among the four people, Yang Chen remembered three of them from his past life, on
 
 He had tried to kill him in his previous life because of the orders of the Greatest Heaven Sect, but right now Jin Tao did not have any reason to show this kind of attitude towards Yang Chen. But Yang Chen immediately remembered that at the Floating Mountain Assembly, he had killed Han Jiande, a disciple of the TianQuan Sect, as well as forcing a JieDan expert of the sect to lose a layer of cultivation, perhaps this was the reason.
 
-“This is the Immortal Falling Well, can qi layer disciples not come here?” 
+“This is the Immortal Falling Well, can qi layer disciples not come here?”
 
 At this moment, Yang Chen began to pretend to be stupid and filled with surprise, taking on the appearance of a country bumpkin who did not know the rules of society. He was looking around everywhere sizing up all of his surroundings, and after looking for quite a while, his gaze moved to the four people with fear and trepidation on his face, appearing as if he was unwilling to accept this.
 
@@ -76,7 +76,7 @@ These four did not dare to slight him and hastily obstructed Yang Chen, but Jin 
 
 “Yang Chen, you piece of shit, you want to falsely accuse us, do you know what kind of sin this is?”
 
-“Piece of shit?” 
+“Piece of shit?”
 
 Yang Chen smiled.
 
@@ -84,7 +84,7 @@ Yang Chen smiled.
 
 He flashed his hand and a sound storing rock appeared in his hand. Immediately the conversation between Jin Tao and Yang Chen resounded within everyone’s ears.
 
-From Yang Chen asking whether a qi realm disciple could not enter the Immortal Falling Well to Jin Tao’s arrogant reply, everything was clearly recorded without even missing a single word. Listening to this conversation, the complexion of all four immediately paled. 
+From Yang Chen asking whether a qi realm disciple could not enter the Immortal Falling Well to Jin Tao’s arrogant reply, everything was clearly recorded without even missing a single word. Listening to this conversation, the complexion of all four immediately paled.
 
 Yang Chen had the command tile and had been recorded from the moment he entered, so he was neither an invading demon, nor had he broken any rules. So right now, even if they wanted to forcibly take away the sound storing stone from Yang Chen’s hands, it was impossible. Their responsibility was guarding the door, not to attack humans.
 
@@ -160,7 +160,7 @@ Yang Chen did still not show any restraint, like before. In any case, Jin Tao’
 
 “Younger Disciple, what about that sound storing rock?”
 
-As soon as Yang Chen had put away those spirit essences in his qiankun pouch, Jin Tao again smilingly asked. 
+As soon as Yang Chen had put away those spirit essences in his qiankun pouch, Jin Tao again smilingly asked.
 
 “Oh, where’s my memory!”
 
@@ -172,7 +172,7 @@ Jin Tao had finally obtained this sound storing rock, once he passed his spirit 
 
 “This is Younger Disciple’s first time here, this Senior Disciple must teach you the rules. Otherwise if you mistakenly break a rule, you may sustain injuries or could even lose your life, Younger Disciple must by all means not neglect it!”
 
-After resolving the dispute, Jin Tao became more and more intimate with Yang Chen, as if he had no discord with him. 
+After resolving the dispute, Jin Tao became more and more intimate with Yang Chen, as if he had no discord with him.
 
 “I request Senior Disciple to give me some pointers!”
 
