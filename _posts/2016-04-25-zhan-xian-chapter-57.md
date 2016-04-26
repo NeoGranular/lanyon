@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 57 - If You Speak False Words, You Must Pay The Price"
 category: zhan-xian
 previous_chapter: 56
-next_chapter: 57
+next_chapter: 58
 date: 2016-04-25 01:58:00 +0200
 ---
 “This Yang Chen requests to see the great master!”
