@@ -8,27 +8,27 @@ layout: default
   {{ content }}
 
           {% if page.layout == "post" %}
-          <div style="block">
-        <div class="upper_rect">
-          {% if page.category == "zhan-xian" %}
-            {% include _ads/zhan_xian/zx_top_rectangle.html %}
-          {% elsif page.category == "heaven-awakening" %}
-            {% include _ads/heaven_awakening/ha_top_rectangle.html %}
-          {% elsif page.category == "sin-city" %}
-            {% include _ads/teaser/teaser_top_rectangle.html %}
-          {% endif %}
-        </div>
-        <div class="lower_rect">
-          {% if page.category == "zhan-xian" %}
-            {% include _ads/zhan_xian/zx_bot_rectangle.html %}
-          {% elsif page.category == "heaven-awakening" %}
-            {% include _ads/heaven_awakening/ha_bot_rectangle.html %}
-          {% elsif page.category == "sin-city" %}
-            {% include _ads/teaser/teaser_bot_rectangle.html %}
-          {% endif %}
-        </div>
-        <br />
-        </div>
+          <div> <!--Ad Wrapper-->
+            <div class="upper_rect">
+              {% if page.category == "zhan-xian" %}
+                {% include _ads/zhan_xian/zx_top_rectangle.html %}
+              {% elsif page.category == "heaven-awakening" %}
+                {% include _ads/heaven_awakening/ha_top_rectangle.html %}
+              {% elsif page.category == "sin-city" %}
+                {% include _ads/teaser/teaser_top_rectangle.html %}
+              {% endif %}
+            </div>
+            <div class="lower_rect">
+              {% if page.category == "zhan-xian" %}
+                {% include _ads/zhan_xian/zx_bot_rectangle.html %}
+              {% elsif page.category == "heaven-awakening" %}
+                {% include _ads/heaven_awakening/ha_bot_rectangle.html %}
+              {% elsif page.category == "sin-city" %}
+                {% include _ads/teaser/teaser_bot_rectangle.html %}
+              {% endif %}
+            </div>
+            <br />
+        </div> <!--End Ad Wrapper-->
         {% endif %}
 </div>
 <div class="ad_space"></div>
@@ -54,7 +54,7 @@ layout: default
   {% endif %}
 </div>
 {% endif %}
-<br /><hr style="margin:0;"><br />
+<br /><hr class="subbox-divider"><br />
 {% include donsub-boxes.html %}
 
 {% include comments.html %}
