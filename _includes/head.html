@@ -74,75 +74,141 @@
 }
 </style>
 
-<!-- start light-mode script -->
+<!-- Reset Disqus -->
 <script>
-$(document).ready(function () {
-  if(Cookies.get('mode')=="light"){
-    $('#mode').prop('checked', true);
-    $('body').addClass('light-mode');
-        if(typeof DISQUS != 'undefined'){
-          DISQUS.reset({
-            reload: true,
-            config: function () {
-              this.page.url = '{{ site.baseurl }}{{ page.url }}';
-              this.page.identifier = '{{ page.id }}';
-            }
-          });
+  function resetDisqus() {
+    if(typeof DISQUS != 'undefined'){
+      DISQUS.reset({
+        reload: true,
+        config: function () {
+          this.page.url = '{{ site.baseurl }}{{ page.url }}';
+          this.page.identifier = '{{ page.id }}';
         }
-  } else {
-    $('#mode').prop('checked', false);
-  }
-
-  $('#mode').change(function(){
-
-    if ($(this).prop('checked'))
-    {
-        $('body').addClass('light-mode');
-        if(typeof DISQUS != 'undefined'){
-          DISQUS.reset({
-            reload: true,
-            config: function () {
-              this.page.url = '{{ site.baseurl }}{{ page.url }}';
-              this.page.identifier = '{{ page.id }}';
-            }
-          });
-        }
-        Cookies.set('mode', 'light', { expires: 365 });
+      });
     }
-    else
-    {
-        $('body').removeClass('light-mode');
-        if(typeof DISQUS != 'undefined'){
-          DISQUS.reset({
-            reload: true,
-            config: function () {
-              this.page.url = '{{ site.baseurl }}{{ page.url }}';
-              this.page.identifier = '{{ page.id }}';
-            }
-          });
-        }
+  }
+</script>
+<!-- End Reset Disqus -->
+
+<script>
+function changeMode(light){
+  var elmt =  document.getElementsByTagName('body');
+  if(elmt){
+    if(light==true){
+      elmt[0].className = 'light-mode';
+    } else {
+      elmt[0].className = '';
+    }
+  }
+}
+</script>
+
+<!-- New Light-Mode script -->
+<!--<script>/*
+window.onload = function(){
+  var modeBox = document.getElementById('mode');
+
+  modeBox.onclick = function() {
+    if ( this.checked ) {
+        changeMode(true);
+        resetDisqus();
+        Cookies.set('mode', 'light', { expires: 365 });
+    } else {
+        changeMode(false);
+        resetDisqus();
         Cookies.remove('mode');
     }
-  });
+  };
 
-
-  $('#go-to-top').click(function(){
-    $('html,body').animate({ scrollTop: 0 }, 'fast');
-    return false;
-});
-
-$('.show-comments').on('click', function(){
-      $.ajax({
-              type: "GET",
-              url: "http://weletranslations.disqus.com/embed.js",
-              dataType: "script",
-              cache: true
-      });
-      $(this).fadeOut();
-});
-
-});
+  if(Cookies.get('mode')=="light"){
+    modeBox.checked = true;
+    changeMode(true);
+    resetDisqus();
+  } else {
+    modeBox.checked = false;
+  }
+};*/
 </script>
-<!--end light-mode script-->
+-->
+<script>
+  document.addEventListener("DOMContentLoaded", function(event) {
+    var modeBox = document.getElementById('mode');
+
+    modeBox.onclick = function() {
+      if ( this.checked ) {
+          changeMode(true);
+          resetDisqus();
+          Cookies.set('mode', 'light', { expires: 365 });
+      } else {
+          changeMode(false);
+          resetDisqus();
+          Cookies.remove('mode');
+      }
+    };
+
+    if(Cookies.get('mode')=="light"){
+      modeBox.checked = true;
+      changeMode(true);
+      resetDisqus();
+    } else {
+      modeBox.checked = false;
+    }
+  });
+</script>
+<!-- End New Light-Mode script -->
+
+<!-- Load Disqus Comments without jQuery -->
+
+<script>
+
+function loaddisqus() {
+var dsq = document.createElement('script');
+dsq.type = 'text/javascript';
+dsq.async = true;
+dsq.src = "http://weletranslations.disqus.com/embed.js";
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+setTimeout(HideButtonAndScroll, 1000);
+}
+
+</script>
+
+<script>
+
+function HideButtonAndScroll(){
+  var loadbutton = document.getElementById('disqus-comments');
+  loadbutton.parentNode.removeChild(loadbutton);
+  window.scrollBy(0,500);
+}
+
+</script>
+
+<!-- End Load Disqus Comments without jQuery -->
+
+<!-- Scroll To Top -->
+
+<script>
+
+function scrollToTop(scrollDuration) {
+    const   scrollHeight = window.scrollY,
+            scrollStep = Math.PI / ( scrollDuration / 15 ),
+            cosParameter = scrollHeight / 2;
+    var     scrollCount = 0,
+            scrollMargin;
+    requestAnimationFrame(step);
+    function step () {
+        setTimeout(function() {
+            if ( window.scrollY != 0 ) {
+                    requestAnimationFrame(step);
+                scrollCount = scrollCount + 1;
+                scrollMargin = cosParameter - cosParameter * Math.cos( scrollCount * scrollStep );
+                window.scrollTo( 0, ( scrollHeight - scrollMargin ) );
+            }
+        }, 15 );
+    }
+}
+
+</script>
+
+<!-- End Scroll To Top -->
 
 </head>
