@@ -10,7 +10,15 @@ published: true
 Just two guys (+1 editor) who love Xianxia trying to give back to the community. Right now we are quite busy but soon will catch speed.
 
 ## Follow Us
-You can subscribe to the blog with [Atom/RSS](http://weletranslation.com/atom.xml). You can follow this blog with WordPress, simply by adding weletranslation.com to your feed, WordPress will automatically detect our atom.xml (WordPress E-Mails are unavailable for this method). We will continue to maintain our WordPress announcement posts, which will link to this new site, so you can also follow us on [our old WordPress blog](https://weletranslation.wordpress.com), but that is not recommended. You can also subscribe to our e-mail notifications with [FeedBurner](https://feedburner.google.com/fb/a/mailverify?uri=Weletranslations/main&amp;loc=en_US)!
+You can subscribe to the blog with [Atom/RSS](http://weletranslation.com/atom.xml). You can follow this blog with WordPress, simply by adding weletranslation.com to your feed, WordPress will automatically detect our atom.xml (WordPress E-Mails are unavailable for this method). We will continue to maintain our WordPress announcement posts, which will link to this new site, so you can also follow us on [our old WordPress blog](https://weletranslation.wordpress.com), but that is not recommended.
+
+[You can also subscribe to our e-mail notifications with FeedBurner](https://feedburner.google.com/fb/a/mailverify?uri=Weletranslations/main&amp;loc=en_US)!
+
+We now have individual feeds for [Immortal Executioner](http://weletranslation.com/zhan-xian/atom.xml) and [Heaven Awakening Path](http://weletranslation.com/heaven-awakening/atom.xml). To use FeedBurner for an e-mail subscription, click here:
+
+[Only Immortal Executioner E-Mail Subscription](https://feedburner.google.com/fb/a/mailverify?uri=weletranslation/zhan-xian&amp;loc=en_US)
+
+[Only Heaven Awakening Path E-Mail Subscription](https://feedburner.google.com/fb/a/mailverify?uri=weletranslation/heaven-awakening&amp;loc=en_US)
 
 Immortal Executioner is translated almost entirely by hand, aside from the occasional glance into a dictionary 😉.
 
