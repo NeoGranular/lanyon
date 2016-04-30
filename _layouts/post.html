@@ -3,8 +3,24 @@ layout: default
 ---
 
 <div class="post" role="main">
+  {% if page.is_sponsored == true %}
+  <div class="sponsored_chapter_wrapper">
+  <h1 class="sponsored_chapter_header">This is a sponsored chapter!</h1>
+  <h2 class="sponsored_chapter_subheader">Thank you very much{% if page.sponsors != empty %},{% else %}!{% endif %}</h2>
+  <p class="sponsored_chapter_list">{{page.sponsors | join: ', ' }}</p>
+  </div>
+  <hr>
+  {% endif %}
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
+  {% if page.has_note == true %}
+  <div>
+    <hr />
+    <div class="translator_note_header">Translators note:</div>
+    <div class="translator_note">{{page.note}}</div>
+    <hr />
+  </div>
+  {% endif %}
   {{ content }}
 
           {% if page.layout == "post" %}
