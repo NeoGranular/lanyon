@@ -16,11 +16,40 @@ layout: default
   {% if page.has_note == true %}
   <div>
     <hr />
-    <div class="translator_note_header">Translators note:</div>
+    <div class="translator_note_header">Note:</div>
     <div class="translator_note">{{page.note}}</div>
+    {% if page.has_credits != true %}
     <hr />
+    {% else %}
+    <hr class="no-hr-margin" />
+    {% endif %}
   </div>
   {% endif %}
+  {% if page.has_credits == true %}
+    {% if page.has_note != true %}
+  <hr class="no-hr-margin" />
+    {% endif %}
+  <div class="credits">
+    {% if page.translator != null and page.translator != blank %}
+    <div class="credits_li">
+      Translated by:&nbsp;<div class="credits_hilite">{{ page.translator }}</div>
+    </div>
+    {% endif %}
+    {% if page.editor != null and page.editor != blank %}
+    <div class="credits_li">
+      Edited by:&nbsp;<div class="credits_hilite">{{ page.editor }}</div>
+    </div>
+    {% endif %}
+    {% if page.proofreader != null and page.proofreader != blank %}
+    <div class="credits_li">
+      Proofread by:&nbsp;<div class="credits_hilite">{{ page.proofreader }}</div>
+    </div>
+    {% endif %}
+  <hr class="no-hr-margin" />
+  </div>
+  {% endif %}
+
+
   {{ content }}
 
           {% if page.layout == "post" %}

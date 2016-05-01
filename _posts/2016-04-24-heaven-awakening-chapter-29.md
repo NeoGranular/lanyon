@@ -6,12 +6,15 @@ category: heaven-awakening
 previous_chapter: 28
 next_chapter: 30
 date: 2016-04-24 23:26:00 +0200
+has_credits: true
+translator: toomuchnoob
+proofreader: Appelemac
 ---
 The cold light went straight for Su Tang's back.
 
 Wei Yang made a misunderstanding yet again.
 
-He absolutely shouldn't be concerned about Lu Ping and Su Tang's identity as students of Zhai Feng institute, rather he should be concerned about the identity of Lu Ping as a Heaven Awakener with six souls Linked. 
+He absolutely shouldn't be concerned about Lu Ping and Su Tang's identity as students of Zhai Feng institute, rather he should be concerned about the identity of Lu Ping as a Heaven Awakener with six souls Linked.
 <!--more-->
 
 It was unfortunate that he didn't know.

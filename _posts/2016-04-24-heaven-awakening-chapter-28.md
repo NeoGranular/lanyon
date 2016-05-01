@@ -6,6 +6,9 @@ category: heaven-awakening
 previous_chapter: 27
 next_chapter: 29
 date: 2016-04-24 23:21:00 +0200
+has_credits: true
+translator: toomuchnoob
+proofreader: Appelemac
 ---
 "You seem to know that person?" Mo Lin, whose favourable impression towards that youngster only remained for three seconds, felt that Xi Fan knew something after he looked at the former's expression.
 

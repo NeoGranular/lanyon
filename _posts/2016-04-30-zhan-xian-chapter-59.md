@@ -10,6 +10,10 @@ has_note: true
 note: "In the last chapter we translated that he fought with spirit beasts of all attributes. This was a mistranslation: he actually fought spirit beasts of the metal attribute."
 is_sponsored: false
 sponsors: []
+has_credits: false
+translator: "NG"
+editor:
+proofreader:
 ---
 All of them were metal attributed lower level spirit beasts? Jin Tao was so gloomy that he almost started weeping, he had obviously planned for five high level spirit beasts, how could they turn into low level spirit beasts? Furthermore into spirit beasts of the metal attribute, which would easily be subdued by Yang Chen’s fire attribute?
 

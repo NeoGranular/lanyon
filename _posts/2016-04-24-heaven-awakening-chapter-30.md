@@ -6,6 +6,9 @@ category: heaven-awakening
 previous_chapter: 29
 next_chapter:
 date: 2016-04-24 23:30:00 +0200
+has_credits: true
+translator: toomuchnoob
+proofreader: Appelemac
 ---
 City Master Wei Zhong values the efficiency highly, so the City Master's Mansion had naturally been brought up in an atmosphere that corresponds to it. Just a few moments since the entrance guard had gone inside the Mansion to notify, Protector Wei Ling had already appeared outside the mansion, but due to the appearance of this strange guy, he didn't rush forward and act without caution.
 
@@ -36,7 +39,7 @@ The new information had long ago been passed on inside the City Master's Mansion
 
 "Mr. Wen!" City Master Wei Zhong's expression was extremely earnest, and the echo of his voice was powerful. However, just by the way he'd addressed the former, all people present could feel the respect he felt and how highly he thought of the former.
 
-"City Lord." In return, Wen Gecheng was also courteous towards Wei Zhong. Being in control of a province, a city master upon the continent can't possibly be nameless like Zhai Feng institute. Wei Zhong is a strong Linked One with three souls linked, this coupled with his identity as a City Master, he naturally can't be a lone wolf like Wen Gecheng. 
+"City Lord." In return, Wen Gecheng was also courteous towards Wei Zhong. Being in control of a province, a city master upon the continent can't possibly be nameless like Zhai Feng institute. Wei Zhong is a strong Linked One with three souls linked, this coupled with his identity as a City Master, he naturally can't be a lone wolf like Wen Gecheng.
 
 Each and every one of the twelve Protectors at his side is an expert. Wei Yang who recently had his face squeezed out by Lu Ping was arrogant only because he was a genius. In terms of true strength accounted through realms, he is the at the very bottom of all the Protectors. However, since his age is only seventeen years, his future prospects are endless.
 
