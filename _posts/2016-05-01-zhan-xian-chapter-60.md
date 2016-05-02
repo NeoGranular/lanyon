@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 60 - Earth Fiend Sacrificial Formation Secret"
 category: zhan-xian
 previous_chapter: 59
-next_chapter:
+next_chapter: 61
 date: 2016-05-01 20:35:00 +0200
 has_note: true
 note: "Tomorrow will be a double release to make up for the missing regular chapter last week. Because NG has exams throughout the entire next week, we will not release any chapters during that time. We will compensate for the lost chapters by releasing 8 regular chapters in the following week!"
