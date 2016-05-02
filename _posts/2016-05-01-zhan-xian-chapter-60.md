@@ -66,7 +66,7 @@ Although Yang Chen’s body had already been strengthened by the essence of the 
 
 The state of consolidating was a necessary process after making a breakthrough. Even compared to the process of increase in attack, the state of consolidating was more important.
 
-A good analogy to compare both states would be to consider the process of breaking through in attack power as being equivalent to hammering a needle into the rooftop of one’s house, if the attack power was enough, it would easily pierce through. But, the consolidating process was comparable to consolidating the foundation after the needle had pierced through. The more profound the foundation, the bigger the house it can support.
+A good analogy to compare both states would be to consider the process of breaking through in attack power as being equivalent to hammering a nail into the rooftop of one’s house, if the attack power was enough, it would easily pierce through. But, the consolidating process was comparable to consolidating the foundation after the nail had pierced through. The more profound the foundation, the bigger the house it can support.
 
 Currently Yang Chen looked exactly like a person who was building their foundation, frantically absorbing the spiritual influence from the spirit vein to lay his own, solid and firm foundation.
 
