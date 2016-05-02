@@ -8,7 +8,7 @@ next_chapter: 30
 date: 2016-04-24 23:26:00 +0200
 has_credits: true
 translator: toomuchnoob
-proofreader: Appelemac
+proofreader: appel emac
 ---
 The cold light went straight for Su Tang's back.
 
