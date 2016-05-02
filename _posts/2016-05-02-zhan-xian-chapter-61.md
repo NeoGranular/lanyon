@@ -5,7 +5,7 @@ title: "Chapter 61 - Fusing With The Will Of The XianTai Stage"
 category: zhan-xian
 previous_chapter: 60
 next_chapter:
-date: 2016-05-02 21:35:00 +0200
+date: 2016-05-02 22:03:00 +0200
 has_note: true
 note: "To read with black text on white background, put a tick into the side menu ( ☰ ) here: '☑ Light Theme'"
 is_sponsored: false
