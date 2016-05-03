@@ -10,14 +10,17 @@
   <div class="donationbar_front">
     ${{ site.data.donationvars.zx_cur }}&nbsp;
   </div>
-  <div id="progressbar">
-    {% assign intermediate = site.data.donationvars.zx_cur | times: 100 %}
-    {% if site.data.donationvars.zx_max != 0 %}
-    <div style="width:{{ intermediate | divided_by: site.data.donationvars.zx_max }}%; max-width:100%;"></div>
-    {% else %}
-    <div style="width:0%"></div>
-    {% endif %}
-  </div>
+
+  {% assign intermediate = site.data.donationvars.zx_cur | times: 100 %}
+  {% if site.data.donationvars.zx_max != 0 %}
+    {% assign donationpct = intermediate | divided_by: site.data.donationvars.zx_max %}
+
+    {% include donationprogress.html %}
+  {% else %}
+    <div id="progressbar">
+      <div style="width:0%"></div>
+    </div>
+  {% endif %}
   <div class="donationbar_back">
     &nbsp;${{ site.data.donationvars.zx_max }}
   </div>
@@ -34,14 +37,17 @@
   <div class="donationbar_front">
     ${{ site.data.donationvars.ha_cur }}&nbsp;
   </div>
-  <div id="progressbar">
-    {% assign intermediate = site.data.donationvars.ha_cur | times: 100 %}
-    {% if site.data.donationvars.ha_max != 0 %}
-    <div style="width:{{ intermediate | divided_by: site.data.donationvars.ha_max }}%; max-width:100%;"></div>
-    {% else %}
-    <div style="width:0%"></div>
-    {% endif %}
-  </div>
+
+  {% assign intermediate = site.data.donationvars.ha_cur | times: 100 %}
+  {% if site.data.donationvars.ha_max != 0 %}
+    {% assign donationpct = intermediate | divided_by: site.data.donationvars.ha_max %}
+
+    {% include donationprogress.html %}
+  {% else %}
+    <div id="progressbar">
+      <div style="width:0%"></div>
+    </div>
+  {% endif %}
   <div class="donationbar_back">
     &nbsp;${{ site.data.donationvars.ha_max }}
   </div>
