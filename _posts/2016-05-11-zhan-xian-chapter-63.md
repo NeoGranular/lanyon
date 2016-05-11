@@ -118,7 +118,7 @@ Seeing that Yang Chen did not have any more pills to take out, the people didn�
 
 After selling the pills, Yang Chen didn’t want to stop for long. But just as he was about to leave, someone suddenly dashed forward to ask:
 
-“Younger Disciple Yang, don’t you any third grade pills?”
+“Younger Disciple Yang, don’t you have any third grade pills?”
 
 The person just wanted to probe to initiate a conversation but Yang Chen halted his steps and, turning towards the person who asked the question, he suddenly said:
 
