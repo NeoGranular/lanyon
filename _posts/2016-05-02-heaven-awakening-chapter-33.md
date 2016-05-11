@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 33 - Extreme Curiosity"
 category: heaven-awakening
 previous_chapter: 32
-next_chapter:
+next_chapter: 34
 date: 2016-05-02 18:32:00 +0200
 has_credits: true
 translator: toomuchnoob
