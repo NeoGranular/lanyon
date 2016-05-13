@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 34 - Grand Soul Convention"
 category: heaven-awakening
 previous_chapter: 33
-next_chapter:
+next_chapter: 35
 date: 2016-05-11 21:55:00 +0200
 has_credits: true
 translator: toomuchnoob
