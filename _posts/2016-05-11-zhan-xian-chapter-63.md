@@ -4,9 +4,9 @@ layout: post
 title: "Chapter 63 - Grade Three Pill Concocting Master"
 category: zhan-xian
 previous_chapter: 62
-next_chapter:
+next_chapter: 64
 date: 2016-05-11 21:09:00 +0200
-has_note: true
+has_note: false
 note: "Exams are finally over! Only 7 chapters remaining. :)"
 is_sponsored: false
 sponsors: []
