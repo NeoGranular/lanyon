@@ -12,7 +12,7 @@ proofreader: appel emac
 ---
 "You seem to know that person?" Mo Lin, whose favourable impression towards that youngster only remained for three seconds, felt that Xi Fan knew something after he looked at the former's expression.
 
-"His name is Wei Yang. City Master's Mansion has twelve Protectors, and he is one of them. It is said that he began perceiving at the age of fourteen, and just at the age of sixteen, he had already attained the Linking; An absolute genius!"
+"His name is Wei Yang. City Master's Mansion has twelve Family Guardians, and he is one of them. It is said that he began perceiving at the age of fourteen, and just at the age of sixteen, he had already attained the Linking; An absolute genius!"
 <!--more-->
 
 "Genius? Are you trying to make me laugh?" Mo Lin said.
