@@ -35,7 +35,7 @@ Wei Ming’s way of addressing Baliyan had been courteous through the entire con
 
 Wei Zhong’s support towards Xia Feng institute was unquestionable;
 
-Wei Ming had demonstrated this point in extremely concise words. After showing such support and still not getting any results, City Master being unsatisfied is reasonable and fair. Because of this reason, Baliyan has been  ashamed to even show his face. Under such conditions, in whatever way City Master wished to handle this situation from now, he had no other choice but accept it.
+Wei Ming had demonstrated this point in extremely concise words. After showing such support and still not getting any results, City Master being unsatisfied is reasonable and fair. Because of this reason, Baliyan has been ashamed to even show his face. Under such conditions, in whatever way City Master wished to handle this situation from now, he had no other choice but accept it.
 
 “However, City Master will not give up on Xia Feng like this. City Master’s Mansion will replenish the Two Soul’s Tower for you.” Wei Ming said.
 
@@ -63,7 +63,7 @@ Baliyan’s old face turned red. However, at this moment, he couldn’t be bothe
 
 Godou was somewhat at a loss. If City Master’s Mansion truly issues such instructions, then, of course, the student’s desire can be neglected. Could it be that there is even such a student who wouldn’t mind City Master’s Mansion?
 
-He naturally didn’t know that just yesterday, Lu Ping, unimpressed by both persuasion and force, bluntly rejected City Master’s invitation, and even seriously injured a Protector. Therefore, such self-mocking words accompanied with such a cold tone, rendered Baliyan extremely puzzled.
+He naturally didn’t know that just yesterday, Lu Ping, unimpressed by both persuasion and force, bluntly rejected City Master’s invitation, and even seriously injured a Family Guardian. Therefore, such self-mocking words accompanied with such a cold tone, rendered Baliyan extremely puzzled.
 
 “This is the list of names of Xia Feng’s students who will go to the Grand Soul Gathering.” This time, Wei Ming suddenly pulled out a paper and handed over to Baliyan.
 
@@ -79,7 +79,7 @@ Baliyan was having such thoughts after he saw Wei Tianqi’s name in the list. H
 
 Wei Yang.
 
-Wei Yang? Is it that Wei Yang? The genius who attained the realm of Linking Of Souls just two years after coming into contact with the perception of Souls? One of the twelve Protectors?
+Wei Yang? Is it that Wei Yang? The genius who attained the realm of Linking Of Souls just two years after coming into contact with the perception of Souls? One of the twelve Family Guardians?
 
 This kind of a genius is precisely the student for which Baliyan had always longed for. It had been a pity that the guy was already a Protector, and had such a high realm. Thus, Baliyan didn’t seek him out. However, at this moment, City Master is actually handing over Wei Yang to him, and is even allowing the former to represent the Xia Feng institute in the Gathering?
 
@@ -89,7 +89,7 @@ Beneath Wei Yang’s name, third name:
 
 Wei Ming.
 
-It was actually Wei Ming. Baliyan was not too clear about the true strength of this young man. Although Wei Yang is a genius, but it is said that, in terms of true strength, he is actually the last among the twelve Protectors.
+It was actually Wei Ming. Baliyan was not too clear about the true strength of this young man. Although Wei Yang is a genius, but it is said that, in terms of true strength, he is actually the last among the twelve Family Guardians.
 
 Even Wei Ming had made an appearance. Baliyan was beginning to have extreme expectations towards this list. He impatiently moved his gaze towards the fourth name.
 
@@ -97,7 +97,7 @@ Wei Ying?
 
 Who is this?
 
-Baliyan was at a loss. Since surname is Wei, he must be one of the twelve Protectors. These twelve individuals with different origins, after following Wei Zhong and turning into his Protectors, would be bestowed the common surname ‘Wei’. Wei Ying is probably one of them. However, why has his name never been heard.
+Baliyan was at a loss. Since surname is Wei, he must be one of the twelve Family Guardians. These twelve individuals with different origins, after following Wei Zhong and turning into his Family Guardians, would be bestowed the common surname ‘Wei’. Wei Ying is probably one of them. However, why has his name never been heard.
 
 “Are you finished looking?” At this moment, Wei Ming’s voice sounded.
 
@@ -105,7 +105,7 @@ Baliyan was at a loss. Since surname is Wei, he must be one of the twelve Protec
 
 “There is no need to say much. I presume you will manage the arrangements?” Wei Yang was once again using the honorific.
 
-“I understand. I will manage the arrangements.” Baliyan had lost count how many times he’d said ‘I understand’ today. However, for him, this is an extremely fortuitous matter. City Master’s Mansion is actually sending experts to represent Xia Feng in the Grand Soul Gathering. If this had happened before, then perhaps Xia Feng would have long ago rushed to the top, no?
+“I understand. I will manage the arrangements.” Baliyan had lost count how many times he’d said ‘I understand’ today. However, for him, this was an extremely fortuitous matter. City Master’s Mansion is actually sending experts to represent Xia Feng in the Grand Soul Gathering. If this had happened before, then perhaps Xia Feng would have long ago rushed to the top, no?
 
 Wei Yang, Wei Ming, and that unheard guy Wei Ying. I have these experts, and Zhai Feng only has a single individual, Lu Ping. Does that amount to anything?
 
