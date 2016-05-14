@@ -10,7 +10,7 @@ has_credits: true
 translator: toomuchnoob
 proofreader: appel emac
 ---
-City Master Wei Zhong values the efficiency highly, so the City Master's Mansion had naturally been brought up in an atmosphere that corresponds to it. Just a few moments since the entrance guard had gone inside the Mansion to notify, Protector Wei Ling had already appeared outside the mansion, but due to the appearance of this strange guy, he didn't rush forward and act without caution.
+City Master Wei Zhong values the efficiency highly, so the City Master's Mansion had naturally been brought up in an atmosphere that corresponds to it. Just a few moments since the entrance guard had gone inside the Mansion to notify, Family Guardian Wei Ling had already appeared outside the mansion, but due to the appearance of this strange guy, he didn't rush forward and act without caution.
 
 This man doesn't seem to have any evil intentions, and neither does he have any intentions to deliberately favour a certain side. After he extracted out those two strands of the power of Strength's Soul, Su Tang had immediately turned full of life and vigor, and at this moment, he is already moving towards Wei Yang.
 <!--more-->
@@ -19,11 +19,11 @@ This man doesn't seem to have any evil intentions, and neither does he have any 
 
 "Capable of telling blood vessels with a single glance, there is only a single individual in the entire continent."
 
-"Right, that's me." The man had lowered his body and was examining the injury on Wei Yang's face. In the end, he shook his head and stood up. He looked towards the Protector who was standing right outside the gate watching them, and waved his hand:
+"Right, that's me." The man had lowered his body and was examining the injury on Wei Yang's face. In the end, he shook his head and stood up. He looked towards the Family Guardian who was standing right outside the gate watching them, and waved his hand:
 
 "He is fine, but his face is ruined."
 
-"Your majesty is....." The Protector waved his hands indicating the guards to carry Wei Yang back while he himself went forward to greet the man in quick steps. From the hint inside Xi Fan's words, he'd faintly guessed who this man was.
+"Your majesty is....." The Family Guardian waved his hands indicating the guards to carry Wei Yang back while he himself went forward to greet the man in quick steps. From the hint inside Xi Fan's words, he'd faintly guessed who this man was.
 
 "Wen Ge Cheng." The man smiled.
 
@@ -37,11 +37,11 @@ However, Wen Gecheng didn't accept the invitation of any faction. He just playfu
 
 The new information had long ago been passed on inside the City Master's Mansion. The efficiency of the City Master is truly nothing like ordinary, only a few words had been exchanged between the Protector and We Gecheng, and the City Master had already made his appearance outside the Mansion's Gate.
 
-"Mr. Wen!" City Master Wei Zhong's expression was extremely earnest, and the echo of his voice was powerful. However, just by the way he'd addressed the former, all people present could feel the respect he felt and how highly he thought of the former.
+"Mr. Wen!" City Master Wei Zhong's expression was extremely earnest, and the echo of his voice was powerful. However, just by the way he'd addressed the former, all people present could feel the respect he felt, and how highly he thought of the former.
 
 "City Lord." In return, Wen Gecheng was also courteous towards Wei Zhong. Being in control of a province, a city master upon the continent can't possibly be nameless like Zhai Feng institute. Wei Zhong is a strong Linked One with three souls linked, this coupled with his identity as a City Master, he naturally can't be a lone wolf like Wen Gecheng.
 
-Each and every one of the twelve Protectors at his side is an expert. Wei Yang who recently had his face squeezed out by Lu Ping was arrogant only because he was a genius. In terms of true strength accounted through realms, he is the at the very bottom of all the Protectors. However, since his age is only seventeen years, his future prospects are endless.
+Each and every one of the twelve Family Guardians at his side is an expert. Wei Yang who recently had his face squeezed out by Lu Ping was arrogant only because he was a genius. In terms of true strength accounted through realms, he is the at the very bottom of all the Family Guardians. However, since his age is only seventeen years, his future prospects are endless.
 
 "Mr. Wen, forgive me for not being there when you arrived in the city, but I still ask of you to have a seat inside the Mansion." Every single letter of Wei Zhong's following words also echoed. The words were accompanied with a Soul's Power which can cause people hearing unable to refuse him.
 
@@ -79,7 +79,7 @@ Lu Ping shook his head. Normally saying, within these three years in Zhai Feng, 
 
 "It's unlikely for Wen Gecheng to make a mistake, though!" Mo Lin said.
 
-However, Xi Fan had refused to recognize him. Xi Fan turned the direction of the wheelchair by himself and began to move forward. Su Tang who was now completely recovered lent him a hand. However, from behind his body, another question came through:
+However, Xi Fan refused to recognize him. Xi Fan turned the direction of the wheelchair by himself and began to move forward. Su Tang who was now completely recovered lent him a hand. However, from behind his body, another question came through:
 
 "Who is Yan Quici again?"
 
@@ -95,7 +95,7 @@ At this moment, Mo Lin clearly didn't seem to have any interest in preaching gen
 
 "Oh." Since Xi Fan wasn't willing to speak, Mo Lin also couldn't do anything about it. So he began to think about the previous words of Wen Gecheng.
 
-"Just a moment ago, Wen Gecheng said that all the four of us have uncommon origins? How you all have uncommon origin, it could care less; A part of me already believe in you all prematurely. But, from what angle does my origins seems uncommon? Help me a bit in thinking it over." Mo Lin said.
+"Just a moment ago, Wen Gecheng said that all the four of us have uncommon origins? How you all have uncommon origin, I could care less; A part of me already believe in you all prematurely. But, from what angle does my origins seems uncommon? Help me a bit in thinking it over." Mo Lin said.
 
 "How about: you are of unknown origins instead of uncommon origins?" Xi Fan looked at him: "Mo family? Lin Mo?  Who are you in the end?"
 
