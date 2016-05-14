@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 35 - Two Things."
 category: heaven-awakening
 previous_chapter: 34
-next_chapter:
+next_chapter: 36
 date: 2016-05-13 19:58:00 +0200
 has_credits: true
 translator: toomuchnoob
