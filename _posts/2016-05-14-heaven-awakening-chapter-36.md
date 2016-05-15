@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 36 - Northern Exit’s Main Culprit"
 category: heaven-awakening
 previous_chapter: 35
-next_chapter:
+next_chapter: 37
 date: 2016-05-14 21:20:00 +0200
 has_credits: true
 translator: toomuchnoob
