@@ -32,3 +32,5 @@ compress_html:
   startings: all
 
 gems: [jekyll-paginate]
+
+markdown: kramdown

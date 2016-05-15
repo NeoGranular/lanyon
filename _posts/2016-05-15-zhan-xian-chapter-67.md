@@ -68,7 +68,7 @@ Fortunately Yang Chen already had an experience of using fire to do various thin
 
 After a short while, Yang Chen discovered that the spirit power in his entire body was seemingly ignited by this trace of Geocentric Flame; his whole body had begun to combust. This was purely a feeling, if Yang Chen wished, he could use the water attributed spirit power to ‘pour water to extinguish the fire’ to stifle this portion of flame, but Yang Chen didn’t do anything like this. If he did not go through this the first time, he would never be able to genuinely refine and absorb another flame, no matter what kind it was.
 
-Enduring the pain that felt as if his whole body was set on fire, Yang Chen’s mental state had become tenacious like an old mangosteen, without the slightest amount of hesitation about abandoning the plan. His formidable spirit power was monitoring the situation of his body at all times, guiding his spirit power and the Geocentric Flame, which were in contact with each other, around, little by little.
+Enduring the pain that felt as if his whole body was set on fire, Yang Chen’s mental state had become tenacious like an old mangosteen[^1], without the slightest amount of hesitation about abandoning the plan. His formidable spirit power was monitoring the situation of his body at all times, guiding his spirit power and the Geocentric Flame, which were in contact with each other, around, little by little.
 
 Absorbing a flame at the qi layer was a very risky task, but Yang Chen had no other option. First, there were still people within the Immortal Falling Cave who were waiting for their chance to attack him, and second: he was looking forward to the time when he would be able to pay his respects under his master once again, able to assist his master to rise to the heavens. If he didn’t have enough strength, he would not be able to do that.
 
@@ -113,3 +113,5 @@ But Yang Chen did not want to break through immediately, he was at the peak of t
 When Yang Chen finally calculated the days he had spent here, he suddenly discovered that already half a year had passed.
 
 Sensing the violently surging Spirit Power within his body, Yang Chen had the sudden urge to be impulsive. Those people who were waiting for him at the side of the magma river, it was finally time to settle his debts with them.
+
+[^1]: The [mangosteen](https://en.wikipedia.org/wiki/Purple_mangosteen) is a fruit that starts to harden after harvest 
