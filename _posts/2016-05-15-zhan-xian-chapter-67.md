@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 67 - Peak Of The Qi Layer"
 category: zhan-xian
 previous_chapter: 66
-next_chapter:
+next_chapter: 68
 date: 2016-05-15 16:12:00 +0200
 has_note: false
 note: ""
@@ -114,4 +114,4 @@ When Yang Chen finally calculated the days he had spent here, he suddenly discov
 
 Sensing the violently surging Spirit Power within his body, Yang Chen had the sudden urge to be impulsive. Those people who were waiting for him at the side of the magma river, it was finally time to settle his debts with them.
 
-[^1]: The [mangosteen](https://en.wikipedia.org/wiki/Purple_mangosteen) is a fruit that starts to harden after harvest 
+[^1]: The [mangosteen](https://en.wikipedia.org/wiki/Purple_mangosteen) is a fruit that starts to harden after harvest
