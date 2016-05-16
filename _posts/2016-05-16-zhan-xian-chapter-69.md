@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 69 - You Can't Complain About Dying"
 category: zhan-xian
 previous_chapter: 68
-next_chapter:
+next_chapter: 70
 date: 2016-05-16 03:52:00 +0200
 has_note: false
 note: ""
