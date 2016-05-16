@@ -608,6 +608,8 @@ a.pagination-item:hover {
     margin-right: 2%;
     border: 1px solid #f90;
     background-color: #484848;
+
+    border-radius: 4px;
 }
 
 .sub_rect p {
@@ -626,6 +628,8 @@ a.pagination-item:hover {
     text-align: center;
     border: 1px solid #f90;
     background-color: #484848;
+
+    border-radius: 4px;
 }
 
 
@@ -899,6 +903,8 @@ body.light-mode {
     float: left;
     border: 1px solid #ccc;
     margin-bottom:20px;
+
+    border-radius: 4px;
 }
 
 .sidebar_sub_rect p {
@@ -918,11 +924,15 @@ body.light-mode {
   border: 1px solid #c3c3c3;
   font-family: "PT Sans", "Calibri", "Arial", sans-serif;
   font-size: 16px;
+
+  border-radius: 4px;
 }
 
 .show-comments:hover {
   border: 1px solid #f90;
   color: #f90;
+
+  border-radius: 4px;
 }
 
 .light-mode .show-comments {
@@ -932,8 +942,17 @@ body.light-mode {
   font-family: Arial;
   font-size: 13.3333px;
   padding-bottom:0px;
+
+  border-radius: 0;
 }
 
 .light-mode .show-comments:hover {
   border: 2px outset buttonface;
+}
+
+.nr-in-queue {
+  margin:0;
+  font-family: "PT Sans", "Calibri", "Arial", sans-serif;
+  font-size: 14px;
+  margin-top: -5px;
 }

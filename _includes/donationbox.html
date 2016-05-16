@@ -24,6 +24,18 @@
   <div class="donationbar_back">
     &nbsp;${{ site.data.donationvars.zx_max }}
   </div>
+  <div class="nr-in-queue">
+    {% if site.data.donationvars.zx_max != 0 %}
+      {% assign chapnmbr = site.data.donationvars.zx_cur | divided_by: site.data.donationvars.zx_max %}
+    {% else %}
+      {% assign chapnmbr = 0 %}
+    {% endif %}
+    {% if chapnmbr == 1 %}
+      1 sponsored chapter in queue
+    {% else %}
+      {{ chapnmbr }} sponsored chapters in queue
+    {% endif %}
+  </div>
 </div>
 {% elsif page.category == "heaven-awakening" %}
 <p>

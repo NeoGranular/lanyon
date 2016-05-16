@@ -1,0 +1,6 @@
+<div class="sponsored_chapter_wrapper">
+<h1 class="sponsored_chapter_header">This is a sponsored chapter!</h1>
+<h2 class="sponsored_chapter_subheader">Thank you very much{% if page.sponsors != empty %},{% else %}!{% endif %}</h2>
+<p class="sponsored_chapter_list">{{page.sponsors | join: ', ' }}</p>
+</div>
+<hr>

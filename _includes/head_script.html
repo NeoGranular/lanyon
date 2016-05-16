@@ -1,0 +1,81 @@
+<script>
+function resetDisqus() {
+  if(typeof DISQUS != 'undefined'){
+    DISQUS.reset({
+      reload: true,
+      config: function () {
+        this.page.url = '{{ site.baseurl }}{{ page.url }}';
+        this.page.identifier = '{{ page.id }}';
+      }
+    });
+  }
+}
+
+function changeMode(light){
+  var elmt =  document.getElementsByTagName('body');
+  if(elmt){
+    if(light==true){
+      elmt[0].className = 'light-mode';
+    } else {
+      elmt[0].className = '';
+    }
+  }
+}
+
+document.addEventListener("DOMContentLoaded", function(event) {
+  var modeBox = document.getElementById('mode');
+    modeBox.onclick = function() {
+    if ( this.checked ) {
+        changeMode(true);
+        resetDisqus();
+        Cookies.set('mode', 'light', { expires: 365 });
+    } else {
+        changeMode(false);
+        resetDisqus();
+        Cookies.remove('mode');
+    }
+  };
+    if(Cookies.get('mode')=="light"){
+    modeBox.checked = true;
+    changeMode(true);
+    resetDisqus();
+  } else {
+    modeBox.checked = false;
+  }
+});
+
+function loaddisqus() {
+var dsq = document.createElement('script');
+dsq.type = 'text/javascript';
+dsq.async = true;
+dsq.src = "http://weletranslations.disqus.com/embed.js";
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+setTimeout(HideButtonAndScroll, 1000);
+}
+
+function HideButtonAndScroll(){
+  var loadbutton = document.getElementById('disqus-comments');
+  loadbutton.parentNode.removeChild(loadbutton);
+  window.scrollBy(0,500);
+}
+
+function scrollToTop(scrollDuration) {
+    const   scrollHeight = window.scrollY,
+            scrollStep = Math.PI / ( scrollDuration / 15 ),
+            cosParameter = scrollHeight / 2;
+    var     scrollCount = 0,
+            scrollMargin;
+    requestAnimationFrame(step);
+    function step () {
+        setTimeout(function() {
+            if ( window.scrollY != 0 ) {
+                    requestAnimationFrame(step);
+                scrollCount = scrollCount + 1;
+                scrollMargin = cosParameter - cosParameter * Math.cos( scrollCount * scrollStep );
+                window.scrollTo( 0, ( scrollHeight - scrollMargin ) );
+            }
+        }, 15 );
+    }
+}
+
+</script>
