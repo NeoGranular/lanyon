@@ -17,7 +17,7 @@ proofreader:
 ---
 Hearing these words, everyone realized whose voice this was: Elder Wu of the council of Five Elders, a Da Cheng stage expert, the great cultivator who was admired by all of the ancestors of everyone’s sects, the overseer of the Immortal Falling Well, the person who made all of the rules here.
 
-Since everyone had set foot into the Immortal Falling Well, nobody had ever seen this legendary Da Cheng stage expert, everything was entirely conducted according the rules without the slightest accident.
+Since everyone had set foot into the Immortal Falling Well, nobody had ever seen this legendary Da Cheng stage expert, everything was entirely conducted according to the rules without the slightest accident.
 <!--more-->
 Gradually everyone seemed to have forgotten the existence of Elder Wu, the rules were only followed at the Li Lou Village, when going into the depths of the Immortal Falling Well, the sun was high and the emperor far away.[^1]
 
