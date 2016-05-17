@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 37 - Young City Master."
 category: heaven-awakening
 previous_chapter: 36
-next_chapter:
+next_chapter: 38
 date: 2016-05-15 20:19:00 +0200
 has_credits: true
 translator: toomuchnoob
