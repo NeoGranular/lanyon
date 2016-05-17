@@ -4,9 +4,9 @@ layout: post
 title: "Chapter 70 - Elder Wu Needs A Favor"
 category: zhan-xian
 previous_chapter: 69
-next_chapter:
+next_chapter: 71
 date: 2016-05-16 23:50:00 +0200
-has_note: true
+has_note: false
 note: "Because of technical problems we didn't manage to translate chapter 70 in time, so chapter 71 will be delayed by one day. Sorry!"
 is_sponsored: false
 sponsors: []
