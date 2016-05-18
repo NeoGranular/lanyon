@@ -825,6 +825,7 @@ body.light-mode {
 
 .subbox-divider {
     margin:0;
+    width:100%;
 }
 
 .subscribe-form {
@@ -955,4 +956,26 @@ body.light-mode {
   font-family: "PT Sans", "Calibri", "Arial", sans-serif;
   font-size: 14px;
   margin-top: -5px;
+}
+
+.support_message{
+  display:none;
+  font-size: 13px;
+  /*margin-top:5px;
+  margin-bottom:5px;*/
+  margin:5px;
+}
+
+.blocked .support_message{
+  display:inline-block;
+}
+
+.subbox-divider-two{
+  display:none;
+  margin:0;
+  width:100%;
+}
+
+.blocked .subbox-divider-two{
+  display:block;
 }

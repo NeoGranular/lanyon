@@ -23,15 +23,10 @@ layout: compress
       </div>
 
       <div class="container content">
-        {% if page.layout == "post" %}
+
         <div class="banner_ad">
           {% include top_leader.html %}
         </div>
-        {% elsif page.title == "Home" %}
-        <div class="banner_ad">
-          {% include _ads/home_page/home_page_top_leaderboard.html %}
-        </div>
-        {% endif %}
 
         {{ content }}
 

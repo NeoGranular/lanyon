@@ -15,7 +15,7 @@ function changeMode(light){
   var elmt =  document.getElementsByTagName('body');
   if(elmt){
     if(light==true){
-      elmt[0].className = 'light-mode';
+      elmt[0].className += ' light-mode';
     } else {
       elmt[0].className = '';
     }
@@ -78,4 +78,10 @@ function scrollToTop(scrollDuration) {
     }
 }
 
+function handleBegging(){
+  var elmt =  document.getElementsByTagName('body');
+  if(elmt){
+    elmt[0].className += ' blocked';
+  }
+}
 </script>
