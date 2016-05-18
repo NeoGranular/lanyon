@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 71 - Reading A Lot Has Its Benefits"
 category: zhan-xian
 previous_chapter: 70
-next_chapter:
+next_chapter: 72
 date: 2016-05-18 00:21:00 +0200
 has_note: false
 note: ""
@@ -132,7 +132,7 @@ Elder Wu asked with the tone of seeking a guidance, without even the slightest t
 
 Elder Wu’s attitude raised Yang Chen’s admiration for him, he had seen a lot of people who insult ones who were weaker, because of their own high strength, but seeing Elder Wu’s bearing just now had really caught him off guard. In his previous life, Yang Chen never had the opportunity to make contact with Elder Wu, so he did not know what kind of person he was. A Da Cheng stage expert who might immediately ascend to the spiritual world had not only shown courtesy towards a qi layer expert, asked for his opinion without caring for his face.
 
-“When you refine this magic treasure again, use the Immortal Passage refining technique to fuse this magic treasure with the Immortal Passage.” [^1]
+“When you refine this magic treasure again, use the Immortal Passage refining technique to fuse this magic treasure with the Immortal Passage.”
 
 Yang Chen did not have any sentimental attachment to the idea, so he calmly explained what he knew:
 
@@ -153,5 +153,3 @@ After he finished his praise, his gaze immediately moved to Yang Chen’s face, 
 Yang Chen smilingly replied. In any case, he had already told him that he had learned everything in the Hidden Pavilion, so this idea was also not something unimaginable.
 
 Elder Wu nodded, but didn’t say anything, but in his mind, he had already formed a plan. During the refining of the dual heavenly pill, he would spend as much time as possible with Yang Chen and he had to learn about all of the knowledge Yang Chen had learned by reading. Currently his cultivation did not have any bottleneck, what he required was some time and a sudden insight. Previously he had only looked into things pertaining to cultivation, but apparently that wasn’t enough.
-
-[^1]: We had a lot of trouble with this paragraph and are still not entirely sure of its meaning.
