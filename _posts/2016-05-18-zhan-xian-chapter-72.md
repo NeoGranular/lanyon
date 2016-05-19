@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 72 - Seizing His Geocentric Flame Would Be More Convenient"
 category: zhan-xian
 previous_chapter: 71
-next_chapter: 72
+next_chapter: 73
 date: 2016-05-18 05:09:00 +0200
 has_note: false
 note: ""
