@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 72 - Seizing His Geocentric Flame Would Be More Convenient"
 category: zhan-xian
 previous_chapter: 71
-next_chapter:
+next_chapter: 72
 date: 2016-05-18 05:09:00 +0200
 has_note: false
 note: ""
@@ -114,13 +114,13 @@ The attitudes of these three people were totally different, but Elder Wu didn’
 
 Towards the contempt of those three pill concocting experts, Yang Chen acted as if nothing had happened, he sat down on the seat arranged for him by Elder Wu and began to examine the one person who was not a pill concocting master.
 
-“Pattern Mountain, Beast Taming Sect!”
+“Fan Shan, Beast Taming Sect!”
 
 Seeing that Yang Chen was observing him, an unfriendly expression spread across the face of the remaining person, but he declared his identity regardless.
 
-Yang Chen knew clearly that the refining of a Heaven Seizing Pill required the spirit of a formidable demonic beast to act as the Pill Spirit. The Pattern Mountain were precisely the experts who provided assistance in this area.
+Yang Chen knew clearly that the refining of a Heaven Seizing Pill required the spirit of a formidable demonic beast to act as the Pill Spirit. Fan Shan was precisely the expert who provided assistance in this area.
 
-He nodded slightly towards the person from Pattern Mountain and soon after that, Yang Chen stood up to show the proper etiquette of a youngster towards his seniors:
+He nodded slightly towards Fan Shan and soon after that, Yang Chen stood up to show the proper etiquette of a youngster towards his seniors:
 
 “This youngster is referred to as Pure Yang Palace’s Yang Chen.”
 
