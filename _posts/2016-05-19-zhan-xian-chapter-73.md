@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 73 - Gambling A Flame For A Flame"
 category: zhan-xian
 previous_chapter: 72
-next_chapter:
+next_chapter: 74
 date: 2016-05-19 23:39:00 +0200
 has_note: true
 note: "Last chapter we mistranslated Fan Shan as 'Pattern Mountain'."
