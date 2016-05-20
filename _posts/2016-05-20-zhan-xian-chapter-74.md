@@ -18,6 +18,7 @@ proofreader:
 Yang Chen did not cower in the least and walked over to the open space. The other people sat down in their respective corners, waiting to see what kind of fire controlling method Yang Chen would use in the end.
 
 As a matter of fact, Elder Wu was not only anxious in his heart, but much more suspicious. He had talked with Yang Chen all throughout the journey and he didn’t think that Yang Chen was a person without a sense of propriety, but here he was being so abnormal, which really put him at a loss. He really did not understand it; Yang Chen was a qi layer youngster, even if he was very confident, how could he still dare to challenge a YuanYing expert?
+<!--more-->
 
 Zhu Peng, Deng Yi and Fan Shan were similarly perplexed. Deng Yi and Zhu Peng were both pill concocting experts, both were fire attributed cultivators and both were YuanYing experts. Because of their experience, they were able to roughly estimate He LianYun’s control over fire. They really didn’t believe that Yang Chen had any way to achieve victory.
 
