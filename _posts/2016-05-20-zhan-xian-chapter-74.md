@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 74 - Is This Something A Human Can Do?"
 category: zhan-xian
 previous_chapter: 73
-next_chapter:
+next_chapter: 75
 date: 2016-05-20 03:39:00 +0200
 has_note: false
 note: ""
