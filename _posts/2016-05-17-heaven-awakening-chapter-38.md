@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 38 - Lu Ping’s Approach."
 category: heaven-awakening
 previous_chapter: 37
-next_chapter:
+next_chapter: 39
 date: 2016-05-17 18:52:00 +0200
 has_credits: true
 translator: toomuchnoob
