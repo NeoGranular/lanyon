@@ -5,7 +5,7 @@ title: "Chapter 76 - While Others Refine, I Practice"
 category: zhan-xian
 previous_chapter: 75
 next_chapter:
-date: 2016-05-23 00:49:00 +0200
+date: 2016-05-23 01:01:00 +0200
 has_note: false
 note: ""
 is_sponsored: false
