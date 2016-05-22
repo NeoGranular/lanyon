@@ -12,7 +12,7 @@ proofreader:
 ---
 As the night deepened, the Mountain Forest regained its former tranquility. Students were soundly asleep inside their tents. The only sounds that could be heard were a few occasional hooting of nightingales perched atop trees.
 
-Over the side of Xia Feng, some students had to be on the night watch according to the arrangements. Although the forest didn’t have anything that could pose a threat to them, however, having someone to warn beforehand would allow to the rest of students to sleep better.
+Over the side of Xia Feng, some students had to be on the night watch according to the arrangements. Although the forest didn’t have anything that could pose a threat to them, however, having someone to warn beforehand would allow the rest of students to sleep better.
 
 However, since the night watch didn’t seem too necessary, the students who had to stand guard were not particularly serious; they quickly found locations to sneakily doze off. However, there are always some people who are serious by nature and take the responsibility upon themselves.  
 <!--more-->
