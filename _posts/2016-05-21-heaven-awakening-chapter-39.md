@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 39 - Wilderness Camp."
 category: heaven-awakening
 previous_chapter: 38
-next_chapter:
+next_chapter: 40
 date: 2016-05-21 18:00:00 +0200
 has_credits: true
 translator: toomuchnoob
