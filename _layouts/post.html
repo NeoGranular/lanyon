@@ -6,6 +6,9 @@ layout: default
   {% if page.is_sponsored == true %}
     {% include sponsored.html %}
   {% endif %}
+  {% if page.is_preview == true %}
+    <h2 class="preview-title">⟞&nbsp;Sneak peek&nbsp;⟝</h2>
+  {% endif %}
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {% if page.has_note == true %}
@@ -50,6 +53,7 @@ layout: default
 <br />
 {% include donsub-boxes.html %}
 
-{% include comments.html %}
-
+{% if page.is_preview != true %}
+  {% include comments.html %}
+{% endif %}
 <br />

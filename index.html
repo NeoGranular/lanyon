@@ -21,7 +21,8 @@ title: Home
   {% endfor %}
 
   {% for post in paginator.posts %}
-  {% if post.category != "announcements" %}
+  {% if post.is_preview != true %}
+    {% if post.category != "announcements" %}
   <div class="post">
     {% include post-category.html %}
     <h1 class="post-title">
@@ -37,6 +38,7 @@ title: Home
     <a href="{{ post.url }}">Read more...</a>
     <hr>
   </div>
+    {% endif %}
   {% endif %}
   {% endfor %}
 </div>

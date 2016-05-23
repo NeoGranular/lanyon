@@ -964,8 +964,6 @@ body.light-mode {
 .support_message{
   display:none;
   font-size: 13px;
-  /*margin-top:5px;
-  margin-bottom:5px;*/
   margin:5px;
 }
 
@@ -981,4 +979,8 @@ body.light-mode {
 
 .blocked .subbox-divider-two{
   display:block;
+}
+
+.preview-title {
+  text-align:center;
 }

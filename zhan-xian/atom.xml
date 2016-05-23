@@ -16,7 +16,8 @@ layout: null
  </author>
 
  {% for post in site.posts %}
- {% if post.category == "zhan-xian" or post.category == "announcements" %}
+ {% if post.is_preview != true %}
+  {% if post.category == "zhan-xian" or post.category == "announcements" %}
  <entry>
    <title>{% include category.html %} - {{ post.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>
@@ -24,6 +25,7 @@ layout: null
    <id>{{ post.id }}</id>
    <summary type="html">{{ post.excerpt | xml_escape }}<![CDATA[<br /><a href="{{ site.url }}{{ post.url }}">Read more...</a>]]></summary>
  </entry>
+  {% endif %}
  {% endif %}
  {% endfor %}
 
