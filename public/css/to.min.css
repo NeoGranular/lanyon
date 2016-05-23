@@ -655,7 +655,8 @@ a.pagination-item:hover {
     position: relative;
     float: left;
     overflow: hidden;
-    padding-top: 10px
+    padding-top: 10px;
+    margin-bottom: 10px;
 }
 
 @media(max-width:895px) {
