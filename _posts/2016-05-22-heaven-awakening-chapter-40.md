@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 40 - Night Watch"
 category: heaven-awakening
 previous_chapter: 39
-next_chapter:
+next_chapter: 41
 date: 2016-05-22 17:35:00 +0200
 has_credits: true
 translator: toomuchnoob
