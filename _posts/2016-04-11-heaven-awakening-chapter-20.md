@@ -30,7 +30,7 @@ Zhai Feng students didn’t move, but Xia Feng students were unable to endure.
 
 They knew that first year Soul’s Tower had collapsed due to a repeater student, but what they didn’t know was, the student in front of there eyes at this moment was the same as that one.
 
-"What is this? Is this cheating?” Xia Feng students were loudly shouting. Though, this doubt was certainly fair. Simultaneously two people inside the tower, this is against the rules of the test.
+"What is this? Is this cheating?” Xia Feng students were loudly shouting. Though, this doubt was certainly fair. Simultaneously two people inside the tower, this was against the rules of the test.
 
 Therefore, many individual instantly came over and rudely blocked the path in front of Lu Ping. Leading them was precisely that youngster possessing sixth Heavenly Layer Qi’s soul.
 
@@ -40,9 +40,9 @@ Therefore, many individual instantly came over and rudely blocked the path in fr
 
 He shoved forward without the slightest hesitation.
 
-Lu Ping hadn’t stopped his steps. He was still walking forward like before. Youngster closed in and shoved towards him, blocking his next step. Therefore, he also mercilessly extended his hand and shoved towards the youngster.
+Lu Ping hadn’t stopped his steps. He was still walking forward like before. Youngster had closed in and shoved towards him, therefore, he also mercilessly extended his hand forward and shoved towards the youngster.
 
-It looked like this was a very casual shove. Some struggle will follow it and the teachers would immediately break it out.
+It looked like this was a very casual shove. Some struggle would follow it and the teachers will immediately break it off.
 
 However, immediately afterwards, the youngster was sent flying.
 
