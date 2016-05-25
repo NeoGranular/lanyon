@@ -59,7 +59,7 @@ The black-clothed individual had an extremely miserable expression; this straw h
 
 Just at this moment, a few noises could be heard coming from the tent behind.
 
-The black-clothed man quickly saw his opportunity; he turned his body around, stepped forward, reached out with his hand, and drilled Qin Zhen out of the tent. This instant, he was equally efficient, as City Master Mansion's Wei Ying was a moment ago. Qin Zhen didn't even have the time to ask what was going on.
+The black-clothed man quickly saw his opportunity; he turned his body around, stepped forward, and reached out with his hand. This instant, he was equally efficient, as City Master Mansion's Wei Ying was a moment ago. Qin Zhen, who was still drowsy, didn't even have the time to ask what was going on before he was taken as a hostage.
 
 "Wu......Wu...." Qin Yuan was struggling on the ground. Due to his windpipe being wounded, he couldn't speak no matter how he tried. Blood was continuously flowing out from the opening between his fingers that were covering the wound on his neck. His eyes were filled with hate and desperation.
 
