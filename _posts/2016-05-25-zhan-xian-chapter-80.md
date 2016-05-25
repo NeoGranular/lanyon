@@ -5,7 +5,7 @@ title: "Chapter 80 - (Withheld)"
 category: zhan-xian
 previous_chapter: 79
 next_chapter:
-date: 2016-05-25 23:20:01 +0200
+date: 2016-05-25 23:50:01 +0200
 has_note: false
 note: ""
 is_sponsored: false
@@ -21,4 +21,4 @@ It had to be said that the pill concocting of Deng Yi, Zhu Peng and He LianYun w
 Currently the black lump was still burning before everyone’s eyes, but apart from Yang Chen, nobody gave it even a single glance. Everyone was immersed in their dejection, because their meticulous efforts had gone in vain and for some time nobody opened their mouth, the whole place was filled with a lifeless atmosphere.
 <!--more-->
 
-Yang Chen walked a few steps to the pill concocting furnace, lowered his head and started examining the black colored dregs delicately. This action immediately attracted everyone’s attention, everyone’s gazes concentrated on him in a flash. 
+Yang Chen walked a few steps to the pill concocting furnace, lowered his head and started examining the black colored dregs delicately. This action immediately attracted everyone’s attention, everyone’s gazes concentrated on him in a flash.
