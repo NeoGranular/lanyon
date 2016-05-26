@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Chapter 79 - (Title at the bottom) "
+title: "Chapter 79 - Failed Refining"
 category: zhan-xian
 previous_chapter: 78
 next_chapter: 80
@@ -137,5 +137,3 @@ Elder Wu’s words proclaimed the defeat of everyone’s effort. The three pill 
 Except for a lump of a black thing, nothing else was there. Although it was still releasing a strong Spirit Power as before, they were all very clear that this were the dregs of an already failed concoction and not the Heaven Seizing Pill they were seeking.
 
 Looking at this black lump, a light flashed in Yang Chen’s eyes.
-
-# Failed Refining
