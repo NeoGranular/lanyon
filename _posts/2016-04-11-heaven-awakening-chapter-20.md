@@ -26,7 +26,7 @@ Zhai Feng students didn’t move, but Xia Feng students were unable to endure.
 
 "What is going on? What is this?”
 
-"Who is this youngster? Why was he inside the soul’s tower?” They knew that
+"Who is this youngster? Why was he inside the soul’s tower?” 
 
 They knew that first year Soul’s Tower had collapsed due to a repeater student, but what they didn’t know was, the student in front of there eyes at this moment was the same as that one.
 
