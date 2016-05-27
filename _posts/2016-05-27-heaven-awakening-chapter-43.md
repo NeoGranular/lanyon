@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Chapter 43 - (Withheld)"
+title: "Chapter 43 - (No Preview)"
 category: heaven-awakening
 previous_chapter: 42
 next_chapter:
