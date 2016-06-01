@@ -985,3 +985,48 @@ body.light-mode {
 .preview-title {
   text-align:center;
 }
+
+.large-text p {
+  font-size:20px;
+}
+
+#font-small {
+  background-color: #7f7f7f;
+  color: #FFF;
+  height:30px;
+  width:30px;
+  padding-top:4px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  position: fixed;
+  bottom: 0%;
+  left: 11px;
+  opacity: 0.3;
+  text-align: center;
+  font-size:14px;
+}
+
+#font-large {
+  background-color: #7f7f7f;
+  color: #FFF;
+  height:30px;
+  width:30px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  position: fixed;
+  bottom: 0%;
+  left: 46px;
+  opacity: 0.3;
+  text-align: center;
+  font-size:22px;
+}
+
+#font-large-inner {
+  margin-top:-3px;
+}
+
+@media(min-width:38em) {
+    .fontsize-wrapper {
+      display:none;
+    }
+}

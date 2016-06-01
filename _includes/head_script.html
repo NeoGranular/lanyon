@@ -22,6 +22,17 @@ function changeMode(light){
   }
 }
 
+function changeFontSize(large){
+  var elmt =  document.getElementsByTagName('body');
+  if(elmt){
+    if(large==true){
+      elmt[0].className += ' large-text';
+    } else {
+      location.reload();
+    }
+  }
+}
+
 document.addEventListener("DOMContentLoaded", function(event) {
   var modeBox = document.getElementById('mode');
     modeBox.onclick = function() {
