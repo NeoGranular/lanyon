@@ -18,6 +18,7 @@ Along with a crashing sound, sunshine illuminated the entire body of Lu Ping.
 
 “What requires you to play naked while sleeping?”
 <!--more-->
+
 “Why would sleeping naked have to require something?” Lu Ping finally stood up as he mumbled to himself. As soon as he stood up, the room, which was already narrow, immediately appeared to be even more congested. Lu Ping eyed the door smashed by Su Tang’s fury while picking up his clothes from the bedside.
 
 Creak, creak….. the smashed door was tremblingly swaying. Lu Ping unbearably closed his eyes.
