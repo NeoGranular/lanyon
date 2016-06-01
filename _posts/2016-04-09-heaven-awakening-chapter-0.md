@@ -8,7 +8,7 @@ next_chapter: 1
 ---
 “Where should we go?” small girl asked.
 
-“I Don’t know, but we will always be living.” Both legs of the small boy were completely stuck  inside the heavy snow. He was moving, but with great difficulty. With every step he took forward, a metal colliding sound was produced. Both of his legs and feet were tightly bounded together by an iron chain. Snowflakes were rolling on his face like knives. He didn’t dodge them, because, there was nowhere to dodge. He was lifting his body up in such a way. He hadn't even blinked his eyes. Dragging the chains, carrying the small girl, he kept on going forward.
+“I don’t know, but we will always be living.” Both legs of the small boy were completely stuck  inside the heavy snow. He was moving, but with great difficulty. With every step he took forward, a metal colliding sound was produced. Both of his legs and feet were tightly bounded together by an iron chain. Snowflakes were rolling on his face like knives. He didn’t dodge them, because, there was nowhere to dodge. He was lifting his body up in such a way. He hadn't even blinked his eyes. Dragging the chains, carrying the small girl, he kept on going forward.
 <!--more-->
 
 “I am a little cold.” The small girl said.
