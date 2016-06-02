@@ -29,7 +29,7 @@ The first person who had moved to attack him was directly moving towards Yang Ch
 
 Seeing the executioner’s blade chopping down, he neither dodged nor did he tried to escape it, he merely raised his flying sword. In his thoughts, Yang Chen was just a youngster who had just reached the foundation stage, even if Elder Wu had bestowed him with a flying sword, he wouldn’t be able to use it proficiently. Moreover, the executioner’s blade within Yang Chen’s hands did not look like a magic weapon, so he would be able to break the blade in two with just one slash.
 
-Imagination was really beautiful, but it could easily confuse people. But the reality was that, once Yang Chen’s slash, containing thirty jin of power, chopped down, the enemy, together with his flying sword were turned into four. [^1]
+Imagination was really beautiful, but it could easily confuse people. But the reality was that, once Yang Chen’s slash, containing a thousand jin of power, chopped down, the enemy, together with his flying sword were turned into four. [^1]
 
 At that time, the people who were rushing towards him were all startled: the sight of their own companion being cut into two parts with one slash stunned them, involuntarily stopping their movements.
 
