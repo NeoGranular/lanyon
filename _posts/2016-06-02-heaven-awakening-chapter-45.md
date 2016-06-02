@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Chapter 45 - (Withheld)"
+title: "Chapter 45 - Not Efficient Enough"
 category: heaven-awakening
 previous_chapter: 44
 next_chapter:
