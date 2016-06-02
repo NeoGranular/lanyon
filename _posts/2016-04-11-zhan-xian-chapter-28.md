@@ -49,7 +49,7 @@ Yang Chen still hadn’t started the refining but his control over the flame mad
 
 Both the herbs were engulfed by the spiral fire as soon as they entered and started to flow along with the flame. Rotating in two circles under Ho Lin’s attentive gaze they slowly turned into a medicinal liquid.
 
-These two ingredients were very ordinary if proper care is not taken they will immediately burn, but at this moment, both of them had turned into a liquid without even a single mark of getting burned. Ho Lin was astonished within his heart, but controlling her emotions, she grabbed the next ingredient and was steadily gazing inside the pill furnace waiting for Yang Chen’s next instructions.
+These two ingredients were very ordinary if proper care is not taken they will immediately burn, but at this moment, both of them had turned into a liquid without even a single mark of getting burned. Ho Lin was astonished within her heart, but controlling her emotions, she grabbed the next ingredient and was steadily gazing inside the pill furnace waiting for Yang Chen’s next instructions.
 
 After blindly adding in the medicines, Ho Lin discovered a peculiarity. It seemed as if Yang Chen was intentionally controlling the flame to melt these drugs and follow along flame and rotate, apparently this had some other reason. However Ho Lin very clearly understood that even if she had the recipe and exact amount of materials, she didn’t have this kind of control and also couldn’t produce this kind of pill.
 
