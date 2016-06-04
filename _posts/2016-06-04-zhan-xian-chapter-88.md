@@ -39,9 +39,9 @@ Yang Chen resisted his excitement with great difficulty, and using his strong wi
 
 “Although your innate talent is not that good, you have a very high comprehension, with your miracle of setting foot on the peak of the Heavenly Stairs, even if you wanted to pay your respects under the Palace Master, it would still not be impossible, why are you fixated on picking me as your master?”
 
-Gou You’s suspicions were not quelled down by Yang Chen’s earlier reply, instead they had increased even more.
+Gao Yue’s suspicions were not quelled down by Yang Chen’s earlier reply, instead they had increased even more.
 
-At this time, Gou Yue was not the Palace Master of the Fierce Yang Hall, and moreover, in terms of strength in her realm, she was the worst JieDan stage expert of the Fierce Yang Hall. After all, Gao Yue had just congealed her dan five years ago, and in these five years she had spent consolidating her present realm. She basically could not contend against those experienced JieDan experts.
+At this time, Gao Yue was not the Palace Master of the Fierce Yang Hall, and moreover, in terms of strength in her realm, she was the worst JieDan stage expert of the Fierce Yang Hall. After all, Gao Yue had just congealed her dan five years ago, and in these five years she had spent consolidating her present realm. She basically could not contend against those experienced JieDan experts.
 
 What made Gao Yue puzzled was especially that Pure Yang Palace’s Palace Master had declared that, among other things, he could choose any person as his master who had the qualifications for accepting a disciple, as a reward for climbing to the peak of the Heavenly Stairs, and unexpectedly, in accordance with this reward, Yang Chen had picked her as his master. As a matter of fact, this not only made Gao Yue flabbergasted, but also astonished the other people of the Pure Yang Palace. Did Yang Chen think that paying his respects to a new JieDan stage expert, who barely attained the qualifications to receive a disciple was better than choosing an outstanding master?
 
