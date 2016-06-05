@@ -6,7 +6,7 @@ category: zhan-xian
 previous_chapter: 86
 next_chapter: 88
 date: 2016-06-04 01:45:00 +0200
-has_note: true
+has_note: false
 note: "We've changed 'Divine Wood' to 'Penglai Divine Wood'"
 is_sponsored: false
 sponsors: []
