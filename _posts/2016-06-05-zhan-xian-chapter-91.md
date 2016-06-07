@@ -93,7 +93,7 @@ Within the Meiqing mountain range there were many loose cultivators, the Pure Ya
 
 Yang Chen’s words had piqued everyone’s interest. A secret underground spirit vein was something that all cultivators would yearn for in their dreams.
 
-Yang Chen extended his finger and pointed to the area below his foot, while smiling without saying anything. This region had an exceedingly powerful di mai and would only be discovered two hundred years later. Although it couldn’t compare to the di mai of the Pure Yang Palace’s main hall, for the use of only these few people, this location was extremely good.
+Yang Chen extended his finger and pointed to the area below his foot, while smiling without saying anything. This region had an exceedingly powerful Di Mai[^1] and would only be discovered two hundred years later. Although it couldn’t compare to the Di Mai of the Pure Yang Palace’s main hall, for the use of only these few people, this location was extremely good.
 
 Along with his movement, everyone’s gaze turned towards the ground below Yang Chen. Only, no matter how they looked, used their Spirit Power to interact with it, or examined it with their Spiritual Awareness, they couldn’t find anything out of the ordinary. This was an ordinary, small mountain valley, it had absolutely no relation with any underground spirit vein.
 
@@ -166,3 +166,5 @@ Everyone was confused when looking at it, even a spell formation expert like Gon
 After arranging the spell formation, Yang Chen retreated several steps and began to control the spell formation and started operating it. Within a short moment, a dazzling white light appeared on the ground within range of the spell formation. The white light was very bright, but it was concentrated and not scattered, it had the appearance of giant creature which showed up in the sky and began to dig into the ground. But after looking carefully, nothing appeared to be dug out.
 
 But very quickly everyone sensed a majestic Spirit Power coming closer and closer, rushing out frantically from below the ground. Soon the Spirit Power was erupting from the underground like a fountain and the spirit gathering spell turned incomparably bright in a flash. Everyone was shrouded in this frantically spouting spirit power.
+
+[^1]: Geographical positions according to feng shui
