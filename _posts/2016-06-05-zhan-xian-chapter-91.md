@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Chapter 91 - Come Often To Talk"
+title: "Chapter 91 - The Nest Of Future Talents"
 category: zhan-xian
 previous_chapter: 90
 next_chapter: 92
