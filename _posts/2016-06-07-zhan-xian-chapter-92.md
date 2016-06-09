@@ -6,7 +6,7 @@ category: zhan-xian
 previous_chapter: 91
 next_chapter: 93
 date: 2016-06-08 04:29:00 +0200
-has_note: true
+has_note: false
 note: "In the mixup yesterday, we also mistakenly switched the names. The correct name for last chapter was: 'The Nest Of Future Talents'. Sorry!"
 is_sponsored: false
 sponsors: []
