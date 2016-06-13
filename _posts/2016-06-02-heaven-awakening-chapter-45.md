@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 45 - Not Efficient Enough"
 category: heaven-awakening
 previous_chapter: 44
-next_chapter:
+next_chapter: 46
 date: 2016-06-05 15:49:00 +0200
 has_credits: true
 translator: toomuchnoob
