@@ -26,6 +26,16 @@ title: Archive
 {% endif %}
 {% endfor %}
 
+{% comment %}
+## Martial God
+{% for post in site.posts %}
+{% if post.category == "martial-god" %}
+
+* [{{post.title}}]({{site.baseurl}}{{post.url}})
+{% endif %}
+{% endfor %}
+{% endcomment %}
+
 ## Sin City Teaser
 {% for post in site.posts %}
 {% if post.category == "sin-city" %}
@@ -36,7 +46,7 @@ title: Archive
 
 ## Other
 {% for post in site.posts %}
-{% if post.category != "announcements" and post.category != "zhan-xian" and post.category != "heaven-awakening" and post.category != "sin-city" %}
+{% if post.category != "announcements" and post.category != "zhan-xian" and post.category != "heaven-awakening" and post.category != "sin-city" and post.category != "martial-god" %}
 * [{{post.title}}]({{site.baseurl}}{{post.url}})
 {% endif %}
 {% endfor %}
