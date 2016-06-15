@@ -6,7 +6,7 @@ category: zhan-xian
 previous_chapter: 93
 next_chapter: 95
 date: 2016-06-10 01:25:00 +0200
-has_note: true
+has_note: false
 note: "Both NG and the editor will not be consistently available on friday and the weekend, so we can't guarantee chapter releases in this period."
 is_sponsored: false
 sponsors: []
