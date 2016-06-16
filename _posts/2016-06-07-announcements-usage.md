@@ -6,6 +6,14 @@ category: announcements
 is_active_announcement: true
 date: 2016-06-07 18:21:00 +0200
 ---
+***
+
+# New novel on weletranslations!
+
+toomuchnoob will now be translating the novel [**Martial God**]({{site.baseurl}}/martial_god.html) in addition to Heaven Awakening Path. Check out the first chapter [here]({{site.baseurl}}/martial-god/martial-god-chapter-01-01.html)
+
+***
+
 * To see the site with a white background and black text, put a tick  in the side menu ( ☰ ) here: "☑ Light Theme".
 * Our site is *almost* fully functional without JavaScript. We use JavaScript for changing themes, disqus comments, AdSense and Analytics.
 * You can comment as guest in disqus, but we will manually approve guest comments by hand, so it may take some time for them to appear.

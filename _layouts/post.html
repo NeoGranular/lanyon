@@ -9,6 +9,9 @@ layout: default
   {% if page.is_preview == true %}
     <h2 class="preview-title">⟞&nbsp;Sneak peek&nbsp;⟝</h2>
   {% endif %}
+  {% if page.has_book == true %}
+  <h1 class="post-title">Book {{ page.book.number }} - {{ page.book.title }}</h1>
+  {% endif %}
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {% if page.has_note == true %}

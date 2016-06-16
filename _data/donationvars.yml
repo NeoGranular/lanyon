@@ -7,3 +7,8 @@ zx_max: 65
 ha_cur: 0
 #Maximum amount per chapter:
 ha_max: 45
+
+#Currently donated amount for Martial God:
+mg_cur: 0
+#Maximum amount per chapter:
+mg_max: 45

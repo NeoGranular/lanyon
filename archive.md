@@ -26,7 +26,6 @@ title: Archive
 {% endif %}
 {% endfor %}
 
-{% comment %}
 ## Martial God
 {% for post in site.posts %}
 {% if post.category == "martial-god" %}
@@ -34,7 +33,6 @@ title: Archive
 * [{{post.title}}]({{site.baseurl}}{{post.url}})
 {% endif %}
 {% endfor %}
-{% endcomment %}
 
 ## Sin City Teaser
 {% for post in site.posts %}

@@ -64,6 +64,33 @@
     &nbsp;${{ site.data.donationvars.ha_max }}
   </div>
 </div>
+{% elsif page.category == "martial-god" %}
+<p>
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NV5ZA4QRPASZG">
+    <img src="{{ site.baseurl }}/public/donate.png"/>
+    Donate for Martial God!
+  </a>
+</p>
+
+<div class="donationbar">
+  <div class="donationbar_front">
+    ${{ site.data.donationvars.mg_cur }}&nbsp;
+  </div>
+
+  {% assign intermediate = site.data.donationvars.mg_cur | times: 100 %}
+  {% if site.data.donationvars.mg_max != 0 %}
+    {% assign donationpct = intermediate | divided_by: site.data.donationvars.mg_max %}
+
+    {% include donationprogress.html %}
+  {% else %}
+    <div id="progressbar">
+      <div style="width:0%"></div>
+    </div>
+  {% endif %}
+  <div class="donationbar_back">
+    &nbsp;${{ site.data.donationvars.mg_max }}
+  </div>
+</div>
 {% else %}
 <p>
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9Y2D3EZ6RTAPS">
