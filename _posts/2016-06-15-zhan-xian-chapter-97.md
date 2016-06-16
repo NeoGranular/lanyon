@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Chapter 97 - Foundation Stage Foundation Stage Foundation Stage"
+title: "Chapter 97 - Is This My Spirit Sea?"
 category: zhan-xian
 previous_chapter: 96
 next_chapter: 98

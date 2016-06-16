@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Chapter 98 - (Withheld)"
+title: "Chapter 98 - Foundation Stage Foundation Stage Foundation Stage"
 category: zhan-xian
 previous_chapter: 97
 next_chapter:
