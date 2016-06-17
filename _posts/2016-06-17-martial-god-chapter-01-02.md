@@ -124,11 +124,3 @@ Even though these scenes looked extremely real, he knew these were nothing more 
 He glanced at his completely drenched clothes; drying them in a short while was not possible, moreover, this place was filled with strange things, thus, he was truly unwilling to stay here any longer.
 
 He turned around and frantically sped off towards the He Family Estate on the other side. However, this lake had already imprinted a permanent shadow in his mind.
-
-Chapter-3 Commotion During Morning Training.
-
-The day was already resonant by the time He Yiming returned to the He Family Estate.
-
-He Family Estate a was well-reputed small village in its neighborhood. Old Residence Master, He Wude, was a tenth level expert in the Internal Energy cultivation. Within several hundreds of li of the county town, he was counted among the top most characters.
-
-He Wude had three sons. Although they had distinctly attributed cultivation techniques, all the three possessed at least the eighth level in the Internal Energy cultivation. Furthermore, the eldest son, He Quanxin, had already attained the ninth level. Among the third generation, the eldest grandson of the eldest son, He Yitian, although was only twenty-one years old, he'd already cultivated his Internal Energy up to the seventh level. He was the number one figure amongst his peers regardless of any aspect.
