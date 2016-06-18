@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 47 - Quick Increase In Points."
 category: heaven-awakening
 previous_chapter: 46
-next_chapter:
+next_chapter: 48
 date: 2016-06-16 02:31:00 +0200
 has_credits: true
 translator: toomuchnoob
