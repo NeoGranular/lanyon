@@ -9,7 +9,7 @@ date: 2016-06-19 04:32:00 +0200
 has_note: false
 note: ""
 is_sponsored: true
-sponsors: ["Emilio B.", "Elizabeth V."]
+sponsors: ["Emelio B.", "Elizabeth V."]
 has_credits: false
 translator:
 editor:
