@@ -55,7 +55,7 @@ He opened the Ripple cultivation technique's secret book and began to carefully 
 
 This Ripple technique was primarily a water-based Internal Energy scripture. This cultivation technique's level the was same as that of the Primordial Energy which he'd been cultivating before. Since every individual's physique is different, the results obtained at the start of the cultivation will also vary accordingly.
 
-Since he was already determined to change his cultivation technique, rather than just blindly trying to experiment with different techniques, he might as well cultivate in his third brother's technique. After all, the latter had bitterly trained in it for more than ten years, and it was obvious by one look at the experience he'd noted down which was twice as much as the actual content of the book.
+Since he was already determined to change his cultivation technique, rather than just blindly trying to experiment with different techniques, he might as well cultivate in his third brother's technique. After all, the latter had bitterly trained in it for more than ten years, and this fact was obvious by one look at the experience he'd noted down which was twice as much as the actual content of the book.
 
 Standing atop a big rock, one would be able to see afar; since He Yiming had such an opportunity, he will naturally not give it up easily.
 
@@ -77,7 +77,7 @@ He was completely certain that this was his first contact with the Ripple techni
 
 Although he'd cultivated the Primordial Energy to the apex of the fifth layer, the Primordial Energy and the Ripple technique were two completely different cultivation techniques. Although the internal energy in both the cases was related somehow, circulating the internal energy through a set of completely different meridians couldn't even be mentioned in the same breath.
 
-According to his initial estimate, if he was able to complete the circulation of the Ripple technique's first layer in even three years, he would profusely thank his ancestors. If he failed to complete the circulation within half a year, that would have meant that his body did not correspond to the Ripple technique, and he would have to select a new cultivation technique.
+According to his initial estimate, if he was able to complete the circulation of the Ripple technique's first layer in even three years, he would have profusely thanked his ancestors. If he failed to complete the circulation within half a year, that would have meant that his body did not correspond to the Ripple technique, and he would have to select a new cultivation technique.
 
 However, regardless of what Hi Yiming estimated, he'd never expected that he would be able to accomplish the first layer in his first circulation of the Ripple technique.
 
@@ -93,7 +93,7 @@ After a good while, he felt that he'd comprehended to some extent. He gently pla
 
 Inside Yiming's Dantian, the internal energy filled with an exuberant life force surged violently, which gave rise to a strong propulsion force in his body.
 
-Under his thoughts, the internal energy began to bore its way through the mysterious channels inside his body without any restraints like water. Regardless of whether the meridians through which he'd just circulated his internal energy or the meridians that were being used for the first time, none produced the slightest bit of resistance for the circulating internal energy.
+Under his thoughts, the internal energy, as if water, began to bore its way through the mysterious channels inside his body without any restraints . Regardless of whether the meridians through which he'd just circulated his internal energy or the meridians that were being used for the first time, none produced the slightest bit of resistance for the circulating internal energy.
 
 In this very manner, as if treading on a smooth ground, his internal energy circulated through the full course of Ripple technique's second layer.
 
@@ -143,7 +143,7 @@ Although he wouldn't likely suffer serious aftermath because of such a high cult
 
 Cultivating at a high speed was obviously a good thing, however, if this good thing caused him to go astray and become a Demonic cultivator, then he would rather not have it.
 
-After circulating his Internal Energy few times, he was convinced that there wasn't any possibility of his body burst and dying.
+After circulating his Internal Energy few times, he was convinced that there wasn't any possibility of his body bursting out and him dying.
 
 As he opened his eyes and looked at the Ripple technique's secret book lying on the table, a daring thought shot through his mind like a lightning bolt:
 
