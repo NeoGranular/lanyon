@@ -142,7 +142,7 @@ Qiao Ying sat up at a lightning speed. 'All right....I am truly all right.'
 
 "Even you couldn't chase after them?" Students, who were a bit delayed than him, asked him in astonished voices.
 
-Since Qiao Ying didn't brag and only talked about speed, if he was the number two among the third-grade students of Tian Zhao, then, no one would dare to call himself number one. His nickname 'Sonic Qiao Ying' was made by himself. Although it seemed a bit exaggerated at present, everybody believed, with his talent and obsession with speed, one day he would truly attain this kind of speed or even surpass it.  
+Because Qiao Ying wasn't just talk. In terms of speed, if he was the number two among the third-grade students of Tian Zhao, then, no one would dare to call himself number one. His nickname 'Sonic Qiao Ying' was made by himself. Although it seemed a bit exaggerated at present, everybody believed, with his talent and obsession with speed, one day he would truly attain this kind of speed or even surpass it.  
 
 "I.....was careless" Qiao Ying put it as such.
 
