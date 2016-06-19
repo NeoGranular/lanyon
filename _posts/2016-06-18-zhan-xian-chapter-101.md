@@ -6,8 +6,8 @@ category: zhan-xian
 previous_chapter: 100
 next_chapter: 102
 date: 2016-06-19 04:32:00 +0200
-has_note: false
-note: ""
+has_note: true
+note: "NG's screen has broken and we're unsure when the repair will be done. Our current estimate is 3 days, but for those 3 days he can't translate :("
 is_sponsored: true
 sponsors: ["Emelio B.", "Elizabeth V."]
 has_credits: false
