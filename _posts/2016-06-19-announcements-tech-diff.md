@@ -6,9 +6,9 @@ category: announcements
 is_active_announcement: true
 date: 2016-06-19 13:34:00 +0200
 ---
-Unfortunately the computer screen of NG has broken and we're unsure when he will be finished repairing it. Our current estimate is 3 days.
+Unfortunately the computer screen of NG  has broken and we're unsure when he will be finished repairing it. Our current estimate is 3 days.
 
-We're going to make up for the chapters we're missing because of this.
+We're going to miss a few Immortal Executioner chapters, but we will make up for them.
 
 ***
 
