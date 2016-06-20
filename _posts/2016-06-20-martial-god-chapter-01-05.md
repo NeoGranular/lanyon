@@ -25,7 +25,7 @@ However, after bearing so many expectations, he eventually failed to endure the 
 
 The reason why He Yiming began to practice late night was also in order to alleviate the anger in his heart.
 
-If this situation had continued on, a fight between siblings most probably would have broken out one day. However, fortunately, this Ripple technique's had provided him with a new hope.
+If this situation had continued on, a fight between siblings most probably would have broken out one day. However, fortunately, this Ripple technique had provided him with a new hope.
 
 His eyes, which were shining like stars, slowly closed down, and the surging tides in his mind also quietened down gradually.
 
@@ -39,7 +39,7 @@ Inside his body, his meridians were being flooded with the violently surging Int
 
 Endless Internal energy in his four limbs and hundreds of bones began to concentrate and slowly converge towards his Dantian while also circulating according to the pre-determined routes of the Ripple technique at the same time. Cycle by cycle, a strong energy was slowly being saved  up inside his body.
 
-Surprisingly, tonight, He Yiming felt like attacking that sixth layer which he'd attacked countless times in past without any results tonight.
+Surprisingly, tonight, He Yiming felt like attacking that sixth layer which he'd attacked countless times in past without any results.
 
 This time, neither was he cultivating the Primordial Energy which he'd cultivated for full eight years nor was he confident that he'd understood the experiences of his third brother, however, his heart was filled with a determination of only going forward without ever backing down.
 
