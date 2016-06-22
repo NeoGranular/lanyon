@@ -669,6 +669,9 @@ a.pagination-item:hover {
     .lower_rect{
       display:none;
     }
+    #bot_banner {
+      display:none;
+    }
 }
 
 @media(min-width:896px) {
