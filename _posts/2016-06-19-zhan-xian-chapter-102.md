@@ -6,7 +6,7 @@ category: zhan-xian
 previous_chapter: 101
 next_chapter: 103
 date: 2016-06-23 01:27:00 +0200
-has_note: false
+has_note: true
 note: "I'm very sorry for the broken computer, it was very unexpected. We'll make up for the missing chapters!"
 is_sponsored: false
 sponsors: []
