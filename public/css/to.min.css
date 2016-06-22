@@ -664,7 +664,10 @@ a.pagination-item:hover {
         overflow: initial !important
     }
     .ad_space {
-        height: 560px !important
+        /*height: 560px !important*/
+    }
+    .lower_rect{
+      display:none;
     }
 }
 
