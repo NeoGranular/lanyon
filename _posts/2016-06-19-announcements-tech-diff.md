@@ -3,7 +3,7 @@ published: true
 layout: post
 title: "Hardware failure"
 category: announcements
-is_active_announcement: true
+is_active_announcement: false
 date: 2016-06-19 13:34:00 +0200
 ---
 Unfortunately the computer screen of NG  has broken and we're unsure when he will be finished repairing it. Our current estimate is 3 days.
