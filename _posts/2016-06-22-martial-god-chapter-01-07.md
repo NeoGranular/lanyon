@@ -87,7 +87,7 @@ The effect of water type cultivation techniques on self-healing was extremely cl
 
 He Yiming clicked his tongue in astonishment: 'The water based techniques surprisingly have this kind of a healing effect, then what about the level of the wood based techniques which are renowned for the number one healing techniques under the heavens? I have to try for myself if I get the opportunity.'
 
-'The water based techniques surprisingly have this kind of a healing effect. Then what about the wood based techniques which are renowned for the number one healing techniques under the heavens? I have to try for myself if I get the opportunity.'
+'The water based techniques surprisingly have this kind of a healing effect. Then what about the wood based techniques which are renowned for being the number one healing techniques under the heavens? I have to try for myself if I get the opportunity.'
 
 By the time he returned back to the family manor, the sun was already inclined towards the west. After pondering for a bit, He Yiming decided to go to the back courtyard. After a few turns, he arrived in front of a huge courtyard which was completely made up of redwood.
 
