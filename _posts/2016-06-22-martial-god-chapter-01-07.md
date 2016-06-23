@@ -85,7 +85,7 @@ His movements were extremely quick, furthermore, while he was running, the water
 
 The effect of water type cultivation techniques on self-healing was extremely clear. By the time He Yiming returned back to the He family estate, both of his hands were as good as before without a trace of injury.
 
-He Yiming clicked his tongue in astonishment: 'The water based techniques surprisingly have this kind of a healing effect, then what about the level of the wood based techniques which are renowned for the number one healing techniques under the heavens? I have to try for myself if I get the opportunity.'
+He Yiming clicked his tongue in astonishment: 'The water based techniques surprisingly have this kind of a healing effect, then what about the level of the wood based techniques which are renowned for being the number one healing techniques under the heavens? I have to try for myself if I get the opportunity.'
 
 'The water based techniques surprisingly have this kind of a healing effect. Then what about the wood based techniques which are renowned for being the number one healing techniques under the heavens? I have to try for myself if I get the opportunity.'
 
