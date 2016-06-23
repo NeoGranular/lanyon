@@ -115,7 +115,7 @@ He Quanxin glanced at him and secretly sighed in his heart, before he said:
 
 "He Yiming, you can go in and make your choice. After discussing with your father and second uncle, I've selected three scriptures that may suit your cultivation."
 
-He Yiming's lips slightly shuddered. He was extremely grateful in his head. He said with his head deeply bowed:
+He Yiming's lips slightly shuddered. He was extremely grateful in his mind. He said with his head deeply bowed:
 
 "Many thanks eldest uncle."
 
