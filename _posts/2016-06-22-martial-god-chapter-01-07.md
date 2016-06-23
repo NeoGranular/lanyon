@@ -71,7 +71,7 @@ At this moment, even if that fox bear hadn't escaped, He Yiming wasn't intereste
 
 After a long time, He Yiming recovered back from his ecstatic state.
 
-His directly looked at a patch of thick bushes at a distance: 
+His vision directly fell upon a patch of thick bushes at a distance: 
 
 'Who knows how much distance that repulsive yet pathetic bear has already covered.'
 
