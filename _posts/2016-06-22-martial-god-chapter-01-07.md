@@ -21,6 +21,7 @@ The metal-based Internal Energy cultivation technique, the Primordial Energy, wa
 In the last four years, He Yiming had hoped to enter its sixth layer countless times.
 
 The circulation course of this technique's sixth layer had been deeply engraved in his bones. His heart had a deep-rooted stubbornness: He would not give up on this technique until there was no hope.
+<!--more-->
 
 If not for the decision of his elders combined with the painstaking efforts of his third elder brother, he would never have substituted this technique.
 
