@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 49 - Ten Times Promotion."
 category: heaven-awakening
 previous_chapter: 48
-next_chapter:
+next_chapter: 50
 date: 2016-06-21 22:31:00 +0200
 has_credits: true
 translator: toomuchnoob
