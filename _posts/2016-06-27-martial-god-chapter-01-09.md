@@ -26,7 +26,7 @@ The Book Pavilion's courtyard was the biggest courtyard in the entire He Family 
 
 He Quanxin, leading Yiming, directly entered the main hall.
 
-The main hall of this courtyard was different than that of the rest of the courtyard's, because, this main hall was the biggest library in the He family estate. 
+The main hall of this courtyard was different than that of the rest of the courtyards, because, this main hall was the biggest library in the He family estate. 
 
 Upon entering, He Quanxin said: "Yiming, sit."
 
@@ -44,7 +44,7 @@ He Yiming mumbled for a short duration, before he probingly asked:
 
 "Eldest uncle, is this related to eldest brother and me advancing to the sixth layer before the age of fifteen?"
 
-"You are not wrong. Although we cultivators have vastly different physiques, the fact is, the golden time to lay down one's foundation is before fifteen years. Moreover, a strange phenomenon occurs amongst us cultivators, if one is unable to attain the sixth layer before the age of fifteen, then in future, it is exceedingly hard to transcend the obstacle of the eighth layer regardless of the amount of effort one puts in. "
+"You are not wrong. Although we cultivators have vastly different physiques, the fact is, the golden time to lay down one's foundation is before fifteen years. Moreover, a strange phenomenon occurs amongst us cultivators, if one is unable to attain the sixth layer before the age of fifteen, then in future, it is exceedingly hard to transcend the eighth layer regardless of the amount of effort one puts in. "
 
 He Quanxin lightly sighed and continued:
 
@@ -58,7 +58,7 @@ He Quanxin waved his hand and said:
 
 "Yiming, though, I've informed you about this matter, be sure to keep your mouth shut like a jar. Yizhang and the rest of them must not know about this."
 
-He Yiming was a little stumped but immediately nodded soon after, as he'd realized his elder uncle's thoughts:
+He Yiming was a little stumped but nodded immediately after, as he'd realized his elder uncle's thoughts:
 
 They need not think about this matter unless they reach the sixth layer.
 
