@@ -64,13 +64,13 @@ They need not think about this matter unless they reach the sixth layer.
 
 "Furthermore, now that you have reached the sixth layer, you even more can't relax for what you seek. After this, the difficulty of advancing every subsequent layer becomes increasingly difficult. If you take this lightly, you will just fade away among the multitudes of people in future." He Quanxin's expression suddenly became very strict as he continued:
 
-"Remember: henceforth, Yitian is your target; you will strive to surpass him. Currently, you are thirteen, work hard to attain the seventh layer within the next seven years, and if you cannot do it, you need not take a single step outside the Manor."
+"Remember: Henceforth, Yitian is your target, and you will strive to surpass him. Currently, you are thirteen, work hard to attain the seventh layer within the next seven years, and if you cannot do it, you need not take a single step outside the Manor."
 
 He Yiming's body suddenly shivered. His eldest uncle had always been very gentle with people, and very rarely did his voice turned extremely strict in such a way. But, he was also aware that this was related to his eldest uncle having high expectations of him.
 
 "Quanxin, don't scare Yiming." He Wude's voice came from outside the door.
 
-He Quanxin immediately stood up, opened the door, and welcomed his lord father in. He Wude’s face still had a few traces of previous smile.
+He Quanxin immediately stood up, opened the door, and welcomed his lord father in. He Wude’s face still had a few traces of his previous smile.
 
 He first allowed He Quanxin and He Yiming to sit down, then said in a remote voice:
 
