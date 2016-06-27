@@ -92,7 +92,7 @@ He Yiming only expressed his consent, while in his heart he was secretly sighing
 
 'You all have overcome this obstacle on your own, what about me?'
 
-How he overcame this obstacle, even he didn't know. However, even he'd twice his courage, he wouldn't dare breathe a word of it.
+How he overcame this obstacle, even he didn't know. However, even if he'd twice his courage, he wouldn't dare breathe a word of it.
 
 He Wude's expression again turned imposing as he said:
 
@@ -102,7 +102,7 @@ He suddenly stood up and began to walk away. After reaching the door, he said wi
 
 "If you or Yitian manage to reach the tenth layer before the age of thirty.......forget about it...everything depends on destiny."
 
-After finished speaking, He Wude figure's suddenly disappeared from his original place. He Yiming blinked his eyes in astonishment; he had actually no idea how his grandfather left.  A master of Internal Energy's tenth layer was truly nothing like ordinary.
+After finished speaking, He Wude figure's suddenly disappeared from its position. He Yiming blinked his eyes in astonishment; he had actually no idea how his grandfather left.  A master of Internal Energy's tenth layer was truly nothing like ordinary.
 
 He thought about what did these words of his grandfather actually meant.
 
