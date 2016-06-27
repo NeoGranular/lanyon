@@ -154,7 +154,7 @@ He Quanxin's taut face relaxed a little, and he said:
 
 He Yiming repeatedly sounded his agreement. Being not allowed to cultivate martial skills below the sixth layer, in other words is also, allowed to cultivate from the sixth level.
 
-His vision once again turned to the bookshelves surrounding him. He began to scan the book with a racing heart.
+His vision once again turned to the bookshelves surrounding him. He began to scan the books with a racing heart.
 
 He Quanxin, who was about to give him a few sentence of advice, shook his head. He knew that whatever he said at this moment would enter the latter's left ear and would be out of the right one.
 
