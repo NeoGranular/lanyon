@@ -9,8 +9,8 @@ chapter:
   number: 106
   title: "Looking For An Even Larger Territory"
 date: 2016-06-29 00:00:00 +0200
-has_note: false
-note: ""
+has_note: true
+note: "Because NG has trouble with power outages and I'm not at home, chapters are coming a bit slow right now, sorry :("
 is_sponsored: false
 sponsors: []
 has_credits: false
