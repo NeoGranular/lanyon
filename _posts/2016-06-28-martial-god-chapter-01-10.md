@@ -49,7 +49,7 @@ Therefore, after He Yiming had read the introduction of Rolling Boulder Fist, he
 
 At the center of the main hall was a big table, with a lot of special papers on it.
 
-The younger generation of He family, after the selecting a scripture, cannot leave the Book Pavilion with their selected scripture. They could only make copies of the pictures and script it contained.
+The younger generation of He family, after selecting a scripture, cannot leave the Book Pavilion with their selected scripture. They could only make copies of the pictures and script it contained.
 
 Yesterday, the Ripple technique that his brother gave him, was also a copy that Yixuan made with a brush.
 
@@ -89,7 +89,7 @@ From there, he knew that, basically, all the water-type cultivators of the outsi
 
 Silk Palm was the simplest and most basic battle skill among the water-type battle skill techniques. One could cultivate in it as long as one's Internal Energy had attained the fourth layer. Such a low cultivation threshold was one of the best among all the battle skills.
 
-Perhaps this was the reason that Silk Palm was one of the most widespread battle skill. Since it was simple and practical, the increase of its might was proportional to the breakthroughs in the Internal Energy. This was not a fancy battle skill; as long as one continued to strive, this skill could certainly become the best supplementary battle skill for a cultivator,
+Perhaps this was the reason that Silk Palm was one of the most widespread battle skill. Since it was simple and practical, the increase of its might was proportional to the breakthroughs in the Internal Energy. This was not a fancy battle skill; as long as one continued to strive, this skill could certainly become the best supplementary battle skill for a cultivator.
 
 Especially for He Yiming, who'd steeled his mind on cultivating a metal-type battle skill as his primary battle skill, choosing a water type-battle skill as a supplementary battle skill was the most suitable choice.
 
@@ -99,7 +99,7 @@ By the dawn, he'd already copied down all the contents from its fourth layer to 
 
 Outside the door, missing a night's sleep, He Quanxin was waiting for him.
 
-He hadn't interfered in He Yiming's choice at all. After attaining the sixth layer of the Internal Energy, one has the capability to grow by himself and could choose what to cultivate according to his own interests. However, He Quanxin had placed huge expectations on He Yiming, thus, he was quite concerned about latter's choice.
+He hadn't interfered in He Yiming's selection process at all. After attaining the sixth layer of the Internal Energy, one has the capability to grow by himself and could choose what to cultivate according to his own interests. However, He Quanxin had placed huge expectations on He Yiming, thus, he was quite concerned about latter's choice.
 
 "Yiming, what did you choose?"
 
