@@ -145,7 +145,7 @@ He Yiming, while subconsciously nodding his head, watched his siblings and third
 
 He retracted his vision and looked all around him before suddenly realizing that he'd apparently nowhere to go.
 
-He didn't require to take part in the morning training he'd been doing since he was five years old, so, where should he go for the next three years? What should he do?
+He didn't require to take part in the morning training he'd been doing since he was five years old, so, where should he go for the next three hours? What should he do?
 
 Currently, his mood was very complex, seeming just like a university-graduate who'd no job. It was a feeling of loss that emerged from one's heart.
 
