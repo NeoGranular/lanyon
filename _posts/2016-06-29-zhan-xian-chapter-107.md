@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview: true
+is_preview:
 ---
 For demon beasts, if they couldn’t probe successfully, they would change their ways, among demon beasts, there was no fight to the death if they were not fighting over territory, natural resources or prey. If there was a large difference in strength, then perhaps the powerful one would forcefully subdue the weaker one, but if the strength of both sides did not have a large discrepancy then the best method was to negotiate. The demon beasts were no fools, most of all those under the covetous eyes of the cultivators in the Desolate Valley. 
   
