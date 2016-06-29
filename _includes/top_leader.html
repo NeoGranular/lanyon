@@ -1,6 +1,11 @@
+{% assign isOdd = page.chapter.number | modulo: 2 %}
 {% case page.category %}
   {% when 'zhan-xian' %}
-    {% include _ads/zhan_xian/zx_top_leaderboard.html %}
+    {% if isOdd == 1 %}
+      {% include _ads/alt/alt_zx_top_leaderboard.html %}
+    {% else %}
+      {% include _ads/zhan_xian/zx_top_leaderboard.html %}
+    {% endif %}
   {% when 'heaven-awakening' %}
     {% include _ads/heaven_awakening/ha_top_leaderboard.html %}
   {% when 'sin-city' %}
