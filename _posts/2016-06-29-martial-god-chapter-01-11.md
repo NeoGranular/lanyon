@@ -115,6 +115,6 @@ He was feeling apprehensive. Improvement in strength was definitely a good thing
 
 He had thought about informing these things to his elders, however, he gave up on doing so. He knew that such a condition of his body was too strange.
 
-He was vaguely aware that this change had some connection with his strange encounter at the lake. After that day, his feats could no longer be covered with the word 'talent', if one insisted on  looking for a word to describe his feats, that would be 'Evildoer'.
+He was vaguely aware that this change had some connection with his strange encounter at the lake. After that day, his feats could no longer be covered with the word 'genius', if one insisted on  looking for a word to describe his feats, that would be 'devilish'.
 
 And this was also the true reason he absolutely didn't dare to open his mouth....
