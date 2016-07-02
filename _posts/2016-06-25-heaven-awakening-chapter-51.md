@@ -7,6 +7,8 @@ previous_chapter: 50
 next_chapter: 52
 date: 2016-07-02 19:56:00 +0200
 has_credits: true
+has_note: true
+note: "I was originally intending to post two chapters today. But, there is a huge cliff at the end of the next chapter. So, instead, I will try to post two chapters tomorrow, though, it might be hard, because I have an exam on monday."
 translator: toomuchnoob
 #proofreader: appelemac
 is_preview: false
