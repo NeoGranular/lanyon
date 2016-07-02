@@ -128,7 +128,7 @@ It wasn't that Lu Ping didn't want to have a pure Soul's power. However, under t
 
 The two were looking out the window blankly, however, at this moment, Lu Ping's expression suddenly changed.
 
-Being tied up, Wen Yan was unable to move his hands or legs, thus, she arrived beside the window with the help of bounces. Evidently her nervous system had already been recovered, and being tied didn't cause her any trouble in using her abilities.
+Being tied up, Wen Yan was unable to move her hands or legs, thus, she arrived beside the window with the help of bounces. Evidently her nervous system had already been recovered, and being tied didn't cause her any trouble in using her abilities.
 
 "Huh!" employ 'Distant Vision'. She could look much clearer than Xi Fan who was only at third Heavenly Layer of Infusion's soul.
 
@@ -159,8 +159,6 @@ Shen Chi moved his vision and immediately spotted Xi Fan.
 "How come it's you again...." Xi Fan forced out a smile.
 
 "Yes. It's me again." Shen Chi excitedly asked:
-
-Shen Chi excitedly asked:
 
 "Where is the other guy?"
 
