@@ -3,6 +3,7 @@ layout: page
 title: Suggestions
 published: true
 comments_enabled: true
+id: "/suggestions"
 ---
 
 ### If you have any suggestions for the site or the translations, please leave them here!
