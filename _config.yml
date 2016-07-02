@@ -8,15 +8,15 @@ permalink:           none
 title:               'weletranslations'
 tagline:             'Translating since 1917'
 description:         'A blog focused on the translation of Xianxia novels'
-url:                 http://weletranslation.com
-baseurl:             'http://weletranslation.com'
+url:                 https://weletranslation.com
+baseurl:             'https://weletranslation.com'
 paginate:            5
 timezone:            'Europe/Berlin'
 
 # About/contact
 author:
   name:              weletranslations
-  url:               http://weletranslation.com/
+  url:               https://weletranslation.com/
   email:             weletranslations@gmail.com
 
 # Website layout designed by Mark Otto
