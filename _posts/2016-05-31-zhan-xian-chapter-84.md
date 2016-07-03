@@ -5,6 +5,8 @@ title: "Chapter 84 - Originally I Had Been Waiting"
 category: zhan-xian
 previous_chapter: 83
 next_chapter: 85
+chapter:
+  number: 84
 date: 2016-06-01 04:57:00 +0200
 has_note: false
 note: ""

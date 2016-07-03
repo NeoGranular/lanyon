@@ -5,6 +5,8 @@ title: "Chapter 59 - Want To Make A Breakthrough? Dream On!"
 category: zhan-xian
 previous_chapter: 58
 next_chapter: 60
+chapter:
+  number: 59
 date: 2016-04-30 18:01:00 +0200
 has_note: false
 note: "In the last chapter we translated that he fought with spirit beasts of all attributes. This was a mistranslation: he actually fought spirit beasts of the metal attribute."

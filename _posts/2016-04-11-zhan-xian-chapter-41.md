@@ -5,6 +5,8 @@ title: "Chapter 41 - The Fraud Of Pure Yang Palace"
 category: zhan-xian
 previous_chapter: 40
 next_chapter: 42
+chapter:
+  number: 41
 ---
 The most important part of the Floating Mountain Assembly was precisely each and every sect’s rookies, which were sent out to receive the test of the Illusionary lands’ Heavenly Stairs, but everyone jokingly called it the Heavenly Stairs.
 

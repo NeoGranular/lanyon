@@ -5,6 +5,8 @@ title: "Chapter 32 - Pill Furnace Magical Tool"
 category: zhan-xian
 previous_chapter: 31
 next_chapter: 33
+chapter:
+  number: 32
 ---
 “This was a furnace which I purchased in an auction, before reaching the JieDan stage, when I was traveling the world. Although it’s a low-quality furnace, it just so happens that it can handle your fire arts method and display it to the pinnacle.”
 

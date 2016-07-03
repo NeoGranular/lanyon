@@ -5,6 +5,8 @@ title: "Chapter 40 - You Won't Do In A Life And Death Duel"
 category: zhan-xian
 previous_chapter: 39
 next_chapter: 41
+chapter:
+  number: 40
 ---
 Before the assembly at Floating Mountain could begin, many people heard about some interesting news. Tian Quan Sect’s outer disciple Han Jiande had initiated a Life or Death Challenge against Pure Yang Palace’s outer disciple Yang Chen, and Yang Chen had immediately accepted that challenge. Both sides had agreed on the time and a vacant land for the Life and Death duel.
 

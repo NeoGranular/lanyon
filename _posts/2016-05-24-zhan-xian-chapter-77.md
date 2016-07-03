@@ -5,6 +5,8 @@ title: "Chapter 77 - There Are Still Benefits Like This?"
 category: zhan-xian
 previous_chapter: 76
 next_chapter: 78
+chapter:
+  number: 77
 date: 2016-05-24 00:26:00 +0200
 has_note: true
 note: "We're going to add sneak peeks for the next chapter after every chapter from now on! 😊"

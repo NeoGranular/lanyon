@@ -5,6 +5,8 @@ title: "Chapter 97 - Is This My Spirit Sea?"
 category: zhan-xian
 previous_chapter: 96
 next_chapter: 98
+chapter:
+  number: 97
 date: 2016-06-16 02:03:00 +0200
 has_note: false
 note: ""

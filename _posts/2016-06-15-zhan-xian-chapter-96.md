@@ -5,6 +5,8 @@ title: "Chapter 96 - Striking A Balance Between Work And Rest"
 category: zhan-xian
 previous_chapter: 95
 next_chapter: 97
+chapter:
+  number: 96
 date: 2016-06-15 05:43:00 +0200
 has_note: false
 note: ""

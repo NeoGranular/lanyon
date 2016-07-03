@@ -5,6 +5,8 @@ title: "Chapter 95 - Building The Foundation Again"
 category: zhan-xian
 previous_chapter: 94
 next_chapter: 96
+chapter:
+  number: 95
 date: 2016-06-15 00:19:00 +0200
 has_note: false
 note: ""

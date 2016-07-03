@@ -5,6 +5,8 @@ title: "Chapter 62 - Want To Kill Me? Dream On!"
 category: zhan-xian
 previous_chapter: 61
 next_chapter: 63
+chapter:
+  number: 62
 date: 2016-05-03 04:52:00 +0200
 has_note: false
 note: "Because we're both exceptionally busy this week, there will be no more chapters this week, as per our previous announcement, sorry!"

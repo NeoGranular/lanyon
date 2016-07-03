@@ -5,6 +5,8 @@ title: "Chapter 37 - Killed Instead"
 category: zhan-xian
 previous_chapter: 36
 next_chapter: 38
+chapter:
+  number: 37
 ---
 Just as Yang Chen finished saying his typical phrase, hundreds of Inflammation Talismans suddenly burst out of the ground around the long bearded scholar. One explosion from an Inflammation Talisman would be absolutely unable to injure the scholar, the explosions of a hundred inflammation talismans, which were furthermore enhanced by the Universal Treasure Raising Secrets, however, would naturally change the outcome.
 

@@ -5,6 +5,8 @@ title: "Chapter 58 - Thanks To Senior Disciple For His Consideration"
 category: zhan-xian
 previous_chapter: 57
 next_chapter: 59
+chapter:
+  number: 58
 date: 2016-04-27 00:48:00 +0200
 ---
 These words of Jin Tao had a basis and were not a violation of the rules in the slightest. Newcomers at the Immortal Falling Well first had to receive the guidance of experienced people and only then could they enter the real battleground of the Immortal Falling Well. This was a rule, jointly established by the the five formidable elders and the Sect Masters of all sects. The purpose of this rule was to prevent casualties among newcomers who did not know about the characteristics of the underground spirit beasts.

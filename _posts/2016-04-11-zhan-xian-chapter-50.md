@@ -5,6 +5,8 @@ title: "Chapter 50 - Heavenly Stars Treasure Refining Secrets"
 category: zhan-xian
 previous_chapter: 49
 next_chapter: 51
+chapter:
+  number: 50
 is_sponsored: true
 sponsors: ["Elizabeth", "Paul", "Chase"]
 ---

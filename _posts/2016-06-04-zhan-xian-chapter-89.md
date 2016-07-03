@@ -5,6 +5,8 @@ title: "Chapter 89 - Show The Evidence"
 category: zhan-xian
 previous_chapter: 88
 next_chapter: 90
+chapter:
+  number: 89
 date: 2016-06-05 09:15:00 +0200
 has_note: false
 note: ""

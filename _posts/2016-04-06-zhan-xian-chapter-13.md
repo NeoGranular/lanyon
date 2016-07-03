@@ -4,6 +4,8 @@ title: "Chapter 13 - Peeled Fruits Best For Consumption"
 published: true
 category: zhan-xian
 next_chapter: 14
+chapter:
+  number: 13
 ---
 
 

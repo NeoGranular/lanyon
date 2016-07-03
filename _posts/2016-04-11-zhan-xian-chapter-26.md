@@ -5,6 +5,8 @@ title: "Chapter 26 - Five Levels Of Difference Can Still Be Surpassed"
 category: zhan-xian
 previous_chapter: 25
 next_chapter: 27
+chapter:
+  number: 26
 ---
 Bang!
 

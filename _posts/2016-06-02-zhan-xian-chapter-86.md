@@ -5,6 +5,8 @@ title: "Chapter 86 - He Was Modest About Being Poor"
 category: zhan-xian
 previous_chapter: 85
 next_chapter: 87
+chapter:
+  number: 86
 date: 2016-06-03 03:58:00 +0200
 has_note: false
 note: ""

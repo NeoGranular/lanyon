@@ -5,6 +5,8 @@ title: "Chapter 87 - Returning To The Pure Yang Palace"
 category: zhan-xian
 previous_chapter: 86
 next_chapter: 88
+chapter:
+  number: 87
 date: 2016-06-04 01:45:00 +0200
 has_note: false
 note: "We've changed 'Divine Wood' to 'Penglai Divine Wood'"

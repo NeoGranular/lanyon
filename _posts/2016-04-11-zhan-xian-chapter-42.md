@@ -5,6 +5,8 @@ title: "Chapter 42 - Let's See How Many Can You Execute"
 category: zhan-xian
 previous_chapter: 41
 next_chapter: 43
+chapter:
+  number: 42
 ---
 After this, the people who were watching the Heavenly Stairs suddenly remembered that the record of the Heavenly Stairs belonged to Green Jade Immortal Island’s Shi Shan Shan for climbing sixty three steps. Now, an unknown female disciple from the Pure Yang Palace had surprisingly climbed sixty two steps, chasing directly behind the Shi Shan Shan of back then. Although it was slightly worse, when compared to Shi Fairy, it was still a surprising record that made people astonished.
 

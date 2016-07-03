@@ -5,6 +5,8 @@ title: "Chapter 20 - I Can Guide You"
 category: zhan-xian
 previous_chapter: 19
 next_chapter: 21
+chapter:
+  number: 20
 ---
 The speed of the rod was very fast, and it’s power quite pressing, but it was unable to endanger Shangguan Feng in any way. Even if he lightly dodged he could immediately get out of the way.
 
@@ -91,7 +93,7 @@ Shangguan Feng was not angered by Yang Chen’s commanding tone. He was the mana
 Yang Chen shook his head.
 
 “I have handled these with great difficulty. Exchange these for new ones, only to beat them again?”
- 
+
 Shangguan Feng’s speed was very fast and in less than a moment, someone came over at lightening speed to take these four injured and unconscious servants for treatment. Shangguan Feng himself looked after Yang Chen and exchanged his previous residence for a courtyard that was apparently more lavish and refined when compared to the previous one. The servants serving here were already waiting and solemnly welcomed Yang Chen and Shangguan Feng.
 
 “This Profound Pavilion is the dwelling place of supervising inner disciples, who come to inspect and test the outer preparatory disciples of my Pure Yang Palace.”
@@ -129,7 +131,7 @@ Shangguan Feng, upon seeing Yang Chen’s distrust, slowly explained this to him
 “I think highly of you!”
 
 Just thinking highly of Yang Chen’s future, this explanation was not at all sufficient to remove the doubts in Yang Chen’s heart. Under these kind of circumstances, if Yang Chen’s new privileges were to provoke Chu Heng’s anger and he could slyly use some underhanded methods to dispose Yang Chen, that would not be good. Far too many cultivation geniuses have died before maturing, due to various sorts of ‘unexpected accidents’.
- 
+
 “You are different from others, you are someone whom even Shi Fairy highly thinks of.”
 
 Shangguan Feng continued speaking:

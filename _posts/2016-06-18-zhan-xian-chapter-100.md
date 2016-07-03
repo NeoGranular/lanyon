@@ -5,6 +5,8 @@ title: "Chapter 100 - The Great Master Can Also Give Pointers"
 category: zhan-xian
 previous_chapter: 99
 next_chapter: 101
+chapter:
+  number: 100
 date: 2016-06-18 23:04:00 +0200
 has_note: false
 note: ""

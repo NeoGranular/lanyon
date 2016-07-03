@@ -5,6 +5,8 @@ title: "Chapter 27 - It's Possible Now"
 category: zhan-xian
 previous_chapter: 26
 next_chapter: 28
+chapter:
+  number: 27
 ---
 That instant he laid his eyes on Yang Chen’s silhouette, Sun Hai Jing’s complexion turned bitter, as if someone had trampled on his face.
 

@@ -5,6 +5,8 @@ title: "Chapter 99 - Real Pure Yang Fire"
 category: zhan-xian
 previous_chapter: 98
 next_chapter: 100
+chapter:
+  number: 99
 date: 2016-06-18 04:39:00 +0200
 has_note: false
 note: ""

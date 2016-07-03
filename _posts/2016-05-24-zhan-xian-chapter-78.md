@@ -5,6 +5,8 @@ title: "Chapter 78 - First Get Attached Before Falling Out"
 category: zhan-xian
 previous_chapter: 77
 next_chapter: 79
+chapter:
+  number: 78
 date: 2016-05-25 01:55:00 +0200
 has_note: false
 note: ""

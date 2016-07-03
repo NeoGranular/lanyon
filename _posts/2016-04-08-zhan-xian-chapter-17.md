@@ -5,12 +5,14 @@ title: "Chapter 17 - Who Would Still Dare Instruct You"
 category: zhan-xian
 previous_chapter: 16
 next_chapter: 18
+chapter:
+  number: 17
 ---
 Chu Heng looked utterly flustered and exasperated, but since Law Enforcement Hall’s Du Qian was present right now, even if Chu Heng had enormous guts, he still did not dare to hit Yang Chen in front of Du Qian. Thus, with a loud groan he didn’t pay any more attention to Yang Chen and directly rushed to his disciple to examine his injuries.
 
 After carefully inspecting him, Chu Heng couldn’t help but take a step back and take a deep breath. He hurriedly reached out to his qiankun pouch to find a few medicinal pills, squeezed them into Sun Hai Jing’s mouth and began to clear up the spots where Sun Hai Jing’s bones were broken. Suddenly he looked towards Yang Chen maliciously.
 <!--more-->
-Everyone present including Du Qian didn’t dare to believe this outcome. Yang Chen, an ordinary person had unexpectedly won, when facing the challenge of the third qi layer disciple Sun Hai Jing? What had happened? But in front of so many eyes, even for people with unclear vision, they could not help but trust the events which had taken place before their eyes. 
+Everyone present including Du Qian didn’t dare to believe this outcome. Yang Chen, an ordinary person had unexpectedly won, when facing the challenge of the third qi layer disciple Sun Hai Jing? What had happened? But in front of so many eyes, even for people with unclear vision, they could not help but trust the events which had taken place before their eyes.
 
 From the start to the end of the battle, Yang Chen fought in a very ordinary way, using only his fists to attack and not using a bit of magic power or cultivation techniques to attack. At the same time from start to finish this Sun Hai Jing, a third qi layer disciple, hadn’t been able to use even one cultivation technique. Barely using a Thousand Jin Talisman to attack, however with such a great disparity between these two, Yang Chen easily avoided it.
 
@@ -41,7 +43,7 @@ Chu Heng once again coldly humphed, before rapidly leaving the monastery gate, c
 Yang Chen said this with excessive modesty. When Chu Heng heard this, his silhouette paused for a moment before rapidly disappearing.
 
 “How did you avoid Sun Hai Jing’s Thousand Jin Talisman?”
- 
+
 Du Qian was interested in this. A Thousand Jin Talisman by a cultivator of the third qi layer had unexpectedly missed an ordinary person without using martial arts. This made the numerous cultivators who were present unable to endure it, therefore, Du Qian curiously asked Yang Chen about it.
 
 “I didn’t avoid it, Uncle Master Du.”
@@ -68,7 +70,7 @@ However, Yang Chen had not show any mercy, but this was also rather close to Du 
 
 “Continue with your duties!”
 
-Du Qian gestured with his hands and stated, hardly paying any attention. Of course, recruiting outer disciples was not his duty, he had only appeared here after hearing that Chu Heng was making things difficult for someone. Now that the affair had already concluded, there was no need for him to stay here. 
+Du Qian gestured with his hands and stated, hardly paying any attention. Of course, recruiting outer disciples was not his duty, he had only appeared here after hearing that Chu Heng was making things difficult for someone. Now that the affair had already concluded, there was no need for him to stay here.
 
 Everyone loudly agreed and began to return to their duties without paying any more attention to Yang Chen. Upon seeing this, Du Qian also did not speak much and only hinted  to Yang Chen meaningfully:
 
@@ -154,7 +156,7 @@ While everyone was looking at each other in dismay, Manager Shangguan moved towa
 
 “Yang Chen, Uncle Master Chu Heng has said that, since you have already defeated a third qi layer disciple, you are qualified to cultivate third qi layer techniques. Afterwards in Ye Xiu Manor you will be given proper treatment as an outer disciple.”
 
-Yang Chen was gobsmacked, to allow him to enjoy outer disciples status at this time? One should be aware that outer disciples could contest to become inner disciples and formally becoming an apprentice to a master to learn skills, how could Chu Heng have such good intentions? 
+Yang Chen was gobsmacked, to allow him to enjoy outer disciples status at this time? One should be aware that outer disciples could contest to become inner disciples and formally becoming an apprentice to a master to learn skills, how could Chu Heng have such good intentions?
 
 “I am already an outer disciple?”
 

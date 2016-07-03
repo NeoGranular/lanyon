@@ -5,6 +5,8 @@ title: "Chapter 91 - The Nest Of Future Talents"
 category: zhan-xian
 previous_chapter: 90
 next_chapter: 92
+chapter:
+  number: 91
 date: 2016-06-07 20:35:00 +0200
 has_note: false
 note: ""

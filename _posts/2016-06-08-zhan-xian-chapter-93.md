@@ -5,6 +5,8 @@ title: "Chapter 93 - To Settle The Dispute, Let's Test Something"
 category: zhan-xian
 previous_chapter: 92
 next_chapter: 94
+chapter:
+  number: 93
 date: 2016-06-09 03:39:00 +0200
 has_note: false
 note: ""

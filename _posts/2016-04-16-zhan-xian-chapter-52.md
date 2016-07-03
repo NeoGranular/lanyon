@@ -5,6 +5,8 @@ title: "Chapter 52 - I Don't Need A Magic Weapon To Beat You To Death"
 category: zhan-xian
 previous_chapter: 51
 next_chapter: 53
+chapter:
+  number: 52
 ---
 Yang Chen had looked at the jade slips in the Hidden Pavilion for more than half a year, this was not a secret at Nine Earth Manor. Sun Hai Jing did not find it strange at all, that Yang Chen knew the cultivation method in which he trained, but he had said something about an explanatory jade slip on the side, but Sun Hai Jing had never seen it, he basically wasn’t even aware of any explanatory jade slip.
 
@@ -13,7 +15,7 @@ This was precisely the cause for the huge changes in his complexion, this moment
 
 This cultivation method of the sect had such great backlash, then why didn’t Chu Heng tell him about this earlier? At this point, Sun Hai Jing could only imagine one reason, but he absolutely did not want to believe that reason. With no way out of this dilemma, Sun Hai Jing stood there stunned, rooted to the ground.
 
-Although the words of these two people were very low and concealed from the ears of the spectators, hearing Yang Chen just use a few words to make Sun Hai Jing lose his self control in this way, apparently everyone realized some parts of the truth. 
+Although the words of these two people were very low and concealed from the ears of the spectators, hearing Yang Chen just use a few words to make Sun Hai Jing lose his self control in this way, apparently everyone realized some parts of the truth.
 
 Sun Hai Jing had for some reason surprisingly cultivated an evil cultivation method, although it would quickly increase his strength, the cost he had to pay was using up his life force. Only due to this forceful increase in his strength could he defeat Zhou Zihe. But, he was not aware that this cultivation method had this kind of fatal flaw, thus he was in the current situation.
 
@@ -35,7 +37,7 @@ Yang Chen faintly shook his head, with regret spreading across his face. For a d
 
 However, Sun Hai Jing did not think this way, just a moment ago when he had heard Yang Chen’s speech, he had certainly become low spirited, however very quickly he realized, that this was perhaps some sort of mental attack by Yang Chen, so as to make him lose the will to fight. After realizing this point, Sun Hai Jing became very angry and at the same time he relaxed in his heart.
 
-Regardless of whether Yang Chen’s words were true or false, for Sun Hai Jing the timber had already been turned into a boat, wanting to convert it back was impossible. To determine whether it was true or not, after he killed Yang Chen in this life and death battle, he could only go back to the Hidden Pavilion and look for the explanatory jade slip and check on the jade slip whether there really was such a description or not. 
+Regardless of whether Yang Chen’s words were true or false, for Sun Hai Jing the timber had already been turned into a boat, wanting to convert it back was impossible. To determine whether it was true or not, after he killed Yang Chen in this life and death battle, he could only go back to the Hidden Pavilion and look for the explanatory jade slip and check on the jade slip whether there really was such a description or not.
 
 But if he wanted to check whether or not it was true, Sun Hai Jing first had to survive. The more important thing right now was the fight in front of him.
 
@@ -93,7 +95,7 @@ Ah!
 
 At once the flying sword was swallowed.
 
-No matter how much Sun Hai Jing tried to get control over the flying sword, the flying sword which had been swallowed by the sheath did not show any response. It seemed that the connection of spiritual awareness between Sun Hai Jing and his flying sword had been cut off, which raised a thought of despair in Sun Hai Jing’s mind. 
+No matter how much Sun Hai Jing tried to get control over the flying sword, the flying sword which had been swallowed by the sheath did not show any response. It seemed that the connection of spiritual awareness between Sun Hai Jing and his flying sword had been cut off, which raised a thought of despair in Sun Hai Jing’s mind.
 
 “Impossible! Impossible!”
 
@@ -105,7 +107,7 @@ The other people had only seen Yang Chen’s sword sheath for a single moment, b
 
 Taking control over the flying sword just before it could be used, what level of skill was this? Although the majority of qi layer disciples hadn’t had the opportunity to come in contact with a magic weapon, this didn’t mean that none of the qi layer disciples had a magic weapon. Not to mention Yang Chen, even inside the Nine Earth Manor, there were a few peak qi layer disciples who owned their own magic weapons. Yang Chen was not the only genius.
 
-These people had similarly refined their own magic weapons, refined their own flying swords and even had similar control over their swords, so they naturally knew, how much of a frightening ability it was to seize control of a flying sword which was being used by someone else. 
+These people had similarly refined their own magic weapons, refined their own flying swords and even had similar control over their swords, so they naturally knew, how much of a frightening ability it was to seize control of a flying sword which was being used by someone else.
 
 “Senior Brother Sun, your luck isn’t very good, this sheath of mine, as it turns can easily collect your flying sword, which hasn’t been refined.”
 
@@ -117,7 +119,7 @@ Sun Hai Jing almost spat out blood listening to Yang Chen’s ridicule. Seizing 
 
 However Yang Chen’s words were a relief to a lot of people. That the sword sheath could only collect unrefined flying swords would also imply that afterwards, Yang Chen could not just go and capture anyone’s magic weapons. Sometimes, just having the ability to cause fear in other people could be the cause of misfortune. Since Yang Chen had used this method only to deal with Sun Hai Jing, others did not need to be very anxious.
 
-This recent act had even shocked the Palace Master of the Pure Yang Palace so much, that he had opened both his eyes. Only after hearing Yang Chen’s words did he nod slightly and close his eyes again. Yang Chen’s words were quite reasonable though, if it was not properly refined and was just marked with a sign of Spiritual Awareness on it, then anyone with a higher cultivation could easily take control of it. Although Yang Chen’s cultivation was lacking, with the help of the sword sheath it was all very normal. 
+This recent act had even shocked the Palace Master of the Pure Yang Palace so much, that he had opened both his eyes. Only after hearing Yang Chen’s words did he nod slightly and close his eyes again. Yang Chen’s words were quite reasonable though, if it was not properly refined and was just marked with a sign of Spiritual Awareness on it, then anyone with a higher cultivation could easily take control of it. Although Yang Chen’s cultivation was lacking, with the help of the sword sheath it was all very normal.
 
 Sun Hai Jing presently did not have that any of his previous arrogance, shock was written all over his face as he had been spooked out of his mind, even his tone began to soften:
 
@@ -133,7 +135,7 @@ Although Yang Chen hadn’t attacked him, within his tone there was not even a h
 
 Once these words came out of his mouth, everyone looked at Sun Hai Jing, but not with the same look anymore. Who did not know that when Yang Chen had left the Nine Earth Manor, he was immediately attacked by a few assassins? Although he had killed them instead, using some unknown method, everyone clearly realized that this was a premeditated attack with the collaboration of someone from the inside to kill a disciple of the same sect.
 
-After Yang Chen had said these words, the greatest suspicion had naturally fallen on Sun Hai Jing. Killing disciples of the same sect, this was an offence second only to betraying the sect, apart from some sect which cultivated evil cultivation methods, no matter which sect it was, even the great major sects which cultivated evil cultivation methods, all would not tolerate this kind of matter happening. 
+After Yang Chen had said these words, the greatest suspicion had naturally fallen on Sun Hai Jing. Killing disciples of the same sect, this was an offence second only to betraying the sect, apart from some sect which cultivated evil cultivation methods, no matter which sect it was, even the great major sects which cultivated evil cultivation methods, all would not tolerate this kind of matter happening.
 
 Suddenly, Sun Hai Jing had successfully become the target of all the attention. At that moment he was not only on the fighting stage, but also in front of the Pure Yang Palace’s Palace Master, who was watching the fight, even some people from the crowd had jumped up to punish him. Even more, a countless number of people were still reprimanding him. This time he had already left a deep impression of being evil and filled with hatred on the Palace Master, what more was required to deal with him?
 
@@ -165,7 +167,7 @@ A few great circles were formed in the sky.
 
 Bang! Bang!
 
-Sun Hai Jing was flung onto the ground by Yang Chen again and again. With a sound from Yang Chen’s wrist, his bones were broken. Together with the pain of broken bones, the dizziness made him lose all ability to resist. At that moment he was only seeing the ground coming closer and closer to him, and afterwards he was thrown, again and again. He resolutely lifted his head, only to find a huge clenched fist appearing in front of him. 
+Sun Hai Jing was flung onto the ground by Yang Chen again and again. With a sound from Yang Chen’s wrist, his bones were broken. Together with the pain of broken bones, the dizziness made him lose all ability to resist. At that moment he was only seeing the ground coming closer and closer to him, and afterwards he was thrown, again and again. He resolutely lifted his head, only to find a huge clenched fist appearing in front of him.
 
 Slam! Slam!
 

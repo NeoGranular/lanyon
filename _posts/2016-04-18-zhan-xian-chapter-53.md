@@ -5,6 +5,8 @@ title: "Chapter 53 - Request To Leave For The Immortal Falling Well"
 category: zhan-xian
 previous_chapter: 52
 next_chapter: 54
+chapter:
+  number: 53
 ---
 Being affected by the five phases of Yin and Yang secrets, the spirit power leaving Yang Chen’s body, almost immediately began to rise dramatically under the effect of the five phases rousing each other. Although his cultivation was merely at the third qi layer, because of his vigorous and extremely pure spirit power, he was not that much weaker than peak qi layer cultivators.
 
@@ -15,11 +17,11 @@ His badly beaten and utterly mutilated head, as well as his corpse, which had al
 
 Sun Hai Jing had unexpectedly been killed by Yang Chen!
 
-That Sun Hai Jing who possessed the strength of an initial foundation stage cultivator and in addition to that had a flying sword, had surprisingly been killed by an outer disciple at the third qi layer, Yang Chen! 
+That Sun Hai Jing who possessed the strength of an initial foundation stage cultivator and in addition to that had a flying sword, had surprisingly been killed by an outer disciple at the third qi layer, Yang Chen!
 
 The number one outer disciple expert, Zhou Zihe, had already admitted defeat, adding on to that Sun Hai Jing’s savageness, everyone had already acknowledged that he possessed the strength of the initial foundation stage. Just by using his flying sword, he had forced the peak qi layer disciple Zhou Zihe to admit defeat, so his strength could be judged from that. But Sun Hai Jing’s life and duel against Yang Chen was even more surprising.
 
-That was the most surprising thing. Who could even imagine that the third qi layer disciple Yang Chen, had unexpectedly killed Sun Hai Jing with just his fists on the stage? 
+That was the most surprising thing. Who could even imagine that the third qi layer disciple Yang Chen, had unexpectedly killed Sun Hai Jing with just his fists on the stage?
 
 Although Sun Hai Jing had already been killed, within this short amount of time, these thousand outer disciples were not able to accept this great of a discrepancy. Could it be that the number one expert among the outer disciples was not a peak qi layer disciple, but rather a third qi layer disciple?
 
@@ -31,7 +33,7 @@ No one in the training grounds sensed anything, but Yang Chen on the stage sudde
 
 This method of using the talismans without any movements, stunned everyone even more. But everyone in the surroundings was absolutely baffled, Yang Chen had already won, why was he suddenly doing this kind of thing?
 
-Yang Chen already didn’t have any more time to explain, just after he had stopped moving, an extremely strong force struck at the recently raised earth walls. 
+Yang Chen already didn’t have any more time to explain, just after he had stopped moving, an extremely strong force struck at the recently raised earth walls.
 
 Bang!
 
@@ -49,7 +51,7 @@ To the surrounding people, the only thing that was visible, was after Yang Chen 
 
 “You really overestimate yourself!”
 
-Chu Heng, standing near Pure Yang Palace’s Palace Master, had seen the movements of the Palace Master. Seeing that Yang Chen had used his own spirit power to resist against the Palace Master, Chu Heng could not help but coldly snort and pass an assessment like this. The Palace Master had clearly used this to test Yang Chen’s strength, but even with Chu Heng’s current realm he would not dare to say that he could continue to resist the Palace Master’s strike. But a trifling third qi layer disciple unexpectedly kept on resisting, like he did not know the height of the heavens and the depth of the earth. He really was impossibly stupid. 
+Chu Heng, standing near Pure Yang Palace’s Palace Master, had seen the movements of the Palace Master. Seeing that Yang Chen had used his own spirit power to resist against the Palace Master, Chu Heng could not help but coldly snort and pass an assessment like this. The Palace Master had clearly used this to test Yang Chen’s strength, but even with Chu Heng’s current realm he would not dare to say that he could continue to resist the Palace Master’s strike. But a trifling third qi layer disciple unexpectedly kept on resisting, like he did not know the height of the heavens and the depth of the earth. He really was impossibly stupid.
 
 Only, just as this cold snort came out of Chu Heng’s throat, the situation of Yang Chen on the training grounds stage felt like one slap after another on his face.
 
@@ -101,7 +103,7 @@ But the Palace Master was still the Palace Master, he quickly overcame his aston
 
 He flipped his hand and a small white jade tile appeared within his hand, he lightly threw the tile and as if it was being carried by some invisible force, the tile flew away from the room towards Yang Chen on the training grounds.
 
-“Go and prepare properly!” 
+“Go and prepare properly!”
 
 Just as Yang Chen reached out to catch that white jade tile, he heard the Palace Master’s voice and hastily replied in loud voice:
 
@@ -109,7 +111,7 @@ Just as Yang Chen reached out to catch that white jade tile, he heard the Palace
 
 The following martial competition did not hold anymore great surprises, with the sole exception of Gongsun Ling, who was at the seventh qi layer but challenged three eighth-, and two ninth qi layer senior disciples, and had obtained victory in all of those challenges, making people gasp in admiration towards her skill.
 
-After giving the tile to Yang Chen, the Palace Master did not say anything else until the martial arts competition ended, afterwards he praised Gongsun Ling with a few words and departed. The Palace Master’s departure also allowed the Nine Earth Manor, which had been tense for two days, to relax. Nobody could do anything about it, in the presence of the Palace Master, even the Merit Transferring Disciple Chu Heng did not dare to breathe heavily, let alone other people. Other than Yang Chen, the performance was very ordinary. 
+After giving the tile to Yang Chen, the Palace Master did not say anything else until the martial arts competition ended, afterwards he praised Gongsun Ling with a few words and departed. The Palace Master’s departure also allowed the Nine Earth Manor, which had been tense for two days, to relax. Nobody could do anything about it, in the presence of the Palace Master, even the Merit Transferring Disciple Chu Heng did not dare to breathe heavily, let alone other people. Other than Yang Chen, the performance was very ordinary.
 
 After getting loosened up, people began to make discreet inquiries about what kind of place the Immortal Falling Well was and why Yang Chen would ask for a visit to the Immortal Falling Well. But after receiving the information about it, everyone was gobsmacked.
 

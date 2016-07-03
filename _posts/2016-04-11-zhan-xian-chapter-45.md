@@ -5,6 +5,8 @@ title: "Chapter 45 - So Let's Repeat It"
 category: zhan-xian
 previous_chapter: 44
 next_chapter: 46
+chapter:
+  number: 45
 ---
 At any time, there was no lack of people who would envy or be jealous of other people’s success, it was the same in the cultivation world. This JieDan expert of the Greatest Sky Sect raised this opinion after he showed up in response to the questions by the crowd. Who would want a second rate sect’s second qi layer disciple to obtain the honor of setting foot on the peak of the Heavenly Stairs? Furthermore, among the ten JieDan experts managing the spell formation, apart from Xu Cheng Xin of the Pure Yang Palace the other nine were all seriously injured and had fallen a level, it would be a miracle if this did not make people suspicious.
 

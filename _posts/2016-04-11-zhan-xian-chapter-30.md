@@ -5,6 +5,8 @@ title: "Chapter 30 - Shocking a JieDan Expert"
 category: zhan-xian
 previous_chapter: 29
 next_chapter: 31
+chapter:
+  number: 30
 ---
 “Move, let’s go to your concocting room!”
 

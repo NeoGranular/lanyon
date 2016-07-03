@@ -5,6 +5,8 @@ title: "Chapter 98 - Foundation Stage Foundation Stage Foundation Stage"
 category: zhan-xian
 previous_chapter: 97
 next_chapter: 99
+chapter:
+  number: 98
 date: 2016-06-17 20:47:00 +0200
 has_note: false
 note: ""

@@ -5,6 +5,8 @@ title: "Chapter 82 - Guiding The Seniors"
 category: zhan-xian
 previous_chapter: 81
 next_chapter: 83
+chapter:
+  number: 82
 date: 2016-05-30 21:35:00 +0200
 has_note: false
 note: "NG has been busy travelling these past two days, so we were not able to stick to the schedule, but by tomorrow we will take care of the backlog."

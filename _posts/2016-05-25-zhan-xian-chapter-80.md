@@ -5,6 +5,8 @@ title: "Chapter 80 - Strange Things Appear With The Pill"
 category: zhan-xian
 previous_chapter: 79
 next_chapter: 81
+chapter:
+  number: 80
 date: 2016-05-26 23:14:00 +0200
 has_note: false
 note: ""

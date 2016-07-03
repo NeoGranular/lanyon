@@ -5,6 +5,8 @@ title: "Chapter 46 - Setting Foot On The Peak Again"
 category: zhan-xian
 previous_chapter: 45
 next_chapter: 47
+chapter:
+  number: 46
 ---
 Xu Cheng Xin had already sworn the oath on his Heart’s Devil publicly, how could Cheng Wen Cai give up halfway after pressuring Xu Cheng Xin? Thus, the affair of Yang Chen being made to climb the Heavenly Stairs once again to check whether he had cheated or not, began to spread with a large commotion.
 

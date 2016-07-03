@@ -5,6 +5,8 @@ title: "Chapter 39 - Just Comparing Notes Won't Do"
 category: zhan-xian
 previous_chapter: 38
 next_chapter: 40
+chapter:
+  number: 39
 ---
 In the direction the voice came from, the figures of several people appeared, all of them in the air, rapidly flying towards them.
 

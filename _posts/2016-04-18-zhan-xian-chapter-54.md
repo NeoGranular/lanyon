@@ -5,8 +5,10 @@ title: "Chapter 54 - Second Grade Pill Concocting Master"
 category: zhan-xian
 previous_chapter: 53
 next_chapter: 55
+chapter:
+  number: 54
 ---
-“Do you really have to go to the Immortal Falling Well?” 
+“Do you really have to go to the Immortal Falling Well?”
 
 Raising this question, was Du Qian, who had always been considerate towards Yang Chen. He could not understand it, Yang Chen was a qi layer disciple, but in the Immortal Falling Well, even with the help of a flying sword, would he be able to obstruct or kill any underground spirit beasts? This kind of unwise action basically did not seem like Yang Chen’s usual way of doing things.
 
@@ -25,7 +27,7 @@ Du Qian was a disciple of the Law Enforcement Hall and at the same time also had
 
 Du Qian was only concerned about him, for which Yang Chen appreciated him a lot, thus he was very respectful towards him and so he rapidly replied:
 
-“Anyway, the Palace Master said to prepare properly and I also think that it would not be too late to go after I am genuinely prepared, previously I had just fought for the qualifications, that’s all.” 
+“Anyway, the Palace Master said to prepare properly and I also think that it would not be too late to go after I am genuinely prepared, previously I had just fought for the qualifications, that’s all.”
 
 Yang Chen’s words eased the worry in Du Qian’s heart, Yang Chen thought that his idea of going against expectations by taking a step back was also a good move sometimes. It had to be known that, although the Immortal Falling Well was a dangerous place, the advantages were quite plentiful, so, as long as he had trained therein for a few years and did not die, he would basically become a rich and powerful person and therefore the qualifications to enter the Immortal Falling Well was also a goal for which everyone competed. Yang Chen had obtained one place when he was still in the qi realm, he had a lot of foresight indeed.
 
@@ -63,11 +65,11 @@ The first grade of concocting implied the ability to refine a pill one time, whi
 
 Every improvement of one level would mean that the level of the pill would be increased by a huge margin, but unfortunately, this kind of increase was not all that easy. Even though Yang Chen had been a Great Principal Golden Immortal in his previous life, when he was at death’s door, he was still just a minor sixth grade pill concocting master. How rare high grade pill concocting masters were could easily be seen from this.
 
-Even in this life, Zhu Chen Tao was the Hall Master of the Medicine Hall, but he was only a third grade pill concocting master, and he had reached this realm just recently. But this was already an achievement which people could look up to. Countless people admired Zhu Chen Tao’s pill concocting skills, he was an existence which could be called a genius. 
+Even in this life, Zhu Chen Tao was the Hall Master of the Medicine Hall, but he was only a third grade pill concocting master, and he had reached this realm just recently. But this was already an achievement which people could look up to. Countless people admired Zhu Chen Tao’s pill concocting skills, he was an existence which could be called a genius.
 
 But at the moment, Du Qian was forced to admit that in a matter such as pill concocting, Zhu Chen Tao was just a nobody who was beyond redemption in front of Yang Chen. Of course, Du Qian did not dare to say this out loudly, but he was greatly startled and he unexpectedly even forgot Zhu Chen Tao’s reputation in his mind.
 
-A second grade elixir, especially an elixir like the yang qi pill did not require Yang Chen to spend much energy. With the help of his Profound Spirit Furnace, Yang Chen could easily accomplish this. If it were not that a third grade elixir would shock the whole world, Yang Chen would have already started to refine it. 
+A second grade elixir, especially an elixir like the yang qi pill did not require Yang Chen to spend much energy. With the help of his Profound Spirit Furnace, Yang Chen could easily accomplish this. If it were not that a third grade elixir would shock the whole world, Yang Chen would have already started to refine it.
 
 Certainly, being a second grade pill concocting master was the perfect shield for Yang Chen. Perhaps making his name at Heavenly Stairs would allow him to resist malicious outside influences for the time he remained within the Pure Yang Palace, but the reputation of a second grade pill concocting master was far more dazzling when compared to any kind of cultivation talent, moreover it was also more secure. Experts of a sect may be willing to kill cultivation geniuses of another sect, but they would not easily offend a pill concocting master, even if he was merely a common first grade pill concocting expert.
 
@@ -83,7 +85,7 @@ Soon, those rays of light appeared above the Nine Earth Manor, they appeared to 
 
 “Yes, Uncle Master!”
 
-Yang Chen hastily bowed and replied and soon after that slowly raised his head. Only then did he discover that apart from Du Qian and Medicine Hall’s Hall Master, Zhu Chen Tao, surprisingly Pure Yang Palace’s Palace Master himself had also come to his small courtyard. 
+Yang Chen hastily bowed and replied and soon after that slowly raised his head. Only then did he discover that apart from Du Qian and Medicine Hall’s Hall Master, Zhu Chen Tao, surprisingly Pure Yang Palace’s Palace Master himself had also come to his small courtyard.
 
 Zhu Chen Tao had a very impatient nature, so hearing Yang Chen’s words, he immediately fished out a great pile of herbs from his qiankun pouch and piled them up in the courtyard and eagerly commanded:
 
@@ -94,7 +96,7 @@ His voice was full of expectation and delight, as if he had never thought Yang C
 During the long time he had not met Yang Chen, it seemed as if Zhu Chen Tao’s breath had grown even stronger. Although Yang Chen was not able to tell Zhu Chen Tao’s current realm, he was certain that he had recently increased his strength. It could be said that Yang Chen’s fire controlling skill had allowed him to have an even deeper comprehension, only then could he have this kind of increase in strength.
 
 Although the Palace Master hadn’t said anything, his gaze also contained a similar expectant look with strong praise. Yang Chen, this outer disciple had already given him too many pleasant surprises.
- 
+
 Apart from Medicine Hall’s Hall Master and Pure Yang Palace’s Palace Master, Yang Chen also saw one more acquaintance, the Hall Master of the Foreign Affairs Hall, Xu Cheng Xin. Meeting Yang Chen’s gaze, Xu Cheng Xin also slightly nodded as if he was extremely delighted.
 
 Although the herbs were not equal to Yang Chen’s Profound Yang Fruit in effect, but compared to ordinary materials used to refine yang qi pills, they were far superior. Yang Chen did not argue and took out the Profound Spirit Furnace from his qiankun pouch again, restored it to its ordinary dimensions and placed it within the courtyard. He had intended to start the concoction on the spot, on one hand, Pure Yang Palace’s Palace Master could also watch and on the other hand, Yang Chen was absolutely not worried about any kind of mishaps.
@@ -102,7 +104,7 @@ Although the herbs were not equal to Yang Chen’s Profound Yang Fruit in effect
 Looking at Yang Chen’s Profound Spirit Furnace, the Palace Master’s and Zhu Chen Tao’s eyes shone brightly. This had also confirmed to the Palace Master that Yang Chen did indeed have the strength to control and refine magic weapons, as this Profound Spirit Furnace was precisely a magic weapon which had been refined. Moreover, it could only be refined by Yang Chen, otherwise it would not allow him to use it.
 
 The Profound Spirit Furnace was a gift to Yang Chen by Zhu Chen Tao, so he naturally was aware about its appearance at that time. Zhu Chen Tao naturally knew that at that time the quality of this Profound Spirit Furnace had increased, he could tell this with just a glance. Regarding this change produced by Yang Chen in the short period of a year, Zhu Chen Tao was greatly regretful that he had become so old.
-  
+
 Yang qi pill was a very low level elixir, a normal first grade yang qi pill, is suited for the use of qi realm disciples, moreover refining it was very easy, even Yang Chen’s servant Ho Lin who did not have any great talent in concocting had also refined a yang qi pill previously. Foundation stage experts have no interest in this kind of low levelled pill.
 
 However a second grade yang qi pill was something entirely different, after being passed through refining once again, it was not any inferior to the yuan cultivation pill used by foundation stage experts. Even the cost of production was lower and the efficacy was higher, when compared to the yuan cultivation pill.
@@ -116,17 +118,17 @@ It was the first time for the Palace Master to see Yang Chen’s almost perfect 
 In less than an hour, Yang Chen had already successfully refined the yang qi pill. The raw material prepared by Zhu Chen Tao were just enough for him refine a furnace worth of first grade yang qi pills. With his unique pill collecting skill, he took out those hundred yang qi pills from the furnace and after cleaning the residual waste left in the furnace, he once again returned those already refined first grade yang qi pills into the furnace.
 
 This time, Yang Chen did not add any extra herbs, rather he used both hands to hold the handles of the Profound Spirit Furnace, and began to control the intensity of the flames. Slowly, the first grade yang qi pills started to purify.
- 
+
 Purifying the medicines was an extremely meticulous work, as long as one was even the least bit inattentive, the powerful flames could immediately burn down the herbs to ashes. Yang Chen had shown an unprecedented concentration. The spectators were all aware that this moment was very important, so they all held their breath for fear of disturbing Yang Chen. After all, Yang Chen was just a qi layer disciple, but he had already accomplished a feat which not even a foundation stage expert could be certain about accomplishing, naturally they were all very careful.
-  
+
 Yang Chen had required eight hours for purification. Everyone present was a cultivator, so they didn’t make many movements and accompanied Yang Chen from the beginning to the end.
 
-The extremely slender flames were nimbly rolling on the surface of the pills and the spirit power that was circulated to enter into the furnace was leading these extremely small impurities out of the furnace. This process needed a whole eight hours until it was completely finished. At that moment, Yang Chen used his usual technique to take out the pills and pull all of them out of the furnace, and placed them properly within a good jade bottle. 
+The extremely slender flames were nimbly rolling on the surface of the pills and the spirit power that was circulated to enter into the furnace was leading these extremely small impurities out of the furnace. This process needed a whole eight hours until it was completely finished. At that moment, Yang Chen used his usual technique to take out the pills and pull all of them out of the furnace, and placed them properly within a good jade bottle.
 
 After the refining had ended, Zhu Chen Tao impatiently rushed over to take the jade bottle from Yang Chen’s hands, he popped out a few pills and gave one to the Palace Master and Xu Cheng Xin each, while fiddling with another pill in his own hands from the large amount of pills he had in his hands.
 
-After being refined twice, the yang qi pill had shrunken in size, but its outer surface appeared extremely smooth and round, which gave quite a pleasant sensation when touched. On the pill’s outer surface, two thin, clear veins formed a circle coiling around the pill. The medicinal fragrance on the outside of the pill had decreased quite a bit, but that was actually because the outstanding and flowery smell was restrained to the inside. 
- 
+After being refined twice, the yang qi pill had shrunken in size, but its outer surface appeared extremely smooth and round, which gave quite a pleasant sensation when touched. On the pill’s outer surface, two thin, clear veins formed a circle coiling around the pill. The medicinal fragrance on the outside of the pill had decreased quite a bit, but that was actually because the outstanding and flowery smell was restrained to the inside.
+
 Zhu Chen Tao’s method to test a pill was to throw it into his mouth. After consuming a second grade yang qi pill, Zhu Chen Tao closed his eyes and began to carefully sense its medicinal strength. The Palace Master and Xu Chen Xin also stopped inspecting the pill and attentively watched Zhu Chen Tao, waiting for him to open his eyes.
 
 “Plentiful spirit power and also rapidly spreading, I’m sure, this is a second grade yang qi pill!”
@@ -146,11 +148,11 @@ Saying this, embarrassment immediately appeared on Yang Chen’s face.
 “So, your spirit power and medicinal knowledge have all been mastered at the Hidden Pavilion, hasn’t anyone taught you?”
 
 The Palace Master nodded without making any further comments and continued to ask.
- 
+
 “Yes, Palace Master!”
 
 Yang Chen nodded his head in agreement, this was an open secret at the Ye Xiu Manor and Nine Earth Manor, not something which could be hidden, moreover Yang Chen also didn’t want to pretend to be guided by Chu Heng.
- 
+
 “Be relieved and go to the Immortal Falling Well and remember to obtain a few spirit essences, they will be extremely beneficial for your immortal cave afterwards.”
 
 The expression on the face of the Palace Master made it impossible to know what he was thinking and his tone was also serene, only the last words have leaked some of his thoughts.

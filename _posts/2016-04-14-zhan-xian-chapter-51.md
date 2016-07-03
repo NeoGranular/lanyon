@@ -5,6 +5,8 @@ title: "Chapter 51 - Read The Warning Before Cultivating"
 category: zhan-xian
 previous_chapter: 50
 next_chapter: 52
+chapter:
+  number: 51
 ---
 When coming out of the room after his closed door training, the instant he saw the sunshine again, Yang Chen had a sudden urge to jump, as if it was an instinct of his body, but also because of his excitement for the Sect’s Martial Arts Competition starting from tomorrow.   
 
@@ -13,27 +15,27 @@ In the Sect’s Martial Arts Competition, contestants were divided according to 
 
 According to the rules of the Martial Arts Competition, the disciples at the lower realms would accumulate points depending on their victory or defeat and later, according to these points, their rankings would change. Those who were ranked higher would enjoy an even better status and treatment, while those ranked behind would have to spend more contribution points to receive the same resources. These kinds of rules motivated all of the disciples to cultivate even more meticulously.
 
-Naturally, someone challenging a disciple above their realm would receive more advantages and bonus points, only, this kind of thing was seen very rarely. Generally speaking, the teachers did not recommend their disciples to challenge someone above their realm, not to mention the danger, it could severely dampen one’s confidence, so the gains really didn’t make up for the losses. 
+Naturally, someone challenging a disciple above their realm would receive more advantages and bonus points, only, this kind of thing was seen very rarely. Generally speaking, the teachers did not recommend their disciples to challenge someone above their realm, not to mention the danger, it could severely dampen one’s confidence, so the gains really didn’t make up for the losses.
 
 The one in which Yang Chen would participate was naturally the qi realm martial arts contest. All of the qi realm disciples could, within the first day, challenge other disciples to fight or could instead be challenged by others. The location of this competition was naturally the Nine Earth Manor.  
 
 Because of Yang Chen and Gong Sun Ling’s performance at the Heavenly Stairs this year, at this qi layer Martial Arts Competition the Palace Master of the Pure Yang Palace himself would personally come to watch. This made all of the disciples incomparably excited and eager to fight. As long as one could leave a profound impression on the Palace Master, then would one still have to worry about their future cultivation?
 
-The Merit Transferring Disciple, Chu Heng, was responsible to act as arbitrator for the competition this time and at the same time he was also responsible for saving disciples if they were in danger. With him there were also more than a dozen foundation stage disciples, including Du Qian of the Law Enforcement Hall. 
+The Merit Transferring Disciple, Chu Heng, was responsible to act as arbitrator for the competition this time and at the same time he was also responsible for saving disciples if they were in danger. With him there were also more than a dozen foundation stage disciples, including Du Qian of the Law Enforcement Hall.
 
 Yang Chen was not very interested in challenging these disciples of the Nine Earth Manor and seizing their cultivation resources. His sole desire was to learn by interaction and that was also just with Gongsun Ling and no one else. As for Sun Hai Jing, indeed he was Yang Chen target for a life and death challenge, their relationship had already sank to the point of being mortal enemies.
 
 Gongsun Ling also hadn’t wasted these three months, with just one look, Yang Chen became aware that she had certainly broken through within these three months and had entered the seventh qi layer. Compared to the Gongsun Ling before she had climbed the Heavenly Stairs, the present Gongsun Ling was even more energetic and had even more fighting spirit, her attitude was as if she could fight with anyone below the heavens.
 
-Because this kind of fighting spirit would bring about changes in one’s personality, it became visible to everyone. Originally Gongsun Ling was just a beautiful woman, who was hard to come by, but now she also had a hint of confidence and aggressiveness. She had also been in secluded training for the past three months and appeared in public for the first time since then, but even if it was the first time, she had immediately attracted the sight of all the qi realm disciples. Even Chu Heng had fixed his gaze on Gongsun Ling, but he had an indescribable expression. 
+Because this kind of fighting spirit would bring about changes in one’s personality, it became visible to everyone. Originally Gongsun Ling was just a beautiful woman, who was hard to come by, but now she also had a hint of confidence and aggressiveness. She had also been in secluded training for the past three months and appeared in public for the first time since then, but even if it was the first time, she had immediately attracted the sight of all the qi realm disciples. Even Chu Heng had fixed his gaze on Gongsun Ling, but he had an indescribable expression.
 
-Although Gongsun Ling had been good natured previously, this was not towards everyone.  Her present attitude made her seem unapproachable. Although almost everyone’s gaze was fixed on her, no one dared to go and talk to her. 
+Although Gongsun Ling had been good natured previously, this was not towards everyone.  Her present attitude made her seem unapproachable. Although almost everyone’s gaze was fixed on her, no one dared to go and talk to her.
 
 A smile spread on Yang Chen’s face and he immediately greeted Gongsun Ling from a distance. Looking at Yang Chen, Gongsun Ling immediately smiled towards him. Only, with just this faint smile, she made everyone feel as if the sky had fallen onto their heads.
 
 Just this greeting between these two people made the Palace Master of the Pure Yang Palace, who had rushed over here, but had not yet appeared in front of everyone, sense the exceptionality of Yang Chen and Gongsun Ling. One person could make the people not dare to approach her, but when she smiled, it could make them feel as if the sun had peeked through between the clouds. The other, regardless of the situation, could always preserve his calmness, such a disciple was really hard to come by.
 
-It had to be known that at that moment all disciples in the Nine Earth Manor were in fear that their performance was deemed as no good by the Palace Master, therefore all of the disciples were very careful. Even those foundation stage disciples, who were in charge of arbitrating and defending disciples, had the same thoughts. Apart from Yang Chen and Gongsun Ling, only two or three foundation stage disciples were able to show this type of calmness. 
+It had to be known that at that moment all disciples in the Nine Earth Manor were in fear that their performance was deemed as no good by the Palace Master, therefore all of the disciples were very careful. Even those foundation stage disciples, who were in charge of arbitrating and defending disciples, had the same thoughts. Apart from Yang Chen and Gongsun Ling, only two or three foundation stage disciples were able to show this type of calmness.
 
 Gongsun Ling had entered the seventh qi layer, so her strength had increased and her mental state had also made a breakthrough, so this was not unexpected for most people. But for a third qi layer outer disciple to be able to cultivate this kind of strong mind, it was no wonder that he could climb to the peak of the Heavenly Stairs two times, and could still cripple nineteen JieDan experts. For such a person, this was not something out of the ordinary.
 
@@ -41,7 +43,7 @@ Even though the sect leader had only appeared in front of everyone and had not s
 
 Sun Hai Jing stood on one side at the corner with a profound smile on his face. He had learned from Chu Heng why the Palace Master of the Pure Yang Palace had appeared here. Looking at Yang Chen and Gongsun Ling greeting each other, Sun Hai Jing suddenly had a very ridiculous thought. If Yang Chen, for whom the Palace Master had high hopes, was eliminated from the Martial Arts Competition, what would he feel if that happened?
 
-Not only the Pure Yang Palace, but all other sects also allowed life and death duels between their disciples. This was the most just and honourable method to settle disputes, and after the event it was unlikely for anyone to investigate it. Naturally this was just a theory, as for whether or not it was looked into, only the parties involved would be clear about. However with just this condition, what would Sun Hai Jing have to fear? As for choosing between killing Yang Chen honorably during the duel, and killing Yang Chen at some other time, but at the same time being investigated afterwards, and losing his ability to break through, even an idiot would know what to pick. 
+Not only the Pure Yang Palace, but all other sects also allowed life and death duels between their disciples. This was the most just and honourable method to settle disputes, and after the event it was unlikely for anyone to investigate it. Naturally this was just a theory, as for whether or not it was looked into, only the parties involved would be clear about. However with just this condition, what would Sun Hai Jing have to fear? As for choosing between killing Yang Chen honorably during the duel, and killing Yang Chen at some other time, but at the same time being investigated afterwards, and losing his ability to break through, even an idiot would know what to pick.
 
 Chu Heng announced the start of the martial arts competition and immediately, in the training grounds of the Nine Earth Manor, the crowd began to boil with excitement and many disciples began to look for other disciples of the same layer, to begin challenging them and very quickly within the training grounds, an image of a blade appeared.
 
@@ -57,7 +59,7 @@ From the time he had started cultivating, to reaching the peak of the qi layer, 
 
 Sun Hai Jing burst into loud laughter and opened his hand and from within his hand, the figure of a sword flew out and started rotating around his body in the air.
 
-“A magic weapon?” 
+“A magic weapon?”
 
 The people watching the battle did not dare to believe their own eyes, the sword that flew out from Sun Hai Jing’s body was glowing magnificently and exerted a great pressure, which clearly proved that it was a magic flying sword! He was just a minor qi layer disciple, how did he get a magic weapon? How was he able to control it?
 
@@ -69,7 +71,7 @@ Not all people were like Yang Chen and had read all of the jade slips in the Hid
 
 The Pure Yang Palace had already discovered two talented disciples at the Heavenly Stairs this year, could it be that one more individual had appeared silently again? This year, the popularity of the Pure Yang Palace would burst out of all seams, due to all these talents appearing.
 
-Everyone’s bewildered voices made Sun Hai Jin extremely satisfied, the looks of everyone not daring to believe, made Sun Hai Jing feel as if he was bathing in a soft spring wind, his whole self had become elated. The feeling of losing all of his face when he was thoroughly humiliated by Yang Chen in front of numerous people, was completely removed. Immense satisfaction flooded Sun Hai Jing’s mind, which was increased even more by the flying sword he controlled to revolve around him. 
+Everyone’s bewildered voices made Sun Hai Jin extremely satisfied, the looks of everyone not daring to believe, made Sun Hai Jing feel as if he was bathing in a soft spring wind, his whole self had become elated. The feeling of losing all of his face when he was thoroughly humiliated by Yang Chen in front of numerous people, was completely removed. Immense satisfaction flooded Sun Hai Jing’s mind, which was increased even more by the flying sword he controlled to revolve around him.
 
 Zhou Zihe, opposite of Sun Hai Jing, revealed an earnest expression on his face. Although the other party had suddenly revealed a flying magic sword, as a peak qi layer disciple, this was not a strength which would force him to risk his life. Sun Hai Jing’s expressions were also making people feel suspicious of him, his odds for succeeding were not that great and Zhou Zihe was unlikely to give up immediately.
 

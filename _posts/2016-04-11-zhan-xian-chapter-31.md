@@ -5,6 +5,8 @@ title: "Chapter 31 - I Owe You"
 category: zhan-xian
 previous_chapter: 30
 next_chapter: 32
+chapter:
+  number: 31
 ---
 It was not out of his expectations that Zhu Chen Tao would ask for collaborative testing and as he did Yang Chen like a snake that has been hit by a rod crawled up and asked for guidance. Yang Chen and Zhu Chen Tao were highly suitable for each other, like bread and butter.
 

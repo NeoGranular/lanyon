@@ -5,6 +5,8 @@ title: "Chapter 49 - Why Should I Hand It Over?"
 category: zhan-xian
 previous_chapter: 48
 next_chapter: 50
+chapter:
+  number: 49
 ---
 The reason why Yang Chen had decided to enter Pure Yang Palace after his rebirth again, apart from his master, was precisely Pure Yang Palace’s willingness to defend its disciples.
 

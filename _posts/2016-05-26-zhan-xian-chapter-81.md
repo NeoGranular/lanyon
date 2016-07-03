@@ -5,6 +5,8 @@ title: "Chapter 81 - Pill Tribulation"
 category: zhan-xian
 previous_chapter: 80
 next_chapter: 82
+chapter:
+  number: 81
 date: 2016-05-28 03:39:00 +0200
 has_note: false
 note: ""

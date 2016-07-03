@@ -5,6 +5,8 @@ title: "Chapter 64 - Want To Play With Fire With Me?"
 category: zhan-xian
 previous_chapter: 63
 next_chapter: 65
+chapter:
+  number: 64
 date: 2016-05-13 02:22:00 +0200
 has_note: false
 note: "This chapter was really complicated to translate."

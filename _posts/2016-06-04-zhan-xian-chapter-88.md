@@ -5,6 +5,8 @@ title: "Chapter 88 - What Have You All Taught Him?"
 category: zhan-xian
 previous_chapter: 87
 next_chapter: 89
+chapter:
+  number: 88
 date: 2016-06-04 21:14:00 +0200
 has_note: false
 note: ""

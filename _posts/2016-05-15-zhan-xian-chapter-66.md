@@ -5,6 +5,8 @@ title: "Chapter 66 - Geocentric Flame"
 category: zhan-xian
 previous_chapter: 65
 next_chapter: 67
+chapter:
+  number: 66
 date: 2016-05-15 00:54:00 +0200
 has_note: false
 note: ""

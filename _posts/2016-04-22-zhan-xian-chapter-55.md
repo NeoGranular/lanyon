@@ -5,6 +5,8 @@ title: "Chapter 55 - I Will Follow Only You"
 category: zhan-xian
 previous_chapter: 54
 next_chapter: 56
+chapter:
+  number: 55
 ---
 On the surface, the tone of the Palace Master’s voice was absolutely normal, as if nothing happened, but within his heart, the Palace Master was cursing Chu Heng with a torrent of abuses.
 
@@ -17,7 +19,7 @@ If this kind of result had been due to Chu Heng’s meticulous guidance, then th
 
 In his previous life, Yang Chen did not have a lot of contact with the Palace Master, so he did not know much about his character. As for the Palace Master’s instructions, he only agreed to them because he could sense some of the anger the Palace Master held for his treatment.
 
-But Xu Cheng Xin and Zhu Chen Tao who were familiar with the nature of the Palace Master, had sensed that deep rooted anger within the Palace Master’s voice. Both of them were also angry, the outer disciple’s Merit Transferring Disciple would definitely have to take the consequences this time. Perhaps, this time even his Uncle Master, Liang Shao Ming, would not be able to help him. 
+But Xu Cheng Xin and Zhu Chen Tao who were familiar with the nature of the Palace Master, had sensed that deep rooted anger within the Palace Master’s voice. Both of them were also angry, the outer disciple’s Merit Transferring Disciple would definitely have to take the consequences this time. Perhaps, this time even his Uncle Master, Liang Shao Ming, would not be able to help him.
 
 But these two didn’t feel any sympathy for Chu Heng, they had a favourable impression of Yang Chen, so naturally they would not have a good attitude towards Chu Heng. Previously they were not aware that while cultivating, Yang Chen also had to face these kinds of circumstances. If they had known about this earlier, then Chu Heng would have already received what was coming for him, and would not have gotten the chance to create such a situation at the sect’s martial competition.
 
@@ -25,19 +27,19 @@ If Chu Heng said he didn’t have his fingers in the meteoric rise of Sun Hai Ji
 
 These were naturally some important affairs which were investigated later, but the earlier words of the Palace Master allowed Yang Chen to be reassured and look to Pure Yang Palace’s strength to support him, so that he could cultivate at ease.  
 
-Only Zhu Chen Tao thought that this was somewhat unfortunate, Yang Chen was a second grade pill concocting master, if he concentrated on the dao of pill concocting, he would certainly become a great pill concocting expert. Unfortunately The Palace Master had already given Yang Chen permission to go to the Immortal Falling Well, otherwise Zhu Chen Tao would have confined Yang Chen and forced him to practice the dao of pill concocting. 
+Only Zhu Chen Tao thought that this was somewhat unfortunate, Yang Chen was a second grade pill concocting master, if he concentrated on the dao of pill concocting, he would certainly become a great pill concocting expert. Unfortunately The Palace Master had already given Yang Chen permission to go to the Immortal Falling Well, otherwise Zhu Chen Tao would have confined Yang Chen and forced him to practice the dao of pill concocting.
 
 The person who was most happy here, apart from these several high class experts, was precisely Du Qian. The Palace Master’s words towards Yang Chen implied that he would do his utmost to support Yang Chen, perhaps this could not have happened without Du Qian’s help, he estimated that the reward for this service would be of great benefit to him. To be able to help with the problems of Yang Chen, whom he appreciated, and also receiving great benefits. Du Qian greatly regretted that these kinds of misdeeds did not happen every day.
 
 Following this, Yang Chen immediately started gathering many different herbs for the yang qi pills, almost sweeping the market of the town nearby clean. After Zhu Chen Tao returned, he also gave a good amount of herbs and money to Yang Chen. Yang Chen’s qiankun pouch was completely packed with the materials to make yang qi pills, but he still he didn’t stop buying them. Fortunately he had the Achievement Ring, which was a magic tool with an infinite amount of space, so he could collect even more raw materials.
 
-Chu Heng had been removed from the position of Merit Transferring Disciple and had simultaneously been arranged by the Hall Master of the Luminous Moon Hall to go to another famous, fearful region, the Desolate Valley, to temper himself. The Luminous Moon Hall’s inheritance was water attributed, but the Desolate Valley was a barren land where water was very rare, this kind of arrangement really exceeded the idea of a punishment, naturally this was also set under the Palace Master’s watch. 
+Chu Heng had been removed from the position of Merit Transferring Disciple and had simultaneously been arranged by the Hall Master of the Luminous Moon Hall to go to another famous, fearful region, the Desolate Valley, to temper himself. The Luminous Moon Hall’s inheritance was water attributed, but the Desolate Valley was a barren land where water was very rare, this kind of arrangement really exceeded the idea of a punishment, naturally this was also set under the Palace Master’s watch.
 
 For the time being, Yang Chen did not pay much attention to Chu Heng, but this didn’t mean that he would let Chu Heng get away with everything he had done. In any case, immortal cultivation was a long road, Yang Chen would have plenty of time later to slowly take his revenge. As for the present, his top priority was to immediately go to the Immortal Falling Well.
 
 The reason why Yang Chen wanted to hurry to the Immortal Falling Well was due to a secret of the Immortal Falling Well. In his previous life, Yang Chen had learned this secret only after ascending to the world of immortals, from someone of the Heavenly Court. The Immortal Falling Well, apart from having a large amount of high level underground spirit beasts due to its unique topography, it also had a fire source which would help Yang Chen’s pill concocting cultivation, the geocentric flame.
 
-The geocentric flame did not have formidable offensive power, but, at the moment it was most suitable for Yang Chen at this stage. As long as he was able to obtain this fire source, Yang Chen’s fire attributed cultivation would advance one more layer and not only would his pill concoction become more proper, even for other tasks, like refining herbs, it would have great benefits. At the same time, the geocentric flame was able to enhance the grade of his Profound Spirit Furnace. One has to know that the best way for the Profound Spirit Furnace to increase in grade, was by swallowing different fire sources. 
+The geocentric flame did not have formidable offensive power, but, at the moment it was most suitable for Yang Chen at this stage. As long as he was able to obtain this fire source, Yang Chen’s fire attributed cultivation would advance one more layer and not only would his pill concoction become more proper, even for other tasks, like refining herbs, it would have great benefits. At the same time, the geocentric flame was able to enhance the grade of his Profound Spirit Furnace. One has to know that the best way for the Profound Spirit Furnace to increase in grade, was by swallowing different fire sources.
 
 Initially Yang Chen would have only come here once he had properly attained the foundation stage, but the Palace Master had unexpectedly given him an opportunity to skip this process, during the Martial Arts Competition, so naturally Yang Chen immediately went to obtain the qualifications to enter the Immortal Falling Well, to gain the considerable benefits it had to offer, such as obtaining a large amount of spiritual essence.
 
@@ -51,7 +53,7 @@ After making the proper arrangements, Yang Chen departed from the Nine Earth Man
 
 “Congratulations, Younger Disciple Yang!”
 
-Wang Yuan was the Manager of the Ye Xiu Manor so he could not leave easily on a normal day. Every day he had been hearing more and more news about Yang Chen, so seeing Yang Chen today, he immediately cupped both hands to congratulate him. 
+Wang Yuan was the Manager of the Ye Xiu Manor so he could not leave easily on a normal day. Every day he had been hearing more and more news about Yang Chen, so seeing Yang Chen today, he immediately cupped both hands to congratulate him.
 
 Yang Chen smiled in response to Wang Yuan’s greetings and at the same time also cupped his hands towards Wang Yuan, saying:
 
@@ -83,7 +85,7 @@ Only after regaining his calmness with great difficulty in front of Yang Chen, d
 
 However, even among the inner disciples, there were quite a few factions. Basically, there were many Palace Halls and Main Halls, which had specific purposes pertaining to different aspects among each of them. Logically, Wang Yuan would be considered under the power of the Palace Hall or Main Hall which he would enter. But at the moment, looking at this extremely young and peak level genius, standing in front of him, Wang Yuan suddenly thought that perhaps following Yang Chen within the Pure Yang Palace would not be a bad path.
 
-Not to mention the fact that Yang Chen had already proven himself by ascending to the peak of the Heavenly Stairs, just by seeing the great value which Medicine Hall’s Hall Master attached to him, he had already gotten some clues. For the past two years, the Ye Xiu Manor had received a new type of pill, known as ‘xun qi pill’, for the preparatory disciples, which allowed them to sense qi quite easily and start on the path of cultivation. Just this one pill had increased the number of outer disciples by sixteen in the past two years, which was at least twice as many as usual. 
+Not to mention the fact that Yang Chen had already proven himself by ascending to the peak of the Heavenly Stairs, just by seeing the great value which Medicine Hall’s Hall Master attached to him, he had already gotten some clues. For the past two years, the Ye Xiu Manor had received a new type of pill, known as ‘xun qi pill’, for the preparatory disciples, which allowed them to sense qi quite easily and start on the path of cultivation. Just this one pill had increased the number of outer disciples by sixteen in the past two years, which was at least twice as many as usual.
 
 Whose contribution was this pill? Although this information was very tightly sealed, the Manager of the Ye Xiu Manor had still gotten many clues. All of this had happened only after Yang Chen entered the Nine Earth Manor, added to that, his importance to the Medicine Hall’s Hall Master, if Wang Yuan could still not guess the rest, then he would be a real fool.
 

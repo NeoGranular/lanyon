@@ -5,6 +5,8 @@ title: "Chapter 48 - What A Big Mouth"
 category: zhan-xian
 previous_chapter: 47
 next_chapter: 49
+chapter:
+  number: 48
 ---
 The Floating Mountain Assembly had already been extended for five more days, due to the events with Yang Chen. On the final day, Yang Chen and Gongsun Ling arrived at the market of the Floating Mountain together.     
 

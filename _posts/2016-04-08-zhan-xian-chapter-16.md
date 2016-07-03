@@ -5,6 +5,8 @@ title: "Chapter 16 - Promises Must Be Kept"
 category: zhan-xian
 previous_chapter: 15
 next_chapter: 17
+chapter:
+  number: 16
 ---
 
 Rather than saying that this offer was for the benefit of Yang Chen, so that he could start cultivating earlier, it would be better to say, that this was an opportunity for Sun Hai Jing to use right and proper reasons to abuse Yang Chen. It’s important to know, that Sun Hai Jing had already cultivated for several years and at that time he had already reached the qi refining realm. Although reaching the third qi layer was not any frightening talent to be envied, for dealing with an ordinary person this was more than enough.
@@ -47,7 +49,7 @@ Du Qian wrinkled his brows, nevertheless he could not do anything about Chu Heng
 Chu Heng smiled, having easily dismissed Du Qian’s concern and then stopped to return. Turning towards Yang Chen he asked again:
 
  “Yang Chen, are you willing?”
- 
+
 “If I don’t want to, what other way is there?”
 
 Yang Chen still hadn’t replied directly and instead asked a question.
@@ -64,7 +66,7 @@ Chu Heng smiled and didn’t reply, but rather turned towards Du Qian and said:
 
 “Senior Brother Du is from the Law Enforcement Hall, surely you will believe his words.”
 
-Du Qian was a disciple of the Law Enforcement Hall, in this respect he naturally had the qualifications to speak. Muttering to himself, even if he could not do anything about Chu Heng’s actions, he still couldn’t conceal his good intentions and loudly said: 
+Du Qian was a disciple of the Law Enforcement Hall, in this respect he naturally had the qualifications to speak. Muttering to himself, even if he could not do anything about Chu Heng’s actions, he still couldn’t conceal his good intentions and loudly said:
 
 “Since there is a prior engagement, naturally it will not count as disciples of the same sect injuring each other.”
 

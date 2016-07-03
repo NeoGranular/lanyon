@@ -5,6 +5,8 @@ title: "Chapter 33 - Finally Finished With The Hidden Pavilion"
 category: zhan-xian
 previous_chapter: 32
 next_chapter: 34
+chapter:
+  number: 33
 ---
 A lot of disciples came to the Hidden Pavilion, more than a hundred people every day, many of them didn’t have any business here, but just wanted to look at Yang Chen’s obsessed appearance and would roam in Yang Chen’s surroundings daily.
 

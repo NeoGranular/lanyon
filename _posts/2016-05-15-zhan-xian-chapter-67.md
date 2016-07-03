@@ -5,6 +5,8 @@ title: "Chapter 67 - Peak Of The Qi Layer"
 category: zhan-xian
 previous_chapter: 66
 next_chapter: 68
+chapter:
+  number: 67
 date: 2016-05-15 16:12:00 +0200
 has_note: false
 note: ""

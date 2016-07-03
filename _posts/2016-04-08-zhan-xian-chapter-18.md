@@ -5,10 +5,12 @@ title: "Chapter 18 - Explaining The Rules"
 category: zhan-xian
 previous_chapter: 17
 next_chapter: 19
+chapter:
+  number: 18
 ---
 This explanation from Shangguan Feng made Yang Chen understand everything in the end. Why Chu Heng had asked for his status to be raised this high, when originally he was filled with malicious thoughts.
 
-Since Yang Chen had already received the status of a third qi layer outer disciple, the people responsible of guiding new disciples in the Ye Xiu manor would not provide any guidance to Yang Chen. He was at the third qi layer but still wanted to learn these unpopular mediocre introductory subjects just to amuse himself? 
+Since Yang Chen had already received the status of a third qi layer outer disciple, the people responsible of guiding new disciples in the Ye Xiu manor would not provide any guidance to Yang Chen. He was at the third qi layer but still wanted to learn these unpopular mediocre introductory subjects just to amuse himself?
 <!--more-->
 If Yang Chen had been as ordinary as he was in his previous life, then that would have been the end of the story for him, he would have no means to learn to read and write. As he wouldn’t have any knowledge of letters, then the rare books about cultivation methods would have made no sense to him and he wouldn’t have known about the five phases of Yin and Yang. Wanting to cultivate to immortality like that? Let alone three years, even if he had thirty, he would still have remained a mediocre person and nothing more.
 
@@ -23,7 +25,7 @@ At that moment Yang Chen recalled, that when he joined the Pure Yang Palace in h
 Only, even if Chu Heng was thousands or ten thousand times more famous, it was still not enough, as Yang Chen did absolutely not require this introductory foundation knowledge, even if it was changed to advanced knowledge he still wouldn’t need it. The reason why he insisted on joining the Pure Yang Palace was just to pay his respects under his master again and fulfill his long held wish.
 
 After Shangguan Feng finished saying all of this, Yang Chen’s complexion didn’t even change one bit. He stood up and once again expressed his thanks towards Shangguan Feng, then he walked away to the side of the hall. While passing, he pointed his finger towards a forty year old, healthy servant who was considered to be the oldest and then he immediately left. Shangguan Feng’s eyes followed Yang Chen until he had walked far away. In his heart he secretly felt satisfied, but he merely shook his head slightly, heaved a sigh and did not say anything.
-  
+
 Following after the servant on a long corridor bridge and turning, for around seven to eight times, Yang Chen arrived at his residence. Within the residence two female and one male, for a total of three servants were already waiting and seeing Yang Chen arrive, all of them saluted him to pay their respects.
 
 “My name is Yang Chen, you all can address me any way you want.”
@@ -43,7 +45,7 @@ Another male servant laughed, speaking out what was on everyone’s mind. Althou
 When Yang Chen heard this, his lips curled upwards. Soon after that, not even caring about these people, he properly laid down in bed, as if to sleep, and started to cultivate his Three Purities Secret.
 
 Worthy of being called the Supreme elder’s cultivation technique, it particularly specialized in tempering spirit awareness, even if he was lying down, he was still able to circulate it anywhere, just as before. This way Yang Chen would be able to practice his single technique anytime and anywhere. Even if there were other breathing techniques of highly respected immortal cultivators, he would have to sit and meditate properly to practice them.
- 
+
 Resting that one night without any worries, Yang Chen got up early the next day. Afterwards, on one side Yang Chen enjoyed a delicious breakfast, while on the other side the servant who led the way, was explaining the arrangements in the manor.
 
 The servant’s name was Shen Da, originally his body also possessed a spirit root, but his luck was no good and he reached the required qi layer just two months after three year period, but by then he had already been demoted to a servant, now it had been ten years already. Within these ten years, apart from attending to the duties of a servant, he incessantly cultivated, expecting to break through to the foundation realm and become an inner disciple.
@@ -85,13 +87,13 @@ Shen Da turned around to look at Yang Chen with a smile that was not a smile:
 “How are you sure about this?”
 
 Yang Chen asked, looking as lazy as before.
- 
+
 “Without someone to guide you, Young Master Yang, why do you think you will be able to pass?”
 
 Shen Da sarcastically smiled:
 
 “Are you under the impression that taking advantage of Senior Brother Sun when he was unprepared and mounting a sneak attack to knock him out, you could easily walk into Ye Xiu manor? At best you are a village brat with some brute force, that’s all. After three years, you will just be my underling, do you still dare to make me serve you?”
- 
+
 “Do the other servants also feel the same way?”
 
 Yang Chen still hadn’t asked for the names of the other male and female servants yesterday, so he used something else as replacement.
@@ -101,7 +103,7 @@ Yang Chen still hadn’t asked for the names of the other male and female servan
 The other three servants had appeared at some unknown time from a small room on the side and stood by Shen Da’s side. Another male servant smilingly replied:
 
 “We will only still call you Young Master Yang in order to follow manor’s basic rules.”
- 
+
 “However, Young Master Yang will still have to take care of his own everyday life.”
 
 Immediately, one female servant standing on the side said:
@@ -110,7 +112,7 @@ Immediately, one female servant standing on the side said:
 
 “Certainly, Young Master Yang can offer us these materials to eat or drink, to refuse these would be disrespectful of us, we can enjoy these pleasures on behalf of Young Master Yang.”
 
-As the last female servant said this, the smiling expression on her face was spreading even more, as if a flower started blooming 
+As the last female servant said this, the smiling expression on her face was spreading even more, as if a flower started blooming
 
 “Manager Shangguan has instructed us to provide Young Master Yang with everything as a third qi layer disciple and luckily we are just at the juncture of third qi layer, maybe these things can assist us to break through to the fourth layer.”
 
@@ -151,13 +153,13 @@ Seeing the attitude of the four servants Yang Chen lightly nodded:
 “At least compared to people who keep on speaking honeyed words to get ahead and those who nominally made me a third qi layer disciple, but in fact forced people to not assist me in becoming stronger.”
 
 Seeing Yang Chen change his tone again, all four servants were somewhat amazed and felt even less determined. Only after glancing at each other a few times were they able to look at Yang Chen again.
- 
+
 “I also appreciate your bluntness.”
 
 Yang Chen said without letting the servants know about his thoughts, but Yang Chen nevertheless understood their way of thinking:
 
 “Now I give you one chance. A chance to win these opportunities you just mentioned.”
- 
+
 “An opportunity?”
 
 Shen Da loudly asked, hastily. If Yang Chen informed Shangguan Feng of their conversation, these four would have to suffer the consequences. Sect rules were sect rules and also applied to these servants. Since Yang Chen allowed them an opportunity, Shen Da would absolutely not miss it.

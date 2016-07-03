@@ -5,13 +5,15 @@ title: "Chapter 56 - Is This A Place For You To Play Around?"
 category: zhan-xian
 previous_chapter: 55
 next_chapter: 57
+chapter:
+  number: 56
 ---
 The spiritual awareness of the person who was following Yang Chen was focused on tracking Yang Chen’s figure, so he hadn’t discovered that within the water, a very long ribbon was floating silently. When he had discovered that there was something strange about the surrounding water, it was already too late.
 
 The long ribbon suddenly rushed towards him, tightly winding around his body. In a moment, his flying sword appeared before him, but before he could use it, he suddenly felt as if he had been stabbed in his neck and he suddenly sensed that his whole body had been bound tightly.
 <!--more-->
 
-The fierce pain did not let him notice that he had lost control over his flying sword. In a moment, the sword ray was seen flying away from his body, then it came to halt within the water and soon the sword ray started flickering and slowly started to sink down. 
+The fierce pain did not let him notice that he had lost control over his flying sword. In a moment, the sword ray was seen flying away from his body, then it came to halt within the water and soon the sword ray started flickering and slowly started to sink down.
 
 He wanted to use his strength to resist that large amount of constrictive force, but to his despair, he found that he was unable to make his body move, as if, apart from the sensation of pain, he had no awareness of his body.
 
@@ -43,7 +45,7 @@ This was not an entrance to the Immortal Falling Well, but according to Yang Che
 
 But even though it had not yet become powerful enough to stir up big trouble, to deal with a mere foundation stage expert, it still had more than enough power. In addition to that, the spiritual awareness of the pursuer was mainly focused on Yang Chen, so the demonic python was able to attack him sneakily and bite him, releasing the highly toxic poison into his body, which reduced the pursuer’s ability to resist even further.
 
-What an unfortunate guy, just because of his undue curiosity and the arrogance he had because of his higher cultivation when compared with Yang Chen, making him think he could easily take Yang Chen’s life at any time, he had been led to the mouth of death by Yang Chen. 
+What an unfortunate guy, just because of his undue curiosity and the arrogance he had because of his higher cultivation when compared with Yang Chen, making him think he could easily take Yang Chen’s life at any time, he had been led to the mouth of death by Yang Chen.
 
 The flying sword, because the spiritual awareness of its master had completely faded away, had sunken down as an ownerless object and had easily been marked with Yang Chen’s spiritual awareness and was then added to the sword box. This grade of flying sword, Yang Chen would not even look at it and had only used it to increase his collection.
 
@@ -67,11 +69,11 @@ This kind of thing made Yang Chen furious. Could it be because of the body refin
 
 Could it be because of the affair of crippling the JieDan stage experts at the Heavenly Stairs last time? Yang Chen thought deeply about this and felt that this was the only probable reason. Even if Greatest Heaven Sect was very strong and could be called the strongest sect within the cultivation world, it could still not bear the loss of a few JieDan experts at the assembly for qi layer disciples.
 
-Many people were aware that Yang Chen had left for the Immortal Falling Well, clearly word of it had also reached the Greatest Heaven Sect. Perhaps they were not clear about why Yang Chen was doing this, but after the Palace Master of the Pure Yang Palace, as well as the Medicine Hall’s Hall Master and the Foreign Affair Hall’s Hall Master had collectively hurried to Yang Chen’s small courtyard, so they knew that, clearly, some kind of important development had occurred. 
+Many people were aware that Yang Chen had left for the Immortal Falling Well, clearly word of it had also reached the Greatest Heaven Sect. Perhaps they were not clear about why Yang Chen was doing this, but after the Palace Master of the Pure Yang Palace, as well as the Medicine Hall’s Hall Master and the Foreign Affair Hall’s Hall Master had collectively hurried to Yang Chen’s small courtyard, so they knew that, clearly, some kind of important development had occurred.
 
 There was also Chu Heng, he would probably not conceal any affair that took place at the Nine Earth Manor from the Greatest Heaven Sect, even if he did not know the exact details, he could still approximately surmise what was going on. Since Medicine Hall’s Hall Master Zhu Chen Tao had personally appeared, this clearly had something to do with pill concocting.  
 
-As for people of the Greatest Heaven Sect, Yang Chen could kill them without any burden to his heart, this person was not even killed by Yang Chen, he had just gone to look for a Five Colored Zoysia, yet that person insisted on chasing him secretly, could he still blame Yang Chen for not warning him? 
+As for people of the Greatest Heaven Sect, Yang Chen could kill them without any burden to his heart, this person was not even killed by Yang Chen, he had just gone to look for a Five Colored Zoysia, yet that person insisted on chasing him secretly, could he still blame Yang Chen for not warning him?
 
 Within the qiankun pouch, there were no magic weapons, but rather it had several hundred catties of spirit stones. It seemed to Yang Chen that this guy, who was a foundation stage expert, was a poor wretch. Apart from fire jade belt and his flying sword, this guy had nothing at the grade of magic tools. As for talisman tools and talisman gems, Yang Chen didn’t find any.
 
@@ -81,7 +83,7 @@ The only thing that made Yang Chen really happy were the jade slips it contained
 
 There were a few pill recipes, one of them was for the yin and yang nature pill, which was refined by using thousand year ginseng as the main herb. This pill was very useful for foundation stage disciples. Unfortunately, Yang Chen already knew the recipe for the pill, so this didn’t have any real significance to him. Furthermore, a foundation stage pill’s recipe, was meaningless to him.
 
-The Emperor Profound Earth Secrets was the Greatest Heaven Sect’s yang earth attribute cultivation method, it was the best earth attributed cultivation method for the foundation stage or lower. The word ‘Emperor’ also stood for the meaning ‘peak’, compared to the fifth earth cultivation method in which Yang Chen currently trained in, its grade was higher by a great margin. Yang Chen simply went mad with joy after seeing this. 
+The Emperor Profound Earth Secrets was the Greatest Heaven Sect’s yang earth attribute cultivation method, it was the best earth attributed cultivation method for the foundation stage or lower. The word ‘Emperor’ also stood for the meaning ‘peak’, compared to the fifth earth cultivation method in which Yang Chen currently trained in, its grade was higher by a great margin. Yang Chen simply went mad with joy after seeing this.
 
 Originally, Yang Chen’s Five Phases of Yin and Yang Secrets were different kinds of cultivation methods put together, so after obtaining these Emperor Profound Earth Secrets, Yang Chen immediately wanted to change the cultivation method he used for cultivating fifth earth originally, but Yang Chen managed to restrain himself and began to look at the rest of the jade slips.
 
@@ -89,7 +91,7 @@ There also were two scrolls of spell diagrams, both were earth attributed and at
 
 Finally, on the one last jade slip there was a record of all the herbs and ores known to the Greatest Heaven Sect and describing the method used to refine them. Compared to the records held by the Pure Yang Palace, this was far superior. Afterall, the Greatest Heaven Sect was the number one sect, compared to a second grade sect, such as Pure Yang Palace, the knowledge they had was much deeper. Unfortunately, it was still not of much use to Yang Chen.
 
-Only after checking out everything, did Yang Chen pick up the Profound Emperor Earth Secrets once again and began to comprehend the content written within. In his previous life, Yang Chen hadn’t cultivated earth attributed cultivation methods, so he was extremely careful. Once he began to cultivate the most basic one of these cultivation method, he did not need to care about it a lot. But the Profound Emperor Earth Secrets were a high grade cultivation method, so he first had to comprehend and link it together before he could begin cultivating. 
+Only after checking out everything, did Yang Chen pick up the Profound Emperor Earth Secrets once again and began to comprehend the content written within. In his previous life, Yang Chen hadn’t cultivated earth attributed cultivation methods, so he was extremely careful. Once he began to cultivate the most basic one of these cultivation method, he did not need to care about it a lot. But the Profound Emperor Earth Secrets were a high grade cultivation method, so he first had to comprehend and link it together before he could begin cultivating.
 
 It was not a cultivation method for everyone, it could easily be memorized with just one look it, but everyone has their own understanding and comprehension, even the people who had produced this spell could not use exact words to describe everything precisely, as everything depended on the cultivator’s own perception.
 
@@ -101,7 +103,7 @@ At the moment, among Yang Chen’s Five Phases of Yin and Yang Secrets, three of
 
 Yang Chen had stayed here for half a month, taking care of the pursuer and cultivating. After finishing everything, Yang Chen leisurely mounted the bamboo falcon and rushed to the Immortal Falling Well’s entrance valley.
 
-After reaching there, he inserted spirit power into the tile and rays of light from the commanding tile began to quickly envelop Yang Chen’s whole body and soon Yang Chen was wrapped up in a ball of light and began to slowly sink into the ground. The Immortal Falling Well, the only exit for the underground spirit beasts was basically below the ground. The spell formation arranged here allowed the people who had the command tile to enter. 
+After reaching there, he inserted spirit power into the tile and rays of light from the commanding tile began to quickly envelop Yang Chen’s whole body and soon Yang Chen was wrapped up in a ball of light and began to slowly sink into the ground. The Immortal Falling Well, the only exit for the underground spirit beasts was basically below the ground. The spell formation arranged here allowed the people who had the command tile to enter.
 
 “Newcomer?”
 
@@ -111,7 +113,7 @@ Very quickly, Yang Chen appeared within a stone room, all six surfaces were made
 
 “Outer disciple of the Pure Yang Palace, Yang Chen!”
 
-Yang Chen was aware of this rule, so naturally he declared his status. 
+Yang Chen was aware of this rule, so naturally he declared his status.
 
 “Outer disciple? Qi realm?”
 

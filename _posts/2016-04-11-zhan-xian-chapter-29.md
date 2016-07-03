@@ -5,6 +5,8 @@ title: "Chapter 29 - The Useless Pill Turns Out To Be Significant"
 category: zhan-xian
 previous_chapter: 28
 next_chapter: 30
+chapter:
+  number: 29
 ---
 The master of Medicine Hall was known to have an absolutely unconventional nature in the Pure Yang Palace. His entire life he had meticulously researched alchemy and different medicines, even delaying his own cultivation. If it were not for the support of large quantities of elixirs, it would have been impossible for him to enter the JieDan stage. However, since he was a master alchemist, this kind of advancement was normal for him with the help of alchemy.
 

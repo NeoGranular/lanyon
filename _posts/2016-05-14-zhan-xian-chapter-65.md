@@ -5,6 +5,8 @@ title: "Chapter 65 - Who Said The Flame Was At The Center?"
 category: zhan-xian
 previous_chapter: 64
 next_chapter: 66
+chapter:
+  number: 65
 date: 2016-05-14 18:41:00 +0200
 has_note: false
 note: ""

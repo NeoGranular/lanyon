@@ -5,6 +5,8 @@ title: "Chapter 83 - These Are For You"
 category: zhan-xian
 previous_chapter: 82
 next_chapter: 84
+chapter:
+  number: 83
 date: 2016-05-31 21:00:00 +0200
 has_note: false
 note: ""

@@ -5,6 +5,8 @@ title: "Chapter 35 - Breakthrough And Binding The Sword Box"
 category: zhan-xian
 previous_chapter: 34
 next_chapter: 36
+chapter:
+  number: 35
 ---
 This ancestor of the Pure Yang Palace who had died while meditating here was a peak JieDan stage expert, however he was not able to find a way to reach the YuanYing stage and thus he slowly exhausted his vitality until he  had no option but to die, sitting cross-legged on this spirit vein.
 

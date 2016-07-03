@@ -5,6 +5,8 @@ title: "Chapter 43 - Setting Foot On The Peak"
 category: zhan-xian
 previous_chapter: 42
 next_chapter: 44
+chapter:
+  number: 43
 ---
 Two slashes, two heads rolling over. Blood splattered everywhere and a great disorder spread among the surrounding people.
 

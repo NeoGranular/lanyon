@@ -5,6 +5,8 @@ title: "Chapter 21 - If You Can’t Guide Me, Then I Will Test You"
 category: zhan-xian
 previous_chapter: 20
 next_chapter: 22
+chapter:
+  number: 21
 ---
 After listening to Yang Chen’s words, Shangguan Feng felt as if he had gained enlightenment. Several years of doubt had apparently dispersed. For many years he had listened to the experiences of many experts at the foundation stage and all of them had said that the final juncture was the most difficult. Most of them had to use every method available to be able to break through.
 
@@ -42,9 +44,9 @@ Yang Chen also did not forget about complimenting Shangguan Feng and soon afterw
 “Many thanks, Elder Brother Shangguan!”
 
 Unconsciously he had already started calling him as elder brother and not manager.
- 
+
 This time, Shangguan Feng’s actions had become even more rapid. In the evening of the same day, all four servants who injured by Yang Chen were delivered to the Profound Pavilion. The injuries on their bodies had almost recovered, external injuries already couldn’t be seen anymore. It could be assumed that a lot of precious medicines were used for their treatment. In that night, Shangguan Feng arranged everything and hurriedly started his closed door training to build his foundation.
- 
+
 When Shen Da and other three saw Yang Chen again they were not as unruly as before. These four were mere servants, but after the cold reception given to Yang Chen in the morning, when they had these kinds of malicious thoughts, having experienced Yang Chen’s invincible might, where all of them had been beaten unconscious and on top of that, with Shangguan Feng’s repeated warnings, these four did not dare to have any more ill conceived thoughts. When confronting Yang Chen, all of them bowed respectfully and when Yang Chen asked them to do something, none of them dared to disobey.
 
 While Shangguan Feng had entered closed door training, Yang Chen had no choice but to face Chu Heng’s malicious moves again. He had made Yang Chen’s position so high, that everyone who met him had to cup his hands and treat him respectfully, so that Yang Chen could not complain about anything.
@@ -90,13 +92,13 @@ The old teacher still continued with this kind of manner:
 Yang Chen coldly snorted.
 
 “Since this is the case, I also will not make things difficult for you. Only I fear that you are lazy and incompetent and will hamper the student’s progress, so first I will test you.”
- 
+
 Bang!
 
 A book was thrown in front of the old teacher and Yang Chen pointed a large golden sword at the seat. Slashing it deeply he said: “Read every letter of every sentence from this book aloud and then explain it to me, I will listen and check whether you have made a mistake or not!”
 
 After Yang Chen said this, no matter whether it was the old teacher or the preparatory disciples, all of them were the same as Shen Da and foolishly stared at Yang Chen. Test h im? What is this?
-  
+
 Only, no matter who it was, no one dared to disagree. Yang Chen had been given the status of a third qi layer disciple, this had been decided and passed down by the accomplished disciple Chu Heng and at the same time properly arranged by Manager Shangguan. Who would dare to dishonor him?
 
 Since he was a third qi layer outer disciple, naturally he had the authority to inspect and test other preparatory disciples and even had the authority to inspect these teachers. But, if this happened, were Uncle Master Chu’s arrangements still useful?
@@ -116,15 +118,15 @@ The other preparatory disciples looked at Yang Chen, it seemed that they had als
 Yang Chen held a book in his hand, it was the same as the book in the old teacher’s hand and he was pretending to turn the pages and read, but in the eyes of other people it seemed as if he trying to remember something and they actually did not dare to interrupt him. Yesterday, Yang Chen had fought with four third qi layer servants alone, three of whom had cultivation tools, and one of them furthermore cultivated blazing palms. All of them were beaten by Yang Chen. This news has already spread, so naturally no one dared to disregard him.
 
 From next day, every day Yang Chen would just change the teacher and the book. Every time a teacher would be forced to read a book for him and explain it, using the pompous reason of testing them to check whether they were competent or not. In every case the individual whom he demanded to test had to read books for a day or half a day and eventually all of them were made to read and explain one or two books before giving up.
-  
+
 Very quickly every teacher became used to this kind of thing. Firstly, Yang Chen hadn’t broken any rules, and secondly, before entering seclusion, Shangguan Feng had taken care of this and had specifically instructed all teachers to help out Yang Chen as much as they could. So they had done as much as possible in accordance to Yang Chen’s request, without creating much problems.
 
-At the same, while Yang Chen was sending off the teachers for medicine debation, Du Qian appeared in the Profound Pavilion. After sending them off, Yang Chen turned around just to discover Du Qian looking at him with an expression that was a smile, yet not a smile. 
+At the same, while Yang Chen was sending off the teachers for medicine debation, Du Qian appeared in the Profound Pavilion. After sending them off, Yang Chen turned around just to discover Du Qian looking at him with an expression that was a smile, yet not a smile.
 
 “Uncle Master Du!”
 
 Yang Chen hastily greeted him according to proper ceremony, it was a rule that ceremonies could not be disregarded.
- 
+
 “Originally I had thought that Chu Heng would give specific directions to make things difficult for you, but now it seems you are doing alright?”
 
 Du Qian was very appreciative of Yang Chen, perhaps it was because Yang Chen’s background as an executioner and his own status as a disciple of the Law Enforcement Hall were very similar. Furthermore at that time, Yang Chen had completely destroyed Chu Heng‘s reputation, so until now Du Qian had believed that Yang Chen’s life was not very satisfactory, but after coming here that belief had completely changed.
@@ -136,7 +138,7 @@ Du Qian then asked:
 “My status is still the same!”
 
 Yang Chen replied with a somewhat self deprecating smile.
-  
+
 “Then why did that teacher dare to to teach medicine to you?”
 
 Du Qian did not understand, he originally thought to help Yang Chen, but it seemed as if Yang Chen no longer required it.
@@ -146,7 +148,7 @@ Du Qian did not understand, he originally thought to help Yang Chen, but it seem
 Yang Chen seriously shook his finger while continuing:
 
 “He wasn’t teaching medicine to me, Uncle Master Du!”
- 
+
 “I have seen it with my own eyes, how can it be wrong?”
 
 Du Qian laughingly scolded him, but soon after that he asked:
@@ -178,7 +180,7 @@ The relationship between the disciple who was guarding the cultivation room and 
 “Do you really believe that you have already become a third qi layer disciple?”
 
 Yang Chen still hadn’t replied, when suddenly within the Ye Xiu Manor there was a burst of heavenly energy, powerfully rising in an imposing manner. Soon afterwards, it suddenly withdrew, following which a strong spiritual awareness swept through the place, affecting anyone who came in contact with it.
- 
+
 “Which Uncle Master has succeeded in building a foundation?”
 
 Seeing the circumstances, that one outer disciple asked, being very surprised, but Yang Chen clearly understood who it was.

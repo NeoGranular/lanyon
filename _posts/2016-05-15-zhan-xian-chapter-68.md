@@ -5,6 +5,8 @@ title: "Chapter 68 - My Path Is That Of A Pill Concocting Master"
 category: zhan-xian
 previous_chapter: 67
 next_chapter: 69
+chapter:
+  number: 68
 date: 2016-05-15 20:36:00 +0200
 has_note: false
 note: ""

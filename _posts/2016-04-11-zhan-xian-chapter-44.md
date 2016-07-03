@@ -5,6 +5,8 @@ title: "Chapter 44 - Surely He Cheated"
 category: zhan-xian
 previous_chapter: 43
 next_chapter: 45
+chapter:
+  number: 44
 ---
 The will of the XianTai Stage had almost fused together with Yang Chen, with only three tenth left unfused. But when Yang Chen had reached the top of Heavenly Stairs, the fusion had started to rapidly slow down. It seemed that the excitement of the slaughter in the later part of the Heavenly Stairs was already enough to make the fierce will interested. The process of fusion finally halted slowly, a moment after Yang Chen had ascended the peak.
 

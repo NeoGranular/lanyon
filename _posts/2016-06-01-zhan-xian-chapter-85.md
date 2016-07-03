@@ -5,6 +5,8 @@ title: "Chapter 85 - Who Incited You All?"
 category: zhan-xian
 previous_chapter: 84
 next_chapter: 86
+chapter:
+  number: 85
 date: 2016-06-02 16:16:00 +0200
 has_note: false
 note: "NG's internet connection was offline almost all of yesterday, so we couldn't finish the chapter on time. Sorry!"

@@ -5,6 +5,8 @@ title: "Chapter 36 - I Give You The Opportunity To Speak"
 category: zhan-xian
 previous_chapter: 35
 next_chapter: 37
+chapter:
+  number: 36
 ---
 On the outside the five assassins were still looking for him as anxiously as before. A youngster of the first qi layer can not suddenly disappear without leaving any trace. It wasn’t that currently there were no proper techniques to hide one’s breath, but rather that this kind of technique could definitely not be used by a kid at the first qi layer.
 
@@ -57,7 +59,7 @@ The clean bottle did not have any problems with extracting the spirit power from
 
 After putting away the clean bottle with satisfaction in his heart, Yang Chen walked towards the mouth of the cave with a pleased expression. Cautiously thinking about something, he jumped directly from the mouth of the tunnel onto the mountain wall and settled down. Then he cast down a rock, tightly sealing the entrance to the cave, such that not even a trace of the cave mouth could be seen. He was convinced that after ten years, when someone would charge into the illusion spell, he would also only be able to find an empty levelled ground and would absolutely not be able to discover that ancestor’s tomb.
 
-He believed that the ancestor also wouldn’t want the later generations to incessantly disturb his eternal rest. Naturally, Yang Chen was not afraid that someone would discover that he had already received that ancestor’s legacy. 
+He believed that the ancestor also wouldn’t want the later generations to incessantly disturb his eternal rest. Naturally, Yang Chen was not afraid that someone would discover that he had already received that ancestor’s legacy.
 
 After taking a last look and confirming that everything was flawless, he started moving away from the illusion spell with his fierce looking blade in his hands.
 

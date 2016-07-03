@@ -5,6 +5,8 @@ title: "Chapter 38 - Spreading His Reputation"
 category: zhan-xian
 previous_chapter: 37
 next_chapter: 39
+chapter:
+  number: 38
 ---
 Currently, Chu Heng was facing very embarrassing and dangerous circumstances, if he was not able to promptly eliminate the guy who had come to ask for the tracking formation or he was discovered first by disciples of the Law Enforcement Hall, he would have to face the punishment for trying to cause harm to a disciple of the same sect. Even if he was already an inner disciple at foundation stage and Yang Chen was only a disciple of the first qi layer, the sect rules are the sect rules, and they would not be changed based on someone’s cultivation.
 
@@ -75,7 +77,7 @@ Yang Chen had not seen many beautiful women, but the few he had met were all pee
 
 The only woman who had left a profound impression on Yang Chen’s mind in that life was his own beautiful master. Other people, even if they were the cool elegant and magnificent Shi Shan Shan, or the beautiful woman Sun Qing Xue would become, none has left any deep impression in Yang Chen’s heart. But in this one moment, Yang Chen was attracted towards Gongsun Ling.
 
-Perhaps it was because of the good intentioned warning she had given him at the Hidden Pavilion or perhaps because she was indifferent, meticulously studying here. In short, Yang Chen had suddenly become very fond of looking at this half of a face. As if, by looking at her, he could allow himself to have a moment of content in his heart. 
+Perhaps it was because of the good intentioned warning she had given him at the Hidden Pavilion or perhaps because she was indifferent, meticulously studying here. In short, Yang Chen had suddenly become very fond of looking at this half of a face. As if, by looking at her, he could allow himself to have a moment of content in his heart.
 
 After he blankly stared at her for a moment, Gongsun Ling’s attention finally changed from the jade slip to Yang Chen. When Yang Chen was still very far, she had already become aware of him. However, she was thinking about a difficult problem at that time, so only now did she pay attention to Yang Chen. Nevertheless, not being rude, she raised her head, exposing an indifferent, smiling expression and faintly nodded:
 

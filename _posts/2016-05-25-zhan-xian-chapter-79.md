@@ -5,6 +5,8 @@ title: "Chapter 79 - Failed Refining"
 category: zhan-xian
 previous_chapter: 78
 next_chapter: 80
+chapter:
+  number: 79
 date: 2016-05-25 23:50:00 +0200
 has_note: false
 note: ""

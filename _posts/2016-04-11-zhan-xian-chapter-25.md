@@ -5,6 +5,8 @@ title: "Chapter 25 - You Are Not Professional"
 category: zhan-xian
 previous_chapter: 24
 next_chapter: 26
+chapter:
+  number: 25
 ---
 After hearing this, Shen Da was in seventh heaven, his guess had finally turned out to be true, although Yang Chen had the strength of the mere first qi layer, he still had an omniscient vision. He could easily see everyone’s cultivation bottleneck and furthermore also give directions about how to break through. Shangguan Feng had been this way, Wang Yuan was also the same and now it was finally his turn.
 

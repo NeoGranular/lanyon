@@ -5,6 +5,8 @@ title: "Chapter 34 - The Ancestor's Heritage"
 category: zhan-xian
 previous_chapter: 33
 next_chapter: 35
+chapter:
+  number: 34
 ---
 Originally Yang Chen was still suspicious about the previously mentioned request for him to go out and train,  but after hearing that he would have to go up the Floating Mountain, all of his doubts were immediately dispelled. Actually, they asked him to go out to allow him to participate in the heavenly general assembly of the new disciples for every sect on the Floating Mountain.
 
@@ -37,7 +39,7 @@ Yang Chen was flying along the foot of the Meiqing Mountain, following the signs
 
 Only then did Yang Chen stop the paper crane and enter into the mountain road, disappearing without a trace.
 
-Not long after Yang Chen’s silhouette faded away, a secretive group of four or five people appeared in the region where Yang Chen had gotten off of the paper crane. After looking everywhere, they conceded that they could not find him. 
+Not long after Yang Chen’s silhouette faded away, a secretive group of four or five people appeared in the region where Yang Chen had gotten off of the paper crane. After looking everywhere, they conceded that they could not find him.
 
 “What a crafty kid. We had come to the area of Pure Yang Palace’s influence to take care of him, but how could we expect that this guy would be so careful, even using a paper crane to escape.”
 
@@ -107,7 +109,7 @@ When he went a few feet deeper into the cave entrance, he saw an enlarged cave w
 
 Yang Chen didn’t dare to be neglectful and bowed his head to salute the skeleton on the mat. This is Pure Yang Palace’s ancestor after all and Yang Chen was of the younger generation, so performing this salute as a courtesy was a must.
 
-After paying his respects, Yang Chen carefully stood up, and only then did he move his feet forward and directly went to the middle of the area and used his earth attributed spirit power to excavate a big, square shaped pit. Soon after that, he fished a few gigantic pieces of wood out from his qiankun pouch. These were the good stuff prepared in the city market. Using his wood attributed spirit power, he trimmed the gigantic wood pieces and soon bound them successfully to manufacture a durable coffin. 
+After paying his respects, Yang Chen carefully stood up, and only then did he move his feet forward and directly went to the middle of the area and used his earth attributed spirit power to excavate a big, square shaped pit. Soon after that, he fished a few gigantic pieces of wood out from his qiankun pouch. These were the good stuff prepared in the city market. Using his wood attributed spirit power, he trimmed the gigantic wood pieces and soon bound them successfully to manufacture a durable coffin.
 
 After doing everything properly, Yang Chen very carefully moved the remains of that ancestor on the mat and placed them in the coffin. Before closing the lid of the coffin, he carefully took the qiankun pouch from the waist of the ancestor. Again kowtowing to pay his respects to the ancestor, he placed the coffin into the recently dug out pit and buried it.
 

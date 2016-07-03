@@ -5,6 +5,8 @@ title: "Chapter 90 - This Immortal Cave Is No Good"
 category: zhan-xian
 previous_chapter: 89
 next_chapter: 91
+chapter:
+  number: 90
 date: 2016-06-05 22:00:00 +0200
 has_note: false
 note: ""

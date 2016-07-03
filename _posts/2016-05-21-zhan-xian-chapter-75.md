@@ -5,6 +5,8 @@ title: "Chapter 75 - The Real Sun Fire Is Mine"
 category: zhan-xian
 previous_chapter: 74
 next_chapter: 76
+chapter:
+  number: 75
 date: 2016-05-21 00:16:00 +0200
 has_note: false
 note: ""

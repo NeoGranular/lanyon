@@ -5,6 +5,8 @@ title: "Chapter 23 - The New Manager Also Cultivates"
 category: zhan-xian
 previous_chapter: 22
 next_chapter: 24
+chapter:
+  number: 23
 ---
 After deciding on his plans, just as Yang Chen was about to rest and order Shen Da to prepare food, suddenly something disturbed his thoughts. Letting his spiritual awareness drift, he quickly discovered someone hurriedly flying towards the Profound Palace, and his cultivation was at least at the eight qi layer or above.
 

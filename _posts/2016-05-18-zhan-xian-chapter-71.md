@@ -5,6 +5,8 @@ title: "Chapter 71 - Reading A Lot Has Its Benefits"
 category: zhan-xian
 previous_chapter: 70
 next_chapter: 72
+chapter:
+  number: 71
 date: 2016-05-18 00:21:00 +0200
 has_note: false
 note: ""

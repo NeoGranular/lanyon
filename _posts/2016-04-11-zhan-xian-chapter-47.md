@@ -5,6 +5,8 @@ title: "Chapter 47 - How Do You Want To Die?"
 category: zhan-xian
 previous_chapter: 46
 next_chapter: 48
+chapter:
+  number: 47
 ---
 In the center of the Heavenly Stairs spell formation, instead of the figures of ten JieDan experts, there were merely ten old and gray haired men, whose chests were all covered with blood, as if they had been in a slaughter chamber. All of these ten people were unconscious and on the ground, their breath extremely feeble, as if they would stop breathing at any moment now.
 
