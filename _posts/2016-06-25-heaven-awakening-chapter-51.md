@@ -40,9 +40,9 @@ After seeing that this wasn't something extraordinary, Xi Fan and Lu Ping turned
 
 "Very sturdy."
 
-"Of course, this is made up of Tian Luo wine." Wen Yan said.
+"Of course, this is made up of Tian Luo vine." Wen Yan said.
 
-"Our luck is truly too good." Xi Fan said. Tian Luo wine is an extremely rare plant. It was soft and flexible, yet, extremely tough.  Be it bow strings, soft whip, or any other thing, just by relying on the fact that a thing was made up of Tian Luo wine, it could be easily ranked as third level tool.
+"Our luck is truly too good." Xi Fan said. Tian Luo vine is an extremely rare plant. It was soft and flexible, yet, extremely tough.  Be it bow strings, soft whip, or any other thing, just by relying on the fact that a thing was made up of Tian Luo vine, it could be easily ranked as third level tool.
 
 Lu Ping refrained from commenting and swiftly return back, before tieing up Wen Yan's hands and legs. While Lu Ping was busy tying her, Xi Fan was persuading her:
 
