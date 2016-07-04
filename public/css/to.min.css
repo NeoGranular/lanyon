@@ -666,12 +666,17 @@ a.pagination-item:hover {
     .ad_space {
         /*height: 560px !important*/
     }
-    .lower_rect{
-      display:none;
+    .lower_rect, .bottomresponsive{
+      display:none !important;
     }
-    #bot_banner {
-      display:none;
+    #bot_banner, .botleader {
+      display:none !important;
     }
+}
+
+.bottomresponsive {
+  width: 336;
+  height: 280;
 }
 
 @media(min-width:896px) {
