@@ -27,7 +27,7 @@ This courtyard was one of the most significant locations in the estate and was i
 
 He Yiming faintly shook his head, and the face of his eldest uncle, He Yiquanxin, appeared in his mind. He had a feeling that the recent pressure must have come from his eldest uncle's attentive gaze, and after looking at him, the former had withdrawn his gaze.
 
-He didn't know how he came up with this thought, but he couldn't get it out of his brain.
+He didn't know how he came up with this thought, but he couldn't get it out of his mind.
 
 After hesitating a bit, he didn't go to the side hall to pay his respects to his eldest uncle, and instead directly entered the main hall, where He family's collection of books existed.
 
