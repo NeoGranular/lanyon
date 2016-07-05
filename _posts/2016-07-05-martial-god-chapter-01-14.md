@@ -41,7 +41,7 @@ However, the next instant, he discarded this thought.
 
 After being convinced of this reasoning, He Quanxin's mind eased up, and he once again focussed his attention on his cultivation.
 
-He Yiming pushed the door entered the Book Pavillion. The books were methodically arranged. Although the bookshelves were not small, the number of books was quite lacking.
+He Yiming pushed the door and entered the Book Pavillion. The books were methodically arranged. Although the bookshelves were not small, the number of books was quite lacking.
 
 He Yiming, without pausing, directly walked up to a random bookshelf and casually selected a book.
 
