@@ -117,7 +117,7 @@ A sixth layer cultivator, cultivating two differently attributed main techniques
 
 After mockingly smiling at himself once, He Yiming moderated his thoughts and began to slowly circulate his Internal Energy according to his notes.
 
-The beginning of the Hard Skin technique was extremely easy. Anyone with a foundation in Internal Energy would be able to cultivate to some extent. Though, the same cannot be said about obtaining results.
+The beginning of the Skin Tightening technique was extremely easy. Anyone with a foundation in Internal Energy would be able to cultivate to some extent. Though, the same cannot be said about obtaining results.
 
 After He Yiming entered his cultivation state, his Internal Energy began to travel according to the course mentioned in the scripture at an unimaginable speed.
 
