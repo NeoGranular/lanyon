@@ -9,7 +9,7 @@ book:
 category: martial-god
 #chapter no. format: bb-cc bb=book cc=chapter. Example: 01-01 (book 1, chapter 1)
 previous_chapter: 01-12
-next_chapter:
+next_chapter: 01-14
 date: 2016-07-01 20:03:00 +0200
 has_credits: true
 translator: toomuchnoob
@@ -59,7 +59,7 @@ He Yiming was different. In the previous two days, he clearly felt that his Inte
 
 This feeling was extremely clear at this moment, while it was indistinct during the fifth layer bottleneck. This stark contrast allowed He Yiming to clearly differentiate between his current level and that of before.
 
-After painstakingly cultivating for two days and not being able to make the slightest improvement, He Yiming walked out of his room in frustration. 
+After painstakingly cultivating for two days and not being able to make the slightest improvement, He Yiming walked out of his room in frustration.
 
 He Yiming left the manor to take a stroll, subconsciously walking in the direction of the big lake.
 
