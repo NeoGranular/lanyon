@@ -55,7 +55,7 @@ All types of techniques in any attribute were divided into three categories. In 
 
 Not much is needed to say about primary Internal Energy techniques or battle skills. One was the basis of cultivation, while the other increased one's battle strength. For cultivators, both of these were extremely crucial.
 
-The third kind of the techniques didn't seem that important. For example, this wood-type Internal Energy supplementing technique, the Skin Hardening technique, allowed cultivators to tighten their skin and increase their defensive capabilities to a certain degree. In addition, this skill had another strange use. After cultivating this technique to a profound level, one would be able to cluster the layers of facial skin together and change appearance to some degree.
+The third kind of techniques didn't seem that important. For example, this wood-type Internal Energy supplementing technique, the Skin Hardening technique, allowed cultivators to tighten their skin and increase their defensive capabilities to a certain degree. In addition, this skill had another strange use. After cultivating this technique to a profound level, one would be able to cluster the layers of facial skin together and change appearance to some degree.
 
 However, cultivating this technique to such a profound realm was no easy feat. The amount of effort one had to put in would not be worth the gains. Therefore, even though this technique was not rare, people cultivating in it were extremely few. At least in He family estate, probably no one cultivated in this technique.
 
