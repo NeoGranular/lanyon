@@ -25,7 +25,7 @@ Apparently, he somehow felt a strong pressure. This pressure was specifically di
 This courtyard was one of the most significant locations in the estate and was incomparable to the small and insignificant courtyard he lived in. Apart from the main hall, it had two side halls. The pressure just now was coming from one of these two halls.
 <!--more-->
 
-He Yiming faintly shook his head, and the face of his eldest uncle, He Yiquanxin's, appeared in his mind. He had a feeling that the recent pressure must have come from his eldest uncle's attentive gaze, and after looking at him, the former withdrew his gaze.
+He Yiming faintly shook his head, and the face of his eldest uncle, He Yiquanxin, appeared in his mind. He had a feeling that the recent pressure must have come from his eldest uncle's attentive gaze, and after looking at him, the former had withdrawn his gaze.
 
 He didn't know how he came up with this thought, but he couldn't get it out of his brain.
 
