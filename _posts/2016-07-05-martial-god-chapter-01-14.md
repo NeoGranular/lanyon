@@ -25,9 +25,9 @@ Apparently, he somehow felt a strong pressure. This pressure was specifically di
 This courtyard was one of the most significant locations in the estate and was incomparable to the small and insignificant courtyard he lived in. Apart from the main hall, it had two side halls. The pressure just now was coming from one of these two halls.
 <!--more-->
 
-He Yiming faintly shook his head, and the face of his eldest uncle, He Yiquanxin's, appeared in his mind. He had a feeling that the recent pressure must have come from his eldest uncle's attentive gaze, and after looking at him, the former withdrew his gaze.
+He Yiming faintly shook his head, and the face of his eldest uncle, He Yiquanxin, appeared in his mind. He had a feeling that the recent pressure must have come from his eldest uncle's attentive gaze, and after looking at him, the former had withdrawn his gaze.
 
-He didn't know how he came up with this thought, but he couldn't get it out of his brain.
+He didn't know how he came up with this thought, but he couldn't get it out of his mind.
 
 After hesitating a bit, he didn't go to the side hall to pay his respects to his eldest uncle, and instead directly entered the main hall, where He family's collection of books existed.
 
@@ -41,7 +41,7 @@ However, the next instant, he discarded this thought.
 
 After being convinced of this reasoning, He Quanxin's mind eased up, and he once again focussed his attention on his cultivation.
 
-He Yiming pushed the door entered the Book Pavillion. The books were methodically arranged. Although the bookshelves were not small, the number of books was quite lacking.
+He Yiming pushed the door and entered the Book Pavillion. The books were methodically arranged. Although the bookshelves were not small, the number of books was quite lacking.
 
 He Yiming, without pausing, directly walked up to a random bookshelf and casually selected a book.
 
@@ -55,7 +55,7 @@ All types of techniques in any attribute were divided into three categories. In 
 
 Not much is needed to say about primary Internal Energy techniques or battle skills. One was the basis of cultivation, while the other increased one's battle strength. For cultivators, both of these were extremely crucial.
 
-The third kind of the techniques didn't seem that important. For example, this wood-type Internal Energy supplementing technique, the Skin Hardening technique, allowed cultivators to tighten their skin and increase their defensive capabilities to a certain degree. In addition, this skill had another strange use. After cultivating this technique to a profound level, one would be able to cluster the layers of facial skin together and change appearance to some degree.
+The third kind of techniques didn't seem that important. For example, this wood-type Internal Energy supplementing technique, the Skin Hardening technique, allowed cultivators to tighten their skin and increase their defensive capabilities to a certain degree. In addition, this skill had another strange use. After cultivating this technique to a profound level, one would be able to cluster the layers of facial skin together and change appearance to some degree.
 
 However, cultivating this technique to such a profound realm was no easy feat. The amount of effort one had to put in would not be worth the gains. Therefore, even though this technique was not rare, people cultivating in it were extremely few. At least in He family estate, probably no one cultivated in this technique.
 
@@ -117,7 +117,7 @@ A sixth layer cultivator, cultivating two differently attributed main techniques
 
 After mockingly smiling at himself once, He Yiming moderated his thoughts and began to slowly circulate his Internal Energy according to his notes.
 
-The beginning of the Hard Skin technique was extremely easy. Anyone with a foundation in Internal Energy would be able to cultivate to some extent. Though, the same cannot be said about obtaining results.
+The beginning of the Skin Tightening technique was extremely easy. Anyone with a foundation in Internal Energy would be able to cultivate to some extent. Though, the same cannot be said about obtaining results.
 
 After He Yiming entered his cultivation state, his Internal Energy began to travel according to the course mentioned in the scripture at an unimaginable speed.
 
