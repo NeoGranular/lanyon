@@ -1041,3 +1041,7 @@ body.light-mode {
       display:none;
     }
 }
+
+.book-title > a {
+  color: #9a9a9a;
+}
