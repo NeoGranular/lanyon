@@ -8,8 +8,8 @@ permalink:           none
 title:               'weletranslations'
 tagline:             'Translating since 1917'
 description:         'A blog focused on the translation of Xianxia novels'
-url:                 https://weletranslation.com
-baseurl:             'https://weletranslation.com'
+url:                 http://weletranslation.com
+baseurl:             'http://weletranslation.com'
 paginate:            5
 timezone:            'Europe/Berlin'
 
