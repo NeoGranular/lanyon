@@ -39,7 +39,7 @@ The Internal energy stopped at the entrance of the bottleneck. The bottleneck st
 
 (Tl: This energy is not Internal Energy. This is general energy. Basically, he felt like he still had, energy/power/strength, remaining to perform some other task.)
 
-Immediately, all the Internal Energy in his body berserkly rushed towards this location, while the coming Internal Energy at the same time.
+Immediately, all the Internal Energy in his body berserkly rushed towards this location, while the coming Internal Energy was being accumulated at the same time.
 
 When all the Internal Energy in his body was concentrated at a single point, that towering sixth layer's wall eventually loosened. Especially, after the last bit of the Internal Energy entered within, seeming as though the last straw pressing down the camel's back, this bottleneck, that had frustrated him to no extent, completely fell apart
 
