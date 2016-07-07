@@ -672,11 +672,15 @@ a.pagination-item:hover {
     #bot_banner, .botleader {
       display:none !important;
     }
+    .topresponsive {
+      width:336px !important;
+      height:280px !important;
+    }
 }
 
 .bottomresponsive {
-  width: 336;
-  height: 280;
+  width: 336px;
+  height: 280px;
 }
 
 @media(min-width:896px) {
