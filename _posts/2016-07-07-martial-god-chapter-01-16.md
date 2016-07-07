@@ -18,7 +18,7 @@ is_preview:
 ---
 The sun had set. Pressed in between the blue-stoned, horse-shaped corbel walls, the night seemed narrow and deep. However, today, He family manor's grand hall was well lit.
 
-When He Yiming rushed to the main hall, he discovered that he was not the first one to arrive.
+After He Yiming rushed to the main hall, he discovered that he was not the first one to arrive.
 
 A month had passed since his breakthrough to the seventh layer. He had not informed anyone about his condition. All of his elders thought that he was still at the sixth layer.
 <!--more-->
