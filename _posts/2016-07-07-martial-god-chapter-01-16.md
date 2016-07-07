@@ -89,7 +89,7 @@ He Wude's vision suddenly turned a little strict as he said:
 
 "By no means should you have any despising thoughts. This Hubin although merely has a cultivation of the fifth layer, his character is extremely vicious and merciless. Originally, in Linqiu region, he was the chief of a hundred men in the army. Due to his crimes of rape, murder, and killing the citizens under the pretext of enemies, he was detained and awaited execution. But he escaped from the army and killed countless people along the way, before coming here." He briefly paused before continuing in a heavy voice:
 
-"Although he'd only killed ordinary people, killing so many people has caused a natural baleful aura on his body. If you come across him, act with caution and don't be careless at any cost."
+"Although he'd only killed ordinary people, killing so many people has caused a natural baleful aura on his body. If you come across him, act with caution and don't be careles."
 
 Everybody felt a chill in their hearts, before they all made sounds of agreement together.
 
