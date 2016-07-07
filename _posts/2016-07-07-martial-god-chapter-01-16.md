@@ -49,7 +49,7 @@ After a short while, from the faint illumination outside the entrance, a few peo
 
 Upon looking at these few men, He Yiming and the rest two immediately stood up. They straightened their chest and waist, displaying an extremely attentive appearance.
 
-The first was the individual who'd single-handedly established He family estate, He Wude. Behind his body was He Yiming's eldest uncle, He Quanxin, and the third uncle, He Quanyin. The last individual was precisely the individual appraised to be the number one figure among the third generation, He Yitian.
+The first was the individual who'd single-handedly established He family estate, He Wude. Behind his body was He Yiming's eldest uncle, He Quanxin, and the third uncle, He Quanyin. The last person was precisely the individual appraised to be the number one figure among the third generation, He Yitian.
 
 All three inside the hall were flabbergasted. 'What on earth has happened?'
 
