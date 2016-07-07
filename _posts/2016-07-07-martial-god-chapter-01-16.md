@@ -109,7 +109,7 @@ He Wude faintly laughed, before saying: "Quanxin, you remember which section I a
 
 He Quanxin was surprised. He thought for a bit, before he suddenly realized and said:
 
-"I understand. Yiming is assigned to the section which is nearest to the county town. Furthermore, it's the main passage. Since Hubin has come here as a fugitive, he naturally would not take the main passage seeming like an honest person. He would tread desolate paths, and he would not go to the County town as well. That would just be walking right into a trap. Therefore, Yiming is going just for the show."
+"I understand. Yiming is assigned to the section which is nearest to the county town. Furthermore, it's the main passage. Since Hubin has come here as a fugitive, he naturally would not take the main passage seeming like an honest person. He would tread desolate paths, and he would not go to the County town as well. That would just be walking right into a trap. Therefore, Yiming is going just for show."
 
 He Wude faintly nodded and said:
 
@@ -119,7 +119,7 @@ He Quanxin heavily nodded and said: " Father, you have put a lot of thought in t
 
 He Wude said with his face beaming:
 
-"Apart from all this. I allowed to Yiming to lead a group so as to let Xu family and Cheng family know that He family yet again has a genius. I feel those two old foxes of Xu family and Cheng family should understand, in the end, who is going to be the strongest family of Tai Cang county in the future."
+"Apart from all this. I allowed to Yiming to lead a group so as to let Xu family and Cheng family know that He family yet again has a genius. I feel those two old foxes of Xu family and Cheng family should be clear on who is going to be the strongest family of Tai Cang county in the future."
 
 Two days later, a servant, carrying two letters delivered by the Xu family that contained the latest information, arrived in front of the Old Master.
 
