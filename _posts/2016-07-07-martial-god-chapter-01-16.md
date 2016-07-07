@@ -29,7 +29,7 @@ Not daring to be neglectful, He Yiming hurried off to the main hall. However, up
 
 He Yihai faintly nodded towards him and said: "Sixth brother, you are here as well."
 
-"Yes. Hello, second brother." He Yiming faintly bowed his head. Although He Yihai was the son of the eldest uncle, he treated all of his younger brothers more or less about the same. To tell the truth, setting aside He Yiming's relationship with his fifth brother, the rest of his siblings were quite harmonious with each other.
+"Hello, second brother." He Yiming faintly bowed his head. Although He Yihai was the son of the eldest uncle, he treated all of his younger brothers more or less about the same. To tell the truth, setting aside He Yiming's relationship with his fifth brother, the rest of his siblings were quite harmonious with each other.
 
 Of course, the blood relations are always somewhat different than the normal, but in He family this was not too distinct.
 
@@ -73,7 +73,7 @@ He silently lowered his vision as he absolutely didn't want to attract anybody's
 
 He Yiming exchanged a glance with his third brother. With his thoughts racing, he glanced at his elders and eldest brother. Their expressions didn't have the slightest change. Clearly, they were already aware of this matter.
 
-"The fugitive has fled away from the Linqiu region. His name is Hubin, and he is a fifth layer Internal Energy cultivator. Reportedly, his skill is pretty good."
+"The fugitive is from the Linqiu region. His name is Hubin, and he is a fifth layer Internal Energy cultivator. Reportedly, his skill is pretty good."
 
 He Yiming immediately realized.
 
