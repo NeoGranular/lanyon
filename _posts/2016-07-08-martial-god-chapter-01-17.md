@@ -25,7 +25,7 @@ Even an idiot would not be as brazen and audacious as to take such a passage. No
 Beside him, these five servants were the best selections among the servants nurtured in the He family estate.
 <!--more-->
 
-Apart from the influential family, people cultivating Internal Energy were extremely few. The total servants in the He family estate and the robust men cultivating fields for the family amounted to several hundreds of people. He Wude did not look down on them and had imparted cultivation techniques to them. However, due to the difference in the circumstances and the supervision from the family, being able to attain the peak of the third layer was already an extraordinary feat.
+Apart from the influential family, people cultivating Internal Energy were extremely few. The total servants in the He family estate and the robust men cultivating fields for the family amounted to several hundreds of people. He Wude did not look down on them and had imparted them with cultivation techniques. However, due to the difference in the circumstances and the supervision from the family, being able to attain the peak of the third layer was already an extraordinary feat.
 
 All the five servants at the side of He Yiming had cultivated to the peak of the third layer. Furthermore, every single one of them was proficient in at least one martial skill.
 
@@ -45,11 +45,11 @@ Feeling regret in his heart, he gave up on the idea of entering the city and mad
 
 Three cultivation-related families resided in the Tai Cang district; He family, Xu family, and Cheng family.
 
-He family and Xu family had a tenth layer Internal Energy expert watching over them. This was the absolute peak strength with respect to a desolate and insignificant county. Although the Cheng family did not have a tenth layer Internal Energy expert, their family was the most ancient clan in the Tai Cang county and influence deep-rooted. In this respect, He family, a family established by a Foreigner like He Wude, couldn't compare to the Cheng family.
+He family and Xu family had a tenth layer Internal Energy expert watching over them. This was the absolute peak strength with respect to a desolate and insignificant county. Although the Cheng family did not have a tenth layer Internal Energy expert, their family was the most ancient clan in the Tai Cang county and had deep-rooted influence. In this respect, He family, a family established by a Foreigner like He Wude, couldn't compare to the Cheng family.
 
 Even the current county town's city lord was from the Cheng family.
 
-Though, if it had not been as such, He Wude wouldn't have given so much face by dispatching all the younger generation who'd attained the sixth layer.
+Though, if it had not been as such, He Wude wouldn't have given them so much face by dispatching all the younger generation who'd attained the sixth layer.
 
 He Yiming, with his own understanding, came to realize why would Cheng family spare no efforts to catch or kill an insignificant fugitive.
 
@@ -81,7 +81,7 @@ He Yiming faintly shook his head. These woods were, after all, near a public pat
 
 Just as he intended to return, he suddenly heard an extremely faint yet strange sound.
 
-He slightly paused and inclined his ear, before perceiving a possible wild beast running at a fast speed not too far away from him. What surprised He Yiming was that this wild beast was capable of producing an apprehensive feeling in him.
+He slightly paused and inclined his ear, before perceiving a possible wild beast running at a fast speed not too far away from him. What surprised He Yiming was that this wild beast was capable of producing an apprehensive feeling inside him.
 
 With a chill in his heart, he immediately determined that this was definitely not a small beast. He felt surprised to discover such a beast in these woods. Applying strength through his feet, he sped off in that direction.
 
@@ -89,9 +89,9 @@ Despite its movements being quick, the wild beast was clearly not using its enti
 
 He Yiming turned increasingly cautious. He had dealt with wild beasts before, thus, he immediately realized that the beast must have heard his footsteps and had softened its movements as a result.
 
-But He Yiming was brimming with self-confidence. Even when he was just at the sixth layer and had not cultivated a battle skill, he could defeat a ferocious beast such as fox bear. His strength had an immense increase since then, hence, he obviously didn't care about any ferocious beast.
+But He Yiming was brimming with self-confidence. Even when he was just at the sixth layer and had not cultivated a battle skill, he could defeat a ferocious beast such as fox bear. His strength had an immense increase since then, hence, he obviously wouldn't care about any ferocious beast.
 
-If this had been ancient woods, some beasts might have been able to evoke fear in him. However, in such surroundings, he didn't believe any ferocious beast could be more ferocious than a fox bear.
+If this had been ancient woods, some beasts might have been able to evoke fear in him. However, in such surroundings, he didn't believe any beast could be more ferocious than a fox bear.
 
 In a few steps, he arrived at the trail of that ferocious beast. However, as his gaze swept around the vicinity of the trail, his heart suddenly raced.
 
@@ -109,13 +109,13 @@ Although such a feeling was somewhat strange, He Yiming was certain that he was 
 
 With his spirits suddenly roused, He Yiming sucked in a breath of mountain woods' ice cold air. He'd never clashed with anyone except his siblings.
 
-Some of it had to do with his age, but the much bigger reason was that not much people in this county would dare to fight with a young master of He family.
+Some of it had to do with his age, but the much bigger reason was, not much people in this county would dare to fight with a young master of He family.
 
 But today, he could be certain that the opponent would not care about his identity as He family's sixth young master.
 
-Suddenly the feeling of danger in He Yiming's heart increased by a million times. Without thinking, he dived to the side without caring about his status, before rolling on the ground and consequently arriving behind a big tree. Consequently, he immediately sprung back to his feet.
+Suddenly the feeling of danger in He Yiming's heart increased by a million times. Without thinking, he dived to the side without caring about his status, before rolling on the ground and consequently arriving behind a big tree, and springing back to his feet immediately afterwards.
 
-He'd heard an air-piercing sound just now next to his ear, and at this moment, there was a crossbow arrow at his original position.
+He'd heard an air-piercing sound next to his ear just now, while at his original positio was a crossbow arrow. .
 
 After seeing this arrow, He Yiming's suddenly felt a faint chill in his heart. Even his arms and legs felt cold.
 
@@ -125,4 +125,4 @@ A crossbow was not something an ordinary person could use. It was a standardized
 
 His heartbeat suddenly quickened by a huge amount. His movements just now were purely a subconscious reaction. If he'd been a single step slow, he would have already suffered a serious injury.
 
-He raised his and looked in the direction where crossbow came from with an intense fury burning in his heart. His body slightly bent down and leaped forward like a cheetah.
+He raised his head and looked in the direction where crossbow came from with an intense fury burning in his heart. His body slightly bent down and leaped forward like a cheetah.
