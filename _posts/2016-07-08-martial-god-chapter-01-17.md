@@ -125,4 +125,4 @@ A crossbow was not something an ordinary person could use. It was a standardized
 
 His heartbeat suddenly quickened by a huge amount. His movements just now were purely a subconscious reaction. If he'd been a single step slow, he would have already suffered a serious injury.
 
-He raised his and looked in the direction where crossbow came from with an intense fury burning in his heart. His body slightly bent down and leaped forward like a cheetah.
+He raised his head and looked in the direction where crossbow came from with an intense fury burning in his heart. His body slightly bent down and leaped forward like a cheetah.
