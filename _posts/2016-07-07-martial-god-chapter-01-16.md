@@ -163,7 +163,7 @@ However, even before he finished talking, something flickered in front of his ey
 
 He Quanxin blankly stared, before smiling bitterly.
 
-Despite being a mere fifth layer cultivator, Hubin was a fugitive who'd his hands covered in blood. He, who was capable of fleeing up to here from the distant Linqiu region and injuring two fairly members of Xu family's younger generation who'd attained the sixth layer many years ago, was not something Yiming could handle.
+Despite being a mere fifth layer cultivator, Hubin was a fugitive who'd his hands covered in blood. He, who was capable of fleeing up to here from the distant Linqiu region and injuring two members of Xu family's younger generation who'd attained the sixth layer many years ago, was not something Yiming could handle.
 
 If he'd come across the other members of the younger generation, He Quanxin would not have been so worried. He Yihai and He Yixuan were already over eighteen. They had participated many times in small competitions against Xu family and Cheng family. They had abundant battle experience. Moreover, about two years were about to pass since they had attained the sixth layer, furthermore, they each had the strength of a battle skill cultivated almost to the peak with them. Even if they lacked in terms of personal battle strength, they could have at least kept their lives intact.
 
