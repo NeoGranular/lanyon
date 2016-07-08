@@ -153,7 +153,7 @@ This act of Yang Chen’s had not only given Chu Heng the punishment he deserved
 
 The Palace Master’s attitude also affected Wang Yong. Originally he had believed that the Palace Master would punish Yang Chen for being so daring, but hearing the praise from the Palace Master, there was no need to worry about this, so he also burst out laughing. His own grand disciple’s hard work and determination would clearly increase his own face!
 
-Gao Yue was also happy, a disciple’s actions were his master’s face. She completely hadn’t anticipated that, after showing that sort of anger in front of him, he had gone out and surprisingly accomplished such a feat. Once she thought that Yang Chen had chopped Chu Heng’s head off with his own hands and taken the revenge for the insults Chu Heng had launched at her, Gao Yue was unable to stop that kind of happiness born from the bottom of her heart.
+Gao Yue was also happy, a disciple’s actions were his master’s face. She completely hadn’t anticipated that, after showing that sort of anger in front of her, he had gone out and surprisingly accomplished such a feat. Once she thought that Yang Chen had chopped Chu Heng’s head off with his own hands and taken the revenge for the insults Chu Heng had launched at her, Gao Yue was unable to stop that kind of happiness born from the bottom of her heart.
 
 “When you took these things, didn’t the people of the Five Phases Sect and Greatest Heaven Sect discover anything?”
 
