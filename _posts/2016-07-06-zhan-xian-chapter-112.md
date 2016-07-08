@@ -33,27 +33,27 @@ This had been Chu Heng’s greatest desire and was also the reason why Chu Heng 
 
 Chu Heng also knew what was important and what wasn’t, therefore he didn’t dare to press the issue and could only wait. This time the Greatest Heaven Sect had clearly landed in a lot of trouble, they had even lost a YuanYing stage ancestor, so the conflict between Five Phases Sect and the Greatest Heaven Sect would surely not be resolved in a short time.
 
-Apart from hiding within this Spell Formation, Chu Heng did not dare to go to any other place. Regardless of wherever he went, people of the Pure Yang Palace would be looking for him, because he had injured four disciples of the Law Enforcement Hall and also because of his way of delivering them back to the Pure Yang Palace. If anyone found him, he will surely die, there was no other possibility. The most unfortunate thing was, that he was a water attributed cultivator, so he couldn’t use his abilities properly in this region.
+Apart from hiding within this Spell Formation, Chu Heng did not dare to go to any other place. Regardless of wherever he went, people of the Pure Yang Palace would be looking for him, because he had injured four disciples of the Law Enforcement Hall and also because of his way of delivering them back to the Pure Yang Palace. If anyone found him, he would surely die, there was no other possibility. The most unfortunate thing was, that he was a water attributed cultivator, so he couldn’t use his abilities properly in this region.
 
 There was a sound at the entrance of the Spell Formation, but Chu Heng didn’t pay much attention to it, as he thought that it was surely a disciple of the Greatest Heaven Sect and he concentrated on his cultivation again. Although earth attributed Spirit Power was denser in the Desolate Valley, under his diligent training, his cultivation base was still slowly increasing and he had already reached the peak of the Foundation stage. As long as he had a suitable opportunity, maybe he would be able to congeal his dan.
 
-This Spell Formation was the masterpiece of the Greatest Heaven Sect, although Chu Heng did not know the complete appearance of the Spell Formation, just this portion where he was possessed an extreme strength. He, a water attributed cultivator, had resisted and even defeated four enemies at the Desolate Valley. That was enough to illustrate how terrifying this Spell Formation is.
+This Spell Formation was the masterpiece of the Greatest Heaven Sect, although Chu Heng did not know the complete appearance of the Spell Formation, just this portion where he was possessed an extreme strength. He, a water attributed cultivator, had resisted and even defeated four enemies at the Desolate Valley. That was enough to illustrate how terrifying this Spell Formation was.
 
 If you were not a person of the Greatest Heaven Sect and didn’t understand this Spell Formation, then you could not enter this Spell Formation. Chu Heng had also learned this after being guided properly. The entering person was someone from their side, so Chu Heng did not stop his cultivation for the time being. Greeting him later would still not be too slow.
 
-But a gaze that made him feel thistles and thorns in his back, made him completely nervous, it was as if a butcher was attentively watching its prey. This sensation made him feel completely ill at ease.
+But a gaze that made him feel thistles and thorns in his back, made him completely nervous, it was as if a butcher was attentively watching his prey. This sensation made him feel completely ill at ease.
 
 Chu Heng hastily stopped his training and stood up, turning around to greet that person, but he met with an extremely familiar face.
 
-This face, even in dreams, Chu Heng wanted to cut the owner of this face into a thousand pieces, to vent out his hatred. Thinking about Yang Chen always made him feel an urge to kill people.
+This face, even in his dreams, Chu Heng wanted to cut the owner of this face into a thousand pieces, to vent out his hatred. Thinking about Yang Chen always made him feel an urge to kill people.
 
 But when Chu Heng looked at Yang Chen right now, he only felt a wave of chills spreading all over his body. This was a strategic location of the Greatest Heaven Sect, how did Yang Chen enter here?
 
-According to common sense, Yang Chen, who had just recently reached the Foundation stage and did not have much contact with Spell Formations and other such things could certainly not enter here just by himself. The only possibility was that someone of the Greatest Heaven Sect had revealed the method for entering the Spell Formation and at the same time leaked Chu Heng’s whereabouts.
+According to common sense, Yang Chen, who had just recently reached the Foundation stage and did not have much contact with Spell Formations and other such things could certainly not enter there just by himself. The only possibility was that someone of the Greatest Heaven Sect had revealed the method for entering the Spell Formation and at the same time leaked Chu Heng’s whereabouts.
 
-This was the reason Chu Heng had felt chills all over his body, could it be that he had already been abandoned by the Greatest Heaven Sect? In order to settle this matter, maybe the Greatest Heaven Sect had made a compromise with some small sects whom they did not put in their eyes previously. Pure Yang Palace’s strength was not weak, could it be that he had been sacrificed to obtain the support of Pure Yang Palace?
+This was the reason Chu Heng had felt chills all over his body, could it be that he had already been abandoned by the Greatest Heaven Sect? In order to settle this matter, maybe the Greatest Heaven Sect had made a compromise with some small sects who they did not put in their eyes previously. Pure Yang Palace’s strength was not weak, could it be that he had been sacrificed to obtain the support of Pure Yang Palace?
 
-Who could have sold his whereabouts? It had to be known that only JieDan stage experts or higher knew about Chu Heng’s location, ordinary disciples did not know that a person called Chu Heng was here. Forcing a JieDan stage expert to cooperate with him, Yang Chen was just a Foundation stage expert, Chu Heng basically did not think that Yang Chen had this kind of strength.
+Who could have sold his whereabouts? It had to be known that only JieDan stage experts or higher knew about Chu Heng’s location, ordinary disciples did not know that a person called Chu Heng was here. Forcing a JieDan stage expert to cooperate with him? Yang Chen was just a Foundation stage expert, Chu Heng basically did not think that Yang Chen had this kind of strength.
 
 A wave of cold sweat seeped out from his back, this time Chu Heng had realized the pain of betrayal. Most of all, the sensation of being stabbed in the back by those he called allies directly broke his heart. At this moment, Chu Heng wanted to interrogate everyone in Li Qing Chen’s family, without exception.
 
@@ -65,7 +65,7 @@ Fortunately, after Chu Heng probed around with his Spiritual Awareness once, he 
 
 “We have met after a very long time, Senior Disciple Chu, it seems as if you are very comfortable!”
 
-Yang Chen was stopped on one side but did not make any movement and basically did not pay any attention to Chu Heng slowly moving slowly once and again, merely when his shyness became increasingly difficult to deal with, he opened his mouth:
+Yang Chen stopped on one side but did not make any movement and basically did not pay any attention to Chu Heng slowly moving once and again, merely when his shyness became increasingly difficult to deal with, he opened his mouth:
 
 “The Palace Master has issued a command. You have betrayed the sect by attacking a fellow disciple, so your cultivation base must be abolished and then you will be evicted from the sect!”
 
@@ -95,19 +95,19 @@ Yang Chen did not pay any attention to Chu Heng’s laughter. With the Immortal 
 
 “Yang Chen, go to hell!”
 
-Chu Heng shouted loudly and activated the Spell Formation. Suddenly, a gigantic Spirit Power wall made of earth attributed Spirit Power, pushed towards Yang Chen.  
+Chu Heng shouted loudly and activated the Spell Formation. Suddenly, a gigantic Spirit Power wall, made of earth attributed Spirit Power, pushed towards Yang Chen.  
 
 “Insignificant tricks!”
 
 Yang Chen coldly snorted, basically not paying any attention to the Spell Formation, holding the Immortal Executing Blade in a reverse grip, his eyes stared fixedly at Chu Heng’s figure, as he rushed towards him.
 
-Chu Heng was relying on the Spirit Power wall released by the Spirit Formation with which he had previously defeated the four disciples of the Law Enforcement Hall, but in front of Yang Chen it seemed to be nonexistent. Under Chu Heng’s astonishment, that Spirit Power wall was divided in two in front of Yang Chen, making a small gap, just enough for Yang Chen to pass by.
+Chu Heng was relying on the Spirit Power wall released by the Spirit Formation with which he had previously defeated the four disciples of the Law Enforcement Hall, but in front of Yang Chen it seemed to be nonexistent. Under Chu Heng’s astonishment, that Spirit Power wall was divided in two in front of Yang Chen, making a small gap, just large enough for Yang Chen to pass by.
 
-How was this possible? Looking at this scene, Chu Heng’s eyes were opened so widely that they almost came out. Apart from the serious fight with the four disciples of the Law Enforcement Hall, Chu Heng had still compared notes with disciples of Greatest Heaven Sect here, with a hundred tests and a hundred success, so how could this situation happen?
+How was this possible? Looking at this scene, Chu Heng’s eyes were opened so widely that they almost came out. Apart from the serious fight with the four disciples of the Law Enforcement Hall, Chu Heng had still compared notes with disciples of the Greatest Heaven Sect here, with a hundred tests and a hundred successes. How could this situation happen?
 
-Yang Chen was just a few steps away from Chu Heng now, Chu Heng could not believe his eyes, but he immediately changed the alignment of his feet and substituted the formation secret in his hand and all of a sudden, an arrow of Spirit Power began to be released from beneath his foot. Following which, Chu Heng raised his finger towards Yang Chen and hundreds of Spirit Power arrows, made of earth attributed Spirit Power, flew towards Yang Chen.  
+Yang Chen was just a few steps away from Chu Heng now, Chu Heng could not believe his eyes, but he immediately changed the alignment of his feet and substituted the formation secret in his hand and all of a sudden, an arrow of Spirit Power began to be released from beneath his feet. Following which, Chu Heng raised his finger towards Yang Chen and hundreds of Spirit Power arrows, made of earth attributed Spirit Power, flew towards Yang Chen.  
 
-But what made Chu Heng even more terrified was that these more than a hundred Spirit Power arrows all seemed to have been chopped in two as Yang Chen slashed his blade, as soon as they had started flying towards him. Since the time when Chu Heng had comprehended this Spell Formation, this kind of situation had never happened before.
+But what made Chu Heng even more terrified was that these Spirit Power arrows, numbered more than a hundred, all seemed to have been chopped in two as Yang Chen slashed his blade, as soon as they had started flying towards him. Since the time when Chu Heng had comprehended this Spell Formation, this kind of situation had never happened before.
 
 Although the Spell Formation had been unable to harm Yang Chen, Chu Heng was not even a little nervous, this Spell Formation still had one more ability, that was, when he was standing at the core of the spell, it could offer Chu Heng an unending flow of Spirit Power to support him. Although it required the earth attributed Spirit Power to be changed into water attributed Spirit Power, in this huge Desolate Valley, even if more than half was lost, it was still enough for Chu Feng to use without drying up.
 
@@ -121,7 +121,7 @@ Following Chu Heng’s words, his blue colored sword soared and rushed towards Y
 
 Ding!
 
-A clear sound echoed and Yang Chen’s blade slashed at Chu Heng’s flying sword. At the same time as the flying swords struck his each other, Chu Heng suddenly sensed a shiver run through his heart, surprisingly he had suffered some pain. In great shock, he hastily tried to recall his flying sword. Once the flying sword returned to him, Chu Heng immediately discovered that his flying sword, with which he had overcome all difficulties, surprisingly had many small nicks.
+A clear sound echoed and Yang Chen’s blade slashed at Chu Heng’s flying sword. At the same time as the flying swords struck each other, Chu Heng suddenly sensed a shiver run through his heart, surprisingly he had suffered some pain. In great shock, he hastily tried to recall his flying sword. Once the flying sword returned to him, Chu Heng immediately discovered that his flying sword, with which he had overcome all difficulties, surprisingly had many small nicks.
 
 Unexpectedly the flying sword had been ruined by Yang Chen in one slash. Chu Heng felt both regret and dread at the same time. The Pure Yang Palace had gone as far as to be willing to part with a lot of their hard earned savings, otherwise how could they have allocated such a high grade flying sword to Yang Chen, who was just a Foundation stage disciple?
 
@@ -132,6 +132,7 @@ After just a few attacks like this, Yang Chen had advanced forward and was not t
 The raised the Immortal Executing Blade and chopped down towards the nearby Chu Heng.
 
 Dang!
+
 A loud sound echoed once again and Chu Heng had once more wielded his flying sword to to parry Yang Chen’s slash. But parrying was parrying, his fated flying sword, which had been linked with Chu Heng’s thoughts after passing through innumerable refinings, had surprisingly broken into two under Yang Chen’s slash.
 
 “Ahhhhh!”
