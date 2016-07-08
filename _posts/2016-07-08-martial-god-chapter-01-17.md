@@ -25,7 +25,7 @@ Even an idiot would not be as brazen and audacious as to take such a passage. No
 Beside him, these five servants were the best selections among the servants nurtured in the He family estate.
 <!--more-->
 
-Apart from the influential family, people cultivating Internal Energy were extremely few. The total servants in the He family estate and the robust men cultivating fields for the family amounted to several hundreds of people. He Wude did not look down on them and had imparted cultivation techniques to them. However, due to the difference in the circumstances and the supervision from the family, being able to attain the peak of the third layer was already an extraordinary feat.
+Apart from the influential family, people cultivating Internal Energy were extremely few. The total servants in the He family estate and the robust men cultivating fields for the family amounted to several hundreds of people. He Wude did not look down on them and had imparted them with cultivation techniques. However, due to the difference in the circumstances and the supervision from the family, being able to attain the peak of the third layer was already an extraordinary feat.
 
 All the five servants at the side of He Yiming had cultivated to the peak of the third layer. Furthermore, every single one of them was proficient in at least one martial skill.
 
