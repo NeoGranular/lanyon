@@ -18,7 +18,7 @@ is_preview:
 ---
 The sun had set. Pressed in between the blue-stoned, horse-shaped corbel walls, the night seemed narrow and deep. However, today, He family manor's grand hall was well lit.
 
-When He Yiming rushed to the main hall, he discovered that he was not the first one to arrive.
+When He Yiming hurriedly arrived at the main hall, he discovered that he was not the first one to arrive.
 
 A month had passed since his breakthrough to the seventh layer. He had not informed anyone about his condition. All of his elders thought that he was still at the sixth layer.
 <!--more-->
@@ -29,7 +29,7 @@ Not daring to be neglectful, He Yiming hurried off to the main hall. However, up
 
 He Yihai faintly nodded towards him and said: "Sixth brother, you are here as well."
 
-"Yes. Hello, second brother." He Yiming faintly bowed his head. Although He Yihai was the son of the eldest uncle, he treated all of his younger brothers more or less about the same. To tell the truth, setting aside He Yiming's relationship with his fifth brother, the rest of his siblings were quite harmonious with each other.
+"Hello, second brother." He Yiming faintly bowed his head. Although He Yihai was the son of the eldest uncle, he treated all of his younger brothers more or less about the same. To tell the truth, setting aside He Yiming's relationship with his fifth brother, the rest of his siblings were quite harmonious with each other.
 
 Of course, the blood relations are always somewhat different than the normal, but in He family this was not too distinct.
 
@@ -49,7 +49,7 @@ After a short while, from the faint illumination outside the entrance, a few peo
 
 Upon looking at these few men, He Yiming and the rest two immediately stood up. They straightened their chest and waist, displaying an extremely attentive appearance.
 
-The first was the individual who'd single-handedly established He family estate, He Wude. Behind his body was He Yiming's eldest uncle, He Quanxin, and the third uncle, He Quanyin. The last individual was precisely the individual appraised to be the number one figure among the third generation, He Yitian.
+The first was the individual who'd single-handedly established He family estate, He Wude. Behind his body was He Yiming's eldest uncle, He Quanxin, and the third uncle, He Quanyin. The last person was precisely the individual appraised to be the number one figure among the third generation, He Yitian.
 
 All three inside the hall were flabbergasted. 'What on earth has happened?'
 
@@ -73,7 +73,7 @@ He silently lowered his vision as he absolutely didn't want to attract anybody's
 
 He Yiming exchanged a glance with his third brother. With his thoughts racing, he glanced at his elders and eldest brother. Their expressions didn't have the slightest change. Clearly, they were already aware of this matter.
 
-"The fugitive has fled away from the Linqiu region. His name is Hubin, and he is a fifth layer Internal Energy cultivator. Reportedly, his skill is pretty good."
+"The fugitive is from the Linqiu region. His name is Hubin, and he is a fifth layer Internal Energy cultivator. Reportedly, his skill is pretty good."
 
 He Yiming immediately realized.
 
@@ -89,7 +89,7 @@ He Wude's vision suddenly turned a little strict as he said:
 
 "By no means should you have any despising thoughts. This Hubin although merely has a cultivation of the fifth layer, his character is extremely vicious and merciless. Originally, in Linqiu region, he was the chief of a hundred men in the army. Due to his crimes of rape, murder, and killing the citizens under the pretext of enemies, he was detained and awaited execution. But he escaped from the army and killed countless people along the way, before coming here." He briefly paused before continuing in a heavy voice:
 
-"Although he'd only killed ordinary people, killing so many people has caused a natural baleful aura on his body. If you come across him, act with caution and don't be careless at any cost."
+"Although he'd only killed ordinary people, killing so many people has caused a natural baleful aura on his body. If you come across him, act with caution and don't be careles."
 
 Everybody felt a chill in their hearts, before they all made sounds of agreement together.
 
@@ -109,7 +109,7 @@ He Wude faintly laughed, before saying: "Quanxin, you remember which section I a
 
 He Quanxin was surprised. He thought for a bit, before he suddenly realized and said:
 
-"I understand. Yiming is assigned to the section which is nearest to the county town. Furthermore, it's the main passage. Since Hubin has come here as a fugitive, he naturally would not take the main passage seeming like an honest person. He would tread desolate paths, and he would not go to the County town as well. That would just be walking right into a trap. Therefore, Yiming is going just for the show."
+"I understand. Yiming is assigned to the section which is nearest to the county town. Furthermore, it's the main passage. Since Hubin has come here as a fugitive, he naturally would not take the main passage seeming like an honest person. He would tread desolate paths, and he would not go to the County town as well. That would just be walking right into a trap. Therefore, Yiming is going just for show."
 
 He Wude faintly nodded and said:
 
@@ -119,7 +119,7 @@ He Quanxin heavily nodded and said: " Father, you have put a lot of thought in t
 
 He Wude said with his face beaming:
 
-"Apart from all this. I allowed to Yiming to lead a group so as to let Xu family and Cheng family know that He family yet again has a genius. I feel those two old foxes of Xu family and Cheng family should understand, in the end, who is going to be the strongest family of Tai Cang county in the future."
+"Apart from all this. I allowed to Yiming to lead a group so as to let Xu family and Cheng family know that He family yet again has a genius. I feel those two old foxes of Xu family and Cheng family should be clear on who is going to be the strongest family of Tai Cang county in the future."
 
 Two days later, a servant, carrying two letters delivered by the Xu family that contained the latest information, arrived in front of the Old Master.
 
@@ -169,4 +169,4 @@ If he'd come across the other members of the younger generation, He Quanxin woul
 
 However, He Yiming was different. Merely half a year had passed since his breakthrough to the sixth layer. Regarding the mastery of battle skills, reaching the peak was even more impossible for him. If in his current condition, he encountered an individual like Hubin who'd an experience of hundreds of battles and had crawled up from beneath the piles of dead bodies, it would not be pleasant to say who would emerge superior. If He Yiming suffered an injury as a result, that would be a gargantuan blow to the He family.
 
-He Quanxin quietly sighed and immediately chased after He Wude. However, his strength was far below his father's. He was absolutely unable to catch up to him. He hoped that He Yiming would not encounter Hubin, while he regretfully sighing. The old man, with deep foresight and rigorous schemes, had eventually made a mistake this time.
+He Quanxin quietly sighed and immediately chased after He Wude. However, his strength was far below his father's. He was absolutely unable to catch up to the latter. Hoping that He Yiming would not encounter Hubin, he regretfully sighed. His old man, even with his deep foresight and rigorous schemes, had eventually made a mistake this time.
