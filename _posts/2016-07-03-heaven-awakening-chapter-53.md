@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 53 - The Drunkard Woman"
 category: heaven-awakening
 previous_chapter: 52
-next_chapter:
+next_chapter: 54
 date: 2016-07-03 21:18:01 +0200
 has_credits: true
 translator: toomuchnoob
