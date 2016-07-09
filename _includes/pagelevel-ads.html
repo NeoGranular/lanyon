@@ -1,0 +1,11 @@
+{% assign isOdd = page.chapter.number | modulo: 2 %}
+{% case page.category %}
+  {% when 'zhan-xian' %}
+    {% if isOdd == 1 %}
+      {% include _ads/alt/alt_zx_pagelevel.html %}
+    {% else %}
+      {% include _ads/zhan_xian/zx_pagelevel.html %}
+    {% endif %}
+  {% else %}
+    {% include _ads/zhan_xian/zx_pagelevel.html %}
+{% endcase %}
