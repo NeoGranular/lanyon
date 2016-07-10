@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 54 - Invitation."
 category: heaven-awakening
 previous_chapter: 53
-next_chapter:
+next_chapter: 55
 date: 2016-07-09 18:57:00 +0200
 has_credits: true
 translator: toomuchnoob
