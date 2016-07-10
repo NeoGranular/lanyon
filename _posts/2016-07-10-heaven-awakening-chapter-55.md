@@ -80,4 +80,4 @@ An individual entered the room along with a strong alcoholic smell. This smell o
 
 They already knew the identity of this individual without turning their heads.
 
-'She is Chu Ming these people are trying to find?' This was the common thought of Wen Yan and Shen Chi at this moment. Xi Fan and Mo Lin immediately recognized that this was the same woman who'd easily taken care of Wei Ming at the congee shop. Subsequently, they saw, a red clothed girl clasped under her arm; Su Tang, and her other hand holding a leg while a body slid behind her as she entered the room. Who could it be, if not Lu Ping?
+'She is Chu Min these people are trying to find?' This was the common thought of Wen Yan and Shen Chi at this moment. Xi Fan and Mo Lin immediately recognized that this was the same woman who'd easily taken care of Wei Ming at the congee shop. Subsequently, they saw, a red clothed girl clasped under her arm; Su Tang, and her other hand holding a leg while a body slid behind her as she entered the room. Who could it be, if not Lu Ping?
