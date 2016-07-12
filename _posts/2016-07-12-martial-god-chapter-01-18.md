@@ -127,4 +127,4 @@ He raised both of his hands high and roared. His both palms, seeming a little sw
 
 He Yiming was overjoyed. Although he had the upper hand all along, his opponent was extremely experienced and had not confronted him directly. This made him gloomy as if he'd been striking cotton with all of his strength. Therefore, when Hubin stood steadily and counterattacked, he felt his dearest wish coming true.
 
-The instant fists and palms resolutely struck against each other, He Yiming's complexion immediately transformed and his powerful Internal Energy surged backward. The opponent's two fists, as if a gigantic axe cutting a mountain, thoroughly split apart the formidable might accumulated off his Rolling Boulder Fist and counterattacked.
+The instant fists and palms resolutely struck against each other, He Yiming's complexion immediately transformed and his powerful Internal Energy surged backward. The opponent's two palms, as if a gigantic axe cutting a mountain, thoroughly split apart the formidable might accumulated off his Rolling Boulder Fist and counterattacked.
