@@ -105,7 +105,7 @@ After fifteen minutes, Hubin was quite anxious. He was continuously cursing inwa
 
 'Where the hell did this freak pop up from?'
 
-'After employing gold type Internal Energy for so long, how are wind currents still intensifying.'
+'After employing metal-type Internal Energy for so long, how are wind currents still intensifying.'
 
 During the previous confrontation, he found out that He Yiming's battle skill was the metal type Rolling Boulder Fist. This was a pretty good fist technique; one of the strongest  in all the techniques of the same rank. However, such a fist technique had a huge disadvantage. It consumed huge amounts of Internal Energy in order to maintain a continuous aggression.
 
