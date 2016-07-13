@@ -43,7 +43,7 @@ On the second step, another disciple of the Ye Xiu Manor was stationed similarly
 
 All of the people gave an identical reason, a hundred people, a thousand people, ten thousand people, Yang Chen himself did not know how many had he killed nor how many reasons had he listened to.
 
-Yang Chen recognized those disciples of the Pure Yang Palace. All of these long dead people announced their identities when they appeared. Greatest Sky Sect, Universal Sect, Clear Sky Sect, Five Phases Sect, Green Jade Immortal Island and Tian Quan Sect’s countless disciples, all were killed and beheaded by Yang Chen, one by one. Apart from these, there were also those prisoners who were killed by Yang Chen just a moment ago, including the old, the feeble, the sick as well as those infants.
+Yang Chen recognized those disciples of the Pure Yang Palace. All of these long dead people announced their identities when they appeared. Greatest Heaven Sect, Universal Sect, Clear Sky Sect, Five Phases Sect, Green Jade Immortal Island and Tian Quan Sect’s countless disciples, all were killed and beheaded by Yang Chen, one by one. Apart from these, there were also those prisoners who were killed by Yang Chen just a moment ago, including the old, the feeble, the sick as well as those infants.
 
 The words they said, were told to Yang Chen, at least, a thousand or ten thousand, and every time he heard them, he would consult his own heart.
 

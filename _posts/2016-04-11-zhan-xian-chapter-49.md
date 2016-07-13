@@ -10,7 +10,7 @@ chapter:
 ---
 The reason why Yang Chen had decided to enter Pure Yang Palace after his rebirth again, apart from his master, was precisely Pure Yang Palace’s willingness to defend its disciples.
 
-In the previous life, when Yang Chen had met with an accident, four YuanYing experts of the Greatest Sky Sect had dropped in to fight with him, but Pure Yang Palace, aside from the Luminous Moon Hall the branch which had broken away with the help of the Greatest Sky Sect, the whole Pure Yang Palace sect had been exterminated just to save a falsely accused disciple.
+In the previous life, when Yang Chen had met with an accident, four YuanYing experts of the Greatest Heaven Sect had dropped in to fight with him, but Pure Yang Palace, aside from the Luminous Moon Hall the branch which had broken away with the help of the Greatest Heaven Sect, the whole Pure Yang Palace sect had been exterminated just to save a falsely accused disciple.
 <!--more-->
 
 At the moment it was the same with this affair, Xu Cheng Xin had clearly realized the merits and demerits and afterwards had immediately said for Yang Chen’s benefit that in this matter, the Pure Yang Palace will bow down. Even if he had punished him to enter seclusion because of this matter, that could still be considered a method to defend him.
@@ -133,7 +133,7 @@ Du Qian’s laughter made Chu Heng bubble up with anger.
 
 Yang Chen again shook his head, unable to control his laugh:
 
-“Could it be that if the research isn’t successful, it would be an enormous crime which can’t be punished even by beheading? However I do remember that there is a YuanYing expert of the Greatest Sky Sect as well as a Da Cheng expert of Green Jade Immortal Islands who are still kicking and are also researching the method to grow the thunder pomegranate, as for beheading, first behead these two seniors, then I will accept your punishment.”
+“Could it be that if the research isn’t successful, it would be an enormous crime which can’t be punished even by beheading? However I do remember that there is a YuanYing expert of the Greatest Heaven Sect as well as a Da Cheng expert of Green Jade Immortal Islands who are still kicking and are also researching the method to grow the thunder pomegranate, as for beheading, first behead these two seniors, then I will accept your punishment.”
 
 Those JieDan experts sitting behind him, although they hadn’t opened their mouths to say anything they also hadn’t missed a word in Chu Heng and Yang Chen’s conversation. Apparently Yang Chen’s response had allowed everyone to think of a solution to resolve this situation, only they were refusing to acknowledge it, however Yang Chen had already said that there were many great experts whose research hadn’t been successful, so if he, a trifling qi layer disciple, wasn’t that effective, it would also not lose any face. Who would dare to say that Yang Chen would lose face, as that would mean unconditionally offending this large number of YuanYing and Da Cheng stage experts.
 
@@ -163,7 +163,7 @@ Chu Heng was at loss for words again when facing Yang Chen’s repeated question
 
 A smile spread on Yang Chen’s face again, but any person with eyes could see the anger hidden within the smile.
 
-“I remember that the Greatest Sky Sect had a type of Hua Ying Pill prescription which was very precious and was refined only for the sect’s people, it could assist JieDan experts in producing their Ying, this would have equally benefited the other cultivation sects, but why don’t I see Uncle Master Chu advising the Greatest Sky Sect, but on the contrary, you want to sell our sect’s benefits. Uncle Master Chu, what kind of profit have you received from other people, that you surprisingly want to betray the sect and cheat your master?”
+“I remember that the Greatest Heaven Sect had a type of Hua Ying Pill prescription which was very precious and was refined only for the sect’s people, it could assist JieDan experts in producing their Ying, this would have equally benefited the other cultivation sects, but why don’t I see Uncle Master Chu advising the Greatest Heaven Sect, but on the contrary, you want to sell our sect’s benefits. Uncle Master Chu, what kind of profit have you received from other people, that you surprisingly want to betray the sect and cheat your master?”
 
 “You, you, you venomous slanderer!”
 

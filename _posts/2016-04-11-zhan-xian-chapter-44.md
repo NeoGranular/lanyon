@@ -98,6 +98,6 @@ Even Xu Cheng Xin didn’t know the reason, he was only sincerely controlling th
 
 “That Pure Yang Palace’s Yang Chen, surely he is a fraud!”
 
-When people raised these questions, immediately someone raised even bigger questions, Greatest Sky Sect’s JieDan stage expert Cheng Wen Cai, after listening to the words of his sect’s younger generation, immediately started talking as if he was giving a verdict:
+When people raised these questions, immediately someone raised even bigger questions, Greatest Heaven Sect’s JieDan stage expert Cheng Wen Cai, after listening to the words of his sect’s younger generation, immediately started talking as if he was giving a verdict:
 
 “That guy, must be killed!”

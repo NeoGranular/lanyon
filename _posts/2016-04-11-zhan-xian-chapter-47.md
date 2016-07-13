@@ -55,7 +55,7 @@ Apart from these immediate losses, the reputation of the sects of these JieDan e
 
 Of the two groups of JieDan experts who controlled the spell formation, only Xu Cheng Xin strictly complied with the commandment and was thus able to escape with just an exhaustion of his spirit power, which needed only three to five days to recover.
 
-This time the losses of the Greatest Sky Sect were the largest. Even if it was a big sect, still, losing three JieDan experts in a single day was something it was not able to support. But right now, not only were the losses this big already, but they still had to make an apology.
+This time the losses of the Greatest Heaven Sect were the largest. Even if it was a big sect, still, losing three JieDan experts in a single day was something it was not able to support. But right now, not only were the losses this big already, but they still had to make an apology.
 
 Not to mention that, at that time, Cheng Wen Cai had also promised good benefits to the seven other JieDan experts of the other sects and he still had to honor his commitments one by one and furthermore he even had to double the compensation. Once he thought of this point, Cheng Wen Cai was unable to remain calm. His eyes rolled up into his head and he again lost consciousness.
 
@@ -65,7 +65,7 @@ Xu Cheng Xin however, regardless of the recent accusations, directly asked all o
 
 “If anyone still has doubts, I invite you to come out!”
 
-Who among the cultivators would be so foolish? After this kind of situation had come to pass, who would be willing to offend Pure Yang Palace? Still wanting to taunt like that batch of sects headed by Greatest Sky Sect? Even if someone had thought about this within their head, they did not dare to say anything.
+Who among the cultivators would be so foolish? After this kind of situation had come to pass, who would be willing to offend Pure Yang Palace? Still wanting to taunt like that batch of sects headed by Greatest Heaven Sect? Even if someone had thought about this within their head, they did not dare to say anything.
 
 Yang Chen had climbed to the peak two times, while receiving attacks both times. This was not at all the usual level of difficulty for the Heavenly Stairs. When this thought flashed through someone’s mind, they immediately pushed it down. If he was able to climb to the peak under such circumstances, then wouldn’t it be no problem at all under normal circumstances?  
 
@@ -75,7 +75,7 @@ Only after Xu Cheng Xin asked this three times and there was nobody who had any 
 
 Xu Cheng Xin looked at Cheng Wen Cai who had managed to sober up again, and took a few steps towards him, one after another.
 
-“My Pure Yang Palace’s fraud disciple should be killed, but then, I wonder, how should a fraud JieDan expert of the Greatest Sky Sect be treated. I think, the Greatest Sky Sect should clean the sect!”
+“My Pure Yang Palace’s fraud disciple should be killed, but then, I wonder, how should a fraud JieDan expert of the Greatest Heaven Sect be treated. I think, the Greatest Heaven Sect should clean the sect!”
 
 After he said those words, thoroughly venting his hate, Xu Cheng Xin, without paying any more attention to anyone else, disappeared and within a moment reappeared at the peak of the Heavenly Stairs, opposite of Yang Chen.
 
@@ -89,7 +89,7 @@ Although he had achieved an overwhelming victory, he was also very frightened at
 
 The victorious person was Yang Chen, and the most victorious sect was naturally Pure Yang Palace without any competitor. Two disciples, one who had stepped onto the peak and other one had climbed to the sixty second step of the Heavenly Stairs. Whichever one you chose, both of them were talented disciples worth fighting over. This class of talent would only come out once in a century, the Pure Yang Palace should be grateful to their ancestors for these two talented disciples. Their flourishing luck made people drool with desire.
 
-The farce led by the Greatest Sky Sect had finally come to an end. So far, this year’s Floating Mountain Assembly had been the most perfect one.
+The farce led by the Greatest Heaven Sect had finally come to an end. So far, this year’s Floating Mountain Assembly had been the most perfect one.
 
 Apart from the Pure Yang Palace, which had returned from a rewarding journey, those who had participated in the assembly were also not without any gains. The Heavenly Stairs, no matter how many steps one climbs, one would still have some benefits. Even those who were just watching had seen a marvelous show, which had satisfied their craving.
 

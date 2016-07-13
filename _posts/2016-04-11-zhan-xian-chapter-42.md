@@ -21,7 +21,7 @@ Xun Cheng Xin almost exploded with happiness, in this year’s Floating Mountain
 
 Leaving aside Yang Chen, who had chopped off the head of Tian Quan Sect’s Han Jinade, only Gongsun Ling climbing to the sixty second step of the Heavenly Stairs was sufficient to make people acknowledge that Pure Yang Palace had a talent comparable to Shi Fairy of the Green Jade Immortal Island. The faint ridicule by these Fellow Daoists of other sects, due to the sect’s disciples’ lame performances in the past would also disappear. Once he thought of this point, Xu Cheng Xin felt pleasure, as if he had gotten a watermelon in the midst of summer.
 
-In the future who would dare to talk arrogantly in front of him? Aside from the Green Jade Immortal Island, even the insufferably arrogant disciples of the Greatest Sky Sect wouldn’t dare to say half a word in the face of such an achievement by Gongsun Ling. Just one disciple, Gongsun Ling, was sufficient to allow Pure Yang Palace to blow off all of the steam.
+In the future who would dare to talk arrogantly in front of him? Aside from the Green Jade Immortal Island, even the insufferably arrogant disciples of the Greatest Heaven Sect wouldn’t dare to say half a word in the face of such an achievement by Gongsun Ling. Just one disciple, Gongsun Ling, was sufficient to allow Pure Yang Palace to blow off all of the steam.
 
 Remembering what happened so far, when Xu Cheng Xin looked in the other directions where the nine other JieDan stage experts were sitting, although he did not yet dare to boast, he was also no longer lowering his head.
 

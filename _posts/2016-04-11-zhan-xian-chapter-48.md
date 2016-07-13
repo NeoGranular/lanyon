@@ -125,7 +125,7 @@ Soon, Yang Chen’s words were spread around the whole market, even passing into
 
 “Humph, he surely can overestimate his own ability!  The mouth of this minor, mad disciple is indeed not small!”
 
-The one speaking was a JieDan expert from the Greatest Sky Sect, only now he was at the middle of the foundation stage, he had recently woken up after healing and hearing the news, he couldn’t help but open his mouth.
+The one speaking was a JieDan expert from the Greatest Heaven Sect, only now he was at the middle of the foundation stage, he had recently woken up after healing and hearing the news, he couldn’t help but open his mouth.
 
 “This is also good!”
 
@@ -147,7 +147,7 @@ Cheng Wen Cai again sneered.
 
 “I just want to know, such an exceptional talent, researching something which even countless numbers of YuanYing stage experts haven’t been able to discover in two hundred years. So after two hundred year, how much more talented will he have become?”
 
-The eyes of the two JieDan expert who had fallen an entire realm began to shine brightly when they heard Cheng Wen Cai’s words. They immediately began to gather the disciples of the Greatest Sky Sect, by secretly sending voice transmissions to them. The disciples were very confused when they came in, but the more they heard, the more they nodded, then ran out and began to arrange the matter at lightening speed.
+The eyes of the two JieDan expert who had fallen an entire realm began to shine brightly when they heard Cheng Wen Cai’s words. They immediately began to gather the disciples of the Greatest Heaven Sect, by secretly sending voice transmissions to them. The disciples were very confused when they came in, but the more they heard, the more they nodded, then ran out and began to arrange the matter at lightening speed.
 
 Even before Yang Chen and Gongsun Ling had finished purchasing the things Gongsun Ling needed, the rumor had already widely spread in the entire Floating Mountain, even countless number of summoning talismans have already started flying out of the Floating Mountain. By the time when Xu Cheng Xin was informed and he could deny the rumor, it was already too late.
 

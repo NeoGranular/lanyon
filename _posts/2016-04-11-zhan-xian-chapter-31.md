@@ -77,7 +77,7 @@ These words spoken by a JieDan stage expert immediately made Shen Da, Ho Lin, Ti
 
 However hearing these words, Yang Chen’s face revealed traces of a forced smile. He had aroused Zhu Chen Tao’s interest in him just so that he can have a hidden protective layer within the Pure Yang Palace and at the same time have the other elders also pay more attention to him, but not in order to make Zhu Chen Tao evaluate himself this way. In case other people heard this, it would give rise to many unknown troubles.
 
-The cultivation world is not completely formed from good natured people. Who knows how many people, envious and jealous of other’s success, like Chu Heng, there are in the Pure Yang Palace? Who, to curry favor and make friends with disciples related to the Greatest Sky Sect, did everything he could. How can his temperament be proper?
+The cultivation world is not completely formed from good natured people. Who knows how many people, envious and jealous of other’s success, like Chu Heng, there are in the Pure Yang Palace? Who, to curry favor and make friends with disciples related to the Greatest Heaven Sect, did everything he could. How can his temperament be proper?
 
 Furthermore, not even within the sect does everyone live a tranquil and tempered life in harmony with everyone. At the moment, the cultivation resources are not at all enough to satisfy the extravagance of all cultivators. This means that everyone has to struggle over the resources within the sect. And in some sects, when a disciple brimming with talent appears and lets his guard down, he wouldn’t even know why and when he suddenly died.
 

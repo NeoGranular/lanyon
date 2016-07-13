@@ -39,7 +39,7 @@ These kinds of circumstances were apparently a common thing, as everyone was awa
 
 “Fengyun Palace Hall’s Fellow Daoist Xie was only able to climb fourteen steps of the Heavenly Stairs, what a pity! I’m curious about what sort of enlightenment he gained!”
 
-“Nevertheless, we must look at the disciples of the Greatest Sky Sect, Universal Sect, Five Phases Sect, Clearsky Sect and Blue Jade Immortal Islands, the disciples of these big sects will surely be interesting!”
+“Nevertheless, we must look at the disciples of the Greatest Heaven Sect, Universal Sect, Five Phases Sect, Clearsky Sect and Blue Jade Immortal Islands, the disciples of these big sects will surely be interesting!”
 
 ...
 

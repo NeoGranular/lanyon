@@ -136,7 +136,7 @@ Just thinking highly of Yang Chen’s future, this explanation was not at all su
 
 Shangguan Feng continued speaking:
 
-“Even if Greatest Sky Sect’s Li Qing Chen feels jealous, he still cannot dare to ask for your life. As for Chu Heng, he would dare even less. He can only use his status as a famous inner disciple to arrange layer after layer of obstructions to hinder your progress, but nothing more. Rules are rules, if you are able to bypass his obstructions, who would dare to repeatedly hinder you.”
+“Even if Greatest Heaven Sect’s Li Qing Chen feels jealous, he still cannot dare to ask for your life. As for Chu Heng, he would dare even less. He can only use his status as a famous inner disciple to arrange layer after layer of obstructions to hinder your progress, but nothing more. Rules are rules, if you are able to bypass his obstructions, who would dare to repeatedly hinder you.”
 
 When Shangguan Feng had started speaking, he had addressed Chu Heng as Uncle Master Chu, but afterwards he directly addressed him by name. Clearly he absolutely resented these plans arranged by Chu Heng.
 

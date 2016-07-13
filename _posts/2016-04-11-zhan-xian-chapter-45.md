@@ -8,14 +8,14 @@ next_chapter: 46
 chapter:
   number: 45
 ---
-At any time, there was no lack of people who would envy or be jealous of other people’s success, it was the same in the cultivation world. This JieDan expert of the Greatest Sky Sect raised this opinion after he showed up in response to the questions by the crowd. Who would want a second rate sect’s second qi layer disciple to obtain the honor of setting foot on the peak of the Heavenly Stairs? Furthermore, among the ten JieDan experts managing the spell formation, apart from Xu Cheng Xin of the Pure Yang Palace the other nine were all seriously injured and had fallen a level, it would be a miracle if this did not make people suspicious.
+At any time, there was no lack of people who would envy or be jealous of other people’s success, it was the same in the cultivation world. This JieDan expert of the Greatest Heaven Sect raised this opinion after he showed up in response to the questions by the crowd. Who would want a second rate sect’s second qi layer disciple to obtain the honor of setting foot on the peak of the Heavenly Stairs? Furthermore, among the ten JieDan experts managing the spell formation, apart from Xu Cheng Xin of the Pure Yang Palace the other nine were all seriously injured and had fallen a level, it would be a miracle if this did not make people suspicious.
 
 “Who practiced fraud? Cheng Wen Cai, you dare accuse me of practicing fraud!?”
 <!--more-->
 
 Xu Cheng Xin was the Hall Master of the Foreign Affairs Hall. Although he was smooth and evasive in dealing with affairs, he was neither timid nor a coward and once he heard that surprisingly there was still someone who did not want to admit that Yang Chen was the first one to set foot on the peak of the Heavenly Stairs and wanted to put him to ground, how could he be polite.
 
-“Go! You yourself can go find ten JieDan experts and ask your Greatest Sky Sect’s disciple to reach the top and let me have a look whether they cheated or not!”
+“Go! You yourself can go find ten JieDan experts and ask your Greatest Heaven Sect’s disciple to reach the top and let me have a look whether they cheated or not!”
 
 Although the Heavenly Stairs ceremony was not a significant affair, Xu Cheng Xin had managed it for many years, so he immediately got angry. Seizing this opportunity, the JieDan stage expert immediately denounced Cheng Wen Cai’s argument.
 
@@ -96,9 +96,9 @@ After all was said and done, he just wanted to prove that Yang Chen was a fraud.
 
 “Fellow Daoist Xu, you should not be crazy about it, if Fellow Daoist Xu does not make up his mind to clean the sect, I will have to do it in his place.”
 
-“This matter of cleaning up the sect, bring that up after a disciple of the Greatest Sky Sect climbs up over the fiftieth step of the Heavenly Stairs, Ok!”
+“This matter of cleaning up the sect, bring that up after a disciple of the Greatest Heaven Sect climbs up over the fiftieth step of the Heavenly Stairs, Ok!”
 
-Xu Cheng Xin answered sneeringly. Everyone who heard this clearly understood that so long as next time there was a disciple of Greatest Sky Sect who would ascend past the fiftieth step of the Heavenly Stair, Xu Cheng Xin would immediately jump out to blame him of fraud.
+Xu Cheng Xin answered sneeringly. Everyone who heard this clearly understood that so long as next time there was a disciple of Greatest Heaven Sect who would ascend past the fiftieth step of the Heavenly Stair, Xu Cheng Xin would immediately jump out to blame him of fraud.
 
 “As for your claim, Fellow Daoist Cheng, that my Pure Yang Palace’s disciple Yang Chen cheated, then how about Fellow Daoist Cheng gathers ten JieDan stage experts and make Yang Chen climb up the Heavenly Stairs again?”
 
@@ -108,7 +108,7 @@ Xu Cheng Xin had confidence in Yang Chen, so he immediately raised the challenge
 
 To this condition, Cheng Wen Cai neither agreed nor disagreed, however. The former only wanted to uncover Yang Chen’s fraud and afterward compel the Pure Yang Palace to clean their sect. But at that time, Xu Cheng Xin had sworn an oath on his Heart’s Devil, that this was certainly not his own doing.
 
-Although the Pure Yang Palace was a second rate sect, it would still not tolerate someone spouting nonsense to tarnish its reputation. If someone would question their people, they had to take out the evidence, if they had no evidence, then even if it was the sect leader of Greatest Sky Sect, he still could not tarnish Pure Yang Palace as he wished. Perhaps if Greatest Sky Sect’s sect master himself had personally appeared, then he would be able to ask for Yang Chen’s life, but unfortunately, a minor Heavenly Stairs Assembly and a second qi layer disciple were not worthy for the Greatest Sky Sect’s Sect Leader to appear personally and Cheng Wan Cai wouldn’t dare dream of such a situation.
+Although the Pure Yang Palace was a second rate sect, it would still not tolerate someone spouting nonsense to tarnish its reputation. If someone would question their people, they had to take out the evidence, if they had no evidence, then even if it was the sect leader of Greatest Heaven Sect, he still could not tarnish Pure Yang Palace as he wished. Perhaps if Greatest Heaven Sect’s sect master himself had personally appeared, then he would be able to ask for Yang Chen’s life, but unfortunately, a minor Heavenly Stairs Assembly and a second qi layer disciple were not worthy for the Greatest Heaven Sect’s Sect Leader to appear personally and Cheng Wan Cai wouldn’t dare dream of such a situation.
 
 Just a mere Cheng Wen Cai’s position was not enough to make Pure Yang Palace, who also had several Yuan Ying experts to keep watch, yield. At present, he had only one option and that was to uncover Yang Chen’s fraud, otherwise, he would have to carry the label of a person who speaks without thinking. Apart from having to give an apology to the Pure Yang Palace, perhaps in the future his words, as a JieDan Stage expert, would be considered as a joke by other people. If a JieDan expert could be bothered by a qi layer outer disciple, who would still show respect to him?
 
