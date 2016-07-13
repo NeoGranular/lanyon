@@ -20,7 +20,7 @@ note: "I have exams, so no more chapters of MG this week. Though, HAP should be 
 ---
 The formidable strength instantly penetrated through He Yiming's every defense and slashed at him like a sharp blade.
 
-At this instant, He Yiming awareness rose to the extreme. He actually felt as if he was brushing against the death. He felt so unbelievably close to that obscure, murky, and frightening aura.
+At this instant, He Yiming's awareness rose to the extreme. He actually felt as if he was brushing against the death. He felt so unbelievably close to that obscure, murky, and frightening aura.
 
 His opponent's palms could transmit such a formidable strength; such a thing was absolutely beyond He Yiming's understanding of Internal Energy and battle skills.
 <!--more-->
@@ -63,7 +63,7 @@ As if the collision of two gigantic iron plates, at the time of the collision of
 
 The two forces exploded at the point of the collision, and He Yiming's figure was blasted away upside down. Surprisingly, his strike, which was brimming with power, couldn't completely suppress the opponent in terms of strength.
 
-The powerful force issued by Hubin's palm had overstepped beyond He Yiming's  understanding. The might produced by a battle skill which corresponded to the peak of the fifth layer could actually cause him and his body suffer so much.  
+The powerful force issued by Hubin's palm had stepped beyond He Yiming's understanding. The might produced by a battle skill which corresponded to the peak of the fifth layer could actually cause him and his body suffer so much.  
 
 However, while being in air, He Yiming again changed his Internal Energy from metal-type to water-type. The strong self-healing capabilities of water type Internal Energy could be seen at this moment. The strong impact he'd received and his slightly suffering five viscera and six bowels immediately improved a lot.
 
