@@ -97,7 +97,7 @@ When he was confronting a living person, although he was somewhat afraid, once h
 
 After hesitating for a long time, he eventually went forward and arrived beside the corpse. He cautiously reached out with his hand and began to search the body.
 
-He didn't know why would he suddenly thought about such a thing, but once his thoughts turned in this direction, his couldn't stop his body from complying.
+He didn't know why would he suddenly thought about such a thing, but once his thoughts turned in this direction, he couldn't stop his body from complying.
 
 After a short while, He Yiming had taken out some things. Included among these were two gold coins and ten taels of loose silver. This was excellent stuff. Although He Yiming couldn't be sure that these riches were not made off killing people, he'd no hesitation submitting to greed.
 
