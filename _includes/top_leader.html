@@ -13,5 +13,7 @@
   {% when 'martial-god' %}
     {% include _ads/martial_god/mg_top_leaderboard.html %}
   {% else %}
-    {% include _ads/home_page/home_page_top_leaderboard.html %}
+    {% if page.isErrorPage != true %}
+      {% include _ads/home_page/home_page_top_leaderboard.html %}
+    {% endif %}
 {% endcase %}
