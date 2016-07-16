@@ -1,3 +1,4 @@
+{% comment %}
 {% assign isOdd = page.chapter.number | modulo: 2 %}
 {% case page.category %}
   {% when 'zhan-xian' %}
@@ -9,3 +10,4 @@
   {% else %}
     {% include _ads/zhan_xian/zx_pagelevel.html %}
 {% endcase %}
+{% endcomment %}
