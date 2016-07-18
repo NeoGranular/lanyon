@@ -22,5 +22,3 @@ toomuchnoob will now be translating the novel [**Martial God**]({{site.baseurl}}
 If you want to support our site, please consider turning off your ad blocker or donating.
 
 Thank you for your support and for reading here! Have a nice day! 😊
-
-### No Immortal Executioner chapters for a few days. We'll be back soon. Sorry for the inconvenience!
