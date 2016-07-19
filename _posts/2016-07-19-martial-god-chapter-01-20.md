@@ -165,7 +165,7 @@ Following the mountain path, everybody was walking towards the outside. From the
 
 The more they approached the end of mountains, the more He Xiangci's heart surged. Every once in a while, his vision swept through the three lower-officials and the servants of Xu family.
 
-He Yiming looked calm and collected on the surface, but he'd increased his guard and was paying attention to every small movement of his counterpart with his eyes. While his mind was bitter complaining. If this man decided to risk killing everyone to silence them in order to kill He Yiming, latter would have no chance to escape.
+He Yiming looked calm and collected on the surface, but he'd increased his guard and was paying attention to every small movement of his counterpart with his eyes, while his mind was bitterly complaining. If the man decided to risk killing everyone to silence them in order to kill He Yiming, latter would have no chance to escape.
 
 After all, Xu Xiangci was an eighth level Internal Energy expert. Furthermore, his battle experience was abundant and was far above that of He Yiming.
 
