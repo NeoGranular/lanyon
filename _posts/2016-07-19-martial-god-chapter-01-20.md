@@ -139,7 +139,7 @@ Xu Xiangci's face was becoming increasingly harmonious. He said:
 
 Sounds of sharp breath intakes sounded from the surroundings. They looked at He Yiming with peculiar gazes.
 
-A hard-to-conceal peculiar glint flickered in Xu Xiangci's eyes while his heart began to churn. A hidden killing intent flickered in his eyes. However, his reaction was extremely quick. He instantly restrained the killing intent. The killing intent instantly appeared and disappeared. An average person would not have felt it.
+A hard-to-conceal peculiar glint flickered in Xu Xiangci's eyes while his heart began to churn. A faint killing intent flickered in his eyes. However, his reaction was extremely quick. He instantly restrained the killing intent. The killing intent instantly appeared and disappeared. An average person would not have felt it.
 
 However, the individual in front of him, He Yiming, felt it extremely clearly. His heart immediately raced, and he enormously increased his guard against the man in front of him.
 
