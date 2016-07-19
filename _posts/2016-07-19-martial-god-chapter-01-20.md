@@ -169,7 +169,7 @@ He Yiming looked calm and collected on the surface, but he'd increased his guard
 
 After all, Xu Xiangci was an eighth level Internal Energy expert. Furthermore, his battle experience was abundant and was far above that of He Yiming.
 
-As He Yiming's thoughts were going rampart, he suddenly had an idea. Though, it held no use for his present situation.
+As He Yiming's thoughts were going rampant, he suddenly had an idea. Though, it held no use for his present situation.
 
 Soon, in about fifteen minutes, they would exit the mountain pass. Xu Xiangci suddenly stopped his footsteps and sucked in a deep breath. His eyes turned resolute as if he'd made a decision.
 
