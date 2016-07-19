@@ -20,7 +20,7 @@ note: ""
 ---
 He Yiming heard sounds of disturbance coming from afar. He immediately discerned that this disturbance was produced by a group of people.
 
-One could tell at a glance that these people had come here while chasing Hubin.
+A glance at a corpse on the ground, and One could tell that these people had come here following Hubin's trails.
 
 He Yiming again retreated a few steps and hesitated a bit, before loudly speaking:
 
