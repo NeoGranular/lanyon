@@ -89,7 +89,7 @@ He Yiming instantly guessed the man's identity. He ought to be the ranked second
 
 He Yiming had heard some things about Xu family. They also had a lord father comparable to He Wude. With the two tenth level masters, both the sides maintained an equilibrium in terms of their martial strength's peak.
 
-Xu family's second generaton had four members, though not a single had attained the ninth level. All of them were strong individuals at the eighth level. In Tai Cang county, a small region, such strength couldn't be belittled.
+Xu family's second generaton had four members, though none of these had attained the ninth level. All of them were strong individuals at the eighth level. In Tai Cang county, a small region, such strength couldn't be belittled.
 
 As expected, the man's vision was once again fixed on He Yiming, and his eyes seemed slightly suspicious.
 
