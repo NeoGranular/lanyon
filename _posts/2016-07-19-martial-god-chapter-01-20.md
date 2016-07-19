@@ -75,7 +75,7 @@ After a short while, more than ten people stepped out from the three directions.
 
 The individual in the lead was a tall man. He didn't have any beard, just a short mustache on his mouth. He seemed to be in high spirits, and his eyes seemed resonant in such a way that it caused people not being able to intently look at him. Clearly, he was a cultivator who'd high accomplishments in Internal Energy.
 
-He Yiming's gaze swept through the man's body at a lightning fast speed. He immediately discerned that except for the man, all the rest were somewhere around the third layer and were hardly any different than the elite servants of the He Family Manor. However, the man in the lead was rather different. He Yiming was unable to discern his true strength, but he'd a feeling that the man's strength would be much above him and would be hardly any different than his father and the rest.
+He Yiming's swept his gaze through everybody at a lightning fast speed. He immediately discerned that except for the man, all the rest were somewhere around the third layer and were hardly any different than the elite servants of the He Family Manor. However, the man in the lead was rather different. He Yiming was unable to discern his true strength, but he'd a feeling that the man's strength would be much above him and would be hardly any different than his father and the rest.
 
 After stepping out, the man's gaze first swept through He Yiming's face. He immediately revealed a faintly surprised expression. Subsequently, as he saw the Hubin's body on the ground, his brows slightly creased.
 
