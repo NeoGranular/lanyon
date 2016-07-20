@@ -99,7 +99,7 @@ After hesitating for a long time, he eventually went forward and arrived beside 
 
 He didn't know why would he suddenly thought about such a thing, but once his thoughts turned in this direction, he couldn't stop his body from complying.
 
-After a short while, He Yiming had taken out some things. Included among these were two gold coins and ten taels of loose silver. This was excellent stuff. Although He Yiming couldn't be sure that these riches were not made off killing people, he'd no hesitation submitting to greed.
+After a short while, He Yiming had taken out some things. Included among these were two gold coins and ten taels of loose silver. This was excellent stuff. Although one might have some misgivings about making riches off killing people, He Yiming had no hesitation submitting to greed.
 
 Although He family was one of the top families in the Tai Cang county, He Yiming was, after all, only thirteen years old. His monthly allowance was merely three taels of loose silver. If he exchanged these two gold coins to silver, he would obtain at least two hundred taels, which would be the combined sum of his five-six years of allowance.
 
