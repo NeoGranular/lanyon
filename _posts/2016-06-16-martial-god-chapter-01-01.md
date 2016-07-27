@@ -50,6 +50,7 @@ The relatively bigger one, who was still in his training stance, was ranked sixt
 Although their age were only about eleven-twelve, they'd already begun to receive the elite education formulated for all the young disciples of the family.
 
 They both were birthed by the family's first wife and had pretty good talent. Although their talent did not enable them to excel among their peers, it wasn't inferior to that of many others either.
+(Tl: This line doesn't imply that they are blood-brothers. It implies that they are direct descendants, born of familiy's principal wives.)
 
 After coming out from behind the tree, He Yitao suddenly lowered his body, applied strength through his feet, and dashed towards He Yiming like a lightning bolt. Both of his hands were on his chest; taking advantage of his charge's force, he struck at the latter during the last second before the collision.
 
