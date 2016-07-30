@@ -73,7 +73,7 @@ Therefore, he hurried back to the manor and made a decision that he would cultiv
 
 However, he didn't expect that he would randomly select a supplementary technique. Perhaps this was the will of heavens.
 
-After muttering himself for a short while, He Yiming moderated his thoughts and didn't place the book back, but instead started to copy it down on the table in the centre of the room.
+After pondering for a short while, He Yiming moderated his thoughts and didn't place the book back, but instead started to copy it down on the table in the centre of the room.
 
 The book didn't have much content, thus, He Yiming didn't have to exert much effort. Furthermore, his Internal Energy had reached the apex of the sixth layer and was touching the bottleneck for the next level, thus, his eyesight and wrist control had naturally improved a lot. With the brush in his hand flying like a serpent-dragon, he was finished copying everything in an hour.
 
