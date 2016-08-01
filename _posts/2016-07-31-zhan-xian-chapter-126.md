@@ -18,7 +18,7 @@ editor:
 proofreader:
 is_preview: false
 ---
-Seeing the indifferent attitude of Yang Chen, Gao Yue had finally realized that the pressure of the Green Jade Immortal Islands didn’t work in front of Yang Chen. Disappointed, she gave up struggle and unwillingly asked:
+Seeing the indifferent attitude of Yang Chen, Guan Yueying had finally realized that the pressure of the Green Jade Immortal Islands didn’t work in front of Yang Chen. Disappointed, she gave up struggle and unwillingly asked:
 
 “What do you want?”
 
