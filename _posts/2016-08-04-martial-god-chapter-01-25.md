@@ -95,7 +95,7 @@ On the other hand, He Yixuan was completely opposite of his brother. The techniq
 
 As his Silk Palm unfolded, it seemed tepid; his actions didn't seem like that of He Yihai at all, who seemed to have covered the sky with fire.
 
-Despite the two sides not fighting a life-and-death battle, the exchanges between exchange were extremely influential; a feast to the eyes of spectators. The majority of the people on the scene were moved and were completely engrossed, rendered incapable of diverting their attention.
+Despite the two sides not fighting a life-and-death battle, the exchanges between them were extremely influential; a feast to the eyes of spectators. The majority of the people on the scene were moved and were completely engrossed, rendered incapable of diverting their attention.
 
 However, He Yiming’s brows were slightly creased. Although the moves displayed by his brothers were pretty jubilant, in his eyes, they were full of holes and gave off a feeling of flower but no fruit.
 
