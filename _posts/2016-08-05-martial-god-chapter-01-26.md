@@ -27,7 +27,7 @@ However, his opponent, He Yixuan, still remained unfazed. He Yiming could even f
 
 As expected, after a few minutes, He Yihai couldn't sustain such an intense consumption. He Yihai pulled back and the countless pair of palms, which seemed to be covering the skies, immediately disappeared.
 
-After Yihai restrained pulled back, He Yixuan didn’t press his advantage, instead stood at his position with rapt attention. Though his eyes had a trace of smugness.
+After Yihai pulled back, He Yixuan didn’t press his advantage, instead stood at his position with rapt attention. Though his eyes had a trace of smugness.
 
 He Yihai let out long sigh and said:
 
@@ -123,7 +123,7 @@ Instantaneously, several thoughts flashed through his mind, and he abruptly went
 
 Instead of promoting his Rolling Boulder Fist to the seventh layer or employing Splitting Mountain Thirty Six Forms, his circulating Internal Energy, which was the metal-type Primordial Energy, transformed into that of the Ripple technique.
 
-Next moment, He Yiming’s movements seemed to have relaxed. His fist technique had not changed and was still that seemingly-a-surging-boulder-kind of metal-type fist technique, however, it actually gave off a boundless and continuous feeling like that of flowing water.
+Next moment, He Yiming’s movements seemed to have relaxed. His fist technique had not changed and was still that seemed like a surging boulder sort of metal-type fist technique, however, it actually gave off a boundless and continuous feeling like that of flowing water.
 
 He Wude and the rest first started, then opened their eyes wide with astonished expressions.
 
