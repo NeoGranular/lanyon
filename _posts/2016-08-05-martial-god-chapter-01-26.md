@@ -39,7 +39,7 @@ He Yixuan laughed and said:
 
 “Second brother, if you switch to wood-type cultivation technique, could you not excel your younger brother?”
 
-He Yihai’s eyebrows raised up as he glared at his younger brother, but subsequently, he laughed nevertheless. He Wude and the rest also had faint smiles on their faces. He Yixaun’s words were obviously just for fun. How could switching to a different type of cultivation technique be so easy. Only an idiot or someone trapped on a single layer’s peak for a long time, like He Yiming, would try to cultivate a different technique.
+He Yihai’s eyebrows jumped as he glared at his younger brother, but subsequently, he laughed nevertheless. He Wude and the rest also had faint smiles on their faces. He Yixaun’s words were obviously just for fun. How could switching to a different type of cultivation technique be so easy. Only an idiot or someone trapped on a single layer’s peak for a long time, like He Yiming, would try to cultivate a different technique.
 
 However, this situation only corresponded up to about the fifth or sixth layer. After cultivating to the seventh layer, basically, no one would choose to give up on his/her choice.
 
