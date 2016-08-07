@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 57 - To Protect."
 category: heaven-awakening
 previous_chapter: 56
-next_chapter:
+next_chapter: 58
 date: 2016-07-17 19:17:00 +0200
 has_credits: true
 translator: toomuchnoob
