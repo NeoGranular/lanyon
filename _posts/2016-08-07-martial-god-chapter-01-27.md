@@ -59,7 +59,7 @@ He Quanyi was extremely proud as he watched these two outstanding nephews of his
 
 Retreating a few steps, He Quanyi commanded the commencement of the most outstanding battle among the youngest generation.
 
-With one hand on his chest, He Yitian made a gesture of invitation. He Yiming was also not polite. Crisscrossing his two fists, he advanced forward in huge strides like a rumbling rolling boulder.
+With one hand on his chest, He Yitian made a gesture of invitation. He Yiming was also not polite. Crisscrossing his two fists, he advanced forward in huge strides like a rumbling boulder.
 
 Just after a short while since the start of the fight, everybody could see why He Yitian was reputed to be the number figure in the third generation. Unwittingly, he’d already gained an upper hand.
 
