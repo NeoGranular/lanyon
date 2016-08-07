@@ -22,14 +22,14 @@ Cool wind blew, bringing faint rustling sound of trees, which resembled soft mur
 
 In He family’s backyard, at this moment, no other sound could be heard other than the rustling of wind.
 
-In He family estate, He Yitian was an illustrious figure. Especially in third generation, he’d been naturally approved as the individual with the best future prospects.
+In He family estate, He Yitian was an illustrious figure. Especially in the third generation, he’d been naturally approved as the individual with the best future prospects.
 <!--more-->
 
 Even in the clan’s evening banquets, his seat was the best among the third generation.
 
 This was not merely because he was the eldest grandson of the eldest son. He’d obtained the approval of the everybody based on his own outstanding talent in cultivation.
 
-Attaining the sixth layer at the age of fourteen, attaining the seventh layer at the age of nineteen, He Yitian, who was currently twenty one years old, was well-reputed in the entire Tai Cang county. Even while taking all the three influential families into consideration, he was a top-notch expert.
+Attaining the sixth layer at the age of fourteen, attaining the seventh layer at the age of nineteen, He Yitian, who was currently twenty-two years old, was well-reputed in the entire Tai Cang county. Even while taking all the three influential families into consideration, he was a top-notch expert.
 
 This was because the third generation of the other two families didn’t have a single seventh layer cultivator.
 
