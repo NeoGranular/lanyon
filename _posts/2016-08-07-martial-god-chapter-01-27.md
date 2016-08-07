@@ -73,7 +73,7 @@ If his Internal Energy truly had been at the sixth layer, he feared that he woul
 
 He Wude’s eyes began to shine. He Yiming’s performance had far surpassed his expectations.
 
-Currently, He Yitian was twenty-two years old. He’d already cultivated earth-type techniques for seventeen years. The true essence of earth-type techniques, attack through defense and steadily press forward, had thoroughly been comprehended by him long ago. It seemed as though he hadn’t taken the initiative to attack, however, every time both sides exchanged blows, an extremely minute Internal Energy was left behind coiled around He Yiming’s body.
+Currently, He Yitian was twenty-two years old. He’d already cultivated earth-type techniques for seventeen years. The true essence of earth-type techniques, attack through defense and steadily press forward, had thoroughly been comprehended by him long ago. It seemed as though he hadn’t taken the initiative to attack, however, every time both sides exchanged blows, an extremely minute Internal Energy was left coiled around He Yiming’s body.
 
 Furthermore, He Yitian’s earth-type technique seemed a deep pit, gradually pulling He Yiming deep inside it. Even ceasing the assault and pull away was extremely hard for He Yiming.
 
