@@ -41,7 +41,7 @@ After all, the difficulty of attaining the seventh layer indeed far surpassed th
 
 Therefore, when He Yitian stood up on his own accord and posed a challenge to He Yiming, the spectators felt it inconceivable.
 
-After quite a while, He Wude suddenly laughed with a laugh:
+After quite a while, He Wude suddenly laughed and said:
 
 “Yiming, your eldest brother has requested you for a duel; why don’t you fight for a bit.”
 
