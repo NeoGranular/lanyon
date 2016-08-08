@@ -1,4 +1,5 @@
-{% assign isOdd = page.chapter.number | modulo: 2 %}
+{% comment %}{% assign isOdd = page.chapter.number | modulo: 2 %}{% endcomment %}
+{% assign isOdd = 0 %}
 {% case page.category %}
   {% when 'zhan-xian' %}
     {% if isOdd == 1 %}
