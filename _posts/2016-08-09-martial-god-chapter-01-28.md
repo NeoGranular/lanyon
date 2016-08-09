@@ -20,7 +20,7 @@ note: ""
 ---
 He Wude silently went into his courtyard. The second generation and the third generation’s He Yitian and He Yiming followed him in.
 
-Everyone preserved silence. He Yiming was quite apprehensive inwardly as he whined to himself, ‘I’ve already heeded you, old man’s words. Don’t tell me you won’t settle on anything less than me suddenly exhibiting eighth layer Internal Energy and absolutely crushing the eldest brother….’
+Everyone preserved silence. He Yiming was quite apprehensive inwardly as he whined to himself, ‘I’ve already heeded you, old man’s, words. Don’t tell me you won’t settle on anything less than me suddenly exhibiting eighth layer Internal Energy and absolutely crushing the eldest brother….’
 <!--more-->
 
 While his imagination was running rampant, He Wude made himself comfortable on the host seat and said:
