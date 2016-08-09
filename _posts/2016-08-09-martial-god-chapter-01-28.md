@@ -31,7 +31,7 @@ He Yiming slightly started before cursing inwardly, ‘Were you not the one who 
 
 Several gazes instantly converged on He Yiming. The latter awkwardly laughed and said:
 
-“Grandfather, your grandson had truly attained the seventh layer Internal Energy.”
+“Grandfather, your grandson has truly attained the seventh layer Internal Energy.”
 
 He Wude sighed before his eyes gleamed as he suddenly stood up from his seat, arrived before He Yiming, and extended his palm.
 
