@@ -105,7 +105,7 @@ Subsequently, upon thinking about He Yiming’s performance nine years ago, thei
 
 Nine years ago, before hitting the bottleneck of the fifth layer while cultivating the Primordial Energy, He Yiming had seemed to be riding on the wind as he improved at a lightning fast speed. Even He Yitian, in his childhood, was far inferior to the former. 
 
-He Yiming remained stuck at the bottleneck of the fifth layer for several years, but it instead seemed to have tempered him. Therefore, once he broke through, as if finally setting about after a rigorous preparation, he is unstoppable.
+He Yiming remained stuck at the bottleneck of the fifth layer for several years, but it instead seemed to have tempered him. Therefore, once he broke through, as if finally setting about after a rigorous preparation, he was currently unstoppable.
 
 He Quanxin faintly nodded and said, “Good. Seventh layer Internal Energy and seventh layer’s peak battle skill. Our He family’s third generation now has another seventh layer cultivator.”
 
