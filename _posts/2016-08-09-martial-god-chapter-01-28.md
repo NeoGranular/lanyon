@@ -43,7 +43,7 @@ He Quanyi spoke in a clear voice: “Father, how did you find out that He Yiming
 
 The rest all nodded. If the old man hadn’t already discerned that He Yiming broke through, how could he have asked latter to show his true skill.
 
-He Wude’s face was slightly red. When did he discern that He Yiming had broken through? He’d only shouted that line because he himself wanted to take a look at how ferocious the might of a Xiantian scripture could be. 
+He Wude’s face was slightly red. When did he discern that He Yiming had broken through? He’d only shouted that line because he himself wanted to take a look at how ferocious a Xiantian scripture could be. 
 
 However, he didn’t expect that instead of using the Splitting Mountain Thirty SIx Forms, He Yiming would give him an even bigger surprise.
 
