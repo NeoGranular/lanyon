@@ -106,7 +106,7 @@ Subsequently, upon thinking about He Yiming’s performance nine years ago, thei
 
 Nine years ago, before hitting the bottleneck of the fifth layer while cultivating the Primordial Energy, He Yiming had seemed to be riding on the wind as he improved at a lightning fast speed. Even He Yitian, in his childhood, was far inferior to the former. 
 
- He Yiming remained stuck at the bottleneck of the fifth layer for several years, but it instead seemed to have tempered him. Therefore, once he broke through, as if finally setting about after a rigorous preparation, he is unstoppable.
+He Yiming remained stuck at the bottleneck of the fifth layer for several years, but it instead seemed to have tempered him. Therefore, once he broke through, as if finally setting about after a rigorous preparation, he is unstoppable.
 
 He Quanxin faintly nodded and said, “Good. Seventh layer Internal Energy and seventh layer’s peak battle skill. Our He family’s third generation now has another seventh layer cultivator.”
 
@@ -114,7 +114,7 @@ He Quanming’s brows slightly rose up as he said:
 
 “Three months ago, Xu family’s Xu fourth broke through the eighth layer and attained the ninth layer. During this time period, Xu family have been extremely haughty. I wonder what would be their reaction upon hearing about He Yiming.”
 
-He Wude coarsely laughed and said, “Quanming, you need not worry. Xu fourth, Xu Right, has attained the ninth layer after the age of forty. If he doesn’t come across a heaven defying fortune in his life, he won’t be able to improve further at all.”, He glanced at He Quanxin before continuing, “Your eldest brother although is not young, he has already been at the ninth layer for several years. Perhaps in another ten years, he will have an opportunity to break through. Once our He family produces another tenth layer cultivator, in the overall scene of Tai Cang county, Xu family and Cheng family would no longer have the qualifications to challenge our He family.” 
+He Wude coarsely laughed and said, “Quanming, you need not worry. The Xu-fourth, Xu Right, has attained the ninth layer after the age of forty. If he doesn’t come across a heaven defying fortune in his life, he won’t be able to improve further at all.”, He glanced at He Quanxin before continuing, “Your eldest brother although is not young, he has already been at the ninth layer for several years. Perhaps in another ten years, he will have an opportunity to break through. Once our He family produces another tenth layer cultivator, in the overall scene of Tai Cang county, Xu family and Cheng family would no longer have the qualifications to challenge our He family.” 
 
 The Lord  Master’s voice was brimming with joy. He family’s current situation was indeed due to his many years of hard work. During the course of events, he naturally had some scuffles with the local tyrant namely the Xu family and Cheng family. Although, currently, these matters had diluted for the most part and He family estate had firmly found its footing in the Tai Cang county, during the initial years, Xu family and Cheng family did try to completely press the He family down. Therefore, now, He Wude definitely wouldn’t be courteous.
 
