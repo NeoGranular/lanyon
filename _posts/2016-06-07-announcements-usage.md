@@ -3,7 +3,7 @@ published: true
 layout: post
 title: "Tips for using our site"
 category: announcements
-is_active_announcement: true
+is_active_announcement: false
 date: 2016-06-07 18:21:00 +0200
 ---
 ***
