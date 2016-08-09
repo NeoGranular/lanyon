@@ -145,7 +145,7 @@ He Yiming stood up from his seat and arrived before his grandfather, “Grandfat
 
 He Wude faintly smiled, turned his head, and nodded once towards He Quanyi. The latter, tacitly understanding, ordered a servant to place another seat.
 
-The faces of everyone immediately had different shades.  
+The faces of everyone immediately turned different shades.  
 
 Originally, there were only five principal seats. Apart from the Lord Master himself, there was only the second generation and the third generation’s He Yitian.
 
