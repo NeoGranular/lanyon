@@ -63,7 +63,7 @@ Although He Wude, on surface, didn’t seem to be battling an eyelid, in truth, 
 
 He Yiming said while scratching his head: “My breakthrough wasn’t long ago, not long ago at all.”
 
-Inwardly he supplemented, ‘Not long ago, just half a year.” He overlooked that he’d made another breakthrough to the eighth layer after another half a year, though. 
+Inwardly he supplemented, ‘Not long ago, just half a year.” He overlooked that he’d made another breakthrough after another half a year, though. 
 
 Everybody nodded one after another, not doubting He Yiming’s words at all.
 
