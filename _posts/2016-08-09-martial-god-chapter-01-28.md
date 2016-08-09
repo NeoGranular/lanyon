@@ -91,7 +91,7 @@ He Yiming heart sank. This was indeed flawed. Under the several heated gazes on 
 
 He Quanming’s vision suddenly turned queer as he asked:
 
-“Learned in a single go? You suddenly grasped the true essence and attained the peak of this layer’s peak realm?”
+“Learned in a single go? You suddenly grasped the true essence and attained the peak of the battle skill of this layer?”
 
 “Yes”, He Yiming forced the words out. Since anything he said wouldn’t make much sense anyway, he decided to let out a bit of truth. 
 
