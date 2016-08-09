@@ -133,7 +133,7 @@ Under He Wude’s guidance, they arrived in the main hall.
 
 The rules in the He family were quite strict. Even the wives of He Quanxin and his two brothers were not allowed to sit together. Even the opportunities every year to meet the children, after they turned five years, were not much either. 
 
-This all was done to improve their self-disciplinary capabilities. Not allowing them to meet their parents frequently allowed them to walk much farther on the path of cultivation.
+This all was done to improve their self-disciplinary capabilities. Not allowing them to meet their parents frequently, allowed them to walk much farther on the path of cultivation.
 
  He Wude made himself comfortable on his seat before the rest sat down on their seats.
 
