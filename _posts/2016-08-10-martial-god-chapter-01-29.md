@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 29 - Water And Fire Mutual Restrain."
+title: "Chapter 29 - Xiantian Battle Skill."
 book:
   number: 1
   title: "What Is A Genius"
