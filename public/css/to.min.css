@@ -605,7 +605,7 @@ a.pagination-item:hover {
     overflow: hidden;
     position: relative;
     float: left;
-    margin-right: 2%;
+    /*margin-right: 2%;*/
     border: 1px solid #f90;
     background-color: #484848;
 
@@ -624,6 +624,7 @@ a.pagination-item:hover {
     overflow: hidden;
     position: relative;
     float: left;
+    margin-left: 2%;
     padding: 3px;
     text-align: center;
     border: 1px solid #f90;
