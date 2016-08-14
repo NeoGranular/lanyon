@@ -119,7 +119,7 @@ Now that there was no major restriction on elder Hua’s side, after the blood p
 
 Only then did Yang Chen have the time to look at the qiankun pouch he had thrown out. Not out of his expectations, even after his repeated warnings, someone had tested his luck in trying to collect the blood phantom vine.
 
-The instant the qiankun pouch was thrown out, an elder reached out his hand to catch it and without hesitation, his spiritual awareness immediately entered the qiankun pouch.
+The instant the qiankun pouch was thrown out, an elder reached out her hand to catch it and without hesitation, her spiritual awareness immediately entered the qiankun pouch.
 
 “Don’t!”
 
