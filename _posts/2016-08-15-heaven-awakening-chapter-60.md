@@ -13,6 +13,7 @@ is_preview:
 Complete absence and being unable to perceive...are two completely different concepts.
 
 Complete absence, hence being unable to perceive.
+<!--more-->
 
 However, unable to perceive didn’t mean complete absence. Often times, it was nothing more than cultivators being too slow in perceiving a certain soul.
 
