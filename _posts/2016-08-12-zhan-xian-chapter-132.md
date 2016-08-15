@@ -117,7 +117,7 @@ Strictly speaking, elder Hua had forcefully suppressed her production of blood u
 
 Now that there was no major restriction on elder Hua’s side, after the blood phantom vine had been thrown out, it was the same as getting rid of mortal worry for her. The only thing left now was nursing her back to health. With elder Hua’s cultivation, Yang Chen was certain that, within a few months, her cultivation would be restored and would even be able to increase more.
 
-Only then did Yang Chen have the time to look at the qiankun pouch he had thrown out. Not out of his expectations, even after his repeated warnings, someone had tested his luck in trying to collect the blood phantom vine.
+Only then did Yang Chen have the time to look at the qiankun pouch he had thrown out. Not out of his expectations, even after his repeated warnings, someone had tested her luck in trying to collect the blood phantom vine.
 
 The instant the qiankun pouch was thrown out, an elder reached out her hand to catch it and without hesitation, her spiritual awareness immediately entered the qiankun pouch.
 
