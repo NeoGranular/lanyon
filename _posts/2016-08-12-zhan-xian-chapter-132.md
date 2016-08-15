@@ -149,9 +149,9 @@ The medicinal bottle within Sun QingXue’s hand immediately disappeared and app
 
 The several elders didn’t dare to be careless and immediately attacked the vines which had fallen down just a moment ago, which made them turn into powder. Only then did everyone take a sigh of relief.
 
-But the matter was far from over, the blood phantom vines, in addition to coming out, were also extremely toxic. Initially, the restrictions had sealed the toxicity of the blood phantom vine in the courtyard. If, in accordance with Yang Chen’s words, they had destroyed the qiankun pouch, this kind of matter would not have happened, but unfortunately that elder wanted to fulfill his evil schemes.
+But the matter was far from over, the blood phantom vines, in addition to coming out, were also extremely toxic. Initially, the restrictions had sealed the toxicity of the blood phantom vine in the courtyard. If, in accordance with Yang Chen’s words, they had destroyed the qiankun pouch, this kind of matter would not have happened, but unfortunately that elder wanted to fulfill her evil schemes.
 
-The result of his evil schemes was clear, everyone apart from Sun QingXue sensed a wave of numbness. Even if they did not breathe, the blood phantom vine’s poison was still going to corrode their body.
+The result of her evil schemes was clear, everyone apart from Sun QingXue sensed a wave of numbness. Even if they did not breathe, the blood phantom vine’s poison was still going to corrode their body.
 
 The sect master suddenly sensed something was abnormal and immediately learned from Sun QingXue and swallowed the powder inside the medicinal bottle before spraying it over her body. Immediately, the sensation of numbness began to fade.
 
