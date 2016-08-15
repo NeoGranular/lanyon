@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 59 - The Crux Of Linking."
 category: heaven-awakening
 previous_chapter: 58
-next_chapter:
+next_chapter: 60
 date: 2016-08-07 18:34:00 +0200
 has_credits: true
 translator: toomuchnoob
