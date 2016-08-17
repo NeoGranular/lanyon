@@ -117,7 +117,7 @@ On Yang Chen’s face was a smile which seemed even more joyful compared to the 
 
 Yang Chen, with a smile all across his face was just like a cunning profiteer at that moment. The kind of profiteer who didn’t mind making a counter offer when haggling, the kind of profiteer that any honest person would want to throw to the ground and kick to death.
 
-The problem was, that the thing that they needed was in the hands of this profiteer and the starting price of that profiteer was moreover not that high, but when the Clear Sky Sect wanted to raise the price they had to pay even more.
+The problem was, that the thing that they needed was in the hands of this profiteer and the starting price of that profiteer was moreover not that high, but when the Clear Sky Sect wanted to haggle for the price they had to pay even more.
 
 Since they wanted to haggle with Yang Chen, this meant they had to accept Yang Chen’s conditions. For the Clear Sky Sect, the life of a peak YuanYing stage expert who was going to break through to the Da Cheng stage was worth far more than twenty thousand books. This was one of the reasons Yang Chen had dared to increase the price.
 
