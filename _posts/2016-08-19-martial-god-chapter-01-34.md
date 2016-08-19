@@ -27,7 +27,7 @@ Today was yet again the middle of the month, and all the children had appeared t
 
 Ever since he discovered that his eldest brother had returned to his old self, He Yiming’s interest in seclusion had been greatly diminished. Usually he trained non-stop, at the middle of the month, he joined everybody for the dinner.
 
-Although the transformation of interactions among the two brothers were subtle, the third generation couldn’t see it. However, how it could possibly be concealed from He Wude, the man with rigorous schemes and deep foresight.
+Although the transformations in the interaction among the two brothers were subtle, the third generation couldn’t see it. However, how it could possibly be concealed from He Wude, the man with rigorous schemes and deep foresight.
 
 Only when the relationship between the two had completely resumed as it had always been, He Wude and the rest completely relaxed.
 
