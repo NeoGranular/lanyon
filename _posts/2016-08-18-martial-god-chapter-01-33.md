@@ -142,7 +142,7 @@ The next day, both of his primary cultivation techniques had been smoothly promo
 
 After the second day, his Rolling Boulder Fist and Silk Palm had also attained the realm corresponding to the ninth layer’s peak, and their might would be much stronger than it was before.
 
-After five days, he had been shaken to his core when he assumed the stance of the ninth and tenth stance of the [Splitting Mountain Thirty Six Forms]. He could feel how extraordinary the might of this battle skill actually was. 
+After five days, he had been shaken to his core when he assumed the stances of the ninth and tenth forms of the [Splitting Mountain Thirty Six Forms]. He could feel how extraordinary the might of this battle skill actually was. 
 
 At this moment, he felt an unmatchable delight. In his heart, he had a sort of extreme confidence.
 
