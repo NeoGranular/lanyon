@@ -146,4 +146,4 @@ After five days, he had been shaken to his core when he assumed the stance of th
 
 At this moment, he felt an unmatchable delight. In his heart, he had a sort of extreme confidence.
 
-Perhaps, within the entire Tai Cang county, no one could prevail him since this moment.
+Perhaps, within the entire Tai Cang county, no one could prevail over him from this moment.
