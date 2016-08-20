@@ -25,11 +25,11 @@ As a result of sitting together with He Wude and other elders, He Yitian and He 
 Today was yet again the middle of the month, and all the children had appeared to dine in the main hall; even He Yiming was not an exception.
 <!--more-->
 
-Ever since he discovered that his eldest brother had returned to his old self, He Yiming’s interest in seclusion had been greatly diminished. Usually he trained non-stop, at the middle of the month, he joined everybody for the dinner.
+Ever since he discovered that his eldest brother had returned to his old self, He Yiming’s interest in seclusion had been greatly diminished. Usually he trained non-stop, but joined everybody for the dinner on the middle of month.
 
-Although the transformations in the interaction among the two brothers were subtle, the third generation couldn’t see it. However, how it could possibly be concealed from He Wude, the man with rigorous schemes and deep foresight.
+Although the transformations in the interaction among the two brothers were subtle, the third generation couldn’t discern them. However, how it could possibly be concealed from He Wude, the man with rigorous schemes and deep foresight.
 
-Only when the relationship between the two had completely resumed as it had always been, He Wude and the rest completely relaxed.
+Only when the relationship between the two had completely resumed as it had always been, he was able to completely relax.
 
 The Lord Master was gratified as he looked at his descendants gathered together. It was only due to his efforts in these past several decades that He family currently flourished. He even felt that the day when the He family would be Tai Cang county’s sole tyrant was not too far.
 
