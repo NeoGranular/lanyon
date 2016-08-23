@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Chapter 62 - Crazy Cultivation."
+title: "Chapter 62 - Perception Of Sound's Soul."
 category: heaven-awakening
 previous_chapter: 61
 next_chapter: 63
