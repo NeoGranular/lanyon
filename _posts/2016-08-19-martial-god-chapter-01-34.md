@@ -121,7 +121,7 @@ He Wude spoke without beating around the bush:
 
 Indeed, taking his strange, inconceivable cultivation speed and situation into account, his cultivation couldn’t possibly be influenced.
 
-“Then, that’s good,” He Wude solemnly said, “Xu family will certainly provoke troubles. Moreover, I am certain that after your eldest uncle and eldest brother, they will pay attention to your performance.”
+“Then, that’s good,” He Wude solemnly said, “Xu family will certainly provoke troubles. Moreover, I am certain they will try to act in the abscence of your eldest uncle and eldest brother. At that time, everything will depend on you.”
 
 He Yiming’s both eyes shined as he said:
 
