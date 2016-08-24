@@ -143,7 +143,7 @@ As expected, Xu Yucai cupped his hands and said in a clear voice:
 
 “Brother Yixuan, we haven’t met for two years. I hope you have been well.”
 
-Everybody’s vision turned towards that direction, while the people who were in that direction split apart like a wave, leaving behind only two people who stood with their heads high, looking extremely lofty and eye-catching in the crowd.
+Everybody’s vision turned towards that direction, while the people who were in that direction split opened like a wave, leaving behind only two people who stood with their heads high, looking extremely lofty and eye-catching in the crowd.
 
 He Yixuan faintly laughed and cupped his hands as well before saying:
 
