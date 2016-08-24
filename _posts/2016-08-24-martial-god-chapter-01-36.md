@@ -121,7 +121,7 @@ He then immediately went down the stage dejectedly, not even daring to turn his 
 
 The people below immediately began to whisper around, all of which was centred around Xu Yucai. Everybody was admiringly looking at Xu Yucai who seemed like a god on the stage.
 
-If their identity were not far apart, perhaps the people would be jealous. However, the identity of the Xu family’s second young master was that of the top in Tai Cang county. As far as these ordinary people were concerned, the latter was a legendary character that they could only admire. Therefore, they just simply couldn’t be envious.
+If their identity were not far apart, perhaps the people would be jealous. However, the identity of the Xu family’s second young master was at the very top in Tai Cang county. As far as these ordinary people were concerned, the latter was a legendary character that they could only admire. Therefore, they just simply couldn’t be envious.
 
 He Yiming suddenly had a bad premonition. He tugged his elder brother and softly said:
 
