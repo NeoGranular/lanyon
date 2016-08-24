@@ -135,7 +135,7 @@ He Yixuan lightly waved his hand and said:
 
 “It’s quite unclear why second young master of the Xu family went up on the stage. We will take a look.”
 
-His voice had barely died, when the two brothers saw Xu Yucai’s gaze turned into their direction.
+His voice had barely died, when the two brothers saw Xu Yucai’s gaze turning in their direction.
 
 Although, down the stage, a lot of heads were moving about, Xu Yucai’s gaze was like a sharp blade which was firmly fixed on He Yixuan.
 
