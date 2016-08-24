@@ -30,7 +30,7 @@ He Yiming and He Yixuan, the two brothers, arrived and solemnly measured the two
 
 Upon hearing the sounds of drum, they thought that two experts had to be dueling. That was the reason they hurried over. However, they hadn’t expected that after coming here, they would be completely disappointed.
 
-They couldn’t figure out the identity of the two people and they could also tell that these two possessed Internal Energy, but this Internal Energy was at most around the third or fourth layer.
+They couldn’t figure out the identity of the two people, and although they could also tell that these two possessed Internal Energy,  this Internal Energy was at most around the third or fourth layer.
 
 Such a level of Internal Energy was extremely difficult for an ordinary person to obtain. The fifth layer, which was considered as the most basic layer for the children of influential families, was basically out of the reach of ordinary people. After determining their strength, He Yiming and He Yixuan’s interest diminished by a lot. However, currently, a lot of crowd was present behind them. Thus, leaving would be troublesome as well. So, they decided to stay and watch the battle.
 
@@ -40,7 +40,7 @@ Below the stage, the spectators standing around the stage were mostly all ordina
 
 No matter the extent of people’s fanaticism of martial arts, those capable of cultivating Internal Energy and obtain some accomplishments in it were the extreme minority. 
 
-The absolute majority could only learn basic body strengthening techniques and a few superficial battle skills. In their opinion, anyone who cultivated Internal Energy was a strong cultivator and was far superior than them. At this moment, the two cultivators on the stage not only possessed Internal Energy, even their battle skills appeared out of ordinary. Thus, the two men naturally won  a deafening applause from the crowd.
+The absolute majority could only learn basic body strengthening techniques and a few superficial battle skills. In their opinion, anyone who cultivated Internal Energy was a strong cultivator and was far superior. At this moment, the two cultivators on the stage not only possessed Internal Energy, even their battle skills appeared out of ordinary. Thus, the two men naturally won  a deafening applause from the crowd.
 
 As the fight continued, He Yiming and He Yixuan were becoming increasingly astonished. In their opinion, the strength of these two men didn’t even deserve contempt. However, being in such a atmosphere, they couldn’t help but feel their blood boiling, and felt like jumping onto the stage and fight.
 
