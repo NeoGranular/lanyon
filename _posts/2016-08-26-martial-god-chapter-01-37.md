@@ -85,7 +85,7 @@ The aura emitted by the two sixth layer cultivators while confronting each other
 
 He Yiming’s brows rose and skin curled. As he felt the aura, his brain suddenly began to emulate the two individuals on the stage, and he even had an urge to and substitute them. 
 
-Actually, going by He Yiming’s Internal Energy cultivation, the aura of these two simply couldn’t affect him. However, the problem was that He Yiming’s battle experience was too lacking. Therefore, being subjected to their auras, his desire to battle was stirred. However, it was only limited this, before he immediately suppressed it.
+Actually, going by He Yiming’s Internal Energy cultivation, the aura of these two simply couldn’t affect him. However, the problem was that He Yiming’s battle experience was too lacking. Therefore, being subjected to their auras, his desire to battle was stirred. However, it was only for a moment, before he immediately suppressed it.
 
 For him, such an attack simply amounted to nothing.
 
