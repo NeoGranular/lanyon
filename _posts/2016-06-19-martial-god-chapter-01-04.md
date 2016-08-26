@@ -16,7 +16,7 @@ translator: toomuchnoob
 # proofreader: Duncan Forsythe, appelemac
 is_preview:
 ---
-He Family Estate didn't have too much population, however, the family owned several thousand mus[^1] of farms, and the estate had several hundreds of peasant households. Furthermore, the family also had a business in the County Town. Within a radius of hundred li, the He family was considered to be one of the two most influential families.
+He Family Estate didn't have too much population, however, the family owned several thousand mus[^1] of farms, and the estate had several hundreds of peasant households. Furthermore, the family also had a business in the County Town. Within a radius of hundred li, the He family was considered to be one of the few most influential families.
 
 Every member of the family's third generation had a personal courtyard. Of course, courtyard's size was not too big, however, it could at least be considered as an independent house with an independent door.
 <!--more-->
