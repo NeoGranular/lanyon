@@ -27,6 +27,7 @@ Regardless of whether they were willing or not, under such circumstances, they d
 He Yixuan waved his hand, producing a sharp and clear wind-piercing sound, which could be heard by the people near him even amidst the frantic cheers.
 
 Subsequently, without saying a word, he advanced forward, showing his agreement. All of his surrounding people tried their utmost to retreat, so as to open up a spacious path for him to the arena.
+<!--more-->
 
 Helpless, He Yiming could only follow behind his elder brother. Upon reaching the  the arena’s boundary, the former was slightly startled. He had actually seen another youngster who was on par with Xu Yucai. The features of this youngster had quite a resemblance to that of the former. One could tell at a glance that these two were related by blood.
 
