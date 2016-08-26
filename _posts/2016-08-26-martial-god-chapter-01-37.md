@@ -99,7 +99,7 @@ The cheering of the surrounding crowd also calmed down. Everybody could feel tha
 
 An oppressive atmosphere was being spread around in the crowd, causing people to feel apprehensive of speaking.
 
-Now people faintly realized that the previous match compared to the match between these children of influential family couldn’t even be compared
+Now people faintly realized that the previous match couldn’t even be compared to the match between these children of influential family.
 
 Everybody rejoiced, being able to eventually witness a contest between two real experts.
 
