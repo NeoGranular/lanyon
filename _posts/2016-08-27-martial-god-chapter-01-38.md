@@ -167,6 +167,6 @@ Strength vs Strength…
 
 A loud explosive sound rippled outwards, as if metal had struck against stone.
 
-He Yiming stood on the arena with his legs slightly apart. His tiny figure, at this moment, seemed as towering as a mountain and as a precipitous as a ridge; calm and lofty.
+He Yiming stood on the arena with his legs slightly apart. His tiny figure, at this moment, seemed as towering as a mountain and as  precipitous as a ridge; calm and lofty.
 
 While Xu Yucai, who had been a demon-god just now, resembled a snapped kite as he flew off the arena high above in air, leaving behind torrents of bloody rain.
