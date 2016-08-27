@@ -20,16 +20,16 @@ note: ""
 ---
 He Yixuan had barely touched the ground outside the arena when a hand suddenly touched his shoulders. 
 
-An extremely pure, dense Internal Energy entered his meridians like flowing water. He Yixuan was pleasantly surprised. This Internal energy was precisely the Ripple technique he cultivated. However, this Internal Energy was clearly far above his. As soon as this Internal Energy entered, it began circulating in the sections of his right shoulder.
+An extremely pure, dense Internal Energy entered his meridians like flowing water. He Yixuan was pleasantly surprised. This Internal energy was precisely that of the Ripple technique he cultivated. However, this Internal Energy was clearly far above his. As soon as this Internal Energy entered, it began circulating in the sections of his right shoulder.
 
- HIs meridians that had been injured by Xu Yucai just now immediately began to smoothen up.
+ His meridians that had been injured by Xu Yucai just now immediately began to smoothen up.
 
 The healing effect of water-type techniques was being exhibited to the extreme at this moment. Through his meridians, a faint coolness was being spread around in his entire right shoulder. He felt as if that hot, scorching pain from the wound was being iced, soothing him. 
 <!--more-->
 
 He Yixuan sucked in a deep breath before an ashamed expression covered his face.
 
-In the He family manor, the sole individual who cultivated in the Ripple technique and had such an level of achievements was his own mother Lin Wenyu. 
+In the He family manor, the sole individual who cultivated in the Ripple technique and had such a level of achievements was his own mother Lin Wenyu. 
 
 Who could have thought that his mother had personally rushed over and even saw him being defeated. He turned extremely gloomy as he thought as such. He was not afraid of his mother’s reprimand, but was only heart-broken because of not living up to the expectations.
 
