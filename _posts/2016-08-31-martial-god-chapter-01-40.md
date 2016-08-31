@@ -29,7 +29,7 @@ In the room, heavily injured Xu Yucai rested on the bed. His face was exceedingl
 
 Before the bed were three males. Apart from Xu Yude, one was precisely Xu Xiangci who He Yiming had met once before. As for the last person, he actually only seemed about thirty years old when his true age had already surpassed forty years.
 
-His build was moderate, and his whole body was covered in black cotton robe which went as down as his feet. He had a square face and cheekbones a bit more bulging than normal. However, this abnormality instead made his face peculiarly charismatic. This moment, his eyes, which had unibrows above them, were calmly watching Xu Yucai who was lying on the bed as he pondered. 
+His build was moderate, and his whole body was covered in black cotton robe which went as down as his feet. He had a square face and cheekbones a bit more bulging than normal. However, this abnormality instead made his face peculiarly charismatic. This moment, his eyes, which had unibrows above them, were calmly watching Xu Yucai, who was lying on the bed, as he pondered. 
 
 He was not tall. However, as he stood beside Xu Xiangci, who was a head taller than him, he emanated a strange feeling that he was actually taller than the latter.
 
