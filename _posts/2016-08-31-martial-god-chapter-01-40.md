@@ -71,13 +71,13 @@ Xu Right’s countenance was exceedingly grave as he slowly said:
 
 “Second brother, relying purely on Internal Energy, without using any battle skills, and being able to injure Xu Yucai to such an extent, that He family child’s cultivation has certainly reached the peak of the seventh layer.”
 
-“Seventh layer,” He Xiangci was once again sour as, “This year He Yiming is only fourteen. He has actually attained the peak of the seventh layer. Is he actually a human, or not?”
+“Seventh layer,” He Xiangci was once again sour, “This year He Yiming is only fourteen. He has actually attained the peak of the seventh layer. Is he actually a human, or not?”
 
 Xu Right was faintly started before he astoundedly glanced at his second brother and bitterly smiled, “Second brother, you are joking. He ought to be a genius seen once in a thousand years. That’s why he could accomplish such a feat.”
 
 Xu Xiangci waved his hand and regretfully said:
 
-“One year ago, I came across him while chasing Hubin. However, just one year later, not only he crossed the sixth layer’s bottleneck, he has even attained the peak of the seventh layer. If had known this before, I would have killed him on the spot even at the expense of being discovered.”
+“One year ago, I came across him while chasing Hubin. At that time, he was at the sixth layer. However, just one year later, not only he crossed the sixth layer’s bottleneck, he has even attained the peak of the seventh layer. If had known this before, I would have killed him on the spot even at the expense of being discovered.”
 
 Xu Right’s face showed an unpleased expression as he said:
 
