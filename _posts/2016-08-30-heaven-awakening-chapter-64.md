@@ -45,7 +45,7 @@ The sense of taste was a specific perception of Hinge’s soul. Arousing the fee
 
 As for Xi Fan, he was motionlessly lying down under a tree.
 
-Sun shined, wind blew, small grass caressed his face, however, he didn’t feel any of this. After losing his Strength’s soul, he had already lost the basic sense of touch. He couldn’t see, couldn’t hear, couldn’t hear, couldn’t taste, and couldn’t not even feel something.
+Sun shined, wind blew, small grass caressed his face, however, he didn’t feel any of this. After losing his Strength’s soul, he had already lost the basic sense of touch. He couldn’t see, couldn’t hear, couldn’t taste, and couldn’t not even feel something.
 
 He wished to cultivate the Essence’s soul.  Essence’s soul was consciousness; it was state of mind. After losing his five senses, no information from outside could be transmitted to him. He also had no way to obtain as minute of an assistance as holding a grass root as Mo Lin was doing. He was just quietly lying down, without a single individual knowing how hard of a struggle the consciousness inside that body of his was facing at this moment. On the exterior, his cultivation seemed the most tranquil among the three, but in reality, his cultivation was the most ruthless one.
 
