@@ -137,7 +137,7 @@ Cheng clan had progressed through several hundreds of years. They had several pe
 
 Of course, even though they were big in numbers, they were far incomparable to the other two families in terms of martial strength.
 
-In the entire clan, the Lord Master Cheng Zhusheng was the sole individual who had attained the ninth layer, and among all the rest members of his generation and several tens of members of the second generation resided at the eighth layer at most. Furthermore, the majority of them had not even broken through the sixth layer.
+In the entire clan, the Lord Master Cheng Zhusheng was the sole individual who had attained the ninth layer, and  all the other members of his generation and several tens of members of the second generation resided at the eighth layer at most. Furthermore, the majority of them had not even broken through the sixth layer.
 
 However, despite all this, the amount of people who had come to congratulate the Cheng Lord Master on his eightieth birthday had caused Cheng family’s front yard as busy as a fish market. In front of Cheng Residence were endless rows of horses and carriages. People coming to congratulate seemed like an endless stream. It seemed as if the people in the whole county had decided to come here.
 
