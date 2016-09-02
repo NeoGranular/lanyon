@@ -633,8 +633,6 @@ a.pagination-item:hover {
     border-radius: 4px;
 }
 
-
-
 .don_rect img {
     margin: 0;
     margin-left: auto;
@@ -665,24 +663,30 @@ a.pagination-item:hover {
         overflow: initial !important
     }
     .ad_space {
-        /*height: 560px !important*/
+        height: 560px !important
     }
-    .lower_rect, .bottomresponsive{
+
+    #bot_banner {
+        margin-top: 100px;
+        margin-bottom: 30px;
+        /*padding-bottom: 10px*/
+    }
+    /*.lower_rect, .bottomresponsive{
       display:none !important;
     }
     #bot_banner, .botleader {
       display:none !important;
-    }
-    .topresponsive {
+    }*/
+    /*.topresponsive {
       width:336px !important;
       height:280px !important;
-    }
+    }*/
 }
 
-.bottomresponsive {
+/*.bottomresponsive {
   width: 336px;
   height: 280px;
-}
+}*/
 
 @media(min-width:896px) {
     .PageNavigation {
@@ -699,10 +703,7 @@ a.pagination-item:hover {
     .ad_space {
         height: 290px
     }
-    #bot_banner {
-        margin-top: 50px;
-        padding-bottom: 10px
-    }
+
 }
 
 .book-title {
