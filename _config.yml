@@ -12,6 +12,7 @@ url:                 http://weletranslation.com
 baseurl:             'http://weletranslation.com'
 paginate:            5
 timezone:            'Europe/Berlin'
+future:              false
 
 # About/contact
 author:
