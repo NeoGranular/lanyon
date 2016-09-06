@@ -109,7 +109,7 @@ The problem was that Yang Chen was perfectly well and alive now, so Shi ShanShan
 
 Just while she was thinking about how to deal with embarrassment, Yang Chen turned towards her, which made Shi ShanShan feel even more ashamed and resentful at the same time. The more she looked at Yang Chen coming near her, the more annoying her heartbeat became. She was thinking of saying something, but she could not open her mouth and was extremely anxious.
 
-“Fairy Shi, you must joke like that again!”
+“Fairy Shi, you must not joke like that again!”
 
 Yang Chen smiled towards Shi ShanShan and didn’t forcibly seize the opportunity, only cupping his hands:
 
