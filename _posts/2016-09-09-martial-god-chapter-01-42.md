@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 has_book: true
 title: "Chapter 42 - The Secret Exchange"
