@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 42 - The Secret Exchange."
+title: "Chapter42 - The Secret Exchange."
 book:
   number: 1
   title: "What Is A Genius"
