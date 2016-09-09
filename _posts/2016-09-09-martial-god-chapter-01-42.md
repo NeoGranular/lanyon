@@ -89,7 +89,7 @@ As He Yiming watched the Xu family’s sponger dragging his small and thin frame
 
 His vision turned towards that dark corner only to find that the man had already come out.
 
-He Yiming involuntarily clenched his fists while saying inwardly, ‘As expected, these two indeed have some connection.”
+He Yiming involuntarily clenched his fists while saying inwardly, ‘As expected, these two indeed has some connection.”
 
 If he had not seen that man jumping over the wall and hiding in a dark corner, he never would have been able to imagine something like this.
 
