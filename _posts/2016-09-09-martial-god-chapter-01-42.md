@@ -16,7 +16,7 @@ translator: toomuchnoob
 proofreader:
 is_preview:
 has_note: false
-note:"" 
+note: "" 
 ---
 In the sky, the sparsely spread stars shined, seeming like resonant teardrops which were about to fall.
 
