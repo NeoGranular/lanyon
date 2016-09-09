@@ -15,7 +15,7 @@ has_credits: true
 translator: toomuchnoob
 proofreader:
 is_preview: 
-has_note: 
+has_note: false
 note: "" 
 ---
 In the sky, the sparsely spread stars shined, seeming like resonant teardrops which were about to fall.
