@@ -91,7 +91,7 @@ His vision turned towards that dark corner only to find that the man had already
 
 He Yiming involuntarily clenched his fists while saying inwardly, ‘As expected, these two indeed has some connection.”
 
-If he had not seen that man jumping over the wall and hiding in a dark corner, he never would have been able to imagine something like this.
+If he had not seen that man jumping over the wall and hiding in a dark corner, he would have never been able to imagine something like this.
 
 “Why have you come so late?” The man said in low voice. His tone was a bit blaming, “Did something unexpected happen?”
 
