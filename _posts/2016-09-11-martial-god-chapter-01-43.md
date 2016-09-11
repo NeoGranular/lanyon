@@ -53,7 +53,7 @@ As his vision once again sized up He Yiming’s body, he immediately determined 
 
 “Who are you, sir? Forgive this lowly man for not understanding your words.” The man spoke meaningless words in a hoarse voice while faintly moving forward.
 
-As He Yiming saw the man’s movements, he immediately steeled his decision. However, his face remained expressionless as he said:
+As He Yiming saw the man’s movements, he immediately steeled his mind. However, his face remained expressionless as he said:
 
 “You don’t need to know who is this senior, but since I have seen you collaborating with that Xu family’s drunkard, you must come back with me,” his face beamed with smiles as he said: “If Xu family knows that I have discovered a traitor in their ranks, they would certainly reward me handsomely.”
 
