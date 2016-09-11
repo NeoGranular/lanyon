@@ -79,7 +79,7 @@ However, to other people, such a change felt disharmonious and sickening; the sa
 
 The man also felt as such, but at this moment, he resembled a bow ready to shoot. He couldn’t retreat.
 
-Furthermore, if He Yiming’s [Splitting Mountain Thirty Six Forms] had still emanated that world-shattering aura as always, he certainly would have pulled back regardless of the consequences and escaped. However, He Yiming’s current moved seemed in disharmony which made him determined to fight.
+Furthermore, if He Yiming’s [Splitting Mountain Thirty Six Forms] had still emanated that world-shattering aura as always, he certainly would have pulled back regardless of the consequences and escaped. However, He Yiming’s current move seemed in disharmony which made him determined to fight.
 
 The next moment, the four arms of the two persons abruptly collided.
 
