@@ -59,7 +59,7 @@ As He Yiming saw the man’s movements, he immediately steeled his mind. However
 
 Though the words in his mind differed than what came out of his mouth, ‘Who cares about the Internal traitors in Xu family. More such traitors, better it is. Moreover, even if I knocked on their door and advise them on their internal affairs, they surely wouldn’t appreciate the kindness.”
 
-However, the black-clothed man had no idea about He Yiming’s thoughts as he continued to spout flattering words. Suddenly, he exerted his feet and suddenly pouncing on He Yiming; his speed much quicker than before. At the same time, he raised his hands. The five fingers of his each hand gathered together before his hands assumed the shape of an awl. His arms swayed without rhythm as if they were devoid of any joints, resembling two cave vipers coming straight towards one’s face while emanating a sinister aura.
+However, the black-clothed man had no idea about He Yiming’s thoughts as he continued to spout flattering words. Suddenly, he exerted his feet and suddenly pounced on He Yiming; his speed much quicker than before. At the same time, he raised his hands. The five fingers of his each hand gathered together before his hands assumed the shape of an awl. His arms swayed without rhythm as if they were devoid of any joints, resembling two cave vipers coming straight towards one’s face while emanating a sinister aura.
 
 An aghast expression covered He Yiming’s face, which, contrary to one might believe, was not feigned at all.
 
