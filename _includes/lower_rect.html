@@ -1,10 +1,8 @@
-{% assign isOdd = page.chapter.number | modulo: 2 %}
+{% assign isOdd = page.chapter.number | modulo: 1 %}
 {% case page.category %}
   {% when 'zhan-xian' %}
-    {% if isOdd == 1 %}
+    {% if isOdd == 0 %}
       {% include _ads/alt/alt_zx_bot_rectangle.html %}
-    {% else %}
-      {% include _ads/zhan_xian/zx_bot_rectangle.html %}
     {% endif %}
   {% when 'heaven-awakening' %}
     {% include _ads/heaven_awakening/ha_bot_rectangle.html %}
