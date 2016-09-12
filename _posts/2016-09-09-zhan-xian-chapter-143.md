@@ -27,7 +27,7 @@ But after acquiring the Blood Phantom Vine, the Medicine Garden was as secure as
 
 Even Yang Chen had to make extensive preparations in order to enter the Medicine Garden, to make sure wasn’t injured by the Blood Phantom Vine. If it wasn’t for Yang Chen using special methods to trap it, and the layers of qiankun pouches surrounding it, the Blood Phantom Vine would probably have broken out of the Medicine Garden and caused a massacre within Pure Yang Palace.
 
-Yang Chen’s only regret was that the grade of the Blood Phantom Vine was not easy to increase. It could not be done without the blood of experts. Fortunately, this Blood Phantom Vine of his had already sucked the blood of a Da Cheng stage expert for about a hundred years. Although it still hadn’t matured yet, the energy it had obtained  was barely enough for it to pass through its vulnerable period and become capable of defending itself in this realm.
+Yang Chen’s only regret was that the grade of the Blood Phantom Vine was not easy to increase. It could not be done without the blood of experts. Fortunately, this Blood Phantom Vine of his had already sucked the blood of a YuanYing stage expert for about a hundred years. Although it still hadn’t matured yet, the energy it had obtained  was barely enough for it to pass through its vulnerable period and become capable of defending itself in this realm.
 
 But if he wanted to increase the grade of this Blood Phantom Vine again, then he had to have it suck the blood of an even higher leveled expert than elder Hua Wanting. That meant that he required a Da Cheng stage expert’s blood. Thus, Yang Chen currently didn’t have any extravagant hopes for increasing the grade of this Blood Phantom Vine.
 
