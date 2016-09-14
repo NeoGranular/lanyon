@@ -127,7 +127,7 @@ After saying these words, his vision circled about in the main hall; his express
 
 Henceforth, relying on the gargantuan tree namely Lin family, Cheng family’s fame would increase many folds, and they would no longer pale when compared to He family and Xu family.
 
-Under the instructions of Lin Haori, he placed the box table and slowly opened.
+Under the instructions of Lin Haori, he placed the box on the table and slowly opened it.
 
 In the box was actually a several ten centimeters long ginseng. What astonished people even more was that this ginseng was completely blood-red from head to toe. It resembled a small child and also a little old man full of wrinkles.
 
