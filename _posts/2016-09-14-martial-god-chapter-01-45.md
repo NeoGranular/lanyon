@@ -16,7 +16,7 @@ translator: toomuchnoob
 proofreader:
 is_preview:
 has_note: true
-note: "2/5. Sorry, I was so tired that I forgot to edit. I only remebered after posting the chapter. Read it tommorow if you don't want to read with too many mistakes."
+note: "3/5. Sorry, I was so tired that I forgot to edit. I only remebered after posting the chapter. Read it tommorow if you don't want to read with too many mistakes."
 ---
 The feast eventually concluded. Both He Quanxin and He Quanming although had been beaming with smiles during the feast, after arriving few hundred meters away from the Cheng residence, their faces turned grave.
 
