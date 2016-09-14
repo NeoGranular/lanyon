@@ -35,9 +35,9 @@ After entering his room, He Yiming immediately blew off the lamp and laid down o
 
 His actions were exceedingly limited, and he specifically avoided the residences of his elders, so that nobody could discover him.
 
-He gently climbed over the wall and went to the woodshed where he  dumped the corpse before.
+He gently climbed over the wall and went to the woodshed where he dumped the corpse before.
 
-As he expected, nobody could be seen at such a time. Not daring to delay even a second, He Yiming lifted the corpse and dashed for the outskirts of the city as fast as he could.
+As he expected, nobody could be seen at such a time. Not daring to delay even a second, He Yiming grabbed the corpse and dashed as fast as he could, aiming for the outskirts of the city .
 
 Although he didn’t have a superior agility technique, relying on his formidable Internal Energy, covering the long distance was not a problem.
 
