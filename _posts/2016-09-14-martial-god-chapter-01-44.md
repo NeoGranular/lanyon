@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 44 - Thousnad-Year Blood Ginseng."
+title: "Chapter 44 - Thousand-Year Blood Ginseng."
 book:
   number: 1
   title: "What Is A Genius"
@@ -10,7 +10,7 @@ category: martial-god
 #chapter no. format: bb-cc bb=book cc=chapter. Example: 01-01 (book 1, chapter 1)
 previous_chapter: 01-43
 next_chapter: 01-45
-date: 2016-09-14 
+date: 2016-09-14
 has_credits: true
 translator: toomuchnoob
 proofreader:
@@ -43,7 +43,7 @@ Although his mind was somewhere else and he sincerely hoped this wretched feast 
 
 Suddenly, from outside, a Cheng family member rushed inside with a pleasantly surprised expression on his face. He arrived beside the principal seats and said a few lines in a low voice.
 
-Seated in the middle, the Cheng Lord Father, Cheng Zhusheng, suddenly stood up and said a few lines to the people around him. Suddenly everybody stood up and escorted the Lord Father out. 
+Seated in the middle, the Cheng Lord Father, Cheng Zhusheng, suddenly stood up and said a few lines to the people around him. Suddenly everybody stood up and escorted the Lord Father out.
 
 These people were the focus of the entire banquet. Once they stood up, they immediately caused the surrounding people to raise their eyebrows. Even the performances on the main hall’s stage were stopped by the family servants through silent gestures.
 
@@ -59,7 +59,7 @@ He Yitian looked at him and said, “Yiming, Jadeting city’s Lin family is her
 
 “Lin family?” From his face, He Yiming seemed somewhat moved. He lived in the Tai Cang county and had never gone to Jadeting city but Lin family’s name was like thunder to his ears.
 
-Lin family was an exceedingly high-level influential family that had been passed on through millenniums. In front of their history and depth, even the whole Tai Cang county paled. 
+Lin family was an exceedingly high-level influential family that had been passed on through millenniums. In front of their history and depth, even the whole Tai Cang county paled.
 
 After all, due to being situated in an excessively desolate area, Tai Cang county only began to flourish about three hundred years ago. Even though the county had experienced two dynasties, it was still nothing more than a history of three hundred years.
 
@@ -143,6 +143,6 @@ Although such a behavior from the Cheng family didn’t conform to the local cus
 
 If Cheng family had known earlier that the gift was such an object, they  wouldn’t have unwrapped it in front of everybody.
 
-Lin Haori blinked his eyes. He disagreed with Cheng Lord Master’s conduct. However, as a guest, speaking out was not appropriate for him. He only sighed inwardly while thinking that the people of a small region were indeed the people of a small region. Just a thousand-year blood ginseng could make them crazy. 
+Lin Haori blinked his eyes. He disagreed with Cheng Lord Master’s conduct. However, as a guest, speaking out was not appropriate for him. He only sighed inwardly while thinking that the people of a small region were indeed the people of a small region. Just a thousand-year blood ginseng could make them crazy.
 
 His opinion of Tai Cang county’s people went down a notch.
