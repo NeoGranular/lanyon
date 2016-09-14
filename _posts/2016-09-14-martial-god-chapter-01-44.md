@@ -37,7 +37,7 @@ His actions were exceedingly limited, and he specifically avoided the residences
 
 He gently climbed over the wall and went to the woodshed where he dumped the corpse before.
 
-As he expected, nobody could be seen at such a time. Not daring to delay even a second, He Yiming grabbed the corpse and dashed as fast as he could, aiming for the outskirts of the city .
+As he expected, nobody could be seen at such a time. Not daring to delay even a second, He Yiming grabbed the corpse and dashed away as fast as he could, aiming for the outskirts of the city.
 
 Although he didn’t have a superior agility technique, relying on his formidable Internal Energy, covering the long distance was not a problem.
 
