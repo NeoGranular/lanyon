@@ -29,7 +29,7 @@ He Yiming made a sound of agreement and sat on his seat before asking, “Second
 
 “Just like you,” He Yihai said in a slightly irritated voice, “Was it really fun in the main yard?”
 
-He Yiming slightly started. When he went out, he did see that the Residence's front was brightly lit and bustling with noise. However, as if gods and demons played were at play, he did not go there. Instead, he ended up being sidetracked and discovering a traitor in the ranks of Xu family.
+He Yiming slightly started. When he went out, he did see that the Residence's front was brightly lit and bustling with noise. However, as if gods and demons were at play, he did not go there. Instead, he ended up being sidetracked and discovering a traitor in the ranks of Xu family.
 
 This moment, after hearing his second brother’s question, he realized that Cheng family had specially arranged all sorts of amusements there.
 
