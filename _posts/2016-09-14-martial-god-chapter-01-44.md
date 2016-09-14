@@ -55,7 +55,7 @@ He Yiming, as if having a spring under his feet, jumped from the bed and hurried
 
 While he, his elder brother, and younger sister grabbed the rare opportunity and remained with their parents. He Quanxin gave them special permission to stay a few more days.
 
-The days when the whole family got together were extremely rare. He Yiming also set aside everything that occupied his mind and enjoyed family love and joy with his parents and siblings.
+The days when the whole family got together were extremely rare. He Yiming also set aside everything that occupied his mind and enjoyed the familial love and joy with his parents and siblings.
 
 At night, everybody left for their residences.
 
