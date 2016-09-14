@@ -35,7 +35,7 @@ This moment, after hearing his second brother’s question, he realized that Che
 
 He Yiming faintly smiled. He didn’t say anything and only nodded slightly. Since he never went there, he had no idea if that place was interesting or not. Since words would only bring more trouble for him, he decided not to say anything.
 
-He Yihai stood up and said, “Sixth, since you have returned, you assume the charge here. I will also go to have some fun.”
+He Yihai stood up and said, “Sixth, since you have returned, you assume the charge here. I will also go out to have some fun.”
 
 Looking at his second brother gladly leave, He Yiming bitterly smiled inwardly. However, this moment, he had no thoughts of amusements as he silently sat on his seat and watched the actors perform in the main hall.
 
