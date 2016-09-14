@@ -65,7 +65,7 @@ As compared to the former times, he was much calmer this time. This was also the
 
 The black-clothed man naturally wasn’t short of money on him. However, this was actually not what He Yiming was concerned about.
 
-Apart from the money, He Yiming found three tiny bottles. These bottles seemed to be carved out of some jewel. They didn’t seem much expensive, but were quite sturdy. Even if one accidently dropped one of these on the floor, it would not easily break.
+Apart from the money, He Yiming found three tiny bottles. These bottles seemed to be carved out of some jewel. They didn’t seem much expensive, but were quite sturdy. Even if one accidently dropped one of these on the floor, it would not break easily.
 
 In addition, there was a book. He Yiming opened and glanced at it. It actually explained about how to change one’s appearance; the appearance changing technique.
 
