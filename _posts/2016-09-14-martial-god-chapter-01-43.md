@@ -89,7 +89,7 @@ Following behind him, apart from the people who had been sitting on the principa
 
 Coming with guards to such a region clearly illustrated his extraordinary identity. However, when one thinks about the difference in the status of the two families, Cheng family wouldn’t have dared to say anything even if these guards had escorted a dog raised by the Lin family.
 
-Of course, looking at this man’s dragon like manner, he couldn’t be dog raised by the Lin family.
+Of course, looking at this man’s dragon like manner, he couldn’t be a dog raised by the Lin family.
 
 He Yitian said in a low voice, “These guards must be from Lin family’s special guard squadron. I heard that in order to enter this squadron, your Internal Energy must be at least at the seventh layer."  
 
