@@ -49,7 +49,7 @@ Although he crossed over the city wall two times, in He Yiming’s opinion, such
 
 However, these guards all had sleepy faces and even their eyes seemed half closed. He even doubted that if he walked past them, they might ignore him even after spotting him.
 
-By the time he returned back to the clan, the color of the sky had already brightened. As he closed the door and lied down on the bed, he heard the voices of his eldest uncle and others.
+By the time he returned back to the clan, the color of the sky had already brightened. As he closed the door and laid down on the bed, he heard the voices of his eldest uncle and others.
 
 He Yiming, as if having a spring under his feet, jumped from the bed and hurriedly ate breakfast. His eldest uncle, Yitian, Yihai left for the manor
 
