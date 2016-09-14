@@ -57,7 +57,7 @@ He was concerned about the matter of that black-clothed man’s corpse and was a
 
 He Yitian looked at him and said, “Yiming, Jadeting city’s Lin family is here.”
 
-“Lin family?” Through his face, He Yiming seemed somewhat moved. He lived in the Tai Cang county and had never gone to Jadeting city but Lin family’s name was like thunder to his ears.
+“Lin family?” From his face, He Yiming seemed somewhat moved. He lived in the Tai Cang county and had never gone to Jadeting city but Lin family’s name was like thunder to his ears.
 
 Lin family was an exceedingly high-level influential family that had been passed on through millenniums. In front of their history and depth, even the whole Tai Cang county paled. 
 
