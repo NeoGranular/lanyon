@@ -20,7 +20,7 @@ note: "2/5"
 ---
 The feast eventually concluded. Both He Quanxin and He Quanming although had been beaming with smiles during the feast, after arriving few hundred meters away from the Cheng residence, their faces turned grave.
 
-Everybody knew that one of the reasons that Lin family sent people and even delivered such a gift was to exhibit their strength. Henceforth, anyone who wished to fight Cheng family must consider Jadeting’s Lin family’s existence first.
+Everybody knew that one of the reasons Lin family sent people and even delivered such a gift was to exhibit their strength. Henceforth, anyone who wished to fight Cheng family must consider Jadeting’s Lin family’s existence first.
 <!--more-->
 
 This was indeed an enormously tyrannous clan. Perhaps they would not interfere in Tai Cang county’s trivial affairs, but when the matter would concern the destruction of the Cheng family, they would not just sit and watch.
