@@ -67,21 +67,21 @@ The black-clothed man naturally wasn’t short of money on him. However, this wa
 
 Apart from the money, He Yiming found three tiny bottles. These bottles seemed to be carved out of some jewel. They didn’t seem much expensive, but were quite sturdy. Even if one accidently dropped one of these on the floor, it would not break easily.
 
-In addition, there was a book. He Yiming opened and glanced at it. It actually explained about how to change one’s appearance; the appearance changing technique.
+In addition, there was a book. He Yiming opened it. It actually explained about how to change one’s appearance; the Appearance Altering technique.
 
-He Yiming didn’t know whether the methods mentioned in the book were good, but were extremely rare. He Yiming had never heard about such appearance changing techniques before. Some techniques even mentioned the use of herbs. If the words written in the book were true, the worth of this book couldn’t be shabby.
+He Yiming didn’t know whether the methods mentioned in the book were good, but they seemed extremely rare. He Yiming had never heard about such appearance changing techniques before. Some techniques even mentioned the use of herbs. If the words written in the book were true, the worth of this book couldn’t be too shabby.
 
 After sorting out these things, He Yiming eventually picked up the object he was most concerned about.
 
 It was, of course, the object wrapped in the used oilskin. He carefully unfolded the cloth. It was indeed a copied scripture.
 
-He Yiming’s emotions slightly stirred as he opened the first page. On the top of the page, two big words could be seen; Blaze Technique.
+He Yiming’s emotions slightly stirred as he opened the first page. On the top, two big words could be seen; Blaze Technique.
 
 He Yiming’s wrist slightly trembled, almost dropping the book, while his heart palpitated.
 
 Prior to this moment, he never expected that this book could contain this technique. His complexion changed countless times instantaneously as joy flooded his insides.
 
-He was quite fortunate to have waited this long before looking at this book. If he had hurriedly looked at this book yesterday, his face would have certainly betrayed his emotions, in turn attracting the suspicions of others.
+He was quite fortunate to have waited this long before taking a look at this book. If he had hurriedly looked at this book yesterday, his face would have certainly betrayed his emotions; thus, attracting the attention of others.
 
 Although his age was not big, he quite understood the three big influential families of the Tai Cang county.
 
