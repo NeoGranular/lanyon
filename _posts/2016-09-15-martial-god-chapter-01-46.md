@@ -122,9 +122,9 @@ For these influential families of the Tai Cang county, a thousand year blood gin
 
 He Yiming gnashed his teeth and followed after them; his figure like a swimming fish.
 
-These people had obviously planned everything before. After a few moments, the two groups stormed the Cheng Residence while swearing to kill.
+These people had obviously planned everything before. After a few moments, the two groups stormed the Cheng Residence, swearing to kill.
 
-Their appearance was completely out of the Cheng family's expectations. The family had lived peacefully for a long time. They hadn’t even suffered a small theft, so they could never have expected someone so brazenly raiding their home.
+Their appearance was completely out of Cheng family's expectations. The family had lived peacefully for a long time. They hadn’t even suffered a small theft, so they could never have expected someone so brazenly raiding their home.
 
 Soon after, countless curses, screams, begs, and even the cries of children began to spread outside the Cheng Residence.
 
