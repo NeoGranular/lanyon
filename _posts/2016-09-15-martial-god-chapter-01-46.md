@@ -42,7 +42,7 @@ He knew that such a change in his appearance accounted his lack of skill. Howeve
 
 Wearing a suitable outfit, He Yiming stealthily left his residence.
 
-Although he couldn’t be entirely familiar with the county town during the few days he had spent here, the territories of the Xu family and the Cheng family had already been thoroughly remembered by him. As far as these two areas were concerned, he couldn’t possibly make any mistakes.
+Although he couldn’t be entirely familiar with the county town within the few days he had spent here, the territories of the Xu family and the Cheng family had already been thoroughly remembered by him. As far as these two areas were concerned, he couldn’t possibly make any mistake.
 
 Moving through dark alleys, he advanced towards the Xu family’s residence. However, after walking for half an hour, his ears suddenly perked up. At the same time, moving swiftly and elegantly, he hid into a building's crevice.
 
