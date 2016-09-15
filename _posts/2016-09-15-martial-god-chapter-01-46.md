@@ -86,7 +86,7 @@ After a while, three figures entered like lightning and walked up to the groupâ€
 
 As He Yimingâ€™s vision fell on their bodies, he was even more astonished.
 
-These three were also dressed in greyish-black outfit and faces covered with black turbans but their actions betrayed a faint formidable and dangerous aura.
+These three were also dressed in greyish-black outfits and faces covered with black turbans but their actions betrayed a faint formidable and dangerous aura.
 
 The fact that they could involuntarily display their aura through their conduct proved the fact that they were at least seven-layer cultivators. Furthermore, their eyes seemed savage and cruel. He Yiming had only seen such eyes once. The eyes of Hubin whom he'd killed before.
 
