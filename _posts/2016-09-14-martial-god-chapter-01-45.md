@@ -31,41 +31,41 @@ Silent along the whole journey, upon returning back to the clan, He Quanxin comm
 
 Even in the county town, the young generation had independent residences for them.
 
-After entering his room, He Yiming immediately blew off the lamp and laid down on the bed with his clothes on. After a short while, as the activity outside died, he quietly opened the door and left.
+After entering his room, He Yiming immediately blew off the lamp and lay down on the bed with his clothes on. After a short while, as the activity outside died, he quietly opened the door and left.
 
 His actions were exceedingly limited, and he specifically avoided the residences of his elders, so that nobody could discover him.
 
-He gently climbed over the wall and went to the woodshed where he dumped the corpse before.
+He gently climbed over the wall and went to the woodshed where he'd dumped the corpse before.
 
-As he expected, nobody could be seen at such a time. Not daring to delay even a second, He Yiming grabbed the corpse and dashed away as fast as he could, aiming for the outskirts of the city.
+As he expected, nobody could be seen at such a time. Not daring to delay, He Yiming grabbed the corpse and dashed away as fast as he could, aiming for the outskirts of the city.
 
 Although he didn’t have a superior agility technique, relying on his formidable Internal Energy, covering the long distance was not a problem.
 
-Soon, he found himself in a mountain woods. He dug out a hole and buried the corpse. After settling the last heap of dust, he pondered for a few moments and decided to give his respects to the signless tomb in front of him.
+Soon, he found himself in some mountain woods. He dug out a hole and buried the corpse. After settling the last heap of dust, he pondered for a few moments and decided to give his respects to the signless tomb in front of him.
 
 After accomplishing all this, he felt relaxed as he hurriedly returned home following the same path.
 
 Although he crossed over the city wall two times, in He Yiming’s opinion, such a low wall simply wasn’t an inconvenience. He was only slightly apprehensive of the guards that occasionally patrolled on the city wall.
 
-However, these guards all had sleepy faces and even their eyes seemed half closed. He even doubted that if he walked past them, they might ignore him even after spotting him.
+However, these guards all had sleepy faces and even their eyes seemed half closed. He even doubted that if he walked past them, would they just ignore him even after spotting him.
 
-By the time he returned back to the clan, the color of the sky had already brightened. As he closed the door and laid down on the bed, he heard the voices of his eldest uncle and others.
+By the time he returned back to the clan, the color of the sky had already brightened. As he closed the door and lay down on the bed, he heard the voices of his eldest uncle and others.
 
 He Yiming, as if having a spring under his feet, jumped from the bed and hurriedly ate breakfast. His eldest uncle, Yitian, Yihai left for the manor
 
 While he, his elder brother, and younger sister grabbed the rare opportunity and remained with their parents. He Quanxin gave them special permission to stay a few more days.
 
-The days when the whole family got together were extremely rare. He Yiming also set aside everything that occupied his mind and enjoyed the familial love and joy with his parents and siblings.
+The days when the whole family got together were extremely rare. He Yiming also cleared his occupied mind and enjoyed the familial love and joy with his parents and siblings.
 
 At night, everybody left for their residences.
 
 After returning to his room, He Yiming eventually brought out the things he had received from the black-clothed man.
 
-As compared to the former times, he was much calmer this time. This was also the reason he was able to suppress his curiosity and waited until this moment to examine his harvests.
+As compared to the former times, he was much calmer. This was also the reason he was able to suppress his curiosity and waited until this moment to examine his harvests.
 
-The black-clothed man naturally wasn’t short of money on him. However, this was actually not what He Yiming was concerned about.
+The black-clothed man naturally wasn’t short of money on him. However, this was actually not He Yiming's principal concern.
 
-Apart from the money, He Yiming found three tiny bottles. These bottles seemed to be carved out of some jewel. They didn’t seem much expensive, but were quite sturdy. Even if one accidently dropped one of these on the floor, it would not break easily.
+Apart from the money, He Yiming found three tiny bottles. These bottles seemed to be carved out of some jewel. They didn’t seem much expensive, but were quite sturdy. Even if he accidently dropped one of these on the floor, it would not break easily.
 
 In addition, there was a book. He Yiming opened it. It actually explained about how to change one’s appearance; the Appearance Altering technique.
 
@@ -105,7 +105,7 @@ Relying on tricks, that drunkard managed to infiltrate the Xu family as a thief.
 
 Otherwise, if a seventh or eighth layer expert entered the Xu family, he would definitely receive the same treatment as that of the family’s second generation. How could he be a flatterer following behind Xu family’s young generation?
 
-Behind the black-clothed and the drunkard, an unknown entity was manipulating the events. Not only all of this all was happening in secret, everything was connected by a single thread.
+Behind the black-clothed man and the drunkard, an unknown entity was manipulating the events. Not only all of this all was happening in secret, everything was connected by a single thread.
 
 Moreover, the other book, which the black-clothed man had not yet completely copied, had to be the other equally famous technique alongside the Blazing technique, the Withered Tree technique.
 
@@ -117,9 +117,9 @@ He Yiming closed his eyes before his thoughts gradually pacified.
 
 Since he already had such a technique in his hands, how could he not at least try cultivating it?
 
-He Yiming remained seated for about an hour with a calm mind before his mental state resumed its best state. Subsequently, he slowly opened the Blazing technique’s scripture and contemplated.
+He Yiming remained seated for about an hour with a calm mind before his mental state resumed its best state. Subsequently, he slowly opened the Blaze technique’s scripture and contemplated.
 
-The Blazing technique was a fire-type primary cultivation technique, which was vastly different from the metal-type and water-type primary techniques he had previously cultivated.
+The Blaze technique was a fire-type primary cultivation technique, which was vastly different from the metal-type and water-type primary techniques he had previously cultivated.
 
 As He Yiming began to cultivate according to the copied book, all the positions where his Internal Energy was present immediately began to give off a warm and fuzzy feeling. He clicked his tongue in wonder; deserving of its title of a top-level fire-type primary cultivation technique. It’s feel was indeed extraordinary.
 
@@ -127,7 +127,7 @@ At this moment, he even recalled the fight with Xu that happened a few days ago.
 
 Although that battle was not as frightening as a Xiantian battle skill, its might couldn’t be compared with an ordinary battle skill.
 
-For He Yiming, the cultivation of Blazing technique was unsurprisingly like a gale that blew as it wished.
+For He Yiming, the cultivation of Blaze technique was unsurprisingly like a gale that blew as it wished.
 
 Since this was the first time He Yiming had accessed a fire-type technique, he preserved the maximum caution. Every single character in the scripture was engraved in his mind, so as not to miss any detail.
 
@@ -141,8 +141,8 @@ As a high-level battle skill, its might obviously far exceeded the ordinary tech
 
 During the daytime, He Yiming continued to spend time with his family. At night, however, he continued his cultivation.
 
-Of course, he still remained exceedingly cautious while cultivating. However, despite this being the case, on the third night, he smoothly attained the realm of Blazing techniques ninth layer.
+Of course, he still remained exceedingly cautious while cultivating. However, despite this being the case, on the third night, he smoothly attained the realm of the Blaze technique's ninth layer.
 
 After attaining this realm, his Internal Energy finally came to a standstill and stabilized.
 
-Likewise, he casually read that Appearance-Altering technique’s book as well and found out about the substance inside those three jade bottles. The bottles contained some medicinal powder to change one’s appearance. It was composed of some ordinary herbs and didn’t have a single extraordinary feature about it. 
+Likewise, he casually read that Appearance-Altering technique’s book as well and found out about the substance inside those three jade bottles. The bottles contained some medicinal powder which could change one’s appearance. It was composed of some ordinary herbs and didn’t have a single extraordinary feature about it. 
