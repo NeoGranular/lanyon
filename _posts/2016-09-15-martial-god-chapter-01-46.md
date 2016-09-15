@@ -52,7 +52,7 @@ He Yiming came out, mildly curious about the fact there were other nocturnals be
 
 He Yiming faintly shook his head, no longer concerning himself with them. Everyone has their own problems. 
 
-After again walking a few steps, his brows slightly creased, and he again entered that crevice once again. Again, another individual hurriedly went past him.
+After again walking a few steps, his brows slightly creased, and he entered that crevice once again. Again, another individual hurriedly went past him.
 
 He Yiming came out and again walked a few steps before he irritatedly rolled his eyes again and returned back into the crevice.
 
