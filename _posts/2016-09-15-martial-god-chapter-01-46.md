@@ -74,7 +74,7 @@ It should be known that although Cheng family’s strength was the most inferior
 
 Therefore, when He Yiming discovered that the target of these men was actually the Cheng family, the astonishment he felt need not be explained.
 
-Eventually, after arriving at the distance of three hundred meters away from the Cheng Residence, they gathered in a courtyard. At this point, even an idiot could understand that their target was Cheng Residence which was three hundred meters away.
+Eventually, after arriving three hundred meters away from the Cheng Residence, they gathered in a courtyard. At this point, even an idiot could understand that their target was Cheng Residence which was three hundred meters away.
 
 All these people were wearing the same greyish-black outfit, and their faces were covered with black turbans. After arriving in the courtyard, they crouched down. No one talked or discussed anything. They seemed like a horde of specters.
 
