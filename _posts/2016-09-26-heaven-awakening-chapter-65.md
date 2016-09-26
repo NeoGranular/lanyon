@@ -5,7 +5,7 @@ title: "Chapter 65 - City Master Mansion's Resources."
 category: heaven-awakening
 previous_chapter: 64
 next_chapter: 66
-date: 2016-09-26 18:32:00 +0200
+date: 2016-09-26 
 has_credits: true
 translator: toomuchnoob
 is_preview:
