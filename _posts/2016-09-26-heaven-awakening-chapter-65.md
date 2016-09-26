@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 65 - City Master Mansion's Resources."
 category: heaven-awakening
