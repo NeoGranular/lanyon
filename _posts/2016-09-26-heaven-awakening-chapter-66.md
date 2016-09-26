@@ -5,7 +5,7 @@ title: "Chapter 66 - Day One ."
 category: heaven-awakening
 previous_chapter: 65
 next_chapter: 67
-date: 2016-09-26 18:32:00 +0200
+date: 2016-09-26
 has_credits: true
 translator: toomuchnoob
 is_preview:
