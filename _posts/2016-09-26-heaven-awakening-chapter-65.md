@@ -46,7 +46,7 @@ In experience, he was undoubtedly far behind Wei Ming. Sheltered by the City Mas
 
 Everybody said that he was a genius, and he agreed. However, being in the City Master Mansion, he had inevitably heard of many external affairs.
 
-However, what he felt upon hearing couldn't be compared to the shock he received upon seeing with his own eyes. Before him, on this street inside Zhi Ling region, he could see so many individuals of his age and some even smaller than him. Each and every one of these individuals possessed realms that were not inferior to him. If this level of achievement could make one genius, then this street was full of geniuses who were fighting a battle where their bones broke and blood flew.
+However, what he felt upon hearing couldn't be compared to the shock he received upon seeing with his own eyes. Before him, on this street inside Zhi Ling region, he could see so many individuals of his age and some even smaller than him. Each and every one of these individuals possessed realms that were not inferior to his. If this level of achievement could make one genius, then this street was full of geniuses who were fighting a battle where their bones broke and blood flew.
 
 Wei Ming was calmly watching.
 
