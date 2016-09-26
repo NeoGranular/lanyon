@@ -113,5 +113,5 @@ The students of the two institutes could interact, but it didn’t mean they wer
 
 “Just you? Would you even know how you died? Tian Zhao students rushed ahead, and a new fight had already erupted.
 
-The street separating the two institutes was quite spacious. However, rarely would someone be seen walking on it. This was because the last year, the average number of fights that occurred on this street per day….amounted to thirty two…..
+The street separating the two institutes was quite spacious. However, rarely would someone be seen walking on it. This was because the last year, the average number of fights that occurred on this street per day….amounted to three point two…..
 
