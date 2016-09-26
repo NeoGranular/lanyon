@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: "Chapter 66 - Day One ."
 category: heaven-awakening
