@@ -10,12 +10,12 @@ has_credits: true
 translator: toomuchnoob
 is_preview:
 ---
-As the Xia Feng students, who had almost left the street, turned their heads upon hearing the commotion behind them, they were immediately somewhat frightened by the scene before them.
+As the Xia Feng students, who had almost left the street, turned their heads upon hearing the commotion behind them. They were immediately somewhat frightened by the scene before them.
 
 A quiet street instantly turned into a battlefield.  All sorts of abilities of different Soul's Power dancing in the street, and following it, blood rippling.
 <!--more-->
 
-At this moment, Xia Feng students were silent. They had acknowledged that as cultivators, they were indeed inferior. This moment, all sorts of abilities obtained after the Linking of the souls could be seen used by the students of these two institutes. What about them?
+At this moment, Xia Feng students were silent. They had acknowledged that as cultivators, they were indeed inferior. This moment, all sorts of abilities obtained after the Linking of the souls could be seen being used by the students of these two institutes. What about them?
 
 "We should...leave.." Someone said.
 
