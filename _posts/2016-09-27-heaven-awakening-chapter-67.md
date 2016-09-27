@@ -45,7 +45,7 @@ Body technique: Dropping Leaf.
 
 Wei Ying, from the very first day of his cultivation, had begun to lay his foundation. In the end, he trained in an ability of Strength’s soul.
 
-Like a leaf fallen from a branch, his figure was encompassed inside the woods.
+As if a leaf fallen from a branch, the woods encompassed his figure.
 
 Dropping Leaf. The control required for this technique was not of strength, velocity or agility, but of weight. Wei Ying’s own weight.
 
