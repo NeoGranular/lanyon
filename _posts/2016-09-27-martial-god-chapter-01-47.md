@@ -77,7 +77,7 @@ His experiences of many years allowed him to immediately calm down. He began to 
 
 He Yiming quickly left the courtyard with the red box. However, he heard a furious roar followed by a strong Internal Energy piercing the air and coming towards him.
 
-With just a glance, he recognized this man. This was precisely the number one expert in Xu family’s second generation whose Internal Energy had already attained the peak of the eighth layer, Cheng Shine.
+With just a glance, he recognized this man. This was precisely the number one expert in Cheng family’s second generation whose Internal Energy had already attained the peak of the eighth layer, Cheng Shine.
 
 However, at this moment, from his wretched appearance, anyone could tell that upon hearing the commotion here, he must have thought about his Lord Master and the thousand-year blood ginseng. Thus, he rushed over here without thinking about his appearance.
 
