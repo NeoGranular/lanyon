@@ -75,7 +75,7 @@ Chu Min quickly advanced two steps then suddenly jumped up. In mid-air, her body
 
 Wind…..turning?
 
-Wei Ying, who had been traveling with the help of wind, had an extremely keen perception. He could detect the slightest of the changes in the direction of the wind. Before Chu Min’s feet even touched the ground, he could hear a faint whistling sound followed by a gale.
+Wei Ying, who had been traveling with the help of wind, had an extremely keen perception. He could detect the slightest of the changes in the direction of the wind. With Chu Min's feet rapidly spinning, he could hear a faint whistling sound followed by a gale.
 
 Wei Ying hurriedly discontinued his body technique. Immediately resuming his weight, he dropped down. In any case, he had already gone past the boundary wall of Tian Zhao. However, as he dropped, he heard an explosion of a whistling sound behind him. Subsequently, he turned around and saw the woman’s figure, which was on the other side of the wall, rising up at a great speed and rushing towards him.
 
