@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 48 - Mantis Stalks Cicada."
+title: "Chapter 48 - Conjectures."
 book:
   number: 1
   title: "What Is A Genius"
