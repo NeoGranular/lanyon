@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 50 - Proposal."
+title: "Chapter 50 - Unexpected Discovery."
 book:
   number: 1
   title: "What Is A Genius"
