@@ -20,7 +20,7 @@ note: "3/4"
 ---
 The sun rays at the dawn entered through the window like countless golden arrows.
 
-He Yiming stretched his body and stood up. He then went to the backyard. inside this yard, which solely belonged to He family, he didn’t feel too apprehensive.
+He Yiming stretched his body and stood up. He then went to the backyard. Inside this yard, which solely belonged to He family, he didn’t feel too apprehensive.
 <!--more-->
 
 Currently, the weather was scorching hot. Overhead, the sun was gloriously shining, radiating intense heat. However, in the light of He Yiming’s cultivation, he didn’t need to fear hot and cold too much. As long as the temperature didn’t attain an abnormal state, he wouldn’t care too much about it.  
@@ -29,7 +29,7 @@ This moment, after a few turns, He Yiming had arrived inside a completely unoccu
 
 He raised his two fists to his shoulder-level before his whole figure started trembling in place like a giant boulder.
 
-Rolling Boulder fist. As he employed this technique, howls wind could be heard immediately afterwards. Although he was only employing the technique to the seventh level, as far as his surroundings were concerned, it brought an enormous destruction nevertheless.
+Rolling Boulder fist. As he employed this technique, howls of winds could be heard immediately afterwards. Although he was only employing the technique to the seventh level, as far as his surroundings were concerned, it brought an enormous destruction nevertheless.
 
 In the courtyard, the small plants, flowers, and trees were being continuously suppressed by the fist-winds. Each and every one of them was bent low, almost touching the ground. As He Yiming’s pace quickened, they were completely pressed into the soil.
 
