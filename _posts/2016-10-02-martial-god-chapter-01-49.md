@@ -161,7 +161,7 @@ He Quanming’s both eyes slightly rose. Hearing this name, he was quite astonis
 
 He pondered for a while and solemnly said, “Brother Cheng, as you said, Yitian is He family’s  eldest son’s eldest grandson. As such, I have no say in this matter. If brother Cheng allows it, I will immediately return back to the clan and report back to father?”
 
-Cheng Shine unhesitatingly nodded and said, “Of course, in fact, it should be as such. So, I will be in the clan, awaiting the good news.”
+Cheng Shine unhesitatingly nodded and said, “Of course, in fact, it should be as such. So, I will be at home, awaiting the good news.”
 
 As an influential family’s eldest son’s eldest grandson, the matter of marriage partner was extremely significant. Of course, it couldn’t be decided so easily.
 
