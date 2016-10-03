@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 67 - This Is Floating As Well."
 category: heaven-awakening
 previous_chapter: 66
-next_chapter: 66
+next_chapter: 68
 date: 2016-09-27
 has_credits: true
 translator: toomuchnoob
