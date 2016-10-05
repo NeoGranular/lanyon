@@ -23,6 +23,7 @@ Upon hearing the three words ‘gold-crowned snake’, He Quanming and the two i
 In this world, humans stood at the top of the food chain.
 
 Yet many creatures possessed much more strength than humans in addition to certain amounts of wisdom. If ordinary people encountered these creatures, they would certainly die.
+<!--more-->
 
 Such creatures were collectively known as spirit beasts.
 
