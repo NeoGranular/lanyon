@@ -18,11 +18,11 @@ is_preview:
 has_note: true
 note: "2/4"
 ---
-After swallowing one wolf, gold-crowned python shifted its vision to the other one and quickly acted.
+After swallowing one wolf, the gold-crowned python shifted its vision to the other one and quickly acted.
 
 Looking at that frightening opened mouth, He Yiming felt sort of bizarre.
 
-Although spirit beast possessed certain amounts of wisdom, evidently, this low ranked gold-crowned python did not possess much of it. Although it had been cautious and prudent till now, before food, it nevertheless decided to abandon all caution and devoured the food which had suspicious origins.
+Although spirit beasts possessed certain amounts of wisdom, evidently, this low ranked gold-crowned python did not possess much of it. Although it had been cautious and prudent till now, before food, it nevertheless decided to abandon all caution and devoured the food which had suspicious origins.
 <!--more-->
 
 Of course, this was also related to his grandfather and others' brilliant plan. If not for planning so meticulously, obtaining such a result would have been impossible.
