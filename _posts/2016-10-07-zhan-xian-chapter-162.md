@@ -18,16 +18,15 @@ editor:
 proofreader:
 is_preview:
 ---
-Song Hang wanted to teach Yang Chen a lesson, but he ended up with a slap on his face. Those hall masters and the Palace Master, whom he had previously asked to punish Yang Chen, had instead become spectators for his own humiliation, moreover he could not offend them and neither did he dare to have any thoughts of attacking Yang Chen.  
+Song Hang wanted to teach Yang Chen a lesson, but in the end he was the one who was slapped across his face. Those hall masters and the Palace Master, whom he had previously asked to punish Yang Chen, had instead become spectators for his own humiliation, moreover he could not offend them and neither did he dare to have any thoughts of attacking Yang Chen.  
 
 The meeting was then disbanded, but the only one who left was Song Hang. None among the others left, waiting for Yang Chen to clarify that matter regarding the Da Cheng stage expert. Everyone could not help being curious. A Da Cheng stage expert was the target of every sect for roping in, how could it be so easy for Yang Chen?
-<!--more-->
 
 Yang Chen would certainly not speak of this in the Nine Earth Manor, the group of elders this concerned the most were also not present, so Yang Chen did not say much and invited everyone to the Second Fierce Yang Courtyard, and even specifically asked for that group of elders to be requested over, so that everything could be cleared up.
 
 Wang Yong only now heard about Song Hang’s actions and was furious, but before he could do anything, everyone had already rushed to the Second Fierce Yang Courtyard.
 
-Seeing Wang Yong so furious, everyone was aware what the matter was. All of them greeted Wang Yong, one by one, and then began to praise his good fortune for having such a hardworking grand disciple.
+Seeing Wang Yong so furious, everyone knew what the matter was. All of them greeted Wang Yong, one by one, and then began to praise his good fortune for having such a hardworking grand disciple.
 
 When Wang Yong understood the events that had taken place, he was greatly comforted in his heart. The more face his grand disciple had, the more it would add to his own face. He greatly praised Yang Chen without any restraint and without any sense of modesty.
 
@@ -35,7 +34,7 @@ When Wang Yong understood the events that had taken place, he was greatly comfor
 
 When someone mentioned this, Wang Yong glared at him and said:
 
-“My grand disciple has great face, so naturally I will praise him. If you all do not like this, then you should try to find your own grand disciple with such great accomplishments!”
+“My grand disciple has such great accomplishments, so naturally I will praise him. If you all do not like this, then you should try to find your own grand disciple with such great accomplishments!”
 
 His intention to shield him was clearly displayed in his speech.
 
@@ -45,19 +44,19 @@ The reason why Yang Chen had asked Gao Yue to go and stay with them was because 
 
 But to everyone else, it seemed as if Yang Chen heavily respected his master, so they secretly nodded. At the same time, they also felt profound envy towards Gao Yue. Why couldn’t they have such a good disciple?
 
-Afterwards, Yang Chen didn’t speak around the issue and directly made a report about the old tree demon, wanting to join the Eccentrics Hall to everyone. At the same time, he also invited them to attend the old tree demon’s tribulation.
+Afterwards, Yang Chen didn’t beat around the bush and directly made a report about the old tree demon, wanting to join the Eccentrics Hall to everyone. At the same time, he also invited them to attend the old tree demon’s tribulation.
 
 As soon as Yang Chen’s words left his mouth, everyone in the Second Fierce Yang Courtyard immediately took a deep breath.
 
 Among the people present, Wang Yong, who was merely at the peak YuanYing stage, had the highest cultivation. Among the other hall masters, elders and the Palace Master, many were just at the JieDan stage and hadn’t even passed the thunder tribulation of the three tribulations. So, suddenly hearing that a peak YuanYing stage expert was going to go through his Yin Fire tribulation and all of them could attend the ritual, made everyone go crazy.
 
-A Da Cheng stage expert was indeed a Da Cheng stage expert! According to Yang Chen’s words, that old tree demon was very formidable and had suppressed the Yin Fire for more than a dozen times now. What kind of cultivation would he have to suppress a heavenly tribulation? Furthermore, how had he suppressed it?
+A Da Cheng stage expert was indeed a Da Cheng stage expert! According to Yang Chen’s words, that old tree demon was very formidable and had suppressed the Yin Fire tribulation more than a dozen times by now. What kind of cultivation would he need to have to suppress a heavenly tribulation? Furthermore, how had he suppressed it?
 
 Leaving aside the worth of a Da Cheng stage expert to sect, just with this one trick, if the sect could grasp it, then everyone at the peak YuanYing stage would be able to get countless opportunities.
 
 Even without this, just being able to witness an expert pass the Yin Fire tribulation at close proximity was simply a great opportunity to touch upon the edge of the Da Cheng stage for everyone there. Especially for those elders, who were at the YuanYing stage, this was simply a heaven sent opportunity, which many people could not witness in their lifetimes.
 
-Even for JieDan experts to be able to witness someone passing their tribulation was very beneficial towards their mental state and this kind of matter was surprisingly happening within their own sect and the one who made this possible was moreover a disciple at the initial Foundation stage. This could not be said to just be a miracle now, this was simply accomplishing an impossible matter.
+Even for JieDan experts to be able to witness someone passing their tribulation was very beneficial towards their mental state and this kind of matter was surprisingly happening within their own sect and the one who made this possible was moreover a disciple at the initial Foundation stage. This could not be said to just be a miracle now, this was simply making the impossible possible.
 
 Such a good opportunity had surprisingly fallen into the lap of the Pure Yang Palace. Everyone was looking at Yang Chen as if they were looking at some freak. To be able to entice an almost Da Cheng stage expert with just the initial Foundation stage, what kind of good fortune was this?
 
@@ -109,7 +108,7 @@ Lin Yunfeng creased his brows:
 
 “This is a rare opportunity. He can just come out to attend the ritual and then go back to examining his conscience again, wouldn’t that be alright?”
 
-Liang Shao Ming being penalized to examine his conscience was a public matter in the sect, so Lin Yunfeng hadn’t boldly supported him and only used discussing tone to help him.
+Liang Shao Ming being penalized to examine his conscience was a public matter in the sect, so Lin Yunfeng hadn’t boldly supported him and only used a conversational tone to help him.
 
 “Elder Lin, hall master Liang has been punished because he has sinned!”
 
@@ -131,13 +130,13 @@ Lin Yunfeng became anxious. This was such a good opportunity, he just couldn’t
 
 The Palace Master immediately stopped Lin Yunfeng:
 
-“Although my Pure Yang Palace is not one of the big sects, sect rules are sect rules, not some child’s play. If everyone started to look down on them, how would we restrain our sect’s disciples?”
+“Although my Pure Yang Palace is not one of the big sects, sect rules are still sect rules, not some child’s play. If everyone started to look down on them, how would we restrain our sect’s disciples?”
 
 After the Palace Master used the sect’s rules, there was no more room for discussion. Lin Yunfeng could only shut up, but he glared at Yang Chen with a bitter gaze. All of these matters were because of this Yang Chen, including the matter of his grand disciple Chu Heng turning into a sect traitor. Everything was done by this Yang Chen.
 
 Once Lin Yunfeng shut up, the other elders could already see that this line of Wang Yong, from great master to master to grand disciple, were all gritty people. As soon as they were wronged, they would immediately pay it back.
 
-Among all of them, a few were very happy that their relationship with Wang Yong’s line was very good, especially with Yang Chen. This included the Medicine Hall’s master Zhu Chen Tao, Foreign Affair Hall’s master Xu Cheng Xin and Law Enforcement Hall’s master Meng Xian, who were extremely grateful to the heavens for giving them the opportunity to make such a young friend, whose luck was completely in defiance of the heavens. This made countless people envious to death. This kind of disciple had to be guarded and cultivated properly.
+Among all of them, a few were very happy as their relationship with Wang Yong’s line was very good, especially with Yang Chen. This included the Medicine Hall’s master Zhu Chen Tao, Foreign Affair Hall’s master Xu Cheng Xin and Law Enforcement Hall’s master Meng Xian, who were extremely grateful to the heavens for giving them the opportunity to make such a young friend, whose luck was completely in defiance of the heavens. This made countless people envious to death. This kind of disciple had to be guarded and cultivated properly.
 
 Which disciple had broadened the master vein of the Pure Yang Palace? Which disciple had discovered a new spirit vein and had still left rooms for them? Which disciple could help the sect with Elder Wu’s cultivation experience, even when he could have kept it all for himself? Which disciple would invite them for the opportunity of witnessing a tribulation? Other than Yang Chen who could do all of this?
 
