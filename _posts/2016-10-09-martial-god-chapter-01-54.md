@@ -23,7 +23,7 @@ Since He family went all out this time, they were fully prepared in advance.
 Especially the aftermath. However, they never expected that killing a spirit beast would turn out to be this troublesome.
 <!--more-->
 
-Fortunately, He Yiming emerged as a new force and indescribable killed the spirit beast in one strike. Otherwise, after preparing so meticulously, they would still have suffered a huge loss.
+Fortunately, He Yiming emerged as a new force and indescribably killed the spirit beast in one strike. Otherwise, after preparing so meticulously, they would still have suffered a huge loss.
 
 However, since the gold-crowned python had been killed, He Yiming need not concern himself with the subsequent matters.
 
@@ -59,9 +59,9 @@ However, He Yiming’s body was special. Furthermore, water-type Ripple techniqu
 
 Hearing this question, everybody's gazes once were once again focussed on He Yiming. They all wished to hear his answer. Because setting off all the Internal Energy in one’s body was almost an inconceivable feat.
 
-He Yiming’s brows suddenly creased and fingers found the scalp. At that time, under such circumstances, he acted without thinking. Moreover, his Internal Energy was divided into three parts, which simultaneously circulated, fused, and erupted. As for why such a matter happened, or how did he manage to accomplish it, he himself was in dark.
+He Yiming’s brows suddenly creased and fingers found the scalp. At that time, under such circumstances, he acted without thinking. Moreover, his Internal Energy was divided into three parts, which simultaneously circulated, fused, and erupted. As for why such a matter happened, or how he managed to accomplish it, he himself was in dark.
 
-Shaking his head, He Yiming eventually waved his hands and said, “Third uncle, at that time, when I saw grandfather was in danger, I jumped out without thinking. Then….” He bitterly laughed and continued, “I also don’t how on earth did I manage to do it.”
+Shaking his head, He Yiming eventually waved his hands and said, “Third uncle, at that time, when I saw grandfather was in danger, I jumped out without thinking. Then….” He bitterly laughed and continued, “I also don’t how on earth I managed to do it.”
 
 He Quanyi pondered for a moment then said, “Then, can you do it again now?”
 
@@ -75,7 +75,7 @@ He Yiming smiled towards his third uncle in a carefree manner, then said, “Gra
 
 He Wude faintly nodded and said, “Yiming, your potential is still far beyond what I had imagined. Since your potential is so brilliant, keep in mind, only if you own life is in danger will you do such a thing. Otherwise, never do such a thing again,” He paused and lowered his voice, “Fortunately, you came out unscathed this time. Otherwise, if for these old bones, something happened to you…”
 
-He Yiming promptly said, “Grandfather, what are you saying. Nothing happened your grandson.”
+He Yiming promptly said, “Grandfather, what are you saying. Nothing happened to your grandson.”
 
 He Wude faintly smile and said, “Fine, fine, I will not speak anymore.” He then lightly sighed and swept his vision through everybody before saying, “Everybody, bear in mind, today’s affair are not to be leaked outside. If others knew that our He family has managed to kill a spirit beast, it will initiate a chain of endless conflict.”
 
@@ -85,7 +85,7 @@ Turning his body, He Wude pointed to the center of the main hall.
 
 A big broadsword with a long handle could be seen there. This was precisely the Lord Master’s weapon when he was young. However, after  Lord Master himself, it was never used by another person.
 
-After all, nobody liked such a gigantic weapon and neither anybody possessed innate divine strength to wave it.
+After all, nobody liked such a gigantic weapon and neither did anybody possess the innate divine strength to wave it.
 
 “This broadsword is my partner. Ever since I attained the eighth layer, it has accompanied me through several decades of summer and winter. He family’s establishment wouldn’t have been possible without its contribution.” The Lord Master stepped forward, picked up the blade and softly stroked it. His movements were quite gentle as if this wasn’t an object but a living companion of his.
 
@@ -113,7 +113,7 @@ He Wude faintly shook his head; his voice although somewhat solitary but filled 
 
 “Yiming, forty years ago, your grandfather came to Tai Cang county alone with this blade,” He Wude patted the blade and continued as his grandeur ascended to the clouds, “Relying on this blade, I established this big foundation for He family. Back then, I had already decided that this blade would be passed onto the most promising young ones of the family and allow this blade to witness the rise of our He family,” Raising his head, he faintly smiled and continued, “I can use this blade to lay the foundation of He family, can you use this blade to prosper and protect the family?”
 
-He Yiming opened his mouth, but seeing the hopeful gaze of his mouth, he respectfully extended both his hands and received this exceedingly heavy blade from his grandfather’s hand.
+He Yiming opened his mouth, but seeing the hopeful gaze of his grandfather, he respectfully extended both his hands and received this exceedingly heavy blade from his grandfather’s hand.
 
 Looking at the shining edge of the blade, He Yiming felt that he’d not merely accepted a blade but a responsibility, a duty that he’d to tend throughout his entire lifetime as a member of He family.
 
@@ -129,7 +129,7 @@ He Yiming astoundedly looked at his grandfather, not sure of the intent behind l
 
 He Wude let out a long sigh and said, “I am a bit tired. You all can leave.”
 
-He Quanxin and the rest looked at each other before sounding their agreements in the chorus.
+He Quanxin and the rest looked at each other before sounding their agreements in chorus.
 
 In the main hall, only two individuals remained; He Wude and He Laibao.
 
