@@ -115,13 +115,13 @@ He Wude faintly shook his head; his voice although somewhat solitary but filled 
 
 He Yiming opened his mouth, but seeing the hopeful gaze of his grandfather, he respectfully extended both his hands and received this exceedingly heavy blade from his grandfather’s hand.
 
-Looking at the shining edge of the blade, He Yiming felt that he’d not merely accepted a blade but a responsibility, a duty that he’d to tend throughout his entire lifetime as a member of He family.
+Looking at the shining edge of the blade, He Yiming felt that he’d not merely accepted a blade but also a responsibility, a duty that he’d to tend throughout his entire lifetime as a member of He family.
 
 A bizarre thought emerged in his mind. Perhaps this would be his burden and cause of anxiousness during his entire life, but also the driving force throughout his lifetime.
 
 Facing his grandfather’s gaze, He Yiming heavily nodded and said in powerful, resounding voice, “Grandfather, I will not let this blade down.”
 
-There were no heroic words nor any solemn oaths. Only a pain of eyes was all it took for He Wude to be absolutely sure that his grandson would keep today’s words throughout his life.
+There were no heroic words nor any solemn oaths. Only a pair of eyes was all it took for He Wude to be absolutely sure that his grandson would keep today’s words throughout his life.
 
 He Wude heartily laughed and said, “Yiming, I know that your future accomplishments would not just be limited to Tai Cang county. Therefore, I don’t wish you to stay in the clan forever. However, if clan comes across some calamity, you must lend a hand.”
 
