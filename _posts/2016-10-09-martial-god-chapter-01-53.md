@@ -16,7 +16,7 @@ translator: toomuchnoob
 proofreader:
 is_preview:
 has_note: true
-note: "2/4"
+note: "3/4"
 ---
 The dense, green forest seemed as a jade pond.
 
