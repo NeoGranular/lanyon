@@ -73,7 +73,7 @@ All of his thoughts were occupied with that earth-shattering strike. He even for
 
 He Yiming smiled towards his third uncle in a carefree manner, then said, “Grandfather, your grandson is aware.”
 
-He Wude faintly nodded and said, “Yiming, your potential is still far beyond what I had imagined. Since your potential is so brilliant, keep in mind, only if you own life is in danger will you do such a thing. Otherwise, never do such a thing again,” He paused and lowered his voice, “Fortunately, you came out unscathed this time. Otherwise, if for these old bones, something happened to you…”
+He Wude faintly nodded and said, “Yiming, your potential is still far beyond what I had imagined. Since your potential is so brilliant, keep in mind, only if your own life is in danger will you do such a thing. Otherwise, never do such a thing again,” He paused and lowered his voice, “Fortunately, you came out unscathed this time. Otherwise, if for these old bones, something happened to you…”
 
 He Yiming promptly said, “Grandfather, what are you saying. Nothing happened to your grandson.”
 
