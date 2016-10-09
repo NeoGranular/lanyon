@@ -39,13 +39,13 @@ Indescribably, he was different from the other members of He family who were iss
 
 His body flipped in mid-air as he approached the blade in the sky. He extended his hand, and that three sixty jins heavy chopper dropped into his hand, seeming completely weightless.
 
-His body didn’t drop because of the blade’s weight. Instead, with a flick of his wrist, he neutralized the momentum and further used it to accelerate before dropping his grandfather.
+His body didn’t drop because of the blade’s weight. Instead, with a flick of his wrist, he neutralized the momentum and further used it to accelerate before dropping in front of his grandfather.
 
 His front suddenly blurred as a giant snakehead was right on him. He could already smell the nauseous odor coming out of its mouth. He felt being firmly locked by those two small, emotionless eyes.  
 
 However, his movements still didn’t stop in the slightest. At this critical moment, his both hands grabbed the center of the sword's handle.
 
-Holding the blade with both his hands, he erected it before him. One hand holding it on the level his forehead and the other past his head, he raised the weapon that had a notorious reputation back in He Wude's time.
+Holding the blade with his both hands, he erected it before him. One hand holding it on the level his forehead and the other past his head, he raised the weapon that had a notorious reputation back in He Wude's time.
 
 The dazzling blade did not seem dazzling just due to the sunlight.
 
@@ -145,7 +145,7 @@ He Wude and the rest then relaxed a bit. He Quanyi suddenly asked, “Just now, 
 
 Everybody suddenly turned silent. As they thought about the might behind that strike, everybody felt their blood boiling and heart shuddering at the same time. If that strike had been aimed at them, they wouldn’t have the opportunity to even run for their life.
 
-“That strike,” He Wude coarsely said, “ That one strike instantaneously concentrated all of Yiming’s Internal Energy together, then conformed it to the Xiantian battle skill. Thus, he was able to exhibit such a frightening might. However, how he managed to do it,,,? I do not know either.”
+“That strike,” He Wude coarsely said, “That one strike instantaneously concentrated all of Yiming’s Internal Energy together, then conformed it to the Xiantian battle skill. Thus, he was able to exhibit such a frightening might. However, how he managed to do it...? I do not know either.”
 
 He Yiming’s body shuddered, and he eventually sobered up.
 
