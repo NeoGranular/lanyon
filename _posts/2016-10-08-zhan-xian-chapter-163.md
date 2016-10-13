@@ -8,7 +8,7 @@ next_chapter: 164
 chapter:
   number: 163
 date: 2016-10-09 22:00:00 +0200
-has_note: true
+has_note: false
 note: "Because of private matters this chapter was released without proofreading. We'll edit the chapter again before the next release."
 is_sponsored: false
 sponsors: []
@@ -63,7 +63,7 @@ Yang Chen patted his chest and guaranteed:
 
 “I guarantee to get you front row seats!”
 
-If other people had said this, Gao Yue may not have believed it, but after Yang Chen had opened his mouth, Gao Yue was completely convinced. After such a long time, Gao Yue had a blind trust towards Yang Chen. Especially after he had healed her through the pair cultivation for spiritual awareness, this confidence had become even deeper.
+If other people had said this, Gao Yue may not have believed it, but after Yang Chen had opened his mouth, Gao Yue was completely convinced. After such a long time, Gao Yue had developed blind trust towards Yang Chen. Especially after he had healed her through the pair cultivation for spiritual awareness, this trust had become even deeper.
 
 Naturally Yang Chen was not just talking big, he directly returned to the old tree demon and began to help him in finding a suitable location. This location had to be at the MeiQing Mountain, furthermore, if he failed, there shouldn’t be any damage to the Pure Yang Palace. But the possibility of failure was extremely low: the old tree demon had suppressed the tribulation several times now and with the Body Dividing Secrets, he absolutely could not fail.
 
@@ -73,7 +73,7 @@ But this matter was for the Palace Master and them to think about. Yang Chen did
 
 Regardless of anything, Yang Chen was convinced that there would be no better place for the ritual than where the old tree demon’s main body was. But the only people who could be present near his main body while he was going through his tribulation would the ones whom he trusted with his life, otherwise the old tree demon would definitely not agree.
 
-But the strange thing was that the old tree demon readily agreed to Yang Chen’s request. Nobody knew why he had so much confidence in Yang Chen, or if he thought that an initial Foundation stage and an initial JieDan stage cultivators could not be a threat to him. In any case, that old tree demon agreed without any hesitation.
+But the strange thing was that the old tree demon readily agreed to Yang Chen’s request. Nobody knew why he had so much trust in Yang Chen, or if he thought that an initial Foundation stage and an initial JieDan stage cultivators could not be a threat to him. In any case, that old tree demon agreed without any hesitation.
 
 Within less than a day, the entire Pure Yang Palace became aware of this news. Everyone within the range of the MeiQing Mountain was looking forward to it in high spirits.
 
