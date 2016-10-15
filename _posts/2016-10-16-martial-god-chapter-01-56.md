@@ -27,7 +27,7 @@ After arriving in the town, the group didn’t go to their home in the town, rat
 
 Regarding the arrival of He family members, Cheng Shine did not find it strange at all. However, the quickness of their arrival was quite out of his expectations. Regardless, this was undoubtedly a good news for Cheng family.
 
-This Cheng family member who held a high authority in the family personally welcomed them in and unexpectedly lead them straight into the inner hall. HIs vision would often linger on He Yitian. Everybody was aware of his thoughts. He Yitian’s face was further slightly red.
+This Cheng family member who held a high authority in the family personally welcomed them in and unexpectedly lead them straight into the inner hall. His vision would often linger on He Yitian. Everybody was aware of his thoughts. He Yitian’s face was further slightly red.
 
 Being the eldest grandson of the eldest son, he already knew that he would not able to decide his marriage himself. In the interest of the clan, the criteria for his wife would not be based on his like. However, regarding this rule, he was not too opposed. He knew this was his duty towards the clan.
 
