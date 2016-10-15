@@ -100,7 +100,7 @@ The two brothers exchanged a glance before He Quanming said, “Could it be...th
 
 “Correct. He indeed has a connection with Xu family. Furthermore, a certain, direct connection.”
 
-“Brother Cheng, could there be any misunderstanding in all this?” He Quanming said on lowered voice, “With Xu family’s reputation in the county, they couldn’t have done such an underhanded thing.”
+“Brother Cheng, could there be any misunderstanding in all this?” He Quanming said in lowered voice, “With Xu family’s reputation in the county, they couldn’t have done such an underhanded thing.”
 
 Cheng Shine coldly chucked a few times, “If not for the Red Cloth bandits, they perhaps would not have acted. However, having such an opportunity, how could have they stopped themselves,” He threw a glance in the direction of Xu family before saying, “They couldn’t resist the temptation of thousand year blood ginseng in the end.”
 
