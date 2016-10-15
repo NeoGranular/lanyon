@@ -98,7 +98,7 @@ Since He Quanxin and the rest were high-level Internal Energy experts, they were
 
 The two brothers exchanged a glance before He Quanming said, “Could it be...that person has some connections with the Xu family?”
 
-“Correct. He indeed has a connection to Xu family. Furthermore, a certain, direct connection.”
+“Correct. He indeed has a connection with Xu family. Furthermore, a certain, direct connection.”
 
 “Brother Cheng, could there be any misunderstanding in all this?” He Quanming said on lowered voice, “With Xu family’s reputation in the county, they couldn’t have done such an underhanded thing.”
 
