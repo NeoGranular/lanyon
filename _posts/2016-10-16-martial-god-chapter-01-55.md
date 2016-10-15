@@ -20,7 +20,7 @@ note: "1/4"
 ---
 A lamp was suddenly lit in the overcast underground room. The radiance spread around, chasing away the darkness wherever it went.
 
-This was He family’s special flame. Every underground room had one. As long as it was lit, it might not be as resonant as daytime, as long as one possessed the third layer of Internal Energy cultivation, one would be able to see basically every corner and crevice of the room.
+This was He family’s special flame. Every underground room had one. As long as it was lit, it might not be as resonant as daytime, as long as one possessed the third layer of Internal Energy cultivation, one would be able to see basically every corner and crevice in the room.
 <!--more-->
 
 He Yiming lowered the lamp’s cover and went to the room’s center.
