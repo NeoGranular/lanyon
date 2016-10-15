@@ -92,7 +92,7 @@ He Quanxin and the rest’s complexion once again transformed. Injuring Cheng Sh
 
 He Quanxin’s complexion turned grave as he said, “There were actually two ninth-layer experts together?”
 
-Cheng Shine waved his hand and said, “Brother He, according to our questioning, we know that there is only a single ninth-layer cultivator, Guan Wei, in their group that has come to Tai Cang county. As for that person, he was not a part of Red Cloth bandits at all. In the chaos, being dressed up as the part of their group, he snatched away the thousand year blood ginseng.”
+Cheng Shine waved his hand and said, “Brother He, according to our questioning, we know that there is only a single ninth-layer cultivator, Guan Wei, in their group that has come to Tai Cang county. As for that person, he was not a part of Red Cloth bandits at all. In the chaos, dressed up as the part of their group, he snatched away the thousand year blood ginseng.”
 
 Since He Quanxin and the rest were high-level Internal Energy experts, they were naturally witty. Connecting this with the matter of Xu family not being sent an invitation, they understood the crux of the matter.
 
