@@ -88,7 +88,7 @@ He Quanxin and the rest’s complexion once again transformed. Injuring Cheng Sh
 
 “Brother Cheng, that person ought to be Guan Wei?”
 
-“No, at that time, Guan Wei was fighting with my father. He couldn’t have come find the opportunity to sneak out,” Cheng Shine coldly continued, “That person was a ninth-layer cultivator.”
+“No, at that time, Guan Wei was fighting with my father. He couldn’t have find the opportunity to sneak out,” Cheng Shine coldly continued, “That person was a ninth-layer cultivator.”
 
 He Quanxin’s complexion turned grave as he said, “There were actually two ninth-layer experts together?”
 
