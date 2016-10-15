@@ -56,7 +56,7 @@ Cheng Shine heavily nodded and said, “At first, this man wanted to kill himsel
 
 He Quanxin faintly started, then faintly creased his brows.
 
-Atai county and Tai Cang county didn’t share a border. There was still Tai Chong county between them. However, Atai county had the most chaotic county town in the wholeJadeting region. 
+Atai county and Tai Cang county didn’t share a border. There was still Tai Chong county between them. However, Atai county had the most chaotic county town in the whole Jadeting region. 
 
 That place was one of the rare non-mountainous counties in the northwest. Being on the border and having a flat terrain, that place had always been a chaotic area full of bandits. Whenever the authorities tried to initiate an assault on them using the military, they would just run to the other side of the border, and troops didn’t dare cross the border to chase them.
 
@@ -70,7 +70,7 @@ With a slight cough, He Quanxin asked, “Brother Cheng, who is their leader?”
 
 “Guan Wei?” A slight astonishment could be seen on He Quanxin’s face, “I remember Red-clothed gang’s leader is also surnamed, Guan.”
 
-“That’s right. This Guan Wei is the younger blood brother of the Red Cloth bandits’ leader. Furthermore, former’s Internal Energy had already attained ninth layer,” Cheng Shine spoke without trying to hide anything. He knew that he absolutely couldn’t trick the counterpart on the such a matter. Otherwise, not to mention being related by marriage, they might even become sworn enemies in future.
+“That’s right. This Guan Wei is the younger blood brother of the Red Cloth bandits’ leader. Furthermore, former’s Internal Energy had already attained ninth layer,” Cheng Shine spoke without trying to hide anything. He knew that he absolutely couldn’t trick the counterpart on such a matter. Otherwise, not to mention being related by marriage, they might even become sworn enemies in future.
 
 Several thoughts emerged in He Quanxin’s mind. After pondering for a few moments, he asked, “Brother, I wonder who came from Xu family to help?”
 
