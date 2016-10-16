@@ -97,7 +97,7 @@ Guan Wei sneered. With a wave of his hand, a broadsword appeared in his hand. Al
 
 Cheng Shine’s figure suddenly halted while He Quanxin similarly waved his hand and a two-meter red spear, like a viper rushing out of his cave, engaged its counterpart.
 
-Both of these experts possessed ninth-layer Internal Energy. Although He Quanxin’s strength seemed slightly superior, Guan Wei possessed the identity of a bandit leader. His execution carried a sort of berserk aura. His strikes seemed to be filled with an enmity as if He Quanxin had killed his father or hate as if the latter had seized his wife. It was as if his life depended on the blade, and his moves were aimed at the reaping counterpart’s soul.
+Both of these experts possessed ninth-layer Internal Energy. Although He Quanxin’s strength seemed slightly superior, Guan Wei possessed the identity of a bandit leader. His execution carried a sort of berserk aura. His strikes seemed to be filled with an enmity as if He Quanxin had killed his father or hate as if the latter had seized his wife. It was as if his life depended on the blade, and his moves were aimed at reaping counterpart’s soul.
 
 Under his moves, which were almost shameless, He Quanxin couldn’t hold on and soon found himself at a disadvantage.
 
