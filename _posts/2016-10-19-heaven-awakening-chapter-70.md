@@ -119,7 +119,7 @@ Subsequently, he immediately spotted Wei Ying.
 
 Dean Tang Mu’s realm obviously couldn’t be compared to that of students.
 
-Not only he spotted Wei Ying, he even recognized the latter. Although usually, Wei Ying tried to avoid the eyes of others at all costs, in front of Tang Mu, he never tried to hide. He was a protector of Wei family, and Wei family’s master Wei Zhong was a disciple of Tang Mu. Although the latter had already started to govern a region, towards his master, his attitude was one of utmost respect. Even Wei Ming’s attitude towards the latter compared his attitude towards Baliyan was as diffe heaven and earth.
+Not only he spotted Wei Ying, he even recognized the latter. Although usually, Wei Ying tried to avoid the eyes of others at all costs, in front of Tang Mu, he never tried to hide. He was a protector of Wei family, and Wei family’s master Wei Zhong was a disciple of Tang Mu. Although the latter had already started to govern a region, towards his master, his attitude was one of utmost respect. Even Wei Ming’s attitude towards the latter compared to his attitude towards Baliyan was as different heaven and earth.
 
 This was not simply pure respect to the master.
 
