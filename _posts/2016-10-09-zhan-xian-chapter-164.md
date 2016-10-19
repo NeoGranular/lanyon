@@ -8,7 +8,7 @@ next_chapter: 165
 chapter:
   number: 164
 date: 2016-10-13 20:17:00 +0200
-has_note: true
+has_note: false
 note: "Sorry for the recent unreliability, there have been quite a few RL events that have made life quite chaotic for me (Editor). We'll be back to our regular schedule soon!"
 is_sponsored: false
 sponsors: []
