@@ -17,7 +17,7 @@ is_preview:
 “Oh, I see. Thank You,” Lu Ping said to her. Subsequently, his vision fell upon the overbearing Daoran.
 <!--more-->
 
-“Young fellow, we are not looking for you either. Do you know about not meddling in other people’s affairs?” Daoran asked Lu Ping while swinging his fist which was as big as a sand pot. Although he didn’t feel any Soul’s Power coming from the latter’s body, he didn’t lower his guard. He had already heard that among the group that came from mountains, the seemingly ordinary youngster was quite powerful underneath and was quite unorthodox. For him who liked to bully weak and maintain his distance from strong, he had no interest in tangling with a person held unknown strength.
+“Young fellow, we are not looking for you either. Do you know about not meddling in other people’s affairs?” Daoran asked Lu Ping while swinging his fist which was as big as a sand pot. Although he didn’t feel any Soul’s Power coming from the latter’s body, he didn’t lower his guard. He had already heard that among the group that came from mountains, the seemingly ordinary youngster was quite powerful underneath and was quite unorthodox. For him who liked to bully weak and maintain his distance from strong, he had no interest in tangling with a person that held unknown strength.
 
 “This is not other’s affairs.” Lu Ping said while stepping forward. Daoran, who was taller than Lu Ping by about two heads, seemed impatient as he turned his body around and said with a meaningful signal in his eyes, “Take care of him.” 
 
