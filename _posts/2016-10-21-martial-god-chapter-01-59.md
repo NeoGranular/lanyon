@@ -134,7 +134,7 @@ This, he’d personally experienced, and it caused him to sigh in wonder.
 
 No wonder one could still find many ninth-layer cultivators, but peak ninth-layer cultivators were so rare. As for cultivators who could breakthrough the bottleneck, they were as rare as unicorn’s horn and phoenix’s feather.
 
-While training for half a day in the mountains, his only regret was that no matter whatever he tried, he was unable to obtain that day’s special state in which three distinct techniques were simultaneously operating inside his body and hence, also that frightening strike.
+While training for half a day in the mountains, his only regret was that no matter whatever means he tried, he was unable to obtain that day’s special state in which three distinct techniques were simultaneously operating inside his body and hence, also that frightening strike.
 
 Even after his Internal Energy attained the ninth layer’s peak, it still seemed impossible.
 
