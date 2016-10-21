@@ -39,7 +39,7 @@ He family members once again recalled the matter of He family killing a spirit b
 
 After a few moments, Cheng Zhusheng organized his thoughts as his vision was attracted by the gigantic long-handled broadsword in He Yiming’s hand.
 
- A complicated emerged in his eyes as he said, “If this old man has guessed correctly, this blade should be elder brother He Wude’s weapon in his younger days,”
+ A complex expression emerged on his face as he said, “If this old man has guessed correctly, this blade should be elder brother He Wude’s weapon in his younger days,”
 
 He Yiming faintly bowed his body and said, “Your, old man’s, vision is truly sharp.This is indeed grandfather’s weapon.”
 (Tl: He used a more polite/respectful form of address. Something like respected you.) 
