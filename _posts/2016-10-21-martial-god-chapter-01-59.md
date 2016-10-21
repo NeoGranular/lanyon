@@ -46,7 +46,7 @@ He Yiming faintly bowed his body and said, “Your, old man’s, vision is truly
 
 Cheng Zhusheng had a reminiscing expression as he said, “Back then, senior, wielding this blade, swept through the entire Tai Cang county. It was reputed to be the number one blade in the entire county. Not many could have contended against this blade. How majestic it was. Even today, this blade still seems as fascinating.”
 
-He Yiming involuntarily tightened his grip on the sword in his hand. Hearing an evaluation of this blade from outsiders was indeed much thrilling than hearing it from his own family members.
+He Yiming involuntarily tightened his grip on the sword in his hand. Hearing an evaluation of this blade from outsiders was indeed much more thrilling than hearing it from his own family members.
 
 Cheng Zhusheng’s vision eventually rested on He Yiming’s body, “Elder brother Wude has passed this blade to you, and you have not disgraced the brilliance of this blade. Just now, that strike, even Guan Wei was unable to hold out against it. Truly, an outstanding youngster.”
 
