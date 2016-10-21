@@ -140,7 +140,7 @@ Even after his Internal Energy attained the ninth layer’s peak, it still seeme
 
 Although ninth-layer peak Internal Energy’s might was quite formidable, it was nowhere near the might of that day’s strike.
 
-Helpless, he could return home. He went to the Book Pavilion, closed his eyes, and selected a scripture.
+Helpless, he could only return home. He went to the Book Pavilion, closed his eyes, and selected a scripture.
 
 This time he’d intentionally gone to the wood-type techniques’ shelf. 
 
