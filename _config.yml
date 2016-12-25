@@ -32,6 +32,8 @@ compress_html:
   endings: all
   startings: all
 
-gems: [jekyll-paginate]
+gems:
+    - jekyll-sitemap
+    - jekyll-paginate
 
 markdown: kramdown
