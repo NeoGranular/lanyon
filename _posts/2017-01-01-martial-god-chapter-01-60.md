@@ -165,7 +165,7 @@ After pondering for a bit, He Quanxin asked, “Yiming, while you were making co
 
 He was completely incapable of putting that mysterious feeling into words.
 
-He Yiming repeatedly nodded his head and said, “Eldest uncle, while making copies, nephew felt something strange going on. However, when nephew stopped, it was gone.”
+He Yiming repeatedly nodded his head and said, “Eldest uncle, while making copies, nephew felt something strange was going on. However, when nephew stopped, this feeling was gone.”
 
 He Quanxin astoundedly asked a few more questions to ascertain that this situation was truly connected with He Yiming. However, it turned out to be something that He Yiming had no control over and was achieved by the latter involuntarily, which caused him to sigh with regret.
 
