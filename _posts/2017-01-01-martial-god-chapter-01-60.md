@@ -111,7 +111,7 @@ They had already understood that Yiming inside was experiencing some miraculous 
 ****
 After a while, He Yiming let out a long sigh and set aside the brush in his hands.
 
-The brush in his hands seemed to be moving as fast as lightning while he finished the entire scripture in one breath.
+The brush in his hands had seemed to be moving as fast as lightning before he had copyied down the entire scripture in one breath.
 
 Although he’d cultivated Breath Restraining technique, while employing this technique, he couldn’t have made too many movements and he wouldn’t have been able to enter that mysterious state.
 
