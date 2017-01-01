@@ -8,7 +8,7 @@ book:
   title: "What Is A Genius"
 category: martial-god
 #chapter no. format: bb-cc bb=book cc=chapter. Example: 01-01 (book 1, chapter 1)
-previous_chapter: 01-50
+previous_chapter: 01-60
 next_chapter: 01-62
 date: 2017-01-01
 has_credits:
