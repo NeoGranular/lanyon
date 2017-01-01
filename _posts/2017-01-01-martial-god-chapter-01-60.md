@@ -167,9 +167,9 @@ He was completely incapable of putting that mysterious feeling into words.
 
 He Yiming repeatedly nodded his head and said, “Eldest uncle, while making copies, nephew felt something strange going on. However, when nephew stopped, it was gone.”
 
-He Quanxin astoundedly asked a few more questions to ascertain that this situation was truly connected with He Yiming. However, it was not something He Yiming had control over and was achieved involuntarily, which caused him to sigh with regret.
+He Quanxin astoundedly asked a few more questions to ascertain that this situation was truly connected with He Yiming. However, it turned out to be something that He Yiming had no control over and was achieved by the latter involuntarily, which caused him to sigh with regret.
 
-After giving a few pieces of advice, the two elders withdrew. He Yiming, unreconciled inwardly, placed the original scripture of Bone Transformation technique back to its position, took out the Rolling Boulder Fist and Silk Palm’s scripture, and began to copy the content pertaining to their tenth layers.
+After giving a few pieces of advice, the two elders withdrew. He Yiming, unreconciled inwardly, placed the original scripture of Bone Transformation technique back to its position, took out the Rolling Boulder Fist's and Silk Palm’s scriptures, and began to copy the content pertaining to their tenth layers.
 
 While copying, He Yiming tried to concentrate his spirit onto the brush once again. However, unfortunately, he never once succeeded throughout the whole process.
 
