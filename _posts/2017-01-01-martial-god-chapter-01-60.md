@@ -32,7 +32,7 @@ I will be doing 5 regular + up to 5 sponsored chapters a week.
 One more thing, if any of you are interested in proofreading MG on a daily basis, please leave your email address in the comments section below.
 
 And Of Course, Happy New Year!
-
+<!--more-->
 
 -------------------
 
