@@ -15,8 +15,8 @@ has_credits:
 translator:
 proofreader:
 is_preview:
-has_note: "3/20"
-note: 
+has_note: True
+note: "3/20"
 ---
 Under the sunshine, layer upon layer of different shades made the color of mountain forest hard to recognize- verdant, bluish green, yellow, and also, fiery-red.
 
