@@ -20,7 +20,7 @@ note: "4/20"
 ---
 You guys gotta trust me more. I guess, I have to earn it back....Don't worry, I will release 20 chapters by this sunday.
 ............................
-
+<<!--more-->
 
 
 The old man in the room who slightly nodded towards He Yiming was precisely the Lord Master of He family, He Wude.
