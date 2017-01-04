@@ -55,7 +55,7 @@ He opened the scripture and looked at it carefully. After a few moments, his exp
 
 Following the Lord Master, He Yiming arrived at the Book Pavilion. He Quanxin and He Laibo naturally came out to greet them. However, the Lord Master immediately discarded them with a wave of his hand.
 
-After the entering the Pavilion, the Lord Master picked out the scripture of the Bone Transformation technique from the scripture and placed in next to the copied one.
+After the entering the Pavilion, the Lord Master picked out the scripture of the Bone Transformation technique from the shelf and placed in next to the copied one.
 
 If these two scriptures were observed separately, one wouldn't have paid much attention to it. However, when these two scriptures were placed next to each other, one could easily see the mysteries within.
 
