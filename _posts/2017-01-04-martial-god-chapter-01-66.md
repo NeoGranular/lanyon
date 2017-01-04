@@ -27,6 +27,7 @@ A shadow flickered, and without cognition of anybody, arrived before the Xu fami
 This dark figure, which had its face covered with a turban, was none other than that of He Yiming who had arrived in Xu castle five days ago.
 
 After receiving his lodging arrangements, he’d been staying inside in a well-behaved manner like other spongers and hadn’t made conspicious moves. He was aware that Xu family wouldn’t trust a new sponger such as him and would not assign him any important tasks. Only after observing him for a while would they gradually assimilate him into the gigantic organization- that was the Xu family.
+<!--more-->
 
 However, this, for him, was the optimal situation. If Xu family had instead sent him to perform some dangerous tasks or assigned him in the county town, he would have felt endlessly troubled.
 
