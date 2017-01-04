@@ -61,7 +61,7 @@ If these two scriptures were observed separately, one wouldn't have paid much at
 
 The content of these two scriptures was exactly the same. 
 
-In not for the difference of the paper and the time passed, these two scriptures could be easily treated as a single book.
+If not for the difference of the paper and the time passed, these two scriptures could easily be treated as parts of a single book.
 
 He Wude let out a sigh and faintly nodded his head, “Sure enough, it is indeed as I thought.”
 
@@ -73,7 +73,7 @@ He Yiming blinked his eyes; his heart brimming with curiosity.
 
 He Wude pondered for a bit, seeming as if he was thinking how to phrase his explanation. He Yiming also didn’t urge him. The room suddenly turned silent.
 
-After a while, He Wude said, “Yiming, as far as the majority of cultivators are concerned, what we cultivate is Internal Energy, which is precisely the so-called Jin-dao(dao of energy). However, there are some absolute geniuses or perhaps cultivators who somehow manage to eat some heavenly treasure and manage to break through the shackles of Internal Energy and attain the Xiantian realm, and thereby, cultivate the ‘Qi-dao’.”
+After a while, He Wude said, “Yiming, as far as the majority of cultivators are concerned, what we cultivate is Internal Energy, which is precisely the so-called Jin-dao(dao of energy). However, there are some absolute geniuses or perhaps cultivators who somehow manage to eat some heavenly treasure and manage to break through the shackles of Internal Energy and attain the Xiantian realm, and henceforth, they cultivate the ‘Qi-dao’.”
 
 He Yiming felt quite amazed. This was, after all, the first time his grandfather was talking to him about the Xiantian realm. For him who had already attained the tenth layer, these things held unaccountable charm.
 
@@ -139,7 +139,7 @@ He let out a sigh and said, “Very well. However, after one month is the day of
 
 He Yiming rapidly calculated in his mind and ascertained that one month would be enough.
 
-However, he understood why his grandfather spoke such words. Traveling and returning within one month, he would only be able to travel within the Tai Cang county or perhaps some neighboring county. If he had wished to travel further away, that would have been impossible now.
+However, he understood why his grandfather had spoken such words. Traveling and returning within one month- he would only be able to travel within the Tai Cang county or perhaps some neighboring county. If he had wished to travel further away, that would be impossible now.
 
 Heavily nodding his head, He Yiming vowed, “All right. Grandfather, I will definitely return within one month.”
 
