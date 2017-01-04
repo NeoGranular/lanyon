@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 60 - A Miraculous State"
+title: "Chapter 65 - Sponger"
 book:
   number: 1
   title: "What Is A Genius"
