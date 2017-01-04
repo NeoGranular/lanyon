@@ -137,7 +137,7 @@ The subsequent procedure was quite simple. After receiving Xu Yuchang’s approv
 
 After ascertaining He Yiming’s strength, Xu Yuchang’s tried to probe the former’s native place.
 
-He Yiming naturally understood the latter’s intention. Confirming whether an individual named Xiao Qin lived in a specific area of Tai Chong county posed no problem to Xu family with However, this would mean a delay of at least a month.
+He Yiming naturally understood the latter’s intention. Confirming whether an individual named Xiao Qin lived in a specific area of Tai Chong county posed no problem to Xu family with the strength they had their disposal. However, this would mean a delay of at least a month.
 
 And by that time, He Yiming would be long gone according to his plans.
 
