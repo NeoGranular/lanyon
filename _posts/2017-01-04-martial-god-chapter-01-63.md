@@ -19,9 +19,6 @@ has_note: True
 note: "4/20. You guys gotta trust me more. I guess, I have to earn it back....Don't worry, I will release 20 chapters by this sunday."
 ---
 
-............................ .................................................................................................................
-<<!--more-->
-
 
 The old man in the room who slightly nodded towards He Yiming was precisely the Lord Master of He family, He Wude.
 
@@ -30,6 +27,7 @@ The old man in the room who slightly nodded towards He Yiming was precisely the 
 He Yiming made a sound of agreement before saying, “Grandfather, yesterday, while copying scripture, I suddenly entered a sort of bizarre realm,” He thought for a bit before continuing, “I don’t know how to describe it, but it felt extremely strange.”
 
 He Wude’s eyes shined as he pondered for a bit before saying, “Yiming, tell me all the details.”
+<<!--more-->
 
 He Yiming would naturally not hide it from his grandfather. He, who himself was ignorant, wished to know what happened yesterday more than anybody.
 
