@@ -10,7 +10,7 @@ category: martial-god
 #chapter no. format: bb-cc bb=book cc=chapter. Example: 01-01 (book 1, chapter 1)
 previous_chapter: 01-62
 next_chapter: 01-64
-date: 2017-01-01
+date: 2017-01-04
 has_credits:
 translator:
 proofreader:
