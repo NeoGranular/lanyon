@@ -23,7 +23,7 @@ The white, stationary ocean of condensed clouds seemed like a bone-chilling, des
 
 On the road, scattered groups of hurriedly moving people could be seen- each individual minding his/her own business. He Yiming was precisely among these people.
 
-However, even if He Yiming were to run into one of his acquaintance, he wouldn't dare recognize the latter.
+However, even if He Yiming were to run into one of his acquaintances, he wouldn't dare recognize the latter.
 <!--more-->
 
 Fourteen years old, He Yiming’s body was quite nicely developed due to training in martial arts from a small age. However, his figure was not one of those bulky types. Therefore, compared to an average grown man, he seemed somewhat petite.
