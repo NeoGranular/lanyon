@@ -71,9 +71,9 @@ Hereby, it could be seen that the elders of Xu family must have gone through ext
 
 Going through the farmlands was a road which could fit eight horses galloping side by side. After this road was the residential area.
 
-Leading He Yiming, Xu Yuchang arrived in a spacious courtyard and said, “Brother Xiao, I welcome you to the Xu castle. However, our Xu family has some rules for the process of hiring spongers. I wonder if you have heard about them.”
+Leading He Yiming, Xu Yuchang arrived in a spacious courtyard and said, “Brother Xiao, I welcome you to the Xu castle. However, our Xu family has some rules in hiring spongers. I wonder if you have heard about this.”
 
-He Yiming slowly nodded his head and said, “Before coming here, I have asked around. Xu family’s spongers must possess the at least third-layer cultivation.”
+He Yiming slowly nodded his head and said, “Before coming here, I have asked around. Xu family’s spongers must possess at least third-layer cultivation.”
 
 While speaking these words, He Yiming was feeling rather emotional inwardly as well.
 
