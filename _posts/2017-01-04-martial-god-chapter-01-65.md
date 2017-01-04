@@ -61,7 +61,7 @@ Regardless of any viewpoint, this man’s position in the Xu family was not high
 
 However, this once again caused He Yiming to sigh inwardly.
 
-Xu family was truly flourishing in numbers. He family, on the other hand, their entire third generation combined didn’t the cross the figure of ten, let alone a thirty-year-old member.
+Xu family was truly flourishing in numbers. He family, on the other hand, their entire third generation combined didn’t the cross the figure of ten, let alone having a thirty-year-old member.
 
 As soon as he entered the castle, a wide stretch of fine farmlands entered his vision. He faintly started and immediately figured out why this castle occupied so much space. It turned out that this castle had its own farmlands. 
 
