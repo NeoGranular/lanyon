@@ -55,9 +55,9 @@ That man didn’t show the slightest surprise as if he already knew this, “So,
 
 After saying these words, he turned his body and started walking.
 
-He Yiming hesitated a little before following after him. Since his name had the word ‘Yu’, he evidently belonged to the same generation as that of Xu Yucai. However, he seemed to be over thirty yet his Internal Energy was around the fifth layer and was only a manager of the outer-castle. He must have received the message from the town. Therefore, he specifically came to welcome him.
+He Yiming hesitated a little before following after him. Since the latter's name had the word ‘Yu’, he evidently belonged to the same generation as that of Xu Yucai. However, he seemed to be over thirty yet his Internal Energy was around the fifth layer and was only a manager of the outer-castle. He must have received the message from the town. Therefore, he specifically came to welcome He Yiming.
 
-Regardless from any viewpoint, this man’s position in the Xu family was not high at all.
+Regardless of any viewpoint, this man’s position in the Xu family was not high at all.
 
 However, this once again caused He Yiming to sigh inwardly.
 
