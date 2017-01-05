@@ -39,7 +39,7 @@ Distantly hearing, He Yiming’s two eyes slightly widened. He absolutely couldn
 
 On that night when he was attending Cheng family’s banquet, it was this voice’s owner who had delivered the scripture of Blaze technique to the black-clothed man. That black-clothed man was not able to escape with the scripture and was intercepted by him halfway through. However, that was a different story.
 
-One of his most important objectives in coming to the Xu castle was to find this person. He hadn’t expected that he would be able to find this person right away. This was truly what they say ‘travelling far and wide only to discover it was nearby all along.’
+One of his most important objectives in coming to the Xu castle was to find this person. He hadn’t expected that he would be able to find this person right away. This was truly what they say ‘looking everywhere and finding it under one's nose.’
 
 “Two years….good. Yude said that these two years, you have been quite sincere- not inferior to your father and grandfather at all,” Xu Yinjie said in a satisfied voice, “If you have some request, you can ask. Our Xu family will not treat a loyal person unjust.”
 
