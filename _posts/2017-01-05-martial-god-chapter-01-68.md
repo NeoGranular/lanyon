@@ -33,9 +33,9 @@ He extended his hand and stroked it a few times before immediately feeling its p
 
 It turned out that the framework could actually be moved. He pulled out the framework. As expected, the interior had a square book covered in a oilcloth.
 
-A slight smile emerged on He Yiming’s face as he removed the cloth and opened the book. Sure enough, it was the scripture comparable to the Blaze technique, which had three words clearly written on its first page, Withered Tree technique.
+A slight smile emerged on He Yiming’s face as he removed the cloth and opened the book. Sure enough, it was the other scripture comparable to the Blaze technique. It had three words clearly written on its first page- Withered Tree technique.
 
-After collecting the scripture, he was delighted. He even felt disinclined to restore the mechanism under the bed.
+After collecting the scripture inside his clothes, he felt so delighted that he even felt disinclined to restore the mechanism under the bed.
 
 In any case, once Hong Anzhi saw the broken lock, he would certainly check under the bed. However, He Yiming certain that the former would not open his mouth even if his head were to be chopped off.
 
