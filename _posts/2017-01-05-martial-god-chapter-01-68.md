@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 has_book: true
 title: "Chapter 68 - Right Under One's Nose"
