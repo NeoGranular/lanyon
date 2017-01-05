@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 has_book: true
 title: "Chapter 67 - Right Under One's Nose"
@@ -139,7 +139,7 @@ Of course, nobody knew that there was no Qin Zhao in Tai Chong county, and by th
 
 After idling his way around in the morning, as the time for lunch approached, He Yiming slipped away from the eyes of others and arrived beside a section of inner castle’s wall that was shrouded by trees. His figure sprang up and crossed the wall- undiscovered.
 
-He inwardly sighed. Xu family's feet had indeed been planted way back. Surprisingly, nobody cared about the fact that so many big trees had grown by their inner castle’s wall.
+He inwardly sighed. Xu family's feet had indeed been planted since way back. Surprisingly, nobody cared about the fact that so many big trees were growing by their inner castle’s wall.
 
 After a few turns, he arrived before Hong Anzhi’s residence. He focused his attention on his ears and immediately found out that the latter was not present inside.
 
