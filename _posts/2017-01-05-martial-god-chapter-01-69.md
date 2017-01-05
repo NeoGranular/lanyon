@@ -103,11 +103,11 @@ A strand of Internal Energy gushed out of his Dantian, and like flowing water, r
 
 Almost instantaneously, under the assault of his gigantic inner force, this unknown channel was completely opened.
 
-A human body contained countless mysteries. The techniques in the five-phases although did not have completely identical channels, they were not completely non-overlapping either.
+A human body contained countless mysteries. The techniques in the five-phases although did not have completely identical channels, they didn't have completely seperated channels either.
 
 In fact, as Internal Energy unceasingly circulated in the body, it covered a lot of channels. Only the specific circulation routes and emphasis on them differed while cultivating different techniques.
 
-He Yiming was not cultivating an unknown technique for the first time. A number of techniques, diversity of techniques, and even the realms attained- his peers couldn't even dream of having such accomplishments.
+He Yiming was not cultivating an unknown technique for the first time. The number of techniques, diversity of techniques, and even the realms attained- his peers couldn't even dream of having such accomplishments.
 
 Accompanied by such an abundant experience, He Yiming would naturally not make a beginner mistake.
 
