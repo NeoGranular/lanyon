@@ -75,7 +75,7 @@ At the same time, he finally understood, why Hong Anzhi could get his hands on t
 
 Blaze technique and Withered Tree technique, these two techniques, just like the Splitting Mountain Thirty Six Forms, couldn’t be placed in an ordinary storehouse, and from the latter’s tone, this indeed seemed to be the case, and these two techniques seemed to be stored in the inner storehouse.
 
-As such, in charge watching over the inner storehouse- Hong Anzhi- possessed the qualifications of sneaking glances at these scriptures. Although He Yiming couldn’t guess the exact method he used to actually copy them down, he could tell it must have been quite expensive.
+As such, in charge watching over the inner storehouse- Hong Anzhi possessed the qualifications of sneaking glances at these scriptures. Although He Yiming couldn’t guess the exact method he used to actually copy them down, he could tell it must have been quite expensive.
 
 However, this moment, He Yiming had no thoughts of exposing these matters.
 
