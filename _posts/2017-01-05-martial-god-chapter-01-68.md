@@ -147,3 +147,5 @@ Eventually, without any better options, Xu family had to leave the matter unsett
 
 Xu Yuchang also felt queer since Xiao Qin had also disappeared. He made a few guesses but was never able to gather the courage to look into it, and he also pretended not to know anything.   
 
+Tl: The title of this chapter and the previous one makes one complete idiom.
+
