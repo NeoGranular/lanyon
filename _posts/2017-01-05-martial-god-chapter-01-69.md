@@ -16,7 +16,7 @@ translator:
 proofreader:
 is_preview:
 has_note: true
-note: "9/20. That's all for today. These chapters were a bit lengthy than usual."
+note: "10/20. That's all for today. These chapters were a bit lengthy than usual."
 ---
 He Yiming’s agility technique although was only mediocre, as far as thickness of the Internal Energy was concerned, he could easily rank among the top three even while taking the whole Tai Cang county into account. Therefore, when he decided to make a run, even a horse paled in comparison.
 
