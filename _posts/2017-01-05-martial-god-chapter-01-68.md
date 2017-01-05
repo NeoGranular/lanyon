@@ -43,17 +43,17 @@ Unhurriedly leaving, He Yiming closed the entrance and casually walked towards t
 
 En-route he encountered two strangers. He Yiming didn’t avoid either of them and instead took the initiative to strike a greeting with a faint smile. Both returned the greeting while wondering since when did they have such a neighbour.
 
-While following the path outside, He Yiming sighed inwardly as he thought of how he was becoming increasingly adept in disguising. Going by this manner, eventually, he would be able to disguise as he pleased.
+While following the path outside, He Yiming sighed inwardly as he thought of how he was becoming increasingly adept in disguising. Going by this manner, eventually, he would be able to assume any disguise he pleased.
 
-This time he didn’t crossed the wail. Instead, he walked out through the inner-castle entrance in arrogant steps.
+This time he didn’t jump over the wall. Instead, he was walking out of the inner-castle entrance in arrogant steps.
 
 After observing for these few days, he’d discovered an interesting fact.
 
-For a person to enter the inner castle from the outer castle, not only lead to someone of higher status or written command was required, in addition, the former must underwent a round of questioning. However, while leaving the inner castle and entering the outer castle, there was no hindrance whatsoever.
+For a person to enter the inner castle from the outer castle, not only one needed the lead of someone with a high status or written consent, in addition, one must undergo a round of interrogation as well. However, while leaving the inner castle and entering the outer castle, one didn't have to face any hindrance whatsoever.
 
-Therefore, he didn’t find it necessary to cross over the wall.
+Therefore, he didn’t felt the need to cross over the wall.
 
-However, as he walked up to the entrance, He Yiming suddenly started. At his front, the person who had admitted in the Xu castle, Xu Yuchang, was discussing some matters with a guard. From their appearance, they seemed to be quite close.
+However, as he arrived at the entrance, He Yiming suddenly started. At his front, the person who had admitted him in the Xu castle- Xu Yuchang- seemed to be discussing with a guard. From their behaviour, they seemed quite close to each other.
 
 Upon seeing He Yiming walking out of the inner castle, Xu Yuchang stopped speaking before an incredulous expression emerged on his face.
 
