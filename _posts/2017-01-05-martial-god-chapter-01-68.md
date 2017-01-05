@@ -97,13 +97,13 @@ He Yiming promptly cupped his hands and said, “Of course, brother Yuchang as w
 
 The two laughed facing each other, seeming quite harmonious.
 
-He Yiming suddenly asked, “Brother Yuchang, I wish to make a trip to county town. I wonder who should I seek permission from?”
+He Yiming suddenly asked, “Brother Yuchang, I wish to make a trip to county town. I wonder whom should I seek permission from?”
 
 “What do you want to do in the county town?” Xu Yuchang asked.
 
 A faint embarrased expression emerged on He Yiming’s face as he said, “This time, I have obtained an opportunity to advance, I naturally don’t want to miss it. So, I was thinking of going to the county town and buy some quality stuff. Uh…”
 
-Xu Yuchang immediately understood as he smilingly said, “Since brother Yuchang has such a wish, there is no need to gain any permission. You can go without worries.”
+Xu Yuchang immediately understood as he smilingly said, “Since brother Yuchang has such a wish, there is no need for any permission. You can go without worries.”
 
 He Yiming’s whole face was covered with smiles as he nodded and continued towards the outer castle.
 
@@ -117,7 +117,7 @@ Xu Yuchang followed him with his vision up to the outer castle, then waved his h
 
 He Yiming glanced back at him as he stepped outside the inner castle while sighing inwardly. It was true that members of Xu family were quite flourishing in numbers. However, after a certain limit, one couldn't avoid partiality.
 
-Xu Yuchang, Xu Yude and Xu Yucai were clearly members of the same generation as Xu Yuchang. However, the treatment of the former and the latter two was as different as heavens and earth.
+Xu Yuchang, Xu Yude and Xu Yucai were clearly members of the same generation. However, the treatment of the former and the latter two was as different as heavens and earth.
 
 If the latter two encountered a fourth-layer, outer-castle sponger, they would certainly be full of contempt. They wouldn’t even think of exchanging greetings with him.
 
