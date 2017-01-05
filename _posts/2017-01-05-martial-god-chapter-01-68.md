@@ -41,9 +41,9 @@ In any case, once Hong Anzhi saw the broken lock, he would certainly check under
 
 Unhurriedly leaving, He Yiming closed the entrance and casually walked towards the outer castle.
 
-En-route he encountered two strangers. He Yiming didn’t avoid either of them and instead took the initiative to strike a greeting with a faint smile. Both returned the greeting while wondering since when did they have had such a neighbour.
+En-route he encountered two strangers. He Yiming didn’t avoid either of them and instead took the initiative to strike a greeting with a faint smile. Both returned the greeting while wondering since when did they have such a neighbour.
 
-While walking towards outside, He Yiming sighed inwardly as he thought how he was becoming increasingly adept in disguising. Going by this manner, eventually, he would be able to disguise as he pleased.
+While following the path outside, He Yiming sighed inwardly as he thought of how he was becoming increasingly adept in disguising. Going by this manner, eventually, he would be able to disguise as he pleased.
 
 This time he didn’t crossed the wail. Instead, he walked out through the inner-castle entrance in arrogant steps.
 
