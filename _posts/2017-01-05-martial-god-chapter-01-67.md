@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 67 - Right Under One's Nose"
+title: "Chapter 67 - Looking Everywhere"
 book:
   number: 1
   title: "What Is A Genius"
