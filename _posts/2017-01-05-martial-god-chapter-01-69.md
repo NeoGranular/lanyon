@@ -119,7 +119,7 @@ However, He Yiming seemed completely unconcerned. As if he hadn’t even noticed
 
 A day and a night passed- He Yiming cultivated non-stop.
 
-This moment, his face seemed to have thinned a lot. Even his tightly closed two eyes seemed to have depressed towards inside. Although it was not yet to the point of being all skin and bones, others would no longer be able to guess his original features.
+This moment, his face seemed to have thinned a lot. Even his tightly closed two eyes seemed to have pressed towards inside. Although it was not yet to the point of being all skin and bones, others would no longer be able to guess his original features.
 
 Although Withered Tree technique was not an appearance changing technique, the effect aroused due to it could even beat the top appearance changing techniques under the heavens.
 
@@ -133,7 +133,7 @@ His eyeballs slowly swiveled, which didn’t fit the ingenious figure he'd a few
 
 After a while, realization appeared in his eyes, bringing along bits of uneasiness.
 
-He breathed in a deep breath before the Internal Energy in his body suddenly switched to water-type Ripple technique. After a few moments, his muscles started to swell as if he was performing a magic trick and regained their original state not too long after.
+He breathed in deeply before the Internal Energy in his body suddenly switched to water-type Ripple technique. After a few moments, his muscles started to swell as if he was performing a magic trick, and before long, regained their original state.
 
 Looking at his body, He Yiming eventually understood.
 
