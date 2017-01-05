@@ -57,11 +57,11 @@ However, as he arrived at the entrance, He Yiming suddenly started. At his front
 
 Upon seeing He Yiming walking out of the inner castle, Xu Yuchang stopped speaking before an incredulous expression emerged on his face.
 
-A sponger who had the entered the outer castle barely ten days ago was actually arrogantly walking out of the inner castle. This seemed inconceivable to him.
+A sponger who had the entered outer castle barely ten days ago was actually arrogantly walking out of the inner castle. This seemed inconceivable to him.
 
 He Yiming didn’t avoid his gaze, but cursed inwardly at his misfortune. However, on the exterior, there was no change in his expression as he kept walking and cupped his hands, “Brother Yuchang, what a coincidence.”
 
-Xu Yuchang nodded. However, no matter how he tried to think, he never imagined that He Yiming had sneaked out and had malicious intents.
+Xu Yuchang nodded. However, no matter how he tried to think, he couldn't have imagined that He Yiming had malicious intents.
 
 After all, such an affair had not happened once throughout hundred years in the history of Xu family. He was naturally incapable of thinking as such.
 
