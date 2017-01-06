@@ -16,7 +16,7 @@ translator:
 proofreader:
 is_preview:
 has_note: true
-note: "10/20. Only one for today. On the bright side, you can look forward to tomorrow and the day after"
+note: "11/20. Only one for today. On the bright side, you can look forward to tomorrow and the day after"
 ---
 After finishing the cultivation of Withered Tree technique, He Yiming calmly walked out to settle his bills.  Only then he realized that a whole day had passed while he was cultivating.
 
