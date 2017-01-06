@@ -38,7 +38,7 @@ After settling his bills, He Yiming rushed out of the county town- venturing dee
 
 With his strength, not to mention a few hours without food and water, he would be fine even if he didn't eat or drink anything for several days.
 
-Tai Cang county consisted quite a few high mountain ranges. In the true sense, these mountains didn't stand too high, but still, the entire county town lay in between a stretch of mountain ranges extending from far east and going endlessly towards west, which resulted in its terrain being complex and roads craggy. The number of high-quality official roads amounted to a pitiful figure, which was also the primary cause of Tai Cang county lagging far behind other areas.
+Tai Cang county consisted quite a few high mountain ranges. In the true sense of word, these mountains didn't stand too high, but still, the entire county town lay in between a stretch of mountain ranges extending from far east and going endlessly towards west, which resulted in its terrain being complex and roads craggy. The number of high-quality official roads amounted to a pitiful figure, which was also the primary cause of Tai Cang county lagging far behind other areas.
 
 However, to He Yiming, walking on the mountainous trails or walking on the spacious roads of the continent didn’t seem much different.
 
@@ -46,7 +46,7 @@ After walking for an hour, he arrived at a desolate place.
 
 A forest could be seen as the best cultivation place. Regardless of how much destruction one might wreck here, the forest would gradually smoothen it out.
 
-He'd heard his grandfather mention that- located far away from here- deserts and wetlands made even better places to silence somebody. However, he'd never witnessed these places in person. Thus, he had no way of imagining what these places looked like.
+He'd heard his grandfather mention that deserts and wetlands- located far away from here- made even better places to silence somebody. However, he'd never witnessed these places in person. Thus, he had no way of imagining what these places looked like.
 
 In the forest, He Yiming ensured that he was alone. With a loud shout, the Internal Energy inside his body began to circulate in a frenzy. Instantaneously, the tenth-layer Withered Tree technique’s Internal Energy erupted.
 
