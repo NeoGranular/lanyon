@@ -31,7 +31,7 @@ In the Heaven Seizing country where the martial wind blew- not to mention the pr
 
 Of course, if this woman forged her way relying on her own strength, it would be a completely different matter. Looking at her sweet, charming appearance, anybody could tell that even a nobody from the young generation of the three influential families would be able to beat her with ease. However, accompanying her was Lin family’s Lin Taoli. From the evident affection between the two, nobody dared to challenge her authority to sit on the principal seats.
 
-Seeing that her two elders were looking at her, he sweetly smiled and gently said, “Taoli knows propriety, please be at ease.”
+Seeing that her two elders were looking at her, she sweetly smiled and gently said, “Taoli is aware of the propriety, please be at ease.”
 
 The father and son faintly smiled and nodded, feeling quite assured. If she hadn’t affirmed, they could have only believed that this young master of Lin family had come to deliberately create trouble.
 
