@@ -84,7 +84,7 @@ However, currently, even if he used Primordial Energy, his strength was not infe
 
 After perceiving He Yiming’s aura, Lin Taoli’s relaxed appearance altered, and traces of graveness appeared on his face.
 
-He Yiming’s figure suddenly moved. His one hand was stretched forward, thumb closed in, and four fingers stuck together like a knife as his figure shot towards his opponent.
+He Yiming’s figure suddenly moved. His one hand stretched forward, thumb closed in, and four fingers stuck together like a knife as his figure shot towards his opponent.
 
 This was not a battle skill. This was an attack constituted purely of Internal Energy. With He Yiming’s perfect control over Internal Energy, it did not cross seventh layer’s peak.
 
