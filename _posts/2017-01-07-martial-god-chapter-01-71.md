@@ -27,7 +27,7 @@ The reason for so many good events this year was obviously the marriage of manor
 
 The eldest young master’s bride was not a girl from some trifling, small family, but from a family that equivalently constituted one of the three influential families of Tai Cang county alongside He family- the Cheng family.
 
- Cheng family took a massive hit to their reputation previous year, but as they say, a camel in dire straits is still bigger than a horse. Even He and Xu- the other two influential families dared to look down upon them.
+ Cheng family took a massive hit to their reputation previous year, but as they say, a camel in dire straits is still bigger than a horse. Even He and Xu- the other two influential families didn't dare to look down upon them.
 
 Manor’s entrance opened with a rumble, and a group of people walked out amidst pounding of drums and beating of gongs.
 
