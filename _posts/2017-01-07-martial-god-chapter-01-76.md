@@ -16,7 +16,7 @@ translator:
 proofreader:
 is_preview:
 has_note: true
-note: "17/20"
+note: "17/20. That's all for today"
 ---
 After a momentary silence, a strange atmosphere permeated throughout the main hall.
 
