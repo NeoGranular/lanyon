@@ -65,7 +65,7 @@ Although this man was young, the cultivation of his body was no small matter and
 
 Sucking in a deep breath, Xu Right’s both eyes suddenly shined with a fiery radiance. His aura suddenly exploded forth to extreme, enveloping everything in the surrounding.
 
-Although this was an invisible and untouchable force, under its effect, the retreating people suddenly accelerated, and even affecting some people in the main hall.
+Although this was an invisible and untouchable force, under its effect, the retreating people suddenly accelerated. Even in the main hall, a few people seemed to have been affected by it.
 
 Complete silence reigned about the arena. This was the effect of frightening expulsion of the complete might of a ninth layer expert.
 
