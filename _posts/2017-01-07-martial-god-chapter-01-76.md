@@ -72,7 +72,7 @@ With Jadeting region’s Lin family’s fame, these small clans ought to be over
 
 After entering the arena, He Yiming deeply bowed to Lin Taoli and resolutely said, “Young master Lin, please instruct me.”
 
-The words he said were completely sincere, but only he know what he meant, ‘Please take out your imprint, so I can learn it.”
+The words he said were completely sincere, but only he knew what he meant, ‘Please take out your imprint, so I can learn it.”
 
 Lin Taoli felt quite pleased with He Yiming’s flattering attitude. However, if could have heard He Yiming’s inwardly spoken words, he would surely have an immediate fall out with the latter.
 
