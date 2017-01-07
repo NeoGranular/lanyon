@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 has_book: true
 title: "Chapter 76 - Essence Of Metal Type"
