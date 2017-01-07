@@ -55,7 +55,7 @@ As an old man, watching his grandson taking a wife and continuing the clan’s b
 
 According to the local traditions, the groom’s side should bring a huge group. However, He Yitian’s father and grandfather were unable to go in person. As such, only his third uncle could assume the charge. Though with He Quanyi’s popularity and strength, he was more than qualified to assume this responsibility.
 
-He Wude nodded his head in satisfaction before suddenly waving his hand, “Yihai, Yixuan. According to the county customs, if the bride is from a martial family, duels would be held and only groom's brothers can participate. Only after the defeating the bride’s side- the hosts- would you be able to bring back the bride. You two, how much confident you are?”
+He Wude nodded his head in satisfaction before suddenly waving his hand, “Yihai, Yixuan. According to the county customs, if the bride is from a martial family, duels would be held and only groom's brothers can participate. Only after the defeating the bride’s side- the hosts- would you be able to bring back the bride. You two, how confident you are?”
 
 He Yihai and He Yixuan simultaneously straightened their chests and heroically said, “Grandfather, you can be rest assured. We will certainly not let the eldest brother lose face.”
 
