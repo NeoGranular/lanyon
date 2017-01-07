@@ -109,7 +109,7 @@ Lord Master Xu, Xu Xinjie, slowly raised his head. On his withered tree alike fa
 
 After a few moments, he unhurriedly said, “Young master Lin, in my Xu family, there is only one person who cultivates in Blaze technique and has attained the ninth layer.”
 
-Lin Taoli’s vision immediately shifted on Xu Right. This forty-year-old cultivator who seemed to be in his thirties lightly sighed and slowly stood up, “Since young master Lin wishes as such, Xu Right shall risk his life to accompany young master for a round.”
+Lin Taoli’s vision immediately shifted onto Xu Right. This forty-year-old cultivator who seemed to be in his thirties lightly sighed and slowly stood up, “Since young master Lin wishes as such, Xu Right shall risk his life to accompany young master for a round.”
 
 The two men left their seats and went to the arena side-by-side.
 
