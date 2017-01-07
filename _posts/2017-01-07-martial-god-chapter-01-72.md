@@ -51,7 +51,7 @@ This sort of treatment, even the former number one member of the third generatio
 
 Under the weight of countless gazes which contained suspicions, disbelief, envy and many other emotions, He Yiming suddenly discovered that after going through so many of such experiences, he didn’t about much about it.
 
-He Quanming faintly nodded. Although he’d not visited the main clan for quite some time, regarding He Yiming’s strength and position in the clan, he was quite clear. According to He Yiming’s strength, him sitting on the same positions as them couldn't be attributed as them going beyond their bounds of authority in the slightest.
+He Quanming faintly nodded. Although he’d not visited the main clan for quite some time, regarding He Yiming’s strength and position in the clan, he was quite clear. According to He Yiming’s strength, him sitting on the same positions as them couldn't be attributed to them overstepping the bounds of their authority in the slightest.
 
 He Yiming bitterly smiled. He’d hoped that his father would be able to decline. However, his father had actually chosen to attest.
 
@@ -79,11 +79,11 @@ He Yiming followed everybody to the outside and immediately heard Xu Yinjie’s 
 
 Although he’d already heard this person’s voice, he’d yet to officially face him.
 
-Looking from afar, he saw an old man with completely white hair and a face like a withered tree. However, his were full of radiance. Although they didn’t seem ferocious at all, his prestige didn’t allow many to look straight at him.
+Looking from afar, he saw an old man with completely white hair and a face like a withered tree. However, his eyes were full of radiance. Although they didn’t seem ferocious at all, his prestige didn’t allow many to look straight at him.
 
  He Yiming could tell at a glance that this old man’s cultivation technique was undoubtedly Withered Tree technique, and he’d already attained the extreme level that was mentioned in the scripture. Although this didn't seem the peak of the tenth level, it was not too far away from it.
 
-Cheng Zhusheng and his son welcomed Xu family’s group with faint smiles before everybody sat down after another round of disturbance.
+Cheng Zhusheng and his son welcomed Xu family’s group with faint smiles. Everybody sat down after another round of disturbance.
 
 Under the lead of their Lord Master, this time, Xu family’s group included Xu Xiangci and Xu Right in addition to Xu Yucai and several other members of third generation.
 
