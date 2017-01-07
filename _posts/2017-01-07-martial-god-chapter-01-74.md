@@ -67,7 +67,7 @@ Sucking in a deep breath, Xu Right’s both eyes suddenly shined with a fiery ra
 
 Although this was an invisible and untouchable force, under its effect, the retreating people suddenly accelerated. Even in the main hall, a few people seemed to have been affected by it.
 
-Complete silence reigned about the arena. This was the effect of frightening expulsion of the complete might of a ninth layer expert.
+Complete silence reigned over the arena. This was the effect of frightening expulsion of the complete might of a ninth layer expert.
 
 Lin Taoli’s expression also eventually turned grave as an equivalently formidable aura rippled from his body before gradually spreading around.
 
