@@ -40,11 +40,11 @@ Seeing He Yiming’s display, He Quanyi lightly coughed and said, “Yiming, you
 
 As He Yiming’s father, He Quanming could naturally stern his tone as much he as he pleased. However, considering He Yiming’s strength and position in the clan, He Quanyi- his uncle’s voice contained a faint consultative tone.
 
-A peculiar glint flickered in the eyes of Xu family and Cheng family’s elders. He Quanyi’s tone made one thing clear. This He Yiming’s position in the He clan was no small matter. At the very least, it was hardly any different than He Quanyi. This indeed was reason the two had wholeheartedly agreed on He Yiming sitting among the principal seats. It held no exaggaration at all.
+A peculiar glint flickered in the eyes of Xu family and Cheng family’s elders. He Quanyi’s tone made one thing clear. This He Yiming’s position in the He clan was no small matter. At the very least, it was hardly any different than that of He Quanyi. This indeed was reason the two had wholeheartedly agreed on He Yiming sitting among the principal seats. It held no exaggaration at all.
 
-“Ha ha, this truly is a problem, “ On the stage, Lin Taoli laughed, “Little brother He, since you wish to come, then come...let’s play”
+“Ha ha, this truly is a problem,“ On the stage, Lin Taoli laughed, “Little brother He, since you wish to come, then come...let’s play”
 
-If any other person had acted as such, Lin Taoli had perhaps felt some discontentment. However, facing a fifteen year old seventh layer peak cultivator, he felt some curiosity as well.
+If any other person had acted as such, Lin Taoli perhaps would have felt some discontentment. However, facing a fifteen year old seventh layer peak cultivator, he felt some curiosity as well.
 
 He Yiming’s face immediately revealed a joyful expression. Inwardly, he was itching to exchange moves with his opponent and study that Prostrate Imprint up close. To accomplish his objective, he felt so urged that he was willing to pay almost any price.
 
