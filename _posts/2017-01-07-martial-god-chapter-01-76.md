@@ -96,7 +96,7 @@ This aura permeated his surrounding, and his determination leaked out of this au
 
 Regardless of whoever it was, an expert like Xu Yinjie or these ordinary people who had never cultivated Internal Energy, everybody seemed to have been influenced by it.
 
-At this moment, in the eyes of spectators, He Yiming seemed to have disappeared, and what replaced him what was a.........spear. An awe-inspiring spear capable of toppling heavens and earth.
+At this moment, in the eyes of spectators, He Yiming seemed to have disappeared, and what replaced him was a.........spear. An awe-inspiring spear capable of toppling heavens and earth.
 
 Lin Taoli’s complexion eventually changed, ‘This aura….it’s actually this aura….”
 
