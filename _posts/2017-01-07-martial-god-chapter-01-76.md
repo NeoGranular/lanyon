@@ -92,7 +92,7 @@ Although it was not some battle skill, it brought astonished expressions on the 
 
 Body like shaft and fingers as a spearhead bolting forward- his figure emanated an intense unstoppable aura.
 
-This aura permeated his surrounding, and his determination leaking out of this aura.
+This aura permeated his surrounding, and his determination leaked out of this aura.
 
 Regardless of whoever it was, an expert like Xu Yinjie or these ordinary people who had never cultivated Internal Energy, everybody seemed to have been influenced by it.
 
