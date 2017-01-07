@@ -23,6 +23,7 @@ After a momentary silence, a strange atmosphere permeated throughout the main ha
 Everybody could see that Lin Taoli’s invitation to He Yitian didn’t have any malice and was merely meant to demonstrate his support for Cheng family.
 
 If He Yitian had accepted, although he wouldn’t be a match for the former, no one would have looked down on him.
+<!--more-->
 
 After all, Lin Taoli had already defeated Xu family’s fourth lord- an exceedingly high level expert.
 
