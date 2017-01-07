@@ -1,5 +1,5 @@
 ---
-published: false
+published: True
 layout: post
 has_book: true
 title: "Chapter 71 - Receiving Bride"
