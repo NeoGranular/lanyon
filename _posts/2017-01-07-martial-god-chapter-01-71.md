@@ -31,11 +31,11 @@ The eldest young master’s bride was not a girl from some trifling, small famil
 
 Manor’s entrance opened with a rumble, and a group of people walked out amidst pounding of drums and beating of gongs.
 
-He Yitian was dressed in a red gown. Although his Internal Energy had already attained the realm of the seventh layer, at this moment, it didn’t seem to make a difference as fine beads of sweat lingered on his forehead.
+He Yitian was dressed in a red gown. Although his Internal Energy had already attained the realm of the seventh layer, at this moment, it didn’t seem to make a difference as fine beads of sweat emerged on his forehead.
 
 This was not due to being tired or dressed too heavily, but due to anxiousness and feeling himself at the edge.
 
-Following closely behind He Yitian were He Yihai, He Yixuan, and He Yiming- his siblings who had attained the sixth layer. Looking at their eldest brother’s appearance, each and every one of them was laughing inwardly and gladly extracting joy from their eldest brother's misfortune.
+Following closely behind He Yitian were He Yihai, He Yixuan, and He Yiming- his siblings who had attained the sixth layer. Looking at their eldest brother’s appearance, each and every one of them was laughing inwardly and gladly extracting joy from his misfortune.
 
 Looking at their undisguised wry smiles, He Quanyi couldn’t help but recall his own younger times. His face stiffened as he furiously shouted, “You brats, we should marry you off next year as well!”
 
