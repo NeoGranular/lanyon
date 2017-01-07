@@ -97,7 +97,7 @@ He Quaming and He Quanyi glanced at He Yiming and felt a little comfort.
 
 He Yiming was currently fifteen years old. Although no one could say for sure whether he would be able to attain the ninth layer within the next ten or so years, just his existence constituted a hope- the sole hope of contending Lin Taoli.
 
-On the stage, Xu Right eventually hissed loudly- accompanying that fiery aura.
+On the stage, Xu Right eventually hissed loudly accompanying that fiery aura.
 
 His both feet faintly stamped before he instantly covered a more than ten meters and arrived directly before Lin Taoli. While confronting an expert that was of the same rank, he’d already discarded all caution and apprehension. If one held back against such an enemy, it would be just following the path of one’s destruction.
 
