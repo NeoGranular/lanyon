@@ -26,7 +26,7 @@ He Yiming’s expression slightly faltered. However, he didn’t stop his fist i
 
 After steadying himself, he threw a skeptical glance at Lin Taoli. However, inwardly, he wished nothing more than to escape somewhere in solitude and digest his gains.
 
-He wondered what bizarre transformation this technique would produce when used with his four different type of primary techniques.
+He wondered what bizarre transformation this technique would produce when used with his four different types of primary techniques.
 <!--more-->
 
 Of course, in front of Lin Taoli and even the rest of these people, he couldn’t use this technique. If they were to found out that he’d actually schemed to secretly study former’s imprint, even if they would be scared to death, they would first kill him in the name of devil.
