@@ -71,7 +71,7 @@ Astonishment flickered in Lin Taoli’s eyes. Although the defensive power of th
 
 Although this prototype seemed laughable in his eyes, just this much perceptive power was enviable in itself.
 
-Faintly nodding, Lin Taoli profoundly said, “This technique is called Prostrate Imprint- a defensive type battle skill of our Lin family. But if I wish to break your Rolling Boulder Fist, I need to use a different sort of imprint technique.”
+Faintly nodding, Lin Taoli profoundly said, “This technique is called Prostrate Imprint- a defense type battle skill of our Lin family. But if I wish to break your Rolling Boulder Fist, I need to use a different sort of imprint technique.”
 
 He Yiming’s heart suddenly jumped intensely before immediately pouring out joy. Originally, he thought that being able to study one type of imprint was already an excellent fortune, but he never imagined that he would be able to study another type of imprint too.
 
