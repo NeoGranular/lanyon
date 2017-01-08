@@ -119,7 +119,7 @@ However, now that he thought about it again, apart from Xiantian techniques, no 
 
 Although He Yiming’s fists seemed quite majestic, he didn’t dare completely rely on it.
 
-Once Internal Energy left the body, it would immediately dissipate. However, Rain Cloud imprint could actually condense Internal Energy to quite a high degree. Only then could it inflict injury directly through  air. The strike through the air was although quite formidable, it merely caused him some pain. However, to directly collide with the imprint, He Yiming didn’t dare imagine the might it contained.
+Once Internal Energy left the body, it would immediately dissipate. However, Rain Cloud imprint could actually condense Internal Energy to quite a high degree. Only then could it inflict injury directly through  air. The strike through the air was although quite formidable, it merely caused him some pain. However, to directly collide with the imprint- He Yiming didn’t dare even imagine the might it contained.
 
 He felt perhaps his entire being would be blasted off the stage.
 
@@ -127,7 +127,7 @@ His body suddenly shuddered as he suffered yet another crafty strike at the sect
 
 Although he was trying his best, against a battle skill which attacked without any warning, it was simply impossible to defend. If not for his special body, he would have long ago ceased to stand.
 
-However, after suffering for so long, his harvests also weren’t low. Every time suffered, his understanding regarding this technique would increase a little. Although it couldn’t compare to Prostate imprint, which he’d been able to study up close by exploring the Internal Energy circulation routes, he'd still managed to obtain a subtle feel of it, and he was still exploring it.
+However, after suffering for so long, his harvests also weren’t low. Every time he suffered, his understanding regarding this technique would increase a little. Although it couldn’t compare to Prostate imprint, which he’d been able to study up close by exploring the Internal Energy circulation routes, he'd still managed to obtain a subtle feel of it, and he was still exploring it.
 
 Perhaps this was the so-called simultaneous pain and joy.
 
