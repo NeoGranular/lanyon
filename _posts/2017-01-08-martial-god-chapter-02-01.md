@@ -37,7 +37,7 @@ His mouth suddenly felt bitter, extremely bitter…
 
 Fifteen years old, ninth layer expert......how the hell has this guy actually cultivated?
 
-At this moment, a thought appeared in his mind. Perhaps, it would have been better the second brother has killed this guy a year ago in the mountain forest. If this guy is allowed a few more years, what state would this guy end up maturing to?
+At this moment, a thought appeared in his mind. Perhaps, it would have been better if the second brother has killed this guy a year ago in the mountain forest. If this guy is allowed a few more years, what state would this guy end up maturing to?
 
 In the future Tai Cang county, could Xu family maintain their existence?
 
