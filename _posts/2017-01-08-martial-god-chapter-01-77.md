@@ -47,9 +47,9 @@ These two had already attained a frightening control over their strength, not on
 
 Suddenly, Xu Yinjie’s eyes suddenly snapped open with a momentary glint flickering in them, “Nephew He Quanming,”
 
-He Quanming faintly started and immediately turned his head, docilely saying “Senior Xu, at your command.”
+He Quanming faintly started and immediately turned his head, docilely saying “At your command, Senior Xu”
 
-Unless Xu and He family decide to shred all the pretense and turn against each other in open, their relations would always remain in a peaceful order. Therefore, upon hearing Lord Master Xu’s call, He Quanming had so deliberately paid attention to courtesy.
+Unless Xu and He family decided to shred all the pretense and turn against each other brazenly, their relations would always remain in a peaceful order. Therefore, upon hearing Lord Master Xu’s call, He Quanming had so deliberately paid attention to courtesy.
 
 “He family is indeed a family that produces geniuses. After He Yitian, another individual has turned out to be dragon among men, it’s praiseworthy indeed.”
 
