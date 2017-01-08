@@ -18,7 +18,7 @@ is_preview:
 has_note: true
 note: "20/20"
 ---
-The sun had yet to shine brightly but the dust in the arena had already started to glow brilliantly. The air seemed to be boiling. The two experts had yet to exchange move but their aura had already started to create a boundless suppression.
+The sun had yet to shine brightly but the dust in the arena had already started to glow brilliantly. The air seemed to be boiling. The two experts had yet to exchange a move but their aura had already started to create a boundless suppression.
 
 Outside the arena, not a whimper could be heard. Every single person had been affected by this suppression, feeling as if the slightest of carelessness on their part might disturb the two extraordinary individuals on the stage.
 <!--more-->
