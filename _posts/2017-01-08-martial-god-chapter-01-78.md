@@ -45,7 +45,7 @@ However, this was the beginning of astonishment for the ordinary people who were
 
 In the minds of these people, although He family’s sixth young master was quite formidable being the number one young expert of Tai Cang county, when did he become a Jadeting region’s genius as well? This had indeed exceeded the scope of their understanding.
 
-For a moment, complete silence reigned over the arena. Not even whispers flew about.
+For a moment, complete silence reigned over the arena. Not even whispers flew around.
 
 He Yiming bitterly smiled, then looked at his old man outside while thinking how to deal with such a situation.
 
@@ -57,15 +57,15 @@ After fighting with Lin Taoli, he’d more or less understood the imprint. Altho
 
 Lin Taoli faintly smiled and lightly waved, “It’s nothing. Brother He, do you know why I suddenly asked to stop?”
 
-“I cannot imagine.”
+“I couldn't imagine.”
 
-Lin Taoli’s smile started to disappear as he said, “Your metal type Rolling Boulder Fist has already been cultivated to peak. This technique is already at its maximum might. Ordinary battle skills no longer contains any value for you. Even for me, breaking your battle skill is in no way, easy,” He paused for a bit, and his face started to become solemn, “However, I have cultivated a battle skill which contains an extremely strange might. Once I use it, even I wouldn’t be able to perfectly control its might,”
+Lin Taoli’s smile started to disappear as he said, “Your metal type Rolling Boulder Fist has already been cultivated to peak. This technique is already at its maximum might. Ordinary battle skills no longer contains any value for you. However, even for me, breaking your battle skill is in no way, easy,” He paused for a bit, and his face started to become solemn, “However, I have cultivated a battle skill which contains an extremely strange might. Once I use it, even I wouldn’t be able to perfectly control its might,”
 
-Although his words were quite haughty and faintly implied that the fear to act was the reason he’d asked to stop, nobody present doubted it at all.
+Although his words were quite haughty and faintly implied that the fear to act was the reason he’d asked to stop, nobody present doubted him at all.
 
 Instead, if the young master of Lin family didn’t have a frightening battle skill with him, that would have felt suspicious.
 
-He Yiming’s eyes suddenly shined. He cried out in surprise, “Ah... Young master Lin, you say battle skill….but just now you used this…” He patted his hair, then extended both his arms, forming an imprint. Under his meticulous care, this imprint only revealed eighty percent similarity to the original in appearance. Furthermore, it wasn’t imbued with Internal Energy at all. It was just a prototype that a shared a similar appearance with the original.
+He Yiming’s eyes suddenly shined. He cried out in surprise, “Ah... Young master Lin, you say battle skill….but just now you used this…” He patted his hair, then extended both his arms, forming an imprint. Under his meticulous care, this imprint only revealed eighty percent similarity to the original in appearance. Furthermore, it wasn’t imbued with Internal Energy at all. It was just a prototype that shared a similar appearance with the original.
 
 Astonishment flickered in Lin Taoli’s eyes. Although the defensive power of this imprint was unparalleled, the difficulty of actually learning it was too much- so much so that the in the entire Lin family, those who had managed to learn it could be counted on fingers. He never expected that the youngster in front his eyes could form a prototype of it by just touching it a few times.
 
