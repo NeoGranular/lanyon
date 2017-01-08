@@ -23,7 +23,7 @@ The two Internal Energies momentarily touched and separated before He Yiming jum
 However, being on guard this time, Lin Taoli would obviously not hold his position like an idiot.
 <!--more-->
 
-His feet moved rapidly, as he moved about the ten-meter wide arena in a bizarre manner.
+His feet moved rapidly as he moved about the ten-meter wide arena in a bizarre manner.
 
 He Yiming’s metal type technique seemed quite strong since he'd understood the true essence of this technique. However, regardless of how strong of an attack he could produce, it would be useless if it couldn’t land a hit.
 
