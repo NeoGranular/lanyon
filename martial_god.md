@@ -17,9 +17,4 @@ Synopsis: What is a genius? Capable of comprehending any battle skill regardless
 * [{{ post.title }}]({{site.baseurl}}{{post.url}})
 {% endif %}
 {% endfor %}
-## Book 2 - Fame Spreads
-{% for post in site.categories.martial-god reversed %}
-{% if post.book.number == 2 %}
-* [{{ post.title }}]({{site.baseurl}}{{post.url}})
-{% endif %}
-{% endfor %}
+
