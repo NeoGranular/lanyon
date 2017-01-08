@@ -31,7 +31,7 @@ However, at this moment, as he looked at the two individuals on the stage, espec
 
 If Lin Taoli had revealed this bizarre imprint technique from the beginning, how long he could have survived?
 
-His vision then shifted on the individual standing before Lin Taoli.
+His vision then shifted onto the individual standing before Lin Taoli.
 
 His mouth suddenly felt bitter, extremely bitter…
 
