@@ -18,9 +18,9 @@ is_preview:
 has_note: true
 note: "20/20"
 ---
-The sun had yet to shine brightly but the dust in the arena had already started to glow brilliantly. The air seemed to be boiling. The two experts had yet to exchange moves, yet their aura had already started to create a boundless suppression.
+The sun had yet to shine brightly but the dust in the arena had already started to glow brilliantly. The air seemed to be boiling. The two experts had yet to exchange move but their aura had already started to create a boundless suppression.
 
-Outside the arena, not a whimper could be heard. Every single person had been affected by this suppression- feeling as if the slightest of carelessness on their part might disturb the two extraordinary people on the stage.
+Outside the arena, not a whimper could be heard. Every single person had been affected by this suppression, feeling as if the slightest of carelessness on their part might disturb the two extraordinary individuals on the stage.
 <!--more-->
 
 Xu family’s fourth lord, Xu Right, had his fists tightly clenched. His facial appearance looked different than the rest. Amidst the astonishment and fury, he found himself at a bit of loss.
