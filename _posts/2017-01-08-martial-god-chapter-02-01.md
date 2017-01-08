@@ -55,7 +55,7 @@ On the stage, Lin Taoli’s sound could be heard- soft, gentle, and seemingly wi
 
 Until now, he’d addressed He Yiming as 'little brother'. However, when his Internal Energy had attained the ninth layer and the latter still stood motionlessly, he realized that this individual’s Internal Energy cultivation was not below his at all.
 
-At this moment, the feeling of contempt had completely disappeared in his heart, and the way he felt about He Yiming had even undergone a subtle transformation. Addressing He Yiming as brother was the same as recognizing the latter as his equal.
+At this moment, the feeling of contempt had completely disappeared from his heart, and the way he felt about He Yiming had also undergone a subtle transformation. Addressing He Yiming as brother was the same as recognizing the latter as his equal.
 
 He Yiming brightly said, “Young master Lin, please.”
 
@@ -63,7 +63,7 @@ His voice brimmed with anticipation as if he couldn’t wait any longer to face 
 
 Lin Tao’s fingers slightly crooked, then his right forefinger slightly jerked.
 
-He Yiming faintly started, what sort of battle skill is this? As he felt skeptical inwardly, his heart chest suddenly tensed before both of his fists clutched the section between his chest and stomach.
+He Yiming faintly started, what sort of battle skill is this? As he felt skeptical inwardly, his chest suddenly tensed before both of his fists clutched the section between his chest and stomach.
 
 His palms had not truly touched his body, rather had brushed against an extremely strange energy.
 
