@@ -18,7 +18,7 @@ is_preview:
 has_note: true
 note: "18/20"
 ---
-The two Internal Energies momentarily touched and separated before He Yiming jumped and shot backward. However, as soon as his feet landed on the ground, he again pounced at Lin Taoli again.
+The two Internal Energies momentarily touched and separated before He Yiming jumped and shot backward. However, as soon as his feet landed on the ground, he pounced at Lin Taoli again.
 
 However, being on guard this time, Lin Taoli would obviously not hold his position like an idiot.
 <!--more-->
