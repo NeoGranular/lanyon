@@ -37,7 +37,7 @@ A faint red color appeared on He Yiming’s face.  Although he’d already becom
 
 He thought for a bit. Not finding any appropriate words to reply with, he could only bow and say, “Young master Lin, you praise me too much.”
 
-Lin Taoli faintly shook his head and said, “I’ve never praised someone in vain. However, I’m convinced that you will definitely count among the top geniuses in our Jadeting region.”
+Lin Taoli faintly shook his head and said, “I’ve never praised someone in vain. However, I’m convinced that you will definitely count among the top geniuses of our Jadeting region.”
 
 The people in the main hall had already been aware of He Yiming’s hidden strength. A fifteen -year-old, eighth-layer cultivator who had excelled the metal type techniques’ essence- this evaluation from Lin Taoli was not out of their expectations. If even such an expert couldn’t obtain such an evaluation, wouldn’t the rest of cultivators be same as trash?
 
