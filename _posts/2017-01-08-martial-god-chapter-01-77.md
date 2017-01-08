@@ -25,7 +25,7 @@ However, being on guard this time, Lin Taoli would obviously not hold his positi
 
 His feet moved rapidly as he moved about the ten-meter wide arena in a bizarre manner.
 
-He Yiming’s metal type technique seemed quite strong since he'd understood the true essence of this technique. However, regardless of how strong of an attack he could produce, it would be useless if it couldn’t land a hit.
+He Yiming’s metal type technique seemed quite strong since he'd understood the true essence of this technique. However, regardless of how strong of an attack he could bring out, it would be useless if he couldn’t land a hit.
 
 He Yiming was not anxious. He withdrew his palm- Internal Energy contained but also being constantly employed.
 
