@@ -4,8 +4,8 @@ layout: post
 has_book: true
 title: "Chapter 1 - Xiantian Imprint"
 book:
-  number: 1
-  title: "What Is A Genius"
+  number: 2
+  title: "Fame Spreads"
 category: martial-god
 #chapter no. format: bb-cc bb=book cc=chapter. Example: 01-01 (book 1, chapter 1)
 previous_chapter: 01-78
