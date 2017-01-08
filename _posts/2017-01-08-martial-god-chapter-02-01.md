@@ -25,7 +25,7 @@ Outside the arena, not a whimper could be heard. Every single person had been af
 
 Xu family’s fourth lord, Xu Right, had his fists tightly clenched. His facial appearance looked different than the rest. Amidst the astonishment and fury, he found himself at a bit of loss.
 
-Last year, after ascending to the ninth layer, he hadn’t been putting anyone into his eyes throughout the entire county except for a few exceptions.
+Last year, after ascending to the ninth layer, he hadn’t been putting anyone into his eyes throughout the entire county except for a few.
 
 However, at this moment, as he looked at the two individuals on the stage, especially Lin Taoli- from the body of whom he could feel an aura which was even a notch above that of Blaze technique, he felt a chill in his heart. When he’d fought with Lin Taoli, the latter hadn’t used his entire strength at all.
 
