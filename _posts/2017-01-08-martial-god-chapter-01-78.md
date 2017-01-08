@@ -83,9 +83,9 @@ His vision sharpened as he suddenly bowed and said, “Young master, please excu
 
 After saying these words, he lifted his head and solemnly looked at Lin Taoli.
 
-“Yiming, don’t create trouble.” Outside the arena, He Quanming’s broke out in cold sweat.
+“Yiming, don’t create trouble.” Outside the arena, He Quanming’s back broke out in cold sweat.
 
-The counterpart had already said that he wouldn't be able to control his technique, which implied high chances of injury. Even under such circumstances, He Yiming had taken the initiative to continue, wasn’t this simply following the path of one’s own doom? Even if he were to be beheaded on the spot, he would have no one but himself to blame.
+The counterpart had already said that he wouldn't be able to control his technique, which implied high chances of injury. Even under such circumstances, He Yiming had taken the initiative to continue- wasn’t this simply following the path of one’s own doom? Even if he were to be beheaded on the spot, he would have no one but himself to blame.
 
 He Yiming didn’t falter in the slightest as he continued to calmly observe the counterpart. However, his mouth opened, “Father, this is a rare opportunity. Son cannot give up…”
 
