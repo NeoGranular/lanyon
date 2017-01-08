@@ -77,7 +77,7 @@ He’d personally tested this fact out many times. Not to mention, Lin Taoli’s
 
 However, through countless years of development, humans had developed all sorts of mystical arts.
 
-Legends mentioned a secret art named Air Cleaving Palm, which could allow Internal Energy to leave the body and remained condensed for a short term of time to attack the enemy.
+Legends mentioned a secret art named Air Cleaving Palm, which could allow Internal Energy to leave the body and remain condensed for a short term of time to attack the enemy.
 
 Of course, the difficulty of cultivating such a palm technique must have been inconceivably high. Reportedly, since the creation of this technique, only a handful of people had managed to successfully cultivate it. Moreover, this was only a legend. He Yiming had never seen it before.
 
