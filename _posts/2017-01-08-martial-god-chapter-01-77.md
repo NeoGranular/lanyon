@@ -67,7 +67,7 @@ Of course, people were merely skeptical. Because nobody seemed to believe that a
 
 He Quanming waited for a few moments while looking at the fight in the arena which was becoming increasingly intense. He suddenly realized that even if he wished to conceal this matter, it would be out for the display of everyone at any passing moment.
 
-Heavily nodding towards Lord Master Xu, He Quanming proudly announced, “Senior Xu, Yiming is indeed a bit of genius. Half a year ago, he’d already broke past the bottleneck of the seventh layer and attained the eighth layer.”
+Heavily nodding towards Lord Master Xu, He Quanming proudly announced, “Senior Xu, Yiming is indeed a bit of genius. Half a year ago, he  broke past the bottleneck of the seventh layer and attained the eighth layer.”
 
 Although his voice was not loud, in the ears of people present in the main hall, his sound was akin to that of a thunderclap- almost crushing their beliefs in entirety.
 
