@@ -75,7 +75,7 @@ Especially the few members of Xu family’s young generation. They looked at eac
 
 He Yitain’s seventh layer Internal Energy was already pushing down on their hearts like a mountain, making them feel discouraged to even try and surpass the former. Now knowing that He Yiming, a fifteen-year-old youngster had the cultivation of eight-layer since half a year ago, they could only see their future completely dull and devoid of any light.
 
-Lord Master Cheng and other members of Cheng family also exchanged a glance. The shock and awe in their eyes quite evident. This moment, they felt glad that they had been related to He family by marriage.
+Lord Master Cheng and other members of Cheng family also exchanged a glance; the shock and awe in their eyes quite evident. This moment, they felt glad that they had decided to establish marital relationship with He family.
 
 At this moment, everybody understood that a super genius lurked in He family. Once this genius matured, he could easily transform the three-influential-families phase of Tai Cang county. 
 
