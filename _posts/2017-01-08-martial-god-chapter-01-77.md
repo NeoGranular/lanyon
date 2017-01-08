@@ -65,7 +65,7 @@ Although people knew that Lin Taoli had not aroused his Internal Energy to the n
 
 Of course, people were merely skeptical. Because nobody seemed to believe that a fifteen-year-old youngster could cultivate to the eight layer.
 
-He Quanming waited for a few moments, looking at the fight in the arena which was becoming increasingly intense. He suddenly realized, that even if he wished to conceal this matter, it would be for the display of everyone any passing moment.
+He Quanming waited for a few moments while looking at the fight in the arena which was becoming increasingly intense. He suddenly realized that even if he wished to conceal this matter, it would be out for the display of everyone at any passing moment.
 
 Heavily nodding towards Lord Master Xu, He Quanming proudly announced, “Senior Xu, Yiming is indeed a bit of genius. Half a year ago, he’d already broke past the bottleneck of the seventh layer and attained the eighth layer.”
 
