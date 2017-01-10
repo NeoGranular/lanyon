@@ -129,7 +129,7 @@ His words had barely echoed when He Yiming entered from the other side. The latt
 
 Under the vision of everybody’s stares, He Yiming bashfully smiled and said, “Uncle Cheng, can you please lend me some clothes?”
 
-Cheng Shine then jolted awake and promptly made arrangements for the two to back room and change.
+Cheng Shine then jolted awake and promptly made arrangements for the two to go to back room and change.
 
 After the two returned to their seats, the members of Cheng family underwent a huge transformation regarding their attitudes towards He Yiming. Even He Quanming and He Quanxin had never received such a zealous reception.
 
