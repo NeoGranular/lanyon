@@ -125,7 +125,7 @@ As soon as Lin Taoli entered the main hall, Cheng Yanjuan immediately stepped fo
 
 Raising his head, Lin Taoli loudly said, “Brother He, this was battle was extremely refreshing. This Lin can’t express his joy in words. Are you fine over there?”
 
-His words had barely echoed when He Yiming entered from the other side. The latter was completely naked below the waist- flesh and muscle exploding with strength. Although his height seemed a little low, nobody dared to think of him as a youngster anymore.
+His words had barely echoed when He Yiming entered from the other side. The latter was completely naked above the waist- flesh and muscle exploding with strength. Although his height seemed a little low, nobody dared to think of him as a youngster anymore.
 
 Under the vision of everybody’s stares, He Yiming bashfully smiled and said, “Uncle Cheng, can you please lend me some clothes?”
 
