@@ -137,7 +137,7 @@ The technique’s efficiency outstripped his expectations. His muscles and bones
 
 At this moment, he felt that these techniques in the book pavilion being passed down to generations was indeed not baseless.
 
-Previously, the reason he could wield his grandfather’s blade was due to his exceedingly high level of Internal Energy. However, currently, he could easily the wield that broadsword just relying on his body’s strength.
+Previously, the reason he could wield his grandfather’s blade was due to his exceedingly high level of Internal Energy. However, currently, he could easily wield that broadsword just relying on his body’s strength.
 
 To the current him, such a heavy weapon would no longer be a burden.
 
