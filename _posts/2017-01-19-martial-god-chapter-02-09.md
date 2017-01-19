@@ -67,7 +67,7 @@ The might of this distant assault was indeed extraordinary, but the cost he had 
 
 With a thought, he immediately circulated Withered Tree technique and Ripple technique in these meridians. Under the soothing effect of these two techniques, the aching in his meridians eventually calmed down.
 
-He’d  had to wait as long as half an hour before he could resume.
+He had to wait as long as half an hour before he could resume.
 
 After being compressed to the extreme, Internal Energy could leave the body.
 
@@ -81,17 +81,17 @@ Although one could continuously temper one’s body, some vital parts neverthele
 
 Of course, although the finger energy aroused by the Hidden Needle Imprint was immense, in terms of frequency of attacks, it couldn’t even be compared to Rain Cloud Imprint.
 
-To produce such a frightening distant- finger- energy, he must circulate all the four primary techniques inside his body in a way that they could complement each other. When his blood and qi would start to boil- seemingly about to explode out of his body- only then could his Internal Energy be compressed to such an extreme.
+To produce such a frightening distant finger energy, he must circulate all the four primary techniques inside his body in a way that they could complement each other. When his blood and qi would start to boil- seemingly about to explode out of his body- only then could his Internal Energy be compressed to such an extreme.
 
 In other words, it could only be aroused while his Internal Energy circulated at tenth layer’s peak, and even still, unlike Rain Cloud Imprint, he shouldn’t even dream about unleashing more than one such fingers in succession. Otherwise, his meridians wouldn’t be able to sustain such frantic circulation.
 
-Despite such time- gaps and flaws, He Yiming felt completely satisfied.
+Despite such time gaps and flaws, He Yiming felt completely satisfied.
 
 Henceforth, his Hidden Needle Imprint not only had the ability to counterattack, he could even take the initiative. This indeed was an immense win for him.
 
-However, the only regret he felt was that he’d only grasped Rain Cloud Imprint’s that  mechanism which allowed one to compress Internal Energy. It’s ultimate move, which could allow one to explode with a thunder-like power, was still far beyond his comprehension.
+However, the only regret he felt was that he’d only grasped Rain Cloud Imprint’s mechanism which allowed one to compress Internal Energy. It’s ultimate move, which could allow one to explode with a thunder-like power, was still far beyond his comprehension.
 
-During that battle, He Yiming had confronted Lin Taoli’s Rain Cloud Imprint with the tenth form of [Splitting Mountain Thirty -Six Forms]. Relying on his body which was above his opponent’s by one layer of Internal Energy, he’d managed to gain slight advantage. However, he clearly knew that if their Internal Energy had been at the same level, Rain Cloud Imprint’s instantaneous power burst was, in fact, superior to the tenth form of [Splitting Mountain Thirty -Six Forms].
+During that battle, He Yiming had confronted Lin Taoli’s Rain Cloud Imprint with the tenth form of [Splitting Mountain Thirty-Six Forms]. Relying on his body which was above his opponent’s by one layer of Internal Energy, he’d managed to gain slight advantage. However, he clearly knew that if their Internal Energy had been at the same level, Rain Cloud Imprint’s instantaneous power burst was, in fact, superior to the tenth form of [Splitting Mountain Thirty-Six Forms].
 
 It was somewhat similar to that stunning strike he’d produced while confronting the gold-crowned python- the only difference being that the Internal Energy in the former case didn’t arouse at such an exaggerated rate in its entirety.
 
@@ -119,11 +119,11 @@ Of course, this ‘boundless strength’ at low level merely meant some advantag
 
 Although one might not be able to become exceedingly strong, it didn’t seem much of an exaggeration.
 
-The most bizarre aspect of this technique was. its claim for an exceedingly high essence of a cultivator’s body, and its cultivation speed was, mildly put, undesirable. Therefore, although the might it offered was pretty good, the number of cultivators that would be able to gain some accomplishment in this technique would be extremely rare.
+The most bizarre aspect of this technique was its claim for an exceedingly high essence of a cultivator’s body, and its cultivation speed was, mildly put, undesirable. Therefore, although the might it offered was pretty good, the number of cultivators that would be able to gain some accomplishment in this technique would be extremely rare.
 
-He Yiming’s face revealed a slight smile. In the five-phases, the cultivation speed of earth -type techniques was already the slowest. It required slow and steady step-by-step progress.
+He Yiming’s face revealed a slight smile. In the five-phases, the cultivation speed of earth-type techniques was already the slowest. It required slow and steady step-by-step progress.
 
-And this technique evidently belonged to the slower ones , even amongamongst  the earth-type techniques. Therefore, this technique not being famous among cultivators seemed quite reasonable.
+And this technique evidently belonged to the slower ones, even amongst the earth-type techniques. Therefore, this technique not being famous among cultivators seemed quite reasonable.
 
 Putting the scripture of Power Secrets onto the table, He Yiming proficiently copied down its content, then returned to his underground training room.
 
