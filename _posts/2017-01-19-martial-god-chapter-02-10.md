@@ -18,12 +18,12 @@ is_preview: true
 has_note:
 note: 
 ---
-His legs stood firm as his hands formed multiple, random Hidden Needle Imprints.
+With a gloomy face and an anxious heart, He Yiming walked out of the underground training room.
 
-In comparison to Prostrate Imprint, since Hidden Needle Imprint relied on differently attributed Internal Energy, its seals were much more complex. In Houtian realm, one would probably not find another individual who could grasp this technique other than He Yiming, the creator of this technique himself.
+Ever since his fortuitous encounter in the lake, this was the first time he’d felt such indecisiveness and loss.
 
-As the seals formed, the Internal Energy in his meridians suddenly surged.
+At this moment, that askew disdainful gaze and that extreme confidence seemed to have completely disappeared, and the future seemed to be indistinct and despairing.
 
-Strangely, the Internal Energy circulating inside his body didn’t belong to a certain type of his four primary techniques. Instead, it began with the metal-type Primordial Energy, and following the sequence of the five-phases, ended at the Blaze technique.
+If one possesses a certain strength and is habitual of using it, when this strength is suddenly taken away from him, the shock it imparts is simply incomparable.
 
-Under this constant transformation, the shape of the imprints formed by his hands also changed. However, regardless of how it changed, it still emanated a feeling like that of a needle hidden in a ball of silk floss. It wasn’t a stable and resolute feeling like that of a mountain which Prostrate Imprint emanated, but a strange, gentle one.
+In any case, He Yiming was still a fifteen year old youngster. Although his strength already stood at the peak of the Tai Cang county, to this day, he’d never felt too satisfied with it.
