@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter The Three Energies"
+title: "Chapter 11 - The Three Energies"
 book:
   number: 2
   title: "Fame Spreads"
