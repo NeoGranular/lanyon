@@ -14,8 +14,8 @@ date: 2017-01-22 01:15:01
 has_credits:
 translator:
 proofreader: jchill071
-is_preview:
-has_note: true
+is_preview: true
+has_note: 
 note:
 ---
 In the mountain forest, a gigantic air-cleaving sound suddenly rang out. As a swift, majestic white light flashed, a huge fox bear’s head rolled down before it could even make a sound.
