@@ -59,7 +59,7 @@ He naturally felt overjoyed at this discovery.
 
 After leaving the He manor, he penetrated deep into the mountain forest, wielding this blade.
 
-Tai Cang county had immense mountain ranges, and nobody had ever succeeded in uncovering these boundless mountain ranges. He Yiming’s thought process was quite simple. Since a gold-crowned python could appear here, it ought to have other high level spiritual beasts.
+Tai Cang county contained immense mountain ranges, and nobody had ever succeeded in uncovering these boundless mountain ranges. He Yiming’s thought process was quite simple. Since a gold-crowned python could appear here, it ought to have other high level spiritual beasts.
 
 Spiritual beasts had myriad of classes. However, they all shared one characteristic. They lived in areas far away from human grounds. The stronger a spiritual beast happened to be, the harder its traces would be to discover. 
 
