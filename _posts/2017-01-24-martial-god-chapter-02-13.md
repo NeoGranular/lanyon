@@ -105,7 +105,7 @@ In reality, apart from a guy like He Yiming who relied on his strength for guts,
 
 The more these people approached, the gentler their movements became. Evidently, they had already discovered that someone had roasted meat here and didn’t wish to be discovered.
 
-Faintly shaking his head, He Yiming’s bluntly said, “Friends, since you are already here, why don’t you just show yourself. I have an unfinished pork here. Help yourself.”
+Faintly shaking his head, He Yiming’s bluntly said, “Friends, since you are already here, why don’t you just show yourself. I have an unfinished meat here. Help yourself.”
 
 The footsteps suddenly stopped. This action seemed to have been accomplished in an instant and in a synchronized manner.
 
