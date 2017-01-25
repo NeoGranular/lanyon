@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 14"
+title: "Chapter 14 - Xie Family Of Fire Crow Country"
 book:
   number: 2
   title: "Fame Spreads"
