@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 13 - Enetering The Forest Again"
+title: "Chapter 13 - Entering The Forest Again"
 book:
   number: 2
   title: "Fame Spreads"
