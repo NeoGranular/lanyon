@@ -131,7 +131,7 @@ He Yiming rather awkwardly smiled and said, “Mister Xie, I’d  entered throug
 
 Xie Grace thought for a bit before saying, “Heaven Sieve…if you take the official road, the distance is a thousand li. Even if you walk thirty li a day, you will need a month or two to cover the distance. Moreover, there is Gold Forest country in between as well. However, there are no roads in the mountain forest, and one can move as he pleases. I reckon brother He must have moved around in a few circles to arrive here in three months.”
 
-He Yiming heavily nodded. When he’d entered the forest, he’d no fixed destination in mind, and he’d followed his heart. Arriving here could be said to be karma.
+He Yiming heavily nodded. When he’d entered the forest, he’d no fixed destination in mind, and he’d followed his heart. Arriving here could be said to be as karma.
 
 Sweeping his vision through Xie Grace and the rest’s faces, He Yiming directly said, “Mister Xie, I can see that Xie family is probably a big influential family of Fire Crow country.”
 
