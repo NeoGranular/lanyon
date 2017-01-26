@@ -32,6 +32,7 @@ Even he wouldn’t dare believe that He Yiming’s Internal Energy had already a
 He faced upwards and chuckled, “Brother He, don’t tell me even these two long-armed raccoons can’t appease you?”
 
 He Yiming shrugged. He indeed didn’t feel too excited. However, he also knew that being able to locate two long-armed racoons was already extraordinary. As for a five-hundred-year-old beast, the possibility of finding such a beast was almost zero. One could say that such a beast could only be met, not sought.
+<!--more-->
 
 “Mr. Xie, since your family has already located these two spiritual beasts, why not go hunt them?” He Yiming sincerely asked.
 
