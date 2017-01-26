@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 15(1) - Long-Armed Raccoon "
+title: "Book 2 Chapter 15 - Long-Armed Raccoon(1) "
 book:
   number: 2
   title: "Fame Spreads"
