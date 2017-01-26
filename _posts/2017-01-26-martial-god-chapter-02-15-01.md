@@ -125,3 +125,5 @@ He Yiming’s actions aroused everybody’s attention, and all shifted their vis
 With a burst, leaves of trees trembled before a completely black, two meters long, human-like hand slowly came out.
 
 One look at this arm, the complexions of Xie Grace and the rest transformed, and Xie Mingjin further blurted, “Long-armed racoon!”
+
+(Tl: You might not find updates of this series on Novelupdates for a few days. I will post all the remaining chapters of this week on Sunday.)
