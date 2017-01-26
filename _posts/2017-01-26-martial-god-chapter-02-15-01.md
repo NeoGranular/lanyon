@@ -62,7 +62,7 @@ He Yiming immediately understood that Xie family didn’t have a Xiantian cultiv
 
 “Then, what do you have in mind?” He Yiming curiously asked, “Don’t tell me you will continue to delay it like this?”
 
-When he spoke these words, complexions of Xie Mingjin and the attendants worsened. However, Xie Grace still revealed a smile and helplessly said, “Our Xie family has three peak mountain experts who have attained the tenth layer’s peak. However, we still have no certainty in taking on two long-armed raccoons. However, if we can obtain help from another tenth layer expert’s assistance, we might be able to try our hand.”
+When he spoke these words, complexions of Xie Mingjin and the attendants worsened. However, Xie Grace still revealed a smile and helplessly said, “Our Xie family has three peak level experts who have attained the tenth layer’s peak. However, we still have no certainty in taking on two long-armed raccoons. However, if we can obtain help from another tenth layer expert’s assistance, we might be able to try our hand.”
 
 He Yiming blinked his eyes, admiring the former inwardly. This person had already seen through his depths. However, he still couldn’t guess how the former had accomplished this feat when none among his grandfather, Xu Yinjie, Lin Taoli and so on….had been able to discern that his Internal Energy was the tenth layer.
 
