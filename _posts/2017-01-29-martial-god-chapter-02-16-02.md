@@ -14,7 +14,7 @@ date: 2017-01-29 01:15:01
 has_credits:
 translator:
 proofreader: jchill071
-is_preview: 
+is_preview: false
 has_note: true
 note: "Fifth and final regular chapter of the week"
 ---
