@@ -23,7 +23,8 @@ is_preview:
 Although Yang Chen had given a Heaven Seizing Pill to Wang Yong, this kind of a thing could only be found accidentally, not sought at will. How could he possibly have so many things that could be given away as gifts? Moreover, Yang Chen was but a foundation-stage expert, and the old tree demon actually wanted to rely on him to ascend? Naturally, this could scare anyone. 
     
 Although Yang Chen had defied their limits again and again, when a genuine Da Cheng stage expert asked so earnestly for help, they were still a bit intimidated. 
-   
+<!--more-->
+
 In the end, what had Yang Chen shown Gui Shanyou that made the Da Cheng expert feel so confident that Yang Chen could help him in ascending? Although both of them were curious, they didn’t investigate closely. This disciple, Yang Chen, had so many secrets that sometimes it was just better not to know.
    
 Palace Master Zhang Jiao had relatively too many matters at his hands. Only after he had sent off all the visitors did he hurry over here to the old tree demon’s place and saw this peaceful scene. 
