@@ -22,7 +22,8 @@ is_preview:
 Before anyone could say anything, Yang Chen had already pacified the situation with the Da Cheng stage, old tree demon? Moreover, what did he just say? Requesting Yang Chen at the time of his ascension?
     
 Although Yang Chen had given a Heaven Seizing Pill to Wang Yong, this kind of a thing could only be found accidentally, not sought at will. How could he possibly have so many things that could be given away as gifts? Moreover, Yang Chen was but a foundation-stage expert, and the old tree demon actually wanted to rely on him to ascend? Naturally, this could scare anyone. 
-    
+<!--more-->
+
 Although Yang Chen had defied their limits again and again, when a genuine Da Cheng stage expert asked so earnestly for help, they were still a bit intimidated. 
    
 In the end, what had Yang Chen shown Gui Shanyou that made the Da Cheng expert feel so confident that Yang Chen could help him in ascending? Although both of them were curious, they didn’t investigate closely. This disciple, Yang Chen, had so many secrets that sometimes it was just better not to know.
