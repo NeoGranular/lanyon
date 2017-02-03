@@ -7,7 +7,7 @@ previous_chapter: 176
 next_chapter:178
 chapter:
   number: 177
-date: 2017-02-03 07:22:20 +0200
+date: 2017-02-03 07:52:20 +0200
 has_note: true
 note: "The chapter this time is more late then I had expected. Actually, I was ill for last ten days so I couldn't do anything because of weakness. As for the schedule, I will provide it to you by this monday. On a side note, you can experience some change in the quality as my original editor had some work so I had to take the help of a friend. "
 is_sponsored: false
