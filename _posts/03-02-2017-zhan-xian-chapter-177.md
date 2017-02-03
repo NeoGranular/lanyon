@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Chapteer 177- That Comforting Moment"
+title: "Chapter 177- That Comforting Moment"
 category: zhan-xian
 previous_chapter: 176
 next_chapter: 178
