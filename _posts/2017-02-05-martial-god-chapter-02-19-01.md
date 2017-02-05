@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 19.1"
+title: "Chapter 19.1 Pulpless Fruits"
 book:
   number: 2
   title: "Fame Spreads"
