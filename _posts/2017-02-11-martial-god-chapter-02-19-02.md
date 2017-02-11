@@ -10,13 +10,13 @@ category: martial-god
 #chapter no. format: bb-cc bb=book cc=chapter. Example: 01-01 (book 1, chapter 1)
 previous_chapter: 02-19-01
 next_chapter: 02-20-01
-date: 2017-02-05 03:15:01 
+date: 2017-02-11 03:15:01 
 has_credits:
 translator:
 proofreader: jchill071
-is_preview: true
-has_note:
-note:
+is_preview: false
+has_note: true
+note: "1/5"
 ---
 After a while, He Yiming thought for a bit before asking, “Mr. Xie, can your noble family refine golden cores of spiritual beasts above five hundred years?”
 
