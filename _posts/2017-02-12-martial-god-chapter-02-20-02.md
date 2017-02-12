@@ -62,8 +62,6 @@ Xie Grace coarsely laughed and said, “Elder brother, I’ve seen He Yiming’s
 
 The truth was that he was completely unaware that He Yiming was already extremely famous in Tai Cang county. However, under careful suppression of Lin family, the news had not spread out.
 
-Xie Grace coarsely laughed and said, “Elder brother, I’ve seen it with my own eyes. He Yiming’s age is not even eighteen. Thus, he naturally can’t be too famous.”
-
 Xie Nuanhang was immediately alarmed. If one were to say that he was shocked just now, currently, he was appalled.
 
 Such achievements were already quite praiseworthy for a fifty or sixty year cultivator. However, a youngster, who was not even eighteen, having such achievements was too horrifying.
