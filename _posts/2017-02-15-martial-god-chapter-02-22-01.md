@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 22.1 Engerdering Techniques "
+title: "Chapter 22.1 Engendering Techniques "
 book:
   number: 2
   title: "Fame Spreads"
