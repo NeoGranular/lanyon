@@ -27,7 +27,7 @@ Xie Mingjin’s body was dripping with sweat. He’d already drunk two big jars 
 He Yiming, on the other hand, was attentively watching their every movement, as if committing all of their actions into his memory.
 
 Actually, He Yiming’s emotions were quite aroused at the moment. Before opening the furnace, Xie Zhien had told him that to become a distinguished alchemist, one needed to possess exceedingly high innate talent. This talent, in addition to possessing a high comprehensibility about medicines, also referred to an imperative possession of fire and wood- these two types of Internal Energy attributes.
-<!more-->
+<!--more-->
 
 Of course, if you possessed three kinds, even among the alchemists, you would be seen as an extremely rare kind of alchemist and would be deemed as a pioneer of alchemy.
 
