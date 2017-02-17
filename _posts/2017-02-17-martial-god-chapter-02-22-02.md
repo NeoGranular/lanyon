@@ -52,7 +52,7 @@ In the forest, He Yiming had only revealed metal type techniques.
 
 Regardless of how strong one’s single attribute could become, it wouldn't lead to breakthrough into Xiantian realm without help of gold cores.
 
-However, this was not the case with He Yiming. He was not a single-attributed cultivator, but an exceedingly powerful cultivator of the entire five phases. His only weak point was that he only had two peak level primary techniques. These two techniques did engender each other, which others might rejoice about.
+However, this was not the case with He Yiming. He was not a single-attributed cultivator, but an exceedingly powerful cultivator of the entire five phases. His only weak point was that he only had two peak level primary techniques. These two techniques didn't engender each other, which others might rejoice about.
 
 Blaze technique and Withered Tree technique, from the Xu castle.
 
