@@ -23,6 +23,7 @@ Looking at the Xie family members who were respectful and fawning over him, He Y
 Before he’d entered the Xiantian realm, although they were still polite to him, it was nowhere near this exaggerated. After ascending to the Xiantian realm and further promising to help the old daoist, Xie Zhien, they had become respectful to the extreme.
 
 Xie Zhien, this hundred year old man in particular- he even displayed courtesy that somewhat resembled that of a disciple.
+<!--more-->
 
 Suddenly, his heart faintly trembled before he asked, “Senior Xie, under the protection of a Xiantian realm cultivator, can all the Houtian realm, tenth layer cultivators breakthrough?”
 
