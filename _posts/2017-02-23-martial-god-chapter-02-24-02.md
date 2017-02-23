@@ -146,6 +146,6 @@ Although he currently possessed [Splitting Mountain Thirty-Six Forms] and other 
 
 He inwardly sighed, deciding to cultivate the modified Blaze technique first. As for the techniques pertaining to the rest of the attributes, he could only leave it to fate.
 
-Or perhaps, through the means of relentless cultivation of the Primordial techniques and other techniques, he could develop them into techniques of the same level as the of the current Blaze technique.
+Or perhaps, through the means of relentless cultivation of the Primordial Energy and other techniques, he could develop them into techniques of the same level as the of the current Blaze technique.
 
 However, he probably wouldn’t be able to accomplish this feat in a short time.
