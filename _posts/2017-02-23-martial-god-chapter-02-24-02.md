@@ -14,7 +14,7 @@ date: 2017-02-23 03:15:01
 has_credits:
 translator:
 proofreader: jchill071
-is_preview: true
+is_preview: false
 has_note: true
 note: "First chapter of the week. Didn't have time for a teaser"
 ---
