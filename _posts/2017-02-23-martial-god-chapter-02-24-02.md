@@ -16,7 +16,7 @@ translator:
 proofreader: jchill071
 is_preview: true
 has_note: true
-note: "First chapter of the week"
+note: "First chapter of the week. Didn't have time for a teaser"
 ---
 Those two guards immediately knelt and said, “To prince, just now a man suddenly appeared. We failed to notice him. Please allow us to atone for our crime.”
 
