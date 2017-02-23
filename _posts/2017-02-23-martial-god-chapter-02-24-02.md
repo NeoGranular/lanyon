@@ -90,7 +90,7 @@ Xie Nuanhang lightly coughed and said, “Brother Ting, while leaving, Mr. He sa
 
 Ting Brightriver’s complexion again changed. He deeply bowed and said, “In that case, I would request brother Xie to let me stay in your noble residence for the time being and introduce me later.”
 
-Xie Nuanghang returned the courtesy and said, “This a trivial matter.  However, Mr. He has already said that he’s just entered the Xiantian realm and wants to be in seclusion for the some time. If he doesn’t meet for the time being, I’ll have to ask brother Ting for forgiveness.”
+Xie Nuanghang returned the courtesy and said, “This a trivial matter.  However, Mr. He has already said that he’s just entered the Xiantian realm and wants to be in seclusion for some time. If he doesn’t meet for the time being, I’ll have to ask brother Ting for forgiveness.”
 
 Ting Brightriver smiled and said, “Of course, that doesn’t need to be mentioned.”
 
