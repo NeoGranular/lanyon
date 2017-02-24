@@ -27,7 +27,7 @@ If not for such a situation, this small matter wasn’t enough to make him make 
 Although He Yiming was not using any technique, the length of his footsteps far exceeded that of an ordinary person. This moment he’d already arrived at the street’s corner. His figure flickered, suddenly disappearing from the vision of that man.
 
 He hesitated a bit, turning his head and looking at the entrance of Xie Residence, and eventually forced himself to not deal with that person. For some reason, when he thought about dealing with that person, he felt a slight chill in his spine.
-<!---more-->
+<!--more-->
 Faintly shaking his head, as he was laughing at himself, a candid hearty laugh sounded.
 
 “Xie Nuanhang welcomes your highness.”
