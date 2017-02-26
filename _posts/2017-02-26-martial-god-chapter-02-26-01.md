@@ -1,8 +1,8 @@
---
+---
 published: true
 layout: post
 has_book: true
-title: "Chapter 26.1 - Ting Liferay "
+title: "Chapter 26.1"
 book:
   number: 2
   title: "Fame Spreads"
