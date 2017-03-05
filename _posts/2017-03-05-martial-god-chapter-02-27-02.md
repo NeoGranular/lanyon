@@ -15,7 +15,7 @@ has_credits:
 translator:
 proofreader: jchill071
 is_preview: false
-has_note: 
+has_note: True
 note: "2/5. The rest three later."
 ---
 He extended his hands and accepted the book while his eyes carefully observed Xie Zhien’s face.
