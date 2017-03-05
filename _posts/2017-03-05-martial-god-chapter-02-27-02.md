@@ -134,5 +134,5 @@ After cooling the blade, when He Yiming again picked up the blade, he could appa
 
 Only because there were so many people, He Yiming was able to force himself to not try the sword on the spot, and instead put it back into its sheath.
 
-A few days later, under the supervision of Xie Mingjin and the rest, the manufacturing of the inner-wear was completed. He Yiming bid then bid farewell and left.
+A few days later, under the supervision of Xie Mingjin and the rest, the manufacturing of the inner-wear was completed. He Yiming bid them farewell and left.
 
