@@ -23,7 +23,7 @@ After a few hours, the sun had already inclined towards the west. However, He Yi
 He Yiming faintly bent his ear to listen. This was not a fight breaking out but sounds of a group of people gathered together.
 
 He again exerted his feet, and this time, the horse rushed forth like lightning. After a few moments, he could see a group of people setting up a camp.
-<!--more
+<!--more-->
 
 The Northwest was vast and unbounded. Although there were many countries of varying magnitudes, on the whole, the whole region was quite sparsely populated.
 
