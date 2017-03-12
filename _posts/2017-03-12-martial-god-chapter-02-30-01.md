@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 30.1"
+title: "Chapter 30.1 - The Incoming Letter"
 book:
   number: 2
   title: "Fame Spreads"
