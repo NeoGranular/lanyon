@@ -19,7 +19,8 @@ has_note:
 note: 
 ---
 The patreon for [MG](https://www.patreon.com/martialgod) is up. Moreover, the releases will be evenly distributed from Tuesday to Saturday(yes, I’ve finally done it). I’m embarrassed(don’t ask why) and somewhat thrilled(don’t judge) to say that this week’s releases will be shifted onto the next week.
-***********
+
+\*\*\*\*\*\*\*
 
 That big man gloomily looked at Yuan Earnest. Since he’d been the first to speak among their group, he naturally attracted everybody’s attention.
 
