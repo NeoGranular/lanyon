@@ -30,6 +30,8 @@ Moreover, while throwing, He Yiming had ingeniously used Jin Dao to aim at his h
 (Tl: Jin-> Energy here)
 
 Only under the combination of all these conditions had Boss Liao, an eighth layer expert, died in such a mysterious way, not understanding his death till the last moment.
-***
+
+\*\*\*\*\*\*\*
+
 Get the rest and more on [patreon](http://baike.baidu.com/view/5034250.html).
 
