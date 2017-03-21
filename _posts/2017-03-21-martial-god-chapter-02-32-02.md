@@ -21,6 +21,7 @@ note: "We've already reached the first goal of 50$ on Patreon. There will be six
 As if the time started at this instant, all the bandits simultaneously felt an intense trepidation.
 
 They were not fools, and upon witnessing this scene, even a fool could tell that the group they had encountered was anything but ordinary.
+<!--more-->
 
 Actually, Boss Liao was an eighth layer expert. Although comparing him with He Yiming and the rest would be unjust, at the very least, he shouldn’t have been crushed to death by a three hundred and sixty jin heavy chopper.
 
