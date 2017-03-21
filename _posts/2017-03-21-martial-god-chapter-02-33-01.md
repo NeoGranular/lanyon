@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 33.1"
+title: "Chapter 33.1 - Fallout Between Brothers"
 book:
   number: 2
   title: "Fame Spreads"
