@@ -18,7 +18,7 @@ is_preview: true
 has_note: 
 note: 
 ---
-hen Tong county town was a bustling city. Although it wasn’t as big as Fire Crow country’s Downwind city and it didn’t have a majestic city wall either, compared to Tai Cang county’s county town, it was uncountable folds more prosperous.
+Hen Tong county town was a bustling city. Although it wasn’t as big as Fire Crow country’s Downwind city and it didn’t have a majestic city wall either, compared to Tai Cang county’s county town, it was uncountable folds more prosperous.
 
 Since the night of the banquet, after the Yuan brothers completely ripped each other’s face apart, the relationship between their sides also dropped to the freezing point.
 
