@@ -93,7 +93,7 @@ That youngster immediately turned furious and took a big step forward, “He Yit
 
 He Yitian’s eyes sharpened. An aura far exceeding that of the former erupted.
 
-His figure arrived before the former like lightning like and issued and waved his hand, slapping him at lightning fast speed.
+His figure arrived before the former like lightning like and waved his hand, slapping him at lightning fast speed.
 
 “Pa…”
 
