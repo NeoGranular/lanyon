@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 35.1 - Gold Thief"
+title: "Chapter 35.1 - Unexpected Delight"
 book:
   number: 2
   title: "Fame Spreads"
