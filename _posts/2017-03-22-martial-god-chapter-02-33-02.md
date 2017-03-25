@@ -16,7 +16,7 @@ translator:
 proofreader: jchill071
 is_preview: false
 has_note: true
-note: "3/12"
+note: "412"
 ---
 On that evening, a big banquet was held in the Yuan family. Not only had all the core members of the young generation scattered in various regions been called back, even some of the personnels engaged in important tasks had been called back to the manor.
 
