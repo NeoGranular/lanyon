@@ -16,7 +16,7 @@ translator:
 proofreader: jchill071
 is_preview: 
 has_note: true
-note: "4/12"
+note: "5/12"
 ---
 Hen Tong county town was a bustling city. Although it wasn’t as big as Fire Crow country’s Downwind city and it didn’t have a majestic city wall either, compared to Tai Cang county’s county town, it was uncountable folds more prosperous.
 
