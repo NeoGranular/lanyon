@@ -16,7 +16,7 @@ translator:
 proofreader: jchill071
 is_preview: false
 has_note: true
-note: "6/12"
+note: "7/12"
 ---
 When He Yiming walked out into the street, his face was already completely transformed.
 
