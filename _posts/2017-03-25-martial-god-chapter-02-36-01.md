@@ -16,7 +16,7 @@ translator:
 proofreader: jchill071
 is_preview: false
 has_note: true
-note: ""Well I made a mistake in keeping count of chapters. I forgot to include the first chapter of the week in the count and only realized when one of the comments tossed a hint. This is the ninth chapter of the week"
+note: "Well I made a mistake in keeping count of chapters. I forgot to include the first chapter of the week in the count and only realized when one of the comments tossed a hint. This is the ninth chapter of the week"
 ---
 Basically all the small countries to the west of the north-western countries had sections of the mountain range that was stretched across the whole north-western region. However, apart from these sections, the regions to the north were evenly stretched grasslands for the most part.
 
