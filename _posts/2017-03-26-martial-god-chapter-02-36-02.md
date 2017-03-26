@@ -75,7 +75,7 @@ Similarly, Yuan Earnest, who had travelled together with them, was although inca
 
 As such, upon hearing He Yiming’s strange request, he unhesitatingly agreed. Furthermore, he even personally accompanied him to visit all the bedrooms of the family and allow him make his selection.
 
-If this request had been made by He Yitian, He Quanxin would have certainly declined and even reprimanded him for it immediately. However, with He Yiming, He Quanxin opted to keep his mouth his shut.
+If this request had been made by He Yitian, He Quanxin would have certainly declined and even reprimanded him for it immediately. However, with He Yiming, He Quanxin opted to keep his mouth shut.
 
 After they had entered ten bedrooms, they all understood the situation.
 
