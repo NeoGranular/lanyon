@@ -20,7 +20,7 @@ note: "11/12"
 ---
 Note: We've a big storm over here at my place. The power was cut throughout the day and has only just returned. Therefore, I won't be able to release the last chapter today. 
 
-Update : The name of He Yiming's weapon has been changed to "Reclining Moon Blade". This weapon has quite a history in China which I only recently discovered. Click this [LINK](https://www.patreon.com/martialgod) to see the picture of his sword. If you're intrested more in this, check out this [POST](https://www.patreon.com/posts/he-yimings-8552337) I made on patreon. 
+Update : The name of He Yiming's weapon has been changed to "Reclining Moon Blade". This weapon has quite a history in China which I only recently discovered. Click this [LINK](https://www.patreon.com/posts/he-yimings-8540222) to see the picture of his sword. If you're intrested more in this, check out this [POST](https://www.patreon.com/posts/he-yimings-8552337) I made on patreon. 
 
 \*\*\*\*\*\*\*
 
