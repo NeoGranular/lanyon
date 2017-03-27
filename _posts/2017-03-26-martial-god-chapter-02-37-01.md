@@ -27,6 +27,7 @@ Update : The name of He Yiming's weapon has been changed to "Reclining Moon Blad
 The successive layers of mountain peaks shrouded amidst clouds and mist exuded an enigmatic feeling.
 
 Gold Forest country was a part of Northwestern countries. Zheng Tong county town leaned towards further west, and the area outside the city was an expanse of tall mountains.
+<!--more-->
 
 He Yiming, who had already observed this terrain earlier, immediately rushed to the mountains after lifting the jadestone bed.
 
