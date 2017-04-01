@@ -1,12 +1,12 @@
 ---
-published: true
+published: flase
 layout: post
-title: "Chapter 184 - Mere Worldly Possessions Are Nothing To Worry About"
+title: "Title Witheld"
 category: zhan-xian
-previous_chapter: 183
-next_chapter: 185
+previous_chapter: 191
+next_chapter: 
 chapter:
-  number: 184
+  number: 192
 date: 2017-04-02 01:50:10 +0200
 has_note: false
 note: ""
