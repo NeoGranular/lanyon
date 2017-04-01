@@ -7,7 +7,7 @@ previous_chapter: 190
 next_chapter:192
 chapter:
   number: 191
-date: 2017-04-01 11:46:00 +0200
+date: 2017-04-02 00:01:00 +0200
 has_note: false
 note: ""
 is_sponsored: false
