@@ -14,9 +14,9 @@ date: 2017-04-01 03:15:01
 has_credits:
 translator:
 proofreader: jchill071
-is_preview: true
-has_note: 
-note: 
+is_preview: false
+has_note: true
+note: "3/9"
 ---
 The heavens and lands glimmered with the snow’s silver radiance, and the entire forest resembled a sculpture carved out of white marble.
 
