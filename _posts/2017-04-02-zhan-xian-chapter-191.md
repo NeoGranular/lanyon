@@ -18,8 +18,6 @@ editor:
 proofreader:
 is_preview: false
 ---
-
-
 “Uncle master Zhu!”
 
 Yang Chen’s goal was naturally Zhu Chentao. This hall master of Medicine Hall had always supported Yang Chen from the time he entered Pure Yang Palace. This time, it was Yang Chen’s turn to return the favour. 
