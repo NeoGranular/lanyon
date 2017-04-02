@@ -1,10 +1,10 @@
 ---
-published: false
+published: true
 layout: post
 title: "Title Witheld"
 category: zhan-xian
 previous_chapter: 191
-next_chapter: 
+next_chapter: 193
 chapter:
   number: 192
 date: 2017-04-02 01:50:10 +0200
