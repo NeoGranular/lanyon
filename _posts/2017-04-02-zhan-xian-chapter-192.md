@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-title: "Title Witheld"
+title: "(Title Witheld)"
 category: zhan-xian
 previous_chapter: 191
 next_chapter:
@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview:true
+is_preview: true
 ---
 Great master Wang Yong had already begun to refine the Qilin Horn flying sword. After returning, Gongsun Ling had also headed back to that valley to study the illusion spell. As long as she can thoroughly understand the illusion spell, with the two top grade spirit stones provided by Yang Chen, it will certainly be a life saving treasure for her. 
 
