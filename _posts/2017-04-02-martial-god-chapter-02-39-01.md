@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 39.1"
+title: "Chapter 39.1 - Arms"
 book:
   number: 2
   title: "Fame Spreads"
