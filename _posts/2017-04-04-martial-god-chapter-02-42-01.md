@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 42.1"
+title: "Chapter 42.1 - Comprehending Dao"
 book:
   number: 2
   title: "Fame Spreads"
