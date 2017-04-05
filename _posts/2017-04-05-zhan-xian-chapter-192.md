@@ -23,8 +23,8 @@ is_preview:
 During this time’s pill concocting, he would not be able to see his master much for at least ten years, therefore Yang Chen visited his master in advance to provide her with the things he had prepared.
    
 “What is this?”
-
 <!--more-->
+
 Gao Yue looked at the qiankun pouch Yang Chen had provided her but didn’t open it immediately, instead asking curiously.
   
 “For some time, disciple will go into seclusion with uncle master Zhu to concoct pills, therefore I have prepared some water attributed fruits for you in advance.”
