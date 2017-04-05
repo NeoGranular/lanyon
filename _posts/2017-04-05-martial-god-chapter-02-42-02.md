@@ -16,7 +16,7 @@ translator:
 proofreader: jchill071
 is_preview: false
 has_note: true
-note: "2/10"
+note: "2/7"
 ---
 He’d maintained a powerful strength on his arms from beginning to end. It was as if a huge grinding machine had been slowly whittling away their Internal Energy.
 
