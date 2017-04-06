@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 43.1"
+title: "Chapter 43.1 Blood Slaughterer"
 book:
   number: 2
   title: "Fame Spreads"
