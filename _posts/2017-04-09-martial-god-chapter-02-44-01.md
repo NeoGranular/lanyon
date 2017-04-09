@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 44.1"
+title: "Chapter 44.1 - Xiantian Blade Light"
 book:
   number: 2
   title: "Fame Spreads"
