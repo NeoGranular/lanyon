@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 45.1 - "
+title: "Chapter 45.1 - Lu Xinwen "
 book:
   number: 2
   title: "Fame Spreads"
