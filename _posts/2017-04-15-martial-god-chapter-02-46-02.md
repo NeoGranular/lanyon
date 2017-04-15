@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 46.2 First Confrontation "
+title: "Chapter 46.2"
 book:
   number: 2
   title: "Fame Spreads"
