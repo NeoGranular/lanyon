@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Title Witheld"
+title: "(Title Witheld)"
 category: zhan-xian
 previous_chapter: 193
 next_chapter: 
