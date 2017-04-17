@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 48.1"
+title: "Chapter 48.1 - Treasured Armguards"
 book:
   number: 2
   title: "Fame Spreads"
