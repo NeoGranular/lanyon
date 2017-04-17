@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview: 
+is_preview:  
 ---
 Presently, Yang Chen was trying to cultivate all ten attributes together. Right then, all were at the third layer of foundation stage. However, for other people, it was very strange, Yang Chen was of fire attribute, but he could still cultivate other attributes. Since his cultivation was low right now, other people didn’t care, but when his cultivation rose higher, other people would certainly start raising questions.
  
