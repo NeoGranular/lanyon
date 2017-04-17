@@ -18,7 +18,7 @@ editor:
 proofreader:
 is_preview: 
 ---
-Presently, Yang Chen was trying to cultivate all ten attributes together. RIght then, all were at the third layer of foundation stage. However, for other people, it was very strange, Yang Chen was of fire attribute, but he could still cultivate other attributes. Since his cultivation was low right now, other people didn’t care, but when his cultivation rose higher, other people would certainly start raising questions.
+Presently, Yang Chen was trying to cultivate all ten attributes together. Right then, all were at the third layer of foundation stage. However, for other people, it was very strange, Yang Chen was of fire attribute, but he could still cultivate other attributes. Since his cultivation was low right now, other people didn’t care, but when his cultivation rose higher, other people would certainly start raising questions.
  
 In terms of spirit power quality, fifth earth spirit power was the most formidable at the moment. Using True Fifth Earth Secrets as a cultivation method and fifth earth True Qi as a spirit power, the one considered nearest to origin fifth earth. Next was first wood spirit power and second wood spirit power, one was the PengLai Divine Wood spirit power while the other was Blood Phantom Vine’s spirit power.
   
