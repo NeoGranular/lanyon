@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Upgrading The Profound Spirit Furnace"
+title: "Chapter 192-Upgrading The Profound Spirit Furnace"
 category: zhan-xian
 previous_chapter: 191
 next_chapter: 193
