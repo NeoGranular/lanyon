@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview:
+is_preview: 
 ---
 Truly speaking, Yang Chen was certainly excited. He was controlling the Profound Spirit Furnace so he naturally knew that the Black Tiger Suppressing Elixir had been successfully refined. But this moment, he had spied an opportunity of good fortune so he immediately summoned the Nanming Fire to begin a second refining without hesitation.
 
