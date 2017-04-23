@@ -7,7 +7,7 @@ previous_chapter: 196
 next_chapter: 
 chapter:
   number: 197
-date: 2017-04-23 12:30:10 +0200
+date: 2017-04-23 12:32:10 +0200
 has_note: false
 note: ""
 is_sponsored: false
