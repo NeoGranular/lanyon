@@ -23,7 +23,7 @@ Fan Vastsun suddenly raised his head and looked at He Quanxin with an completely
 Everybody who saw such a deeply hateful expression, felt a bit strange and could tell at a glance that the remaining half of this person’s life would pass in the shadow of revenge.
 
 He Quanxin shuddered. Even with his present tenth layer cultivation base, he couldn’t help but feel a chill hitting him in the face.
-
+<!--more-->
  
 “This is my Xiao uncles’ armguards. Where did you get them from?” Fan Vastsun gnashed his teeth and asked.
 
