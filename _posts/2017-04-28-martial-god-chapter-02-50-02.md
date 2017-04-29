@@ -29,7 +29,7 @@ Earth-type Prostrate Imprint, and water-type [Soaring Rain Cloud] technique.
 
 The weight of earth, and softness of water were actually being displayed by his body at the same time, moreover being accomplished with such beauty. At this moment, Lu Xinwen even felt a kind of sincere admiration.
 
-However, Lu Xinwen was after all a five hundred year old Xiantian cultivator who had fought countless big and small battles throughout his life. At this crucial moment, he sucked in a deep breath and made his decision.
+However, Lu Xinwen was after all a hundred year old Xiantian cultivator who had fought countless big and small battles throughout his life. At this crucial moment, he sucked in a deep breath and made his decision.
 
 Since he knew he couldn’t dodge, he completely gave up on doing so. Pushing the Xiantian True Qi inside his body to the peak, he issued three palm strikes in succession.
 
