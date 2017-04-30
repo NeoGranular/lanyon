@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 51.1 - Eldest Brother's Distress "
+title: "Chapter 51.1 - Xiantian Gold Core "
 book:
   number: 2
   title: "Fame Spreads"
