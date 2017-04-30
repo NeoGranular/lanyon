@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 60.1 "
+title: "Chapter 51.1 - Eldest Brother's Distress "
 book:
   number: 2
   title: "Fame Spreads"
