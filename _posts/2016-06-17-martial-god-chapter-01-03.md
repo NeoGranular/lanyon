@@ -159,4 +159,4 @@ He Quanxi nodded once. Subsequently, while leaving in the direction in which Yit
 
 While looking at his third uncle's retreating figure, Yiming raised his head towards the sky and eventually let out a helpless sigh. He hadn't expected that his father and uncles would have a special discussion on his problems. It seemed like preserving his own opinion was no longer possible.
 
-[^1]: Bamboo shoot meat slice is a Chinese dish. Check out [this link](http://baike.baidu.com/view/5034250.html) for pictures.
+[^1]: Bamboo shoot meat slice is a Chinese dish, literally. Check out [this link](http://baike.baidu.com/view/5034250.html) for pictures. Figuratively, it means a spanking.
