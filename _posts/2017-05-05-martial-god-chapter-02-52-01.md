@@ -99,6 +99,6 @@ With a turn, he arrived outside that mountainous depression. Currently, Fan Vast
 
 He softly sighed and folded his arms over each other.
 
-His sigh didn’t issue any sound, but Fan Vastsun, who was digging the grave, as if having felt some anonymity, suddenly stopped. His body seemed to have turned rigid before he slowly turned around.
+His sigh didn’t issue any sound, but Fan Vastsun, who was digging the grave, as if having felt some anomaly, suddenly stopped. His body seemed to have turned rigid before he slowly turned around.
 
 When he saw He Yiming outside the depression, his face, which had been originally flushed due to being aroused, completely lost all color.
