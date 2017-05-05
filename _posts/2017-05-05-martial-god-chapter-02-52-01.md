@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 52.1 - "
+title: "Chapter 52.1 - Strangling "
 book:
   number: 2
   title: "Fame Spreads"
@@ -14,7 +14,7 @@ date: 2017-05-05 03:15:01
 has_credits:
 translator:
 proofreader: jchill071
-is_preview: true
+is_preview: false
 has_note: 
 note: 
 ---
