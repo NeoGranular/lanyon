@@ -15,8 +15,8 @@ has_credits:
 translator:
 proofreader: jchill071
 is_preview: false
-has_note: 
-note: 
+has_note: true
+note: "2/7"
 ---
 A gentle breeze blew across, and He Yiming, along with Reclining Moon Blade, seemingly weightless, drifted along with this wind.
 
