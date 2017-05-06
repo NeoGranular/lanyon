@@ -4,12 +4,12 @@ layout: post
 title: "Chapter 197- Suspicious Cheng Wencai "
 category: zhan-xian
 previous_chapter: 196
-next_chapter: 198
+next_chapter: 
 chapter:
   number: 197
 date: 2017-05-06 10:15:10 +0200
-has_note: false
-note: ""
+has_note: true
+note: "Hey, its been too long without a chapter. Though I usually don't write any notes but this time it is necessary for you all to know what's been going on. Actually, presently I don't have any editor working with me so that would account to the lateness my usual editor is having some real life problems and I have tried to find someone but have been unable to do so. If any of you want to help than you can contact me through the contact page on the site."
 is_sponsored: false
 sponsors: []
 has_credits: false
