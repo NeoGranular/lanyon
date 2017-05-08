@@ -16,7 +16,7 @@ translator:
 proofreader: jchill071
 is_preview: false
 has_note: true
-note: "7/7"
+note: "7/7. No teaser this time."
 ---
 In the Yuan family, the Lord Master’s residence was inside a secluded courtyard towards the west.
 
