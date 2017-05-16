@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 197- Suspicious Cheng Wencai "
 category: zhan-xian
 previous_chapter: 196
-next_chapter: 
+next_chapter: 198
 chapter:
   number: 197
 date: 2017-05-06 10:40:10 +0200
