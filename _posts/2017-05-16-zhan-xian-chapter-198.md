@@ -7,7 +7,7 @@ previous_chapter: 197
 next_chapter: 
 chapter:
   number: 199
-date: 2017-05-16 14:30:10 +0200
+date: 2017-05-16 14:55:10 +0200
 has_note: true
 note: "So I have another good editor now, thanks for all your support guys. I really hadn't expected so many people would contact me for editing."
 is_sponsored: false
