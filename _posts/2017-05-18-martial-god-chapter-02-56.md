@@ -208,7 +208,7 @@ At this moment, He Quanxin and He Yitian had more of an understanding about the 
 
 He Quanxin stood up and said, “Let’s go out and take a look.”
 
-The two brothers simultaneously sounded their agreements. This issue had aroused in their backyard. If they still pretended to be oblivious to it, that would be simply inexcusable.
+The two brothers simultaneously sounded their agreements. This issue had aroused due to the backyard. If they still pretended to be oblivious to it, that would be simply inexcusable.
 
 As He Yiming was about to leave the courtyard, his gaze lingered on the side building for a moment.
 
