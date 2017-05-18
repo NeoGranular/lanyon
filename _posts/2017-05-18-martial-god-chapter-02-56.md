@@ -2,7 +2,7 @@
 published: true
 layout: post
 has_book: true
-title: "Chapter 56"
+title: "Chapter 56 - Night Conversation"
 book:
   number: 2
   title: "Fame Spreads"
@@ -25,6 +25,7 @@ Sparrows flew across, white clouds undergoing countless transformations drifted 
 Several days had passed since they left Yuan family.
 
 When they had arrived, it was close to Chinese new year. In order to rescue Yuan family, they rushed to the Yuan residence, madly steering their horses. By the time they reached it, seven of the horses had already given up.
+<!--more-->
 
 Currently, it was already the third month of spring. They had to spend two whole months in Yuan family to tidy up everything.
 
