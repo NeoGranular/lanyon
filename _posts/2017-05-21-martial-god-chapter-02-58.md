@@ -8,8 +8,8 @@ book:
   title: "Fame Spreads"
 category: martial-god
 #chapter no. format: bb-cc bb=book cc=chapter. Example: 01-01 (book 1, chapter 1)
-previous_chapter: 02-55
-next_chapter: 02-57
+previous_chapter: 02-57
+next_chapter: 02-59
 date: 2017-05-21 03:15:01 
 has_credits:
 translator:
