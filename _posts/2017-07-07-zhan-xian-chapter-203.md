@@ -3,10 +3,10 @@ published: true
 layout: post
 title: "Chapter 203- (Title Witheld)"
 category: zhan-xian
-previous_chapter: 201
+previous_chapter: 202
 next_chapter: 
 chapter:
-  number: 202
+  number: 203
 date: 2017-07-07 01:04:20 +0200
 has_note: false
 note: ""
