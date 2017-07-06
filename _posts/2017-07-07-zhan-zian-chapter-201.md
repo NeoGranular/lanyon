@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview: True
+is_preview: 
 ---
 The people of the Second Fierce Yang Courtyard were very fortunate. Not only did they get to cultivate in the best environment, but now they also had the opportunity to experience and observe the lightening tribulation of a JieDan expert who had formed his Ying. This was basically getting educated through observation, What learning opportunity could be better compared to this?
   
