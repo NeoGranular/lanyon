@@ -7,7 +7,7 @@ previous_chapter: 200
 next_chapter: 202
 chapter:
   number: 201
-date: 2017-07-07 23:55:20 +0200
+date: 2017-07-06 00:00:20 +0200
 has_note: false
 note: ""
 is_sponsored: false
@@ -23,7 +23,8 @@ The people of the Second Fierce Yang Courtyard were very fortunate. Not only did
  As for the part of Second Fierce Yang Courtyard which had been destroyed, there was nothing to worry about. Only Yang Chen, Gao Yue, some of Yang Chen’s senior apprentice brothers, and their servants had participated in the construction of the initial Second Fierce Yang Courtyard. Presently, Palace Master Zhong Jiao simply waved his hand and assigned the sect’s builders, using natural resources, to repair the entire courtyard properly. Compared to initial one, the courtyard this time will be constructed more spectacularly. 
   
 All the elders were happy, Palace Master Zhong Jiao was also happy, and all the other disciples were happy. Under such extreme happiness, Palace Master Zhong Jiao decided to celebrate Hall Master Zhu becoming a YuanYing stage expert by giving every disciple an additional allotment of their monthly elixir allowance, regardless if they were an inner or outer sect disciple. 
- 
+<!--more-->
+
 Once the information began to spread, a great celebration began in Pure Yang Palace. Everyone realized the benefits of an increase in the number of YuanYing stage experts, especially the addition of a YuanYing stage pill concocting expert. This also implied that, in the future, even more higher grade elixirs could be provided to the disciples of the Pure Yang Palace. 
    
 Even in this celebratory atmosphere, there were a  few unhappy people. The gloomiest among them was Song Hang! He was also at the peak of the JieDan stage and was also confronting a bottleneck. Zhu Chentao had gained enlightenment from Yang Chen and stepped into the YuanYing stage without any warning. Moreover, Song Hang felt even more despair thinking that Yang Chen knew the way of crossing the bottleneck, but he wouldn’t tell him no matter what. There was great hatred between both sides, so how could the good fortune of these others not make Song Hang extremely depressed?
