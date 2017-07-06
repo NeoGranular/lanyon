@@ -7,7 +7,7 @@ previous_chapter: 201
 next_chapter: 
 chapter:
   number: 202
-date: 2017-07-07 01:30:32 +0200
+date: 2017-07-06 23:30:32 +0200
 has_note: false
 note: ""
 is_sponsored: false
