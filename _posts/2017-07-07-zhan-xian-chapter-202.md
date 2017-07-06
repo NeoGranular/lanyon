@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview: True
+is_preview: 
 ---
 Yang Chen didn’t listen to Shangguan Feng’s proposal and went to his master’s place first. Upon seeing his master again, he was happy. 
    
