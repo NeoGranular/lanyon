@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: "Chapter 201-Black tiger’s injury is cured"
+title: "Chapter 201-Black Tiger’s Injury Is Cured"
 category: zhan-xian
 previous_chapter: 200
 next_chapter: 202
