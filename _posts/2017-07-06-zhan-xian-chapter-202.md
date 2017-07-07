@@ -25,6 +25,7 @@ Gao Yue had already reached foundation stage in water attributed cultivation. Th
 Even Gongsun Ling who was known as a cultivation genius inside the sect and  had a nearly full earth attributed spirit root, had taken a full ten years to reach foundation stage from qi layer. But Gao Yue knew very well that she clearly had fire attribute spirit root, so how could she cultivate water attributed cultivation methods so quickly?
    
 “why is it like this?”
+<!--more-->
 
 Gao Yue, who had already reached second layer of foundation stage, asked Yang Chen, feeling very confused. Since Yang Chen had been insisting from the beginning for her to cultivate water attributed cultivation methods, so he must most probably know the reason. 
 
