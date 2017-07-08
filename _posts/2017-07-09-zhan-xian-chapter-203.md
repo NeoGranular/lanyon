@@ -23,6 +23,7 @@ Both sides were completely satisfied, especially Scarface. After receiving the f
 Of the two, Yang Chen was the happiest. Who would have thought there would be such a coincidental opportunity? That he would surprisingly obtain something he had yearned for day and night, the Seventh Metal True Qi, was certainly an unexpected surprise. With the Seventh Metal True Qi, Yang Chen’s Seventh Metal True Secrets would certainly transform his seventh metal spirit power to the purest seventh metal true qi. His Great Yin and Yang secrets would advance by one more step. 
    
 “Senior, remaining alone isn’t always convenient, is it?”
+<!--more-->
 
  While everyone was at last stage of discussion, Yang Chen suddenly asked. 
   
