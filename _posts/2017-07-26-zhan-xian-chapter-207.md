@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview: 
+is_preview: true
 ---
 Yazi, Dragon King’s second son, with a body of dragon and head of a dog, upright and resolute in nature, excellent warrior, fond of war and would always be holding a sword in his mouth and use it to increase his strength.
 
