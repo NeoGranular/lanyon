@@ -213,4 +213,4 @@ However, this blood vessel wasn’t clear, but Heavenly Roar had already started
 Yazi was one of the nine sons of the Dragon King. Yang Chen hadn’t even thought of meeting him in the mortal world. Perhaps, after Heavenly Roar’s blood vessels had been properly awakened, Yang Chen could think about going to the Dragon King’s Palace and collecting the other magic weapons. Previously, he could only collect the Flying Shuttle so there must be many remaining.
  
 However, it was unclear whether the dragon qi on this Yazi’s body would allow Yang Chen to collect all the magic weapons concealed inside the Dragon Palace. If he really could, then it would awesome as that was a genuine daoist immortal abode.
-out the maturity of these rare herbs. Greatly astonished, she didn’t expect to see Yang Chen being so generous and sighed.
+
