@@ -8,7 +8,7 @@ next_chapter: 208
 chapter:
   number: 207
 date: 2017-07-27 18:15:23 +0200
-has_note: false
+has_note: true
 note: "Thanks to a nice suggestion from last chapter, I am changing blood vessels to bloodline"
 is_sponsored: false
 sponsors: []
