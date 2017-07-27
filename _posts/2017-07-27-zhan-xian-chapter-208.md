@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview: 
+is_preview: True
 --- 
 Yang Chen had reaped great harvests on this trip to Meng Qi mountain. But apart from the legendary herbs in the hidden valley, everything else was under Yang Chen's expectation.
 
