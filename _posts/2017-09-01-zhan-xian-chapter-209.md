@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview:true
+is_preview: true
 ---
 Apparently Sun Qingxue had only come this time to express his feelings towards Yang Chen. She also wanted to fight with Fairy Shi who had shown her kindness previously, to become dao companion, feeling weak in her heart, she decided to wait for Yang Chen. Although she couldn’t obtain any clear answer from Yang Chen, but still feeling relieved she returned back to her sect saying that she is returning to concentrate on cultivation. 
 
