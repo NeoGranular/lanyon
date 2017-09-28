@@ -7,7 +7,7 @@ previous_chapter: 215
 next_chapter: 217
 chapter:
   number: 216
-date: 2017-07-08 10:30:32 +0200
+date: 2017-09-28 10:30:32 +0200
 has_note: false
 note: ""
 is_sponsored: false
