@@ -24,7 +24,7 @@ When Yang Chen was just about to reply, Liang Shaoming interrupted him, as every
 “The heart questioning pill refined by Yang Chen, will they belong to Yang Chen or to the sect?”
 
 “The ingredients are provided by Yang Chen, the refining is done by Yang Chen, so naturally, the pills will belong to Yang Chen.”
-<!--more>
+<!--more-->
 
 Zhu Chentao shot a glance towards Yang Chen and confusingly asked:
 
