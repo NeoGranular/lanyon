@@ -9,7 +9,7 @@ chapter:
   number: 213
 date: 2016-09-28 04:35:00 +0200
 has_note: false
-note: ""
+note: "aa"
 is_sponsored: false
 sponsors: []
 has_credits: false
