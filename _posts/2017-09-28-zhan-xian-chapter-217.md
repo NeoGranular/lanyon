@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 217- Another Small Shock"
 category: zhan-xian
 previous_chapter: 216
-next_chapter: 
+next_chapter: 218
 chapter:
   number: 217
 date: 2017-09-28 10:45:30 +0200
