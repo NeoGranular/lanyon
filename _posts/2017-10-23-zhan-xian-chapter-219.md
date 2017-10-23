@@ -7,7 +7,7 @@ previous_chapter: 218
 next_chapter: 220
 chapter:
   number: 219
-date: 2017-10-23 17:30:23 +0200
+date: 2017-10-23 17:47:23 +0200
 has_note: false
 note: ""
 is_sponsored: false
