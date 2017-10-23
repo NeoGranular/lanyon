@@ -7,7 +7,7 @@ previous_chapter: 218
 next_chapter: 220
 chapter:
   number: 219
-date: 2017-10-23 17:00:32 +0200
+date: 2017-10-23 17:10:32 +0200
 has_note: false
 note: ""
 is_sponsored: false
@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview:
+is_preview: 
 ---
 Naturally, at this moment, Yang Chen a foundation stage disciple that was going to travel, but if he had to go alone, then that would really be excessively careless. Therefore, two people were appointed to accompany Yang Chen. One was She Kui, and the other was Xie Sha.
 
