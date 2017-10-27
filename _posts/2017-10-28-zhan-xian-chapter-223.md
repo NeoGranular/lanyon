@@ -7,7 +7,7 @@ previous_chapter: 222
 next_chapter: 224 
 chapter:
   number: 223
-date: 2017-10-27 23:55:32 +0200
+date: 2017-10-28 00:10:32 +0200
 has_note: false
 note: ""
 is_sponsored: false
@@ -43,7 +43,9 @@ Next, everyone began to look as if Yang Chen was performing some magical trick, 
 
 By this time, the group of people from Pure Yang Palace were already dumbstruck, they didn’t know that Yang Chen had successfully cultivated a thunder pomegranate tree, they seemed to have turned into stone and couldn’t breath. 
 
-When he had returned from Heavenly Stairs, Chu Heng made fun of Yang Chen about his words over thunder pomegranate, wanting to use the opportunity to punish Yang Chen, but the matter was left unsettled. But now, seeing his actions, everyone understood what Yang Chen had done that time. 
+When he had returned from Heavenly Stairs, Chu Heng made fun of Yang Chen about his words over thunder pomegranate, wanting to use the opportunity to punish Yang Chen, but the matter was left unsettled. But now, seeing his actions, everyone understood what Yang Chen had done that time. [^1]
+
+[^1]: [http://weletranslation.com/zhan-xian/zhan-xian-chapter-49.html](http://weletranslation.com/zhan-xian/zhan-xian-chapter-49.html)
 
 By now, Yang Chen had casually taken out 200 thunder pomegranates, wouldn’t that mean he had successfully cultivated more than ten trees of thunder pomegranate? How many seeds does one thunder pomegranate has inside it? How many thunder pomegranates had Yang Chen successfully cultivated? 
 
