@@ -65,7 +65,6 @@ Within a blink, Yang Chen had used 100 more thunder pomegranates, raising the to
 
 After absorbing lightning until they were full, the appearance of thunder pomegranates changed. They didn’t have that sort of red colour from before, rather, they had turned black red with indistinct flickers. 
 
-
 His hand again flashed, these two full thunder pomegranates seem to disappear within his hand, soon after, two more red coloured thunder pomegranates immediately appeared in his hand and were again thrown inside spell like before, replacing the two fruits which had been replaced recently. 
 
 Next, this cycle continued. Every time, Yang Chen would remove two thunder pomegranates and afterwards replace it with two new thunder pomegranates. 
@@ -82,7 +81,6 @@ Immediately someone who had studied about thunder pomegranates explained.
 
 Hearing this explanation, everyone didn’t know what to think. Yang Chen, this youngster’s mind was hard to fathom, making these old men feel inferior. 
 
-    谁能想到，让人闻之色变的七星天雷阵，竟然还能够有这般的用途？要是被布阵的家伙知道，自己辛苦了百年布置的七星天雷阵，又在这里自然的存在了上千年，吸收了无数雷电之力的阵法，竟然是别人用来祭炼法宝的炉子时，相信他的面孔绝不会有多好看。
 Who could have thought that the Seven Star Godly Thunder Spell which could strike fear in anyone’s heart could surprisingly be used like this? If the person who had deployed the spell formation knew that the Seven Star Godly Thunder Spell which he had deployed after a century’s hard work, which had existed for thousand years absorbing countless amount of lightning energy, would surprisingly be used by someone to refine their magic weapon, he would be rolling about in his grave.
 
 “That’s odd!”
@@ -92,7 +90,6 @@ After Yang Chen had replaced the thunder pomegranates for the fourth time, the e
 “The thunder pomegranates he is holding now, its maturity far exceeds those he had used earlier.”
 
 If he had sufficiently matured thunder pomegranates why did he bother with those unripe fruits earlier? Everyone again felt a wave of confusion hitting them, no one could answer this question. However, no one troubled Yang Chen, moreover, everyone turned their gaze towards the earlier expert at the same time as if agreeing by chance, waiting for him to provide some explanation. 
-
 
 That person carefully observed everything for a while, when suddenly an astonished look appeared on his face, as if he had thought of something unfathomable. 
 
