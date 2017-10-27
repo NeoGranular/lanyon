@@ -25,6 +25,7 @@ When old tree demon Gui Shanyou passed by Yang chen, Yang Chen smiled and remind
 The corpse of Dacheng experts could be considered as the best tonic for the delicate Blood Phantom Vine in Yang Chen’s clean bottle Medicine Garden. Nothing could be done about it, after all, it was still alive after great damage to a major portion of the master root and master vine, which could already be said to be an enormous fortune. It certainly couldn’t be restored without proper care for several hundred years. 
 
 With the path to enter the villa opened, the group of experts stormed in. Now Yang Chen didn’t need to be worried about being discovered by people and could brazenly absorb the lighting power of Seven Star Godly Thunder Spell. 
+<!--more-->
 
 This time was completely different from before when he was trying to sneak in. At that time, Yang Chen had carefully control the direction of the 500 thunder pomegranates according to the requirement of spirit power to be absorbed to create the path. But now, he didn’t have to worry about it and could release his control over those fruits allowing them to brazenly absorb.
 
