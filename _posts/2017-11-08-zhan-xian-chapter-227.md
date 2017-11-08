@@ -1,13 +1,13 @@
 ---
 published: true
 layout: post
-title: "Chapter 227 - Master Will Make The Decision For You"
+title: "Chapter 227- Master Will Make The Decision For You"
 category: zhan-xian
 previous_chapter: 226
-next_chapter: 228 
+next_chapter: 228
 chapter:
   number: 227
-date: 2017-11-08 14:09:32 +0200
+date: 2017-11-08 14:20:32 +0200
 has_note: false
 note: ""
 is_sponsored: false
