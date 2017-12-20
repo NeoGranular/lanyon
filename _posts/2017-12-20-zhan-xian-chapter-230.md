@@ -7,7 +7,7 @@ previous_chapter: 229
 next_chapter: 231
 chapter:
   number: 230
-date: 2017-12-20 05:49:32 +0200
+date: 2017-12-20 05:16:32 +0200
 has_note: false
 note: ""
 is_sponsored: false
