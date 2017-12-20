@@ -23,6 +23,7 @@ QingQiong Mountain was located on a gigantic island, but there weren’t many gr
 Yang Chen landed his Flying Shuttle, and everyone stepped on the island looking at each other in dismay. Although watching the majestic ocean surging with great waves every day had broadened their horizons, stepping on the land again after one whole month was much more delightful. However, their excitement soon turned to confusion. 
 
 “Here? There are demon beasts here?”
+<!--more-->
 
 She Kui didn’t believe that there could be demon beasts here. He even flew around the whole island once and asked Yang Chen with surprise.
 
