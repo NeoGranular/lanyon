@@ -23,6 +23,7 @@ Before he fed the blood of Heavenly Roar Dog to his Heavenly Roar last time, he 
 During the previous time, Yang Chen had fed the complete remaining blood essence of Heavenly Roar Dog to him. After continuously feeding it little by little many time, its body had adapted to the blood essence and his body had already began to transform into that of a dragon. 
 
 After feeding it the blood essence this time, the final result was about to appear. Whether the bloodline of Yazi had been completely aroused or whether only a part of it had been aroused, it would be seen after Heavenly Roar woke up. 
+<!--more-->
 
 The abnormal change in the spirit energy as well as the main location where it was happening being the the blood cacoon of the Heavenly Roar, there was no question about it. Certainly, the final transformation process had been completed. 
 
