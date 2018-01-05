@@ -7,7 +7,7 @@ previous_chapter: 231
 next_chapter: 233
 chapter:
   number: 232
-date: 2017-01-05 10:51:32 +0200
+date: 2018-01-05 10:53:32 +0200
 has_note: true
 note: "Happy new year."
 is_sponsored: false
