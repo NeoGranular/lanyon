@@ -1,15 +1,15 @@
 ---
-published: false
+published: true
 layout: post
-title: "Chapter 229- Unexpected Surprise"
+title: "Chapter 232- Arousal Of Bloodlines Complete"
 category: zhan-xian
-previous_chapter: 228
-next_chapter: 230
+previous_chapter: 231
+next_chapter: 233
 chapter:
-  number: 229
-date: 2017-12-20 02:15:32 +0200
-has_note: false
-note: ""
+  number: 232
+date: 2017-01-05 10:51:32 +0200
+has_note: true
+note: "Happy new year."
 is_sponsored: false
 sponsors: []
 has_credits: false
