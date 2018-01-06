@@ -7,7 +7,7 @@ previous_chapter: 232
 next_chapter: 
 chapter:
   number: 233
-date: 2018-01-06 07:28:32 +0200
+date: 2018-01-06 07:42:32 +0200
 has_note: false
 note: ""
 is_sponsored: false
