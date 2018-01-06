@@ -16,7 +16,7 @@ has_credits: false
 translator:
 editor:
 proofreader:
-is_preview: true
+is_preview: 
 ---
 The smile on Yang Chen’s face wasn’t hidden from everyone. All of them stopped what they were doing and looked at Yang Chen. Senior apprentice sister Gongsun Ling even asked immediately:
 
