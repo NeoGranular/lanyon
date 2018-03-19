@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 233- Another Challenge"
 category: zhan-xian
 previous_chapter: 232
-next_chapter: 
+next_chapter: 234
 chapter:
   number: 233
 date: 2018-01-06 07:42:32 +0200
