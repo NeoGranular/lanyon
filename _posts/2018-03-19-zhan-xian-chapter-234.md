@@ -25,6 +25,7 @@ Upon hearing those words, the surrounding cultivators looked at their companion 
 “This life and death I’ve challenge you to will settle who is most suitable for Fairy Shi!”
 
 With the gazes of the surrounding cultivators on him, that companion stood tall and puffed up his chest, as if showing that he wasn’t afraid of dying. 
+<!--more-->
 
 “There are no grievances or hatred between us. Why must you declare a deathmatch?”
 
