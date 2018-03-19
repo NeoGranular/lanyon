@@ -4,7 +4,7 @@ layout: post
 title: "Chapter 234- No One Can Save A Person Who Is Courting Death"
 category: zhan-xian
 previous_chapter: 233
-next_chapter: 
+next_chapter: 235
 chapter:
   number: 234
 date: 2018-03-19 15:15:32 +0200
