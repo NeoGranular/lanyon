@@ -168,4 +168,4 @@ However, it was already impossible for them to know the answer. After being capt
 
 Pointless challenge, meaningless deaths, Yang Chen didn’t knew how to evaluate these people. However, until the day he settles Shi Shanshan’s affair, these kind of events will continue to happen. Who asked Shi Shanshan to allow her name to shock the entire world, causing countless people to desire to be her dao companion?
   
-What made Yang Chen most suspicious was the fact that he had barely shown himself and he was immediately found by these people. Yang Chen definitely wouldn’t believe that this was a coincidence, and these people randomly showed up here. Could there be someone waiting for Yang Chen to appear at the MeiQing Mountain? 
+What made Yang Chen most suspicious was the fact that he had barely shown himself and he was immediately found by these people. Yang Chen definitely wouldn’t believe there was no conspiracy going on here and these people who had no worries in their lives, were simply waiting all the time for Yang Chen to appear at the MeiQing Mountain?
