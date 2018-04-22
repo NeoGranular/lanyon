@@ -71,7 +71,7 @@ It has to be said, the clean bottle itself was sufficiently formidable. After Ya
 
 This also lead to another result. That speed of refining became faster and faster. The refining which should’ve at least required two months by Yang Chen was completed in a short 20 hours under such circumstances. With the clean bottle successfully reaching the second layer of the Heavenly Stars Treasure Refining Secrets. 
 
-The genuine transformation happened when Li Yunmu used the Earth Fiend Sacrificial Formation Secrets to refine the clean bottle. Same as the Heavenly Stars Treasure Refining Secrets, when the refining began, the clean bottle began to crazily absorb the lightning energy. The lightning energy which had been accumulating for thousands of years, helped the clean bottle succeed and within a short few hours, the first layer refining of Earth Fiend Sacrificial Formation Secrets was completed. 
+The genuine transformation happened when Yang Chen used the Earth Fiend Sacrificial Formation Secrets to refine the clean bottle. Same as the Heavenly Stars Treasure Refining Secrets, when the refining began, the clean bottle began to crazily absorb the lightning energy. The lightning energy which had been accumulating for thousands of years, helped the clean bottle succeed and within a short few hours, the first layer refining of Earth Fiend Sacrificial Formation Secrets was completed. 
 
 After both the Heavenly Stars and Earth Fiend had been completed, a notable transformation occurred within the clean bottle. Not only had the space inside Medicine Garden increased greatly, even those herbs which belonged to the first wood attribute had their maturity increased by several decades.  
 
