@@ -25,6 +25,7 @@ When they heard Yang Chen's words, all the elders present jumped. Was he kidding
 Gao Yue and Gong Sunling just heard about the name of the Ask Inner Heart Pill, but they didn’t really see the Ask Inner Heart Pill before they took it, and they heard only some of the scraps that were occasionally heard. Even so, they heard It was also shocking.
 
 However, the reaction of the two women was not half as exaggerated as of any elder who was currently present. Hearing the name, Two Revolutions Ask Inner Heart Pill, no one could sit still.
+<!--more-->
 
 The Ask Inner Heart Pill, could make a great Dacheng realm master break through the mid stage bottleneck and now there was this Two Revolutions version. Now everyone understood why Yang Chen would use the talisman to firmly wrap these medicinal pills. This level of medicinal pill, if not so preserved was simply a crime.
 
