@@ -1,19 +1,19 @@
 ---
 published: true
 layout: post
-title: "Chapter 276.2"
+title: "Going Out"
 category: zhan-xian
 previous_chapter: 
 next_chapter: 
 chapter:
   number: 276.2
-date: 2018-10-22 01:00:32 +0200
+date: 2018-10-04 01:01:32 +0200
 has_note: false
 note: ""
 is_sponsored: false
 sponsors: []
 has_credits: false
-translator: Don Stagy
+translator:Don Stagy
 editor:Skizlock
 proofreader:
 is_preview: 
