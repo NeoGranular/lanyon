@@ -13,8 +13,8 @@ note: ""
 is_sponsored: false
 sponsors: []
 has_credits: false
-translator:DonStagy
-editor:Skizlock
+translator: 
+editor: 
 proofreader:
 is_preview: 
 ---
