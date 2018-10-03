@@ -8,8 +8,8 @@ next_chapter:
 chapter:
   number: 276.2
 date: 2018-10-04 01:03:32 +0200
-has_note: false
-note: ""
+has_note: true
+note: "Translator- Donstagy Editor- Skizlock"
 is_sponsored: false
 sponsors: []
 has_credits: false
